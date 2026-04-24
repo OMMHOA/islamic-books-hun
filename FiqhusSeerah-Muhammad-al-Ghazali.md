@@ -1,0 +1,74 @@
+# Első fejezet
+# Üzenet és egy vezető
+
+## A pogányság uralta az ókori civilizációkat
+
+Az emberiség történelme szomorú. Amióta Ádám (عليه السلام) és gyermekei leszálltak a földre, s az idő múlásával civilizációk virágoztak és generációk emelkedtek mások romjain – az emberek tarka keveréket alkottak. Ha egy nap jó úton járnak, nem sokkal később napokra eltévelyednek; ha egyszer megpillantják az igazság fényét, a hazugság sötétsége sokszorosan visszaborítja őket. Ha az emberiség történelmét Allah (ﷻ) iránti hit és a túlvilágra való felkészülés szemszögéből vizsgálnánk, a világot egy részeghez találnánk hasonlónak – akinek a részegség időszakai messze meghaladják a józanságát –, vagy egy lázban égő beteghez, aki nem tudja, mit mond.
+
+Bár az emberek önmagukkal és a világgal szerzett tapasztalataik alapján számos visszatartóval rendelkeznek a rossz ellen és ösztönzővel a jóra, a tomboló szenvedélyt pusztán tudással nem lehet megzabolázni.
+
+A világ életéből mennyi telt el Muhammad (ﷺ) megjelenése előtt? Sok évszázad hozta magával a tapasztalatok és a tudás gazdagságát, s ösztönözte a művészetek, tudományok, bölcseletek és eszmék kibontakozását. Mindezek ellenére a könnyelműség lett az úr, és sok nép elbukott anélkül, hogy elérte volna azt a méltóságot, amelyre vágyott.
+
+Nézzük Egyiptom és Görögország, India és Kína, Perzsia és Róma civilizációinak sorsát – nem politikai szempontból, hanem az érzések és az értelem oldaláról. A megvetendő pogányság pusztította szét őket, és taszította őket ebbe a nyomorúságos gödörbe. Az ember, akit Allah (ﷻ) a mennyek és a föld legfőbb helytartójává nevezett ki, rabszolgává lett, az e helyeken fellelhető leghitványabb dolgok alárendeltjévé. Mi más következhetett volna abból, hogy teheneket és borjúkat szenteltek meg, fát és köveket imádtak? Egész népek fertőződtek meg ilyen ferdeségekkel. A pogányság belülről fakad, nem a környezetből. Ahogyan a szomorú ember saját érzéseit vetíti a világára, és a rémült ember tárgyakban kísérteteket lát – éppen úgy a torz személyiségek is butaságukat és meddőségüket alkalmazzák a környezetükre, s köveket és állatokat istenítnek.
+
+Ezek a pogány benyomások csak akkor tűnnek el maguktól, ha a szűkös szív kitágul, a szunnyadó értelem felébred, és az emberek visszatalálnak magasztos eszményeikhez. Ezért a hit első munkája magukban a férfiakban és nőkben végzendő el: mert mit ér a pogányság elleni harc, ha csupán a szent teheneket vágjuk le és a büszke bálványokat zúzzuk szét – miközben a szívek megmaradnak korábbi sötétségükben? Az imádók csupán más istenek után néznek, akik előtt meghajolhatnak és áldozatot mutathatnak be. Sok pogány él ebben a világban, jóllehet soha nem találkoztak oltár előtt – és mily könnyen feledkeznek meg Uruk valódi jelenlétéről, hogy valami új ábránd után szaladjanak.
+
+A babona nem azzal vonul végig az életen, hogy hamisságát hirdeti és ostobaságát leleplezi. Komolyság köntösével fedi be szégyentelenségét. Kölcsönzi az igazság elfogadott öltözékét, sőt átveheti annak egyes előfeltevéseit és következtetéseit is, mielőtt feldíszítené magát az együgyűek előtt. Így cselekszik a pogányság. Az igaz vallást és annak nyilvánvaló valóságait nem úgy támadja, ahogyan a méh ostromolja a tavaszi virágokat, hanem ahogyan a férgek bontják és pusztítják a termékeny talajt – vagy ahogyan a sáskák törnek a dúsabb kertekre, és kopár pusztasággá változtatják azokat. Ha megrontja, amit hátrahagy, akkor azt sem javítja meg, amit elvesz; s ami jó volt, mielőtt a kezébe kerül, méreggé változik a gyomrában. Ez a titka annak, hogy a pogányság – jóllehet nem ismeri Allahot (ﷻ) – azt állítja magáról, hogy közeledni kíván Hozzá, és bálványain keresztül keresi tetszését: egy adag igazság a hamisság adagjaiban, olyan összefüggésben, amely határozottan eltávolítja az embereket Allahtól (ﷻ) és kizárja őket Allah jelenlétéből.
+
+A legnagyobb csapás, amely a vallásokat a pogány roham következtében érte, az Ísza (Jézus), Maryam (Mária) fiának vallásán esett szörnyű változásokban öltött testet. Napját sötétséggé tették, békéjét szorongattatássá; az egységet bálványimádássá, az emberi nemet megalázettatássá, felemelkedését pedig áldozathoz kötötték. Jézus eszmerendszerét természetellenes hiedelmek, mítoszok és legendák zagyvaságává alakították. A Szentháromság és a megváltás mítosza újraéledt, miután a korai pogányságnak sikerült rákényszerítenie azt az éledező kereszténységre. Ezzel kettős győzelmet aratott: megerősítette önmagát, és másokat is tévelygésbe vitt. Így, amikor a keresztény korszak hatodik százada beköszöntött, az útmutatás fényei kialudtak szerte a világon – és a Sátán a hatalmas földeken járkált, gyönyörködve az általa elültetett tövisekben, látva, milyen erőteljesekké nőttek.
+
+A perzsa mágia makacsul az élén állt a Kínában, Indiában, az arab vidékeken és a tudatlan világ minden szegletében elterjedt bálványimádásnak. A kereszténység, amely hevesen ellene szegült, az ókori indiai és egyiptomi mítoszok legszembetűnőbb vonásait kölcsönözte. Allahnak (ﷻ) feleséget és gyermeket tulajdonított, és római, egyiptomi és konstantinápolyi követőit egy olyan sokistenhittel csábította el, amely fejlettebb volt a tűzimádókéénál és a bálványimádókéánál: monotheizmussal vegyített sokistenhit, amely a tiszta sokistenhit ellen küzdött! Mi az értéke ezeknek az ellentmondásoknak, amelyeket a kereszténység összeszedett?
+
+(Azt mondják [a zsidók, a keresztények és a pogányok]: „Allahnak fia van." Dicsőség Néki! Ő Gazdag, minden szükséglettől mentes. Övé mindaz, ami az egeken és a földön van. Erre nincs semmi jogotok. Mondotok-e Allahról olyat, amit nem tudtok? Mondjátok: „Bizony, akik hazugságot eszelnek ki Allah ellen, azok soha nem boldogulnak." Rövid élvezet ez a világ! Majd Hozzánk térnek vissza, és megízleltetjük velük a legszigorúbb büntetést, amiért hitetlenkedtek.) (Korán 10: 68–70)
+
+Úgy tűnik, a sokistenhit köteléke – amely a pogány vallásokat az eltorzult égi vallásokhoz fűzte – tette őket szövetségessé a muszlimok elpusztítására irányuló törekvésben, attól a naptól fogva, hogy utóbbiak közösségüket az Egyetlen Igaz Isten imádatára kezdték alapozni. Allah (ﷻ) figyelmeztette ezt az ummát az üldöztetésre, amely egyszerre fenyegeti majd a bálványimádók és az Írás Népe részéről, és azt tanácsolta nekik, hogy türelemmel és állhatatossággal vértezzék fel magukat:
+
+(Bizony próbára lesztek téve vagyonotokban és személyetekben, és sok rosszat hallotok azoktól, akiknek előttetek az Írást adtuk, és a bálványimádóktól. Ha azonban kitartotok és óvakodtok a rossztól, az az elszánt szív dolgaihoz tartozik.) (Korán 3: 186)
+
+A sötétség, amely a szíveket és az elméket elborította a tauhid fényének hiányában, magába zárta a társadalom hagyományait és a kormányzat rendszereit is. Így a föld gyilkosság és pusztítás által kísértett barlanggá vált, ahol a gyengéknek nem maradt reményük a békére és a nyugalomra. És mi jót lehetett volna várni attól a pogányságtól, amely elveti az értelmet, megfeledkezik Allahról (ﷻ), és átadja magát a szélhámosok kezének?
+
+Nem lenne meglepő, ha Allah (ﷻ) megtagadná tőlük a segítséget, amint a hadísz mondja:
+
+„Allah (ﷻ) valóban rátekintett a föld lakóira, és meggyűlölt mindenkit – arabot és nem arabot egyaránt –, kivéve az Írás Népe néhány maradékát." (Egy hosszú, Muszlim által elbeszélt hadíszból)
+
+Ezek a maradékok voltak azok, amelyekbe a sokistenhit nem tudott behatolni a hitetlenség áradatával szemben, amely elöntötte a hegyeket és a völgyeket. Muhammad (ﷺ) prófétasága előtt a világ zűrzavarba és nyomorúságba merült, amely súlyos teherként nehezedett az emberek vállára.
+
+Eljöttél, miközben az emberek zűrzavarban éltek; ha elmentél volna mellettük, láttad volna, hogy bálványt bálvány után imádnak.
+
+Róma királya elnyomta népét, Perzsia királya pedig büszkeségétől siket és vak volt.
+
+Végül Allah (ﷻ) bejelentette, hogy eltörli ezeket a nyomokat, és elküldi legtökéletesebb útmutatását a teremtésnek. Elküldte Muhammadot (ﷺ).
+
+## A végső üzenet természete
+
+Muhammad (ﷺ) prófétaságának egyedülálló sajátossága volt, hogy egyetemes és örök. Allah (ﷻ) képes lett volna intőt küldeni minden faluba és útmutatót minden korba. Ha azonban a városoknak mindig szükségük van intőkre és a koroknak útmutatókra, miért helyettesítette őket egyetlen ember? Az igazság az, hogy ez a helyettesítés a tömörségre emlékeztet, amely kevés szóban sok értelmet sűrít. Muhammad (ﷺ) prófétasága teljes mértékben pótolta a korokon és a széles világon szétszórt prófétasereg kiküldését. Sőt, betöltötte azt az igényt, hogy minden egyes emberhez – aki élt és élni fog ezen a földön, amíg emberek vágynak útmutatásra és üdvösségre – angyalt küldjenek.
+
+Hogyan lehetséges ez? Veszélyes terepen egy becsületes tanácsadó azt mondhatja neked: „Hunyd le a szemed és kövess engem" – vagy: „Ne kérdezz semmit, ami felkelti figyelmedet." A biztonság esetleg az engedelmességben rejlik, s ezért inkább mögötte jársz, amíg biztonságos területre nem érsz. Ebben az esetben ő a kijelölt vezetőd, aki helyetted gondolkodik és lát, és kézen fog. Ha meghal, te is elveszel. Ha azonban az elején egy bölcs ember érkezik, felvázolja az útvonalat, figyelmeztet a veszélyes helyekre, részletesen megmutatja, milyen szakaszokon és nehézségeken kell átkelned, és egy darabon veled jár, hogy a tanultakat a gyakorlatban is megvilágítsa – akkor te magad leszel a saját vezetőd, aki a saját látására és ítélőerejére támaszkodik. Az első eset a gyermekeknek és az egyszerű lelkeknek való; a másodikat az értő emberekkel való bánásmódban kell alkalmazni.
+
+Amikor Allah (ﷻ) elküldte Muhammadot (ﷺ), hogy vezesse a világot, gondoskodott arról, hogy az üzenet tartalmazza azokat az elveket, amelyek megnyitják az értelmes emberek előtt az ajtókat, hogy megértsék, mi volt és mi lesz. A Korán, amelyet Ő (ﷻ) a Próféta (ﷺ) szívébe küldött le, a Világok Urának könyve minden élő emberhez: a jóra vezérli és a becsületre ihleti őket. Muhammad (ﷺ) nem törzsek vezére volt, olyanoknak, akik jók voltak, mert ő jó volt, és halálával elhalványultak. A jóság ereje volt, amely az erkölcsi világban hasonló szerepet játszott, mint a gőz és az elektromosság felfedezése az anyagi világban. Prófétává (ﷺ) való kinevezése az emberiség fejlődésének egy állomása volt. Addig az emberek – gondozóik felügyelete alatt – olyanok voltak, mint bezárt gyermekek. Aztán felnőttek, és képessé váltak maguk is vállalni a felelősséget. Így érkezett Allah üzenete Muhammad (ﷺ) közvetítésével, és megmagyarázta, hogyan kell élniük a földön és visszatérniük a mennybe. Ezért akár maradt Muhammad (ﷺ), akár elment, semmit sem vett el valódi Üzenetéből, amely megnyitotta a szemeket és a füleket, élessé tette az érzékelést és az értelmet – s mindez benne foglaltatik a Korán és a Szunna hatalmas örökségében.
+
+Nem azért küldték, hogy maga köré gyűjtsön embereket, hanem hogy kapcsolatot teremtsen a teremtmények és az igazság között, amellyel létezésük értelmet nyer; köztük és a fény között, amellyel megláthatják céljukat. Akik tehát felismerik az igazságot az életükben, és fénnyel járnak az emberek között, azok valóban elismerték Muhammadot (ﷺ), menedéket találtak zászlaja alatt – még ha soha nem is látták, és soha nem is éltek együtt vezérükkel.
+
+(Ó, emberek! Bizony meggyőző bizonyíték érkezett hozzátok [Muhammad próféta személyében] Rabbitektől, és nyilvánvaló fényt [ezt a Koránt] küldtük le nektek. Akik hisznek Allahban és szilárdan ragaszkodnak Hozzá, azokat Ő Irgalmába és Kegyelmébe fogadja [a Paradicsomba], és Magához vezeti az egyenes úton.) (Korán 4: 174–175)
+
+Ha tehát azt látod, hogy gyermekek figyelmen kívül hagyják tanáruk leckéit, vagy ruhájába kapaszkodnak, amíg él, illetve holmijához ragaszkodnak halála után – tudd, hogy méltatlan tanítványok. Nem méltók arra, hogy az Üzenet tanítása szóljon hozzájuk, nemhogy szilárdan álljanak az útján.
+
+A Próféta (ﷺ) medinai mecsetjében emberek tömegét láttam, akik sírjának közelségét keresik és vágynak arra, hogy életüket mellette töltsék. Ha a Próféta (ﷺ) élve előjönne és megpillantaná őket, irtózattal fordulna el tőlük, és utálna a közelükben lenni. Kopott megjelenésük, tudatlanságuk, tétlenségük és hanyagságuk gyengébbé teszi a kapcsolatukat az iszlám Prófétájával (ﷺ), mint egy pókháló.
+
+Azt mondtam nekik: „Mit nyertek ti a Próféta (ﷺ) közelségéből, és ő mit nyer veletek?"
+
+Akik megértik az Üzenetét és homokon, tengeren túl élik azt, jobban ismerik a Próféta (ﷺ) titkát, mint ti. Szellemi és lelki közelség az – ez az egyetlen kötelék Muhammad (ﷺ) és az övéi között. Hogyan lehet tehát beteg lelkek és gyenge elmék dolga az ő közelébe kerülni, aki azért jött, hogy a vallás és a világ egészségét a lelkekbe és az elmékbe helyezze? Vajon ez a közelség a szeretet jele és a megbocsátás útja? Soha nem fogsz Allah kedvéért szeretni, amíg előbb meg nem ismered Allahot (ﷻ). A természetes sorrend ez: mindenekelőtt tudnod kell, ki a te Rabbod és mi a hited. Ha ezt tiszta értelemmel tudod, hálás szívvel fogod méltányolni annak nagylelkűségét, aki Allah (ﷻ) üzenetét elhozta neked és nehézségeket vállalt miattad. Ez az értelme a hadísznak: „Szeresd Allahot (ﷻ) azért a bőkezűségért, amellyel ellát benneteket, és engem szeressetek Allah (ﷻ) szeretetéért" – és ez az értelme a koráni versnek:
+
+(Mondd [Ó, Muhammad, az emberiségnek]: Ha valóban szeretitek Allahot, kövessetek engem; Allah szeretni fog benneteket és megbocsátja bűneiteket. Allah a Megbocsátó, a Könyörületes.) (Korán 3: 31)
+
+Az iszlám prófétája (ﷺ) soha nem nevezte ki magát a megbocsátás és az áldás „kapujának". Egyetlen napig sem tette ezt, mert soha nem folytatta a szélhámosok mesterségét. Azt mondja: vagy menjetek vele, vagy menjetek mással – és álljunk mindannyian Allah (ﷻ) elé, és imádkozzunk Hozzá (ﷻ):
+
+([Egyedül] Téged imádunk és [egyedül] Tőled kérünk segítséget. Vezess minket az egyenes útra; azok útjára, akiket keggyel halmoztal el; ne azok útjára, akik haragodat vonták magukra, és ne az eltévelyedettekére.) (Korán 1: 5–7)
+
+Ha tehát ez a Próféta (ﷺ) elégedett veled, Allahhoz (ﷻ) imádkozik érted; ha te is elégedett vagy vele és szívedben elismered nagy munkáját és rangját, imádkozz te is Allahhoz (ﷻ) érte. Részese leszel az angyalok cselekedetének, akik elismerik nagyságát és imádkoznak megnövelt jutalmáért:
+
+(Bizony Allah és angyalai áldást küldenek a Prófétára. Ó, ti hívők! Kérjetek ti is áldást rá, és köszöntsétek méltó köszöntéssel.) (Korán 33: 56)
+
+Nem Muhammad feladata, hogy kötéllel vonszoljon benneteket a paradicsomba. Az ő feladata csupán annyi, hogy belátást ültessen a szívedbe, hogy megláthasd az igazságot. Ennek eszköze egy olyan Könyv, amelyhez a hamisság sem elölről, sem hátulról nem tud közeledni, amelyet könnyű megőrizni a szívben és biztonságban van az eltévelyedéstől. Ez az üzenete örökkévalóságának titka.
+
+Nézzük meg tehát, hogyan állt a Próféta (ﷺ) ahhoz a környezethez, amelybe született, üzenetének ezen lényegi természetének fényében – és előtte vizsgáljuk meg magát ezt a környezetet.
