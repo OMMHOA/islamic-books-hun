@@ -10,13 +10,15 @@ Muhammad Naṣiruddīn Al-Albānī).
 1. **English transcription** from the scanned PDF — ✅ done (2026-07-13, commit `edf317e`)
 2. **Verification / proofreading** of the transcription — ⬜ not started (commit is marked "unverified")
 3. **Hungarian translation** — 🟡 in progress in `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md`:
-   front matter + Chapters 1–5 done (2026-07-14, ~60k words, printed pp. 1–232 of 514).
-   **Next: Chapter 6** (ENG-full line 2787, "A véres küzdelem" / The Bloody Struggle).
+   front matter + Chapters 1–7 done (ch7 landed 2026-07-15, ~124.5k words total).
+   **Next: Chapter 8** (ENG-full line 5816, "The Mothers of the Believers").
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third (its footnote numbering differs from ENG: HUN ch3 has no ¹⁵ entry by
    design — draft's ¹⁴ covers ENG ¹⁵; body markers match their footnote lists).
-   Known inconsistency to fix in review: older drafts say "Mekka/hiteles hadísz",
-   new chapters say "Makka/ép hadísz".
+   Ch6 footnotes 1–84 and ch7 footnotes 1–121 verified 1:1 body↔list by script.
+   **Review flags (honorific artifacts in ENG, Qur'ān 7:115 misprint, Mekka/Makka +
+   hadísz-grading terminology) are tracked in `REVIEW-FLAGS.md`** — add new flags there,
+   not here.
 
 ## Files
 
@@ -24,6 +26,7 @@ Muhammad Naṣiruddīn Al-Albānī).
 |---|---|
 | `FiqhusSeerah-Muhammad-alGhazali.pdf` | Source scan, 512 PDF pages, no text layer. **PDF page = printed page − 2** |
 | `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` | Complete English transcription: Preface → Chapters 1–9 → Epilogue → Glossary, ~176k words |
+| `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
 | `FiqhusSeerah-Muhammad-al-Ghazali.md` | Hungarian translation, main file (Chapter 1 sections 1.1–1.2 so far) |
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-Chapter3-AkuldetesKuzdelme.md` | Hungarian Chapter 3 draft |
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-Khadijah.md` | Hungarian Khadījah section draft (from Chapter 2) |
