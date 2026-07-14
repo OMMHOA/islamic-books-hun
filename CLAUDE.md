@@ -9,7 +9,14 @@ Muhammad Naṣiruddīn Al-Albānī).
 
 1. **English transcription** from the scanned PDF — ✅ done (2026-07-13, commit `edf317e`)
 2. **Verification / proofreading** of the transcription — ⬜ not started (commit is marked "unverified")
-3. **Hungarian translation** — 🟡 partial (see below)
+3. **Hungarian translation** — 🟡 in progress in `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md`:
+   front matter + Chapters 1–5 done (2026-07-14, ~60k words, printed pp. 1–232 of 514).
+   **Next: Chapter 6** (ENG-full line 2787, "A véres küzdelem" / The Bloody Struggle).
+   Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
+   ch3 first third (its footnote numbering differs from ENG: HUN ch3 has no ¹⁵ entry by
+   design — draft's ¹⁴ covers ENG ¹⁵; body markers match their footnote lists).
+   Known inconsistency to fix in review: older drafts say "Mekka/hiteles hadísz",
+   new chapters say "Makka/ép hadísz".
 
 ## Files
 
