@@ -236,12 +236,20 @@ táblázat"), and Glossary ("# Szójegyzék") translated. Glossary: 71 entries, 
   uses); only headers/notes translated. The ẓ row keeps the book's underlined
   `<u>dh</u>`.
 
-### 2. Glossary term consistency vs running translation — pass B
+### 2. Glossary term consistency vs running translation — ✅ DONE (2026-07-16)
 
-Glossary headwords stay transliterated, but several appear Hungarianized in the
-chapters. If a unified reader-facing form is wanted, cross-check:
-*Jihād*↔dzsihád, *Tawhīd*↔tauhid, *Ummah*↔umma, *Hijrah*↔hidzsra,
-*Shari'ah*↔saría, *Zakāt*↔zakát, *Khalīfah*↔kalifa.
+Decision: **Hungarianize the flagged headwords** to match the running text. Changed 6:
+*Jihād*→**Dzsihád**, *Tawhīd*→**Tauhid**, *Ummah*→**Umma**, *Hijrah*→**Hidzsra**,
+*Shari'ah*→**Saría**, *Khalīfah*→**Kalifa** (its redundant "Kalifa." gloss removed).
+*Zakāt* was in the flag list but **has no glossary headword** (glossary runs A→Uqiyah,
+no Z entry) — nothing to change.
+
+**Open sub-question (ordering):** the glossary preserves the printed book's
+(transliterated) entry order, not Hungarian collation, so the headwords were changed
+**in place**. Six stay in their letter-neighborhood, but **Dzsihád** now sits in the
+old *J*-cluster (between *Janābah/Jannah* and *Jizyah*). Left there to avoid a partial
+re-sort of an otherwise book-ordered list. If a full Hungarian re-alphabetization of all
+71 entries is wanted, that's a separate pass.
 
 ## Carried over from earlier chapters
 

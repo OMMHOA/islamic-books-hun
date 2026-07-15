@@ -6405,7 +6405,7 @@ Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon
 
 *Ḥarām*: Az iszlám hite szerint tiltott dolgok.
 
-*Hijrah*: Kivándorlás. Kifejezetten a Próféta és a muszlimok Mekkából Madīnába való kivándorlására használják, a Mindenható parancsára.
+*Hidzsra*: Kivándorlás. Kifejezetten a Próféta és a muszlimok Mekkából Madīnába való kivándorlására használják, a Mindenható parancsára.
 
 *Ḥirā*: Jól ismert barlang egy Mekka melletti hegyben. Az utolsó Próféta (ﷺ) itt szokott elmélkedni, mielőtt prófétasággal bízták meg.
 
@@ -6427,7 +6427,7 @@ Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon
 
 *Jannah*: Paradicsom.
 
-*Jihād*: Szent küzdelem Allah (ﷻ) Ügyéért, vagy bármilyen más erőfeszítés annak érdekében, hogy Allah Szava (azaz az iszlám) felülkerekedjen. A dzsihād az iszlám egyik alappillérének számít.
+*Dzsihád*: Szent küzdelem Allah (ﷻ) Ügyéért, vagy bármilyen más erőfeszítés annak érdekében, hogy Allah Szava (azaz az iszlám) felülkerekedjen. A dzsihād az iszlám egyik alappillérének számít.
 
 *Jizyah*: Fejadó az iszlám kormányzat védelme alatt élő nem muszlimok számára. Mentesülnek a Zakāh és a dzsihād alól.
 
@@ -6435,7 +6435,7 @@ Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon
 
 *Khilāfah*: Helytartóság, helyettesítés. Egyben utódlás is.
 
-*Khalīfah*: (többes sz. Khulafā) Utód. Kalifa. Iszlám kifejezés, amelyet a muszlimok uralkodóira használnak a Próféta (ﷺ) halála után. Az iszlám első négy kalifáját Khulafā al-Rāshidūn néven ismerik.
+*Kalifa*: (többes sz. Khulafā) Utód. Iszlám kifejezés, amelyet a muszlimok uralkodóira használnak a Próféta (ﷺ) halála után. Az iszlám első négy kalifáját Khulafā al-Rāshidūn néven ismerik.
 
 *Lāt és 'Uzza*: Két istenség neve az iszlám előtti Ḥijāz (Arábia) korából; a Tudatlanság Korában imádták őket.
 
@@ -6491,7 +6491,7 @@ Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon
 
 *Sha'bān*: A muszlim naptár nyolcadik hónapja.
 
-*Shari'ah*: Vallási, jogi és erkölcsi törvénykönyv.
+*Saría*: Vallási, jogi és erkölcsi törvénykönyv.
 
 *Shawwāl*: A muszlim naptár tizedik hónapja.
 
@@ -6499,7 +6499,7 @@ Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon
 
 *Tahajjud*: Szó szerint: éjszakai, alvás utáni felkelés. Egy önkéntes ima neve, amelyet bármikor el lehet végezni az 'Ishā után és a Fajr ima előtt.
 
-*Tawhīd*: A Teremtő egységébe vetett hit.
+*Tauhid*: A Teremtő egységébe vetett hit.
 
 *Tayammum*: Az imákhoz való megtisztulás eszköze a Wuḍu (rituális mosakodás) és/vagy a Ghusl (fürdés) helyett, amikor nincs víz, vagy a víz az egészségre ártalmas.
 
@@ -6507,7 +6507,7 @@ Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon
 
 *Ulama*: (egyes sz. 'alim) Tudósok, tanult emberek.
 
-*Ummah*: Nemzet. A muszlim közösség egészét muszlim ummának nevezik.
+*Umma*: Nemzet. A muszlim közösség egészét muszlim ummának nevezik.
 
 *Umrah*: Kis zarándoklat. Az év bármely szakában és akárhányszor elvégezhető.
 
