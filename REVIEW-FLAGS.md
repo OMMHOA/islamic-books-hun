@@ -161,6 +161,68 @@ appears exactly once (both ENG and HUN).
 - *'ulamā'* → ***'ulamā'* (vallástudósok)**;
 - "day of the Greater Pilgrimage" → **a Nagy Zarándoklat napja**.
 
+## Chapter 9 (translated 2026-07-15)
+
+HUN ch9 starts after the ch8 footnotes ("# Kilencedik fejezet"); ENG ch9 body at
+line 6112. **Note:** in ENG-full the ch9 footnotes 1–18 are physically at the very
+end of the book (lines ~6437–6471, after the Glossary), not right after the chapter.
+HUN places them in a `## Lábjegyzetek` block right after ch9 per convention.
+Footnotes 1–18 verified by script: list runs 1–18 in order, each body marker appears
+exactly once (both the HUN body and its footnote list).
+
+### 1. Honorific artifact — pass A, then B
+
+- ENG ~6148: **"O son of Khaṭṭāb (رضي الله عنه)"** — the Prophet addressing 'Umar.
+  Placement of the honorific right after "Khaṭṭāb" (ʿUmar's pagan father) is odd,
+  though it plausibly refers to ʿUmar (the son). **HUN keeps it** as printed
+  („Ó, Khaṭṭāb (رضي الله عنه) fia"). Check the PDF.
+
+### 2. Names/typos where HUN silently normalized — pass A (verify against PDF)
+
+- "**Mumūnah's house**" (ENG ~6116, second mention of Maymūnah) → HUN uses
+  **Maymūnah** both times.
+- "the illness grew more **sever**" (ENG ~6116) → HUN normal ("súlyosbodott").
+
+### 3. Kept / rendered as printed (decide in review)
+
+- "what one's right hand possessed" (ENG ~6196, the slaves/dependants formula
+  *mā malakat aymānukum*) → HUN literal **"akit jobb kezünk birtokol"**. Faithful
+  but obscure; consider a gloss in review.
+- "**the Companion on high from paradise**" (ENG ~6206, the Prophet's dying words
+  *al-rafīq al-aʿlā*) → HUN title and death-scene both render **"a Legfőbb Társ"**.
+  Consistent; confirm the phrasing is the preferred Hungarian rendering.
+- Qur'ān 3:144 (ENG ~6218) rendered fresh into HUN; verify against a standard
+  Hungarian Qur'ān translation in pass B.
+
+## Back matter (translated 2026-07-15)
+
+Symbols ("# A könyvben használt jelek"), Transliteration Chart ("# Átírási
+táblázat"), and Glossary ("# Szójegyzék") translated. Glossary: 71 entries, verified
+1:1 against ENG by script; headwords kept in the printed transliterated form (only
+"Lāt and 'Uzza" → "Lāt és 'Uzza").
+
+### 1. Kept as printed — book imprecisions (decide in review)
+
+- **Isrā' / Mi'rāj swap:** the Glossary defines *Isrā'* as "The Prophet's ascension"
+  and *Mir'āj* as "the ascension … to the heavens". Conventionally Isrā' is the night
+  *journey* (Makka→Jerusalem) and Mi'rāj the ascension. HUN mirrors the book's
+  definitions faithfully („*Isrā'*: A Próféta felemelkedése.").
+- Book spells the ascension headword *Mir'āj* (usually Mi'rāj); kept.
+- *Jahilīyyah* headword double-y as printed (running text uses jahilīyah); kept.
+- Symbols: ENG prints "Subḥānahu wa **T'ālā**" (typo) → HUN corrected to
+  "Subḥānahu wa Ta'ālā". The gloss 'The Exalted' → „A Magasztos" (matches the
+  *Allāh* glossary entry).
+- Transliteration Chart kept intact (Arabic→Latin romanization the HUN text also
+  uses); only headers/notes translated. The ẓ row keeps the book's underlined
+  `<u>dh</u>`.
+
+### 2. Glossary term consistency vs running translation — pass B
+
+Glossary headwords stay transliterated, but several appear Hungarianized in the
+chapters. If a unified reader-facing form is wanted, cross-check:
+*Jihād*↔dzsihád, *Tawhīd*↔tauhid, *Ummah*↔umma, *Hijrah*↔hidzsra,
+*Shari'ah*↔saría, *Zakāt*↔zakát, *Khalīfah*↔kalifa.
+
 ## Carried over from earlier chapters
 
 - HUN ch3 footnote numbering intentionally differs from ENG: HUN ch3 has no ¹⁵ entry —

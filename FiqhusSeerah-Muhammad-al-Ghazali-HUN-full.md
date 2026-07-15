@@ -6147,3 +6147,372 @@ Sokan sereglettek ezért Usāmah köré, és álltak be a seregébe — csakhogy
 ²⁴ Ép (ṣaḥīḥ): Bukhārī hagyományozta 'Abdullāh ibn 'Umar tekintélyére hivatkozva.
 
 ---
+
+# Kilencedik fejezet
+
+# A Legfőbb Társ
+
+Allah Küldötte (ﷺ) érezte annak a betegségnek a fájdalmait, amely a tizenegyedik év Ṣafar havának vége óta támadta. Éles fejfájással kezdődött, amelyet türelemmel viselt felesége, Maymūnah házában, a fájdalom pedig annyira felerősödött, hogy nem tudott kimenni. Feleségei ekkor megengedték, hogy 'Ā'ishah házában lábadozzon, mert látták, hogy ott, az ő gondoskodása alatt lesz a legjobb helyen. Al-Faḍl ibn al-'Abbās és 'Alī ibn Abī Ṭālib vitte át Maymūnah házából. A betegség elszívta erejét, és képtelen volt járni. Rájuk támaszkodva, bekötött fejjel vonszolta lábait a földön, míg el nem érte 'Ā'ishah házát.¹ A betegség egyre súlyosbodott, és testének hőmérséklete magasra szökött.
+
+Vizet kért, hogy lehűtse magát, sok vizet: „Öntsetek rám hét tömlő vizet különböző kutakból!" 'Ā'ishah elmondta, hogy Ḥafṣah egyik dézsájába ültették, és addig öntötték rá a vizet, míg meg nem kérte őket, hogy hagyják abba.²
+
+Amikor a Próféta (ﷺ) érezte, hogy a láz heve elhagyta, hívta unokatestvérét, Al-Faḍl ibn al-'Abbāst, és megkérte, fogja őt kézen. Reszketett, feje még mindig be volt kötve. Al-Faḍl elmesélte, hogy kézen fogta, beléptek a mecsetbe, és leült a szószékre. Ekkor megkérte, hívja oda az embereket, akik köréje gyűltek. Borongós, komor délután volt. Az emberek a nyakukat nyújtogatták, hogy lássák azt a férfit, aki életre keltette halott szívüket, és a sötétségből a világosságba vezette őket és családjukat. Látták, hogy elgyötört. Testének egészségét legyőzte a betegség kérlelhetetlen előretörése. Ennek ellenére szólt hozzájuk, és tanította őket, ahogy megszokták tőle, ők pedig figyelmesen hallgatták. Amikor érezte, hogy halála közel van, azt kívánta, hogy úgy találkozzék Allahhal (ﷻ), hogy egyetlen ember se legyen, aki igazságtalansággal vádolhatná. Minden ügyében mindig gondosan ügyelt az igazságosságra. Mégis, ki tudja, talán megbotlott, mint bármely más ember, vagy tévedett, és igazságtalanságot okozott, miközben mindig kinyilvánította rosszallását az igazságtalansággal és annak elkövetőivel szemben. Ezért illett szólnia erről az embereknek, hogy lelkiismerete nyugodt lehessen.
+
+Így szólt:
+
+„Ó, emberek, dicsérem Allahot (ﷻ), mert nincs más isten. Akinek a hátát megkorbácsoltam, íme a hátam, hadd álljon bosszút. Akinek a hírnevét bemocskoltam, íme a hírnevem, hadd álljon bosszút. A haragtartás nem tartozik jellememhez, és a legkedvesebb közületek nekem az, aki elveszi tőlem a jogát, ha van neki, és megszabadít tőle, hogy tiszta lelkiismerettel találkozhassam Allahhal (ﷻ). Úgy gondolom mégis, hogy ez nem lesz elég számomra, hacsak nem kérlellek benneteket újra meg újra."
+
+Al-Faḍl elmondta, hogy lejött, és elvégezte a Zuhr imát. Majd ismét leült a szószékre, és megismételte szavait a haragtartásról és a többiről.
+
+Ekkor felállt egy férfi, és így szólt: „Ó, Allah Küldötte (ﷺ), három dirhammal tartozol nekem."
+
+A Próféta (ﷺ) így szólt: „Faḍl, add oda neki." Majd azt mondta: „Ó, emberek, akinek bármije van nálam, adja át, és ne mondja, hogy »a világ megaláztatása«, mert a világ megaláztatása könnyebb, mint a túlvilág megaláztatása."
+
+Felállt egy férfi, és így szólt: „Ó, Allah Küldötte (ﷺ), három dirhamot vettem el jogtalanul a hadizsákmányból."
+
+„Miért vetted el őket?" — kérdezte a Próféta (ﷺ).
+
+Ő így felelt: „Szükségem volt rájuk."
+
+„Faḍl" — mondta a Próféta (ﷺ) —, „vedd el tőle." Majd így szólt: „Aki fél valamitől önmagában, álljon fel, és fohászkodni fogok érte."
+
+Felállt egy férfi, és így szólt: „Ó, Allah Küldötte (ﷺ), hazug vagyok, mocskos szájú vagyok, sokat alszom."
+
+A Próféta (ﷺ) így szólt: „Ó, Allah (ﷻ), adj neki igazmondást és hitet, és vedd el tőle az álmot."
+
+Felállt egy másik férfi, és így szólt: „Allahra (ﷻ), ó, Allah Küldötte (ﷺ), hazug vagyok és képmutató, és nincs olyan bűn, amelyet el ne követtem volna."
+
+'Umar (رضي الله عنه) felállt, és így szólt: „Szégyent hoztál magadra."
+
+Ekkor a Próféta (ﷺ) így szólt: „Ó, Khaṭṭāb (رضي الله عنه) fia, a világ szégyene könnyebb, mint a túlvilág szégyene. Ó, Allah (ﷻ), adj neki igazmondást és hitet, és fordítsd ügyeit a jó felé."³
+
+A Próféta (ﷺ) visszatért a mecset melletti házába, hogy a betegágyban aludjon, jóllehet sohasem szokott lefeküdni, sem nyugalmat lelni benne. Sok ügy várt figyelmére, de a betegség terhei ágyhoz kötötték. Azon a néhány alkalmon, amikor jobban érezte magát, kiment a mecsetbe, hogy egy utolsó pillantást vessen a nemzetre, amelyet felépített, és a férfiakra, akiket szeretett.
+
+Abū Sa'īd Al-Khudrī elmondta, hogy a Próféta (ﷺ) egy nap leült a szószékre, és így szólt: „Bizony, egy szolgának Allah (ﷻ) választást adott aközött, hogy bármit megkapjon, amire a világ csábításaiból vágyik, és aközött, ami Allahnál (ﷻ) van, és ő azt választotta, ami Allahnál (ﷻ) van."
+
+Abū Bakr (رضي الله عنه) sírva fakadt, és így szólt: „Apáink és anyáink legyenek a váltságdíjad, ó, Allah Küldötte (ﷺ)."
+
+Abū Sa'īd elmondja, hogy az emberek elcsodálkoztak rajta, és így szóltak: „Nézzétek ezt az öregembert. Allah Küldötte (ﷺ) egy szolgáról beszél, akinek választást adtak, ő pedig azt mondja: »Apáink és anyáink legyenek a váltságdíjad!«" Valójában — folytatta Abū Sa'īd — „Allah Küldötte (ﷺ) volt az, akinek a választást adták, csakhogy mindannyiunk közül egyedül Abū Bakr (رضي الله عنه) tudta ezt. Ekkor a Próféta (ﷺ) így szólt: »Az emberek közül társaságában és javaiban a legjószívűbb hozzám Abū Bakr (رضي الله عنه), és ha barátot választanék, Abū Bakrt (رضي الله عنه) választanám barátomul, ha nem volna az iszlám testvérisége.«"
+
+Egy másik változatban így szólt: „…ha nem volna a társaság és a hit testvérisége, míg Allah (ﷻ) egyesít bennünket az Ő Színe előtt."⁴
+
+Betegségének ideje alatt voltak pillanatok, amikor megkönnyebbült, és a Próféta (ﷺ) társai azt hitték, hogy kívánságuk valóra vált, és ő hamarosan felkel, s képes lesz folytatni küzdelmét Allah (ﷻ) ügyéért, és rájuk árasztani vonzalmát, társaságát és irgalmát.
+
+'Abdullāh ibn Ka'b ibn Mālik elmondja, hogy Ibn 'Abbās arról tájékoztatta, hogy amikor 'Alī kijött a Próféta (ﷺ) színe elől utolsó betegségének napjaiban, az emberek megkérdezték: „Ó, Abu'l-Ḥasan, hogy van Allah Küldötte (ﷺ) ma reggel?" Ő így felelt: „Jól van, Allah (ﷻ) kegyelméből."
+
+Al-'Abbās megfogta a kezét, és így szólt: „Nem látod? Három nap múlva válságos helyzetben leszel. Úgy gondolom, hogy Allah Küldötte (ﷺ) belehal ebbe a betegségébe, és ismerem 'Abdul Muṭṭalib fiainak arcát, amikor eljön a halál. Menj Allah Küldöttéhez (ﷺ), és kérdezd meg tőle, kire száll majd a hatalom. Ha miránk, akkor tudni fogjuk, ha pedig nem, akkor a lelkükre köti, hogy igazságosan bánjanak velünk."
+
+'Alī így szólt: „Allahra (ﷻ), ha megkérdezzük erről Allah Küldöttét (ﷺ), és ő megtagadja tőlünk, akkor az emberek soha nem adják nekünk. Allahra (ﷻ), én soha nem kérem ezt Allah Küldöttétől (ﷺ)."⁵
+
+Nyilvánvaló, hogy Al-'Abbās a khilāfát értette ezen. Megérezte, hogy a Próféta (ﷺ) a halálos ágyán fekszik, és rokonaival a halál pillanatában szerzett tapasztalata képessé tette arra, hogy pontosan megjósolja jövőjüket. Mivel ő volt a Banū Hāshim feje, aggódva szerette volna tudni, ki lesz az emberek vezetője a Próféta (ﷺ) halála után. 'Alīhoz fordult, és feltárta előtte titkos aggodalmát, mert 'Alīt kellett a Banū Hāshim első számú jelöltjének tekinteni erre a tisztségre, kiváló múltja, rátermettsége, az emberek körében élvezett tekintélye és a Prófétához (ﷺ) való közelsége okán. 'Alī azonban nem volt hajlandó szólni a Prófétának (ﷺ) erről az ügyről, és úgy döntött, a muszlimok közmegegyezésére hagyja. Maga a Próféta (ﷺ) is fontolgatta, hogy végrendeletet ír, hogy megelőzze a viszályt azok között, akik a vezetésre törekedtek. Aztán meggondolta magát, és úgy döntött, hogy hagyja, hadd válasszák a muszlimok azt vezetőjüknek, akit szeretnek.⁶
+
+A betegség súlyosbodott, és a Próféta (ﷺ) heves fájdalmakat szenvedett, olyannyira, hogy lánya, Fāṭimah gyötrődött szenvedésének súlyosságától, és felkiáltott: „Ó, apám kínja!"
+
+Ő azonban megvigasztalta, mondván: „Apádnak nem lesz több kínja e mai nap után."⁷ A hír elszállt Usāmah seregéhez, és bánat meg zűrzavar támadt a sorokban.
+
+Muhammad ibn Usāmah az apjától elbeszélve: „Amikor Allah Küldötte (ﷺ) rosszabbra fordult, én és a velem lévő emberek visszatértünk Madīnába, és bementünk, hogy lássuk a Prófétát (ﷺ). Hallgatott, és nem tudott beszélni. Elkezdte az ég felé emelni a kezét, majd rám tette, és tudtam, hogy értem fohászkodik."⁸
+
+Egyszer elájult, és családja gyógyszert tett a szájába. Amikor felébredt, kimutatta nemtetszését emiatt.⁹ Oldalán egy tál víz volt, amelybe belemártotta a kezét, és megtörölte vele az arcát. Majd így szólt: „Ó, Allah (ﷻ), segíts meg a halál kínjaiban."¹⁰
+
+Amikor már nem volt képes vezetni az embereket az imában, Abū Bakrt (رضي الله عنه) szólította fel, hogy tegye ezt.
+
+'Ā'ishah attól félt, hogy az emberek gyűlölni kezdik apját, és rossz előjelet látnak benne, ezért ellenkezett, mondván: „Abū Bakr (رضي الله عنه) érzékeny ember, és amikor a te helyedre áll, össze fog törni."
+
+A Próféta (ﷺ) mindazonáltal ragaszkodott hozzá, mondván: „Parancsoljátok meg Abū Bakrnak (رضي الله عنه), hogy vezesse az embereket az imában."
+
+'Ā'ishah megismételte ellenvetését, a Próféta (ﷺ) pedig megharagudott, és így szólt: „Yūsuf társnői vagytok. Parancsoljátok meg Abū Bakrnak (رضي الله عنه), hogy vezesse az embereket az imában."¹¹ Abū Bakr (رضي الله عنه) tizenhét imát vezetett az emberekkel.
+
+Azok a napok, amelyeken a Próféta (ﷺ) nem tudta vezetni a muszlimokat az imában, voltak számára a legrosszabbak. Egy hiteles hadíszban így szólt: „Bizony, úgy érzem a betegség kínjait, ahogy kettő közületek."¹²
+
+Magas láza és testének gyengesége ellenére mindazonáltal teljesen éber maradt, tanítása foglalkoztatta, és buzgón emlékeztette rá az embereket. Attól félt, hogy ummája elfajul, és személyekhez meg sírokhoz kötődik, ahogyan a Könyv Népe fajult el előttük.
+
+A tauhid (az egyistenhit) iránti heves elkötelezettsége az, ami arra késztette, hogy még a halál gyötrelmei közepette is óvja a muszlimokat ettől a csapdától. 'Ā'ishah és Ibn 'Abbās egyaránt arról számoltak be, hogy betegsége alatt a Próféta (ﷺ) egy kendőt terített az arcára, és amikor nyugtalanná vált, levette azt arcáról, és így szólt: „Allah átka legyen a zsidókon és a keresztényeken: prófétáik sírjait mecsetekké tették." Így óvott viselkedésüktől.¹³
+
+Attól félt, hogy ummáját elragadják a csábítások és a gőg. Akik a csábításokat követik, elfeledkeznek imáikról, akik pedig a gőgöt követik, zsarnokoskodnak azok felett, akik a gondjukra vannak bízva, mint a szolgák és az alkalmazottak. Az a nemzet, amelyet ezek a szenvedélyek uralnak, nem alkalmas az életre, sem az élet nem alkalmas neki. Sőt, Allahnak (ﷻ) könnyű átengedni őket annak, hogy elnyerjék tetteik igazságos jutalmát, ami megaláztatás a világban és büntetés a túlvilágon. Ez a félelem indította a Prófétát (ﷺ), miközben utolsókat lélegzett, hogy a muszlimok figyelmét a jó holléte felé fordítsa, hogy szilárdan kapaszkodjanak belé.
+
+Anas ibn Mālik (رضي الله عنه) elbeszélte:
+
+„Allah Küldöttének (ﷺ) legtöbb tanácsa, amikor a halál rátört, az ima volt, meg az, akit jobb kezünk birtokol. Még a mellkasa is ezt hörögte, miközben nyelve alig tudta kiejteni."¹⁴
+
+Néha erőt vett rajta a vágy, hogy jelen legyen a gyülekezetben, és lássa társait utolsó napjaiban, ezért megerőltette elgyötört testét, és 'Ā'ishah szobájából bement a mecsetbe, és ülve vezette az embereket az imában. Ibn 'Abbās elmondta: „Amikor a Próféta (ﷺ) megbetegedett, megparancsolta Abū Bakrnak (رضي الله عنه), hogy vezesse az imákat. Aztán jobban lett, és kiment. Amikor Abū Bakr (رضي الله عنه) észrevette őt, hátra akart lépni. A Próféta (ﷺ) azonban intett neki, hogy maradjon, ő pedig Abū Bakr (رضي الله عنه) bal oldalára ült, és onnan folytatta a recitálást, ahol az abbahagyta. Abū Bakr (رضي الله عنه) a Prófétát (ﷺ) követte, az emberek pedig Abū Bakrt (رضي الله عنه)."¹⁵
+
+Abū Bakr (رضي الله عنه) továbbra is vezette az imákat egészen a Próféta (ﷺ) halálának reggeléig. Az utóbbit még mindig ummája ügyei foglalkoztatták. Mintha Allah (ﷻ) meg akarta volna nyugtatni őt teljes őszinteségük felől, megadta neki a lehetőséget, hogy lássa őket földi utolsó imája idején. A hívők hajnalban jöttek a mecsetbe azon a hétfőn, amikor meghalt, és imára gyűltek egy imám mögött, aki halkan recitált, és bőséges őszinteséggel. A Próféta (ﷺ) felemelte a függönyt, amely 'Ā'ishah ajtaja fölött lógott, és megjelent az emberek előtt. Csaknem elvonta figyelmüket az imától a látásán érzett öröm, és helyet kezdtek szorítani neki. Ő azonban kezével intett, hogy folytassák az imát, és elégedetten mosolygott imabéli tartásukon.
+
+Anas (رضي الله عنه) így szólt: „Sohasem láttam a Prófétát (ﷺ) jobb állapotban, mint abban a pillanatban."¹⁶
+
+Visszament, az emberek pedig szétszéledtek, azt gondolva, hogy felépült betegségéből. Abū Bakr (رضي الله عنه) megnyugodott ettől a gondolattól, és elment feleségéhez Al-Sunḥba, Madīna külterületére.¹⁷
+
+'Ā'ishah így szólt: „Allah Küldötte (ﷺ) visszatért a mecsetből, és lefeküdt az ölembe. Bejött Abū Bakr (رضي الله عنه) egyik férfi rokona, kezében egy zöld fogtisztító ágacskával (miswāk). A Próféta (ﷺ) a kezére meredt, és megértettem, hogy szeretné azt. Elvettem, megpuhítottam, majd odaadtam neki. Erősebben dörzsölte vele a fogát, mint valaha azelőtt, majd letette. Éreztem, hogy Allah Küldötte (ﷺ) elnehezül az ölemben, és az arcára néztem. Szeme egy pontra szegeződött, és ezt mondta: »Nem, a Legfőbb Társat a paradicsomból.«
+
+Én (magamban) így szóltam: »Választást kaptál, és választottál, Arra, aki az Igazsággal küldött téged.« És Allah Küldötte (ﷺ) elhunyt.¹⁸
+
+A rettenetes hír elterjedt a gyászba borult otthonból, gyötrelmet okozva a szemnek, a fülnek és a szívnek, és zaklatottságot az elmének.
+
+A hívők úgy érezték, hogy elsötétült az ég Madīna felett. A veszteség fájdalma kábultan hagyta őket, nem tudták, mit cselekszenek. 'Umar ibn al-Khaṭṭāb (رضي الله عنه), akit megdöbbentett a hír, felállt, és így szólt: „Némely képmutatók azt állítják, hogy Allah Küldötte (ﷺ) meghalt. Nem halt meg, hanem Urához ment, ahogyan Mūsā ibn 'Imrān is Urához ment, és negyven napig távol volt népétől. Aztán visszatért, miután azt mondták róla, hogy meghalt. Allahra (ﷻ), Allah Küldötte (ﷺ) vissza fog térni, és levágja azoknak a kezét és lábát, akik azt mondják, hogy meghalt."
+
+Amikor Abū Bakr (رضي الله عنه) meghallotta a hírt, a mecset ajtajához jött, miközben 'Umar (رضي الله عنه) beszélt, ő azonban nem figyelt rá. Belépett 'Ā'ishah otthonába, ahol a Próféta (ﷺ) egy sarokban feküdt szemfedőbe burkolva. Odalépett, felfedte a fejét, majd fölé hajolt, megcsókolta, és így szólt: „Apámra és anyámra! Megízlelted a halált, amelyet Allah (ﷻ) elrendelt számodra. Most már soha többé nem sújt le rád a halál."
+
+Visszahelyezte a kendőt a Próféta (ﷺ) fejére, és kiment a mecsetbe, ahol 'Umar (رضي الله عنه) még mindig beszélt. Így szólt: „'Umar (رضي الله عنه), hagyd abba." 'Umar (رضي الله عنه) azonban továbbra is izgatott és bőbeszédű maradt. Amikor Abū Bakr (رضي الله عنه) ilyen állapotban látta, az emberek felé fordult, és beszélni kezdett, ők pedig otthagyták 'Umart (رضي الله عنه), és felé fordultak, hogy hallgassák. Allah (ﷻ) dicséretével kezdte, majd így szólt: „Ó, emberek, aki Muhammadot (ﷺ) imádta, nos, Muhammad (ﷺ) halott. De aki Allahot (ﷻ) imádta, nos, Allah (ﷻ) él, és soha nem hal meg." Majd a következő áját recitálta:
+
+(Muhammad csupán küldött, [olyan] küldöttek [jártak], amilyenek már elmúltak előtte. Vajon, ha meghal vagy megöletik, sarkon fordultok? Aki visszafordul, semmiben sem árt Allahnak, és Allah megjutalmazza a hálásakat.) (Korán 3: 144)
+
+## Lábjegyzetek
+
+¹ Ép (ṣaḥīḥ): Ibn Hishām hagyományozta Ibn Isḥāqtól ép lánccal 'Ā'ishah tekintélyére hivatkozva. Al-Ḥākim más lánccal hagyományozta tőle, és hitelesítette.
+
+² Ép (ṣaḥīḥ): Ibn Isḥāq hagyományozta a fentivel azonos lánccal. Megtalálható Bukhārīnál és Muszlimnál is.
+
+³ Gyenge: Al-'Uqailī hagyományozta a gyenge hadíszok gyűjteményében, valamint Al-Bayhaqī. Al-Dhahabī azt mondta: „Attól tartok, koholt hazugság lehet." Ibn Kathīr azt mondja: „Láncában (isnād) és szövegében (matn) rendkívüli homályosság van."
+
+⁴ Ép (ṣaḥīḥ): a két sejk hagyományozta. Ez Bukhārī változata.
+
+⁵ Ép (ṣaḥīḥ): Bukhārī hagyományozta.
+
+⁶ Ez arra a hadíszra utal, amelyet Bukhārī hagyományozott Ibn 'Abbās tekintélyére hivatkozva, miszerint a Próféta (ﷺ) azt mondta: „Gyertek, hadd írjak nektek egy iratot."
+
+⁷ Ép (ṣaḥīḥ): Bukhārī és mások hagyományozták Anas (رضي الله عنه) tekintélyére hivatkozva.
+
+⁸ Ép (ṣaḥīḥ): Al-Tirmidhī és Ibn Hishām hagyományozta.
+
+⁹ Ép (ṣaḥīḥ): Bukhārī hagyományozta 'Ā'ishah tekintélyére hivatkozva.
+
+¹⁰ Gyenge: Al-Tirmidhī és mások hagyományozták Mūsā ibn Sirjis útján Al-Qāsim ibn Muhammadtól, 'Ā'ishah tekintélyére hivatkozva. Gyengének mondta, mivel ez a Mūsā ismeretlen.
+
+¹¹ Ép (ṣaḥīḥ): a két sejk hagyományozta 'Ā'ishah tekintélyére hivatkozva.
+
+¹² A két sejk és mások hagyományozták Ibn Mas'ūd tekintélyére hivatkozva.
+
+¹³ A két sejk hagyományozta.
+
+¹⁴ Ép (ṣaḥīḥ): Ibn Mājah, Aḥmad és mások hagyományozták Qatādahtól Anas (رضي الله عنه) tekintélyére hivatkozva.
+
+¹⁵ Ép (ṣaḥīḥ): Ibn Mājah és Aḥmad hagyományozta Ibn 'Abbās tekintélyére hivatkozva.
+
+¹⁶ Ép (ṣaḥīḥ): Bukhārī, Muszlim és mások hagyományozták Ibn Al-Zuhrītól Anas (رضي الله عنه) tekintélyére hivatkozva, ám megszakadt (munqaṭi', a láncból hiányzik egy láncszem).
+
+¹⁷ Anas (رضي الله عنه) hadíszának része, Ibn Isḥāq hagyományozta.
+
+¹⁸ Ép (ṣaḥīḥ): Ibn Hishām hagyományozta Ibn Isḥāqtól ép lánccal 'Ā'ishah tekintélyére hivatkozva. Megtalálható Bukhārīnál is, több helyen szétszórva. Ez a könyv utolsó hadísza, és ezzel zárul jegyzetelésem. Dicsőség Allahnak (ﷻ), hogy sikeres véghez juttatta. Dicsőség Neked, ó, Allah (ﷻ), és Néked legyen a dicséret. Tanúsítom, hogy nincs más isten Rajtad kívül, bocsánatodért esedezem, és Hozzád fordulok bűnbánattal. Aláírás: Muhammad Naṣir-ud-Dīn Al-Albānī, Damaszkusz, 1375. 5. 28. (a hidzsra szerint).
+
+---
+
+# Utószó
+
+A Próféta (ﷺ) halála után néhány napon belül az iszlám elkeseredett küzdelembe bonyolódott a pogánysággal, amely hirtelen új életre kelt, és a kereszténységgel, amely a félsziget északi részét uralta, megakadályozott bárkit abban, hogy felvegye az iszlámot, és erővel gátat vetett terjedésének. A sivatag nem látott hasonlót e heves csatákhoz még magának a Prófétának (ﷺ) az életében sem. A csataterek szélesebbek, a költségek magasabbak, a veszteségek nagyobbak voltak. Mindazonáltal a férfiak, akiket a Próféta (ﷺ) az igazság ismeretében és az érte hozott áldozatban nevelt fel, őszinték voltak tetteikben Allah (ﷻ) felé, és úgy vették vállukra a rájuk nehezedő súlyos terheket, mint hősies bajnokok. Megtörték a pogányság gerincét a félszigeten, kipréselték belőle az éltető vért, és örökre elpusztították. Szétverték a rómaiakat a határokon, ahol azok a gőgjüket terjesztették. Aztán visszatértek Madīnába, nem hogy megpihenjenek, hanem hogy szétáradjanak az akkori lakott világban, módszeres rendben és egy csalhatatlan törvény ihletése nyomán. Néhány év alatt az iszlám betöltötte a szárazföldet és a tengert, a füleket és a szemeket.
+
+Most, hogy tizennégy évszázad telt el ama dicső korszak óta, az iszlám többé nem uralja ummáját, nemhogy a világot kormányozná említésre méltó föld vagy hálára méltó jó felé. A többi vallás a halál szélén tengődik, mert a fennálló civilizációk nem engedik, hogy a vallás megragadja a gyeplőt. A pogányság Indiában és a Távol-Keleten, valamint más helyeken még mindig uralja a tömegek életének és viselkedésének nagyobb részét. A judaizmus elkülöníti nyáját a világtól, gyűlöletet ültet szívükbe az emberiség iránt, és igyekszik learatni a legnagyobb hasznot Izrael számára azáltal, hogy a muszlimok sorain belüli szakadásra játszik. A kereszténység olyan, mint a kúszónövény az egyenlítőnél: fennmaradása a bevett filozófiák átvételétől és az uralkodó rendszerek támogatásától függ, hogy életet (és micsoda életet!) biztosítson alaptételeinek, a Szentháromságnak és a helyettesítő áldozatnak.
+
+A muszlimokat beszennyezte a tévelygés és a héjakhoz meg szertartásokhoz való ragaszkodás szennye. A gyengeség és a tudatlanság bűnei olyan állapotba taszították őket, amely hasonló a zsidókéhoz és a keresztényekéhez a prófétaság és az igaz úton vezérelt kalifátus korában. Ma már csak egy jelentéktelen kisebbségük harcol a jahilīyah ellen, és tart ki szilárdan az igazság mellett. Ha van remény abban a tényben, hogy az iszlám elméleti szempontból megőrződött két fő forrásában, a Koránban és a Szunnában, akkor ez a megőrzött tudás sohasem teheti feleslegessé a cselekvést. Mindazonáltal meg kell jegyezni, hogy azok, akik jó munkát végeznek az iszlámért, súlyos ellenállásba ütköznek különféle más frontok felől. Azokat a frontokat értem ezen, amelyek — tizennégy évszázaddal ezelőtti kezdete óta — ellenezték terjedését, és egyetlen napra sem hűlt ki iránta való ellenségeskedésük.
+
+Kérdezhetné valaki, vajon a mai világnak szüksége van-e az iszlámra. Válaszunk az, hogy ha a világnak szüksége van arra, hogy megismerje Allahot (ﷻ), és felkészüljön a Vele való találkozásra, meg arra, hogy számot adjon arról, amit e földi életben tett, akkor kell neki az iszlám. Az anyagi haladás nem pótolja az e nagy valóságokhoz való ragaszkodást. Mondhatja valaki: de vannak emberek, akik nem hisznek semmilyen Istenben, sem a túlvilágban, és vannak mások, akik hisznek ezekben a dolgokban, de másképp, mint ahogy az iszlám tanítja, hát hadd kövessék az emberek a maguk hitét. Erre a válaszunk az: higgyenek az emberek, amit akarnak. A vakoknak azonban nincs joguk kivájni a látók szemét, vagy megfojtani őket azért, mert a látók látják azt, amit a vakok nem! Meg kell hagyniuk nekik, hogy szemük vezetésével járjanak, és meg kell hagyniuk nekik azt is, hogy leírják, mit látnak vagy mit várnak útjukon. Akik kényszer nélkül akarják követni a látókat, azoknak joguk van velük tartani; máskülönben hagyják békén a látókat, és ne gördítsenek akadályt útjukba. Ez minden, amit az iszlám kér.
+
+A bajkeverők azért gyűlölik az iszlámot, mert az az igazság, olyan hanggal, amely megvédi önmagát, és kihirdet mindent, amit magában foglal, és nem hajlandó rejtőzni vagy hallgatni. Az iszlámnak ez a sajátossága — az igazságot hirdető és a hamisságot elítélő sajátosság — bosszantotta ellenfeleit, és arra késztette őket, hogy vádakat koholjanak ellene. Így hát, ha nem hajlandó megalkudni, akkor ő a támadó; és ha nem hajlandó meghalni ellenségei cselszövései alatt, akkor erővel terjesztik! Ez a titka annak a mesének, amelyet arról regélnek, hogy az iszlámot karddal terjesztették, jóllehet az iszlám csak azért rántott kardot, hogy megmentse magát a csőcselék és a rablók veszedelmétől. Ha nem lett volna cselszövéseknek kitéve, sohasem emelt volna kést, és beérte volna a nyelv használatával a kard helyett. Igen, ebben a tekintetben nagyon szilárd. Mi mást lehetne várni tőle, amikor olyan ellenségekkel kell szembenéznie, akiket sok évszázad gőgje és előítélete sarkall, valamint a tévelygő utak, amelyek emberek és fegyverek sűrű dzsungelei mögött rejtőznek? Ha nem lett volna ez a szilárdság, az iszlám erkölcsi és tudományos elvei nem maradtak volna érintetlenek mind a mai napig. Azokat a vallásokat, amelyek előtte meggyengültek, ellenségeik ocsmány módon vonszolták ki gyökereikből, és sohasem tudtak épségben visszatérni hozzájuk. Ami az iszlámot illeti, ma megtalálod — ha nem is a követőiben, akkor legalább a Könyvében.
+
+Azt gondolhatod, hogy tanulmányoztad Muhammad (ﷺ) életét azzal, hogy nyomon követted történetét a születésétől a haláláig, ám ez súlyos tévedés. Sohasem fogod igazán megérteni az életutat (*sīra*), hacsak nem tanulmányozod a nemes Koránt és a megtisztított Szunnát. Az a mennyiség, amelyet ezekből merítesz, elárulja, milyen erős a köteléked az iszlám Prófétájával (ﷺ).
+
+---
+
+# A könyvben használt jelek
+
+(ﷻ): Subḥānahu wa Ta'ālā – „A Magasztos"
+
+(ﷺ): Ṣallā-Allāhu 'Alayhi wa Sallam – „Allah áldása és békéje legyen vele"
+
+(عليه السلام): 'Alayhis-Salām – „Béke legyen vele"
+
+(رضي الله عنه): Raḍiya Allāhu 'Anhū – „Allah legyen elégedett vele" (férfiról)
+(رضي الله عنها): Raḍiya Allāhu 'Anhā – „Allah legyen elégedett vele" (nőről)
+(رضي الله عنهم): Raḍiya Allāhu 'Anhum – „Allah legyen elégedett velük"
+
+---
+
+# Átírási táblázat
+
+| Arab betű | Használt jel |
+| --- | --- |
+| ا / ى | ā vagy aa |
+| ب | b |
+| ت | t |
+| ة | h vagy t (ha másik arab szó követi) |
+| ث | th |
+| ج | j |
+| ح | ḥ |
+| خ | kh |
+| د | d |
+| ذ | dh |
+| ر | r |
+| ز | z |
+| س | s |
+| ش | sh |
+| ص | ṣ |
+| ض | ḍ |
+| ط | ṭ |
+| ظ | <u>dh</u> |
+| ع | ' |
+| غ | gh |
+| ف | f |
+| ق | q |
+| ك | k |
+| ل | l |
+| م | m |
+| ن | n |
+| هـ / ـهـ / ـه | h |
+| و | w |
+| و (magánhangzóként) | ū vagy oo |
+| ي | y |
+| ي (magánhangzóként) | ī vagy ee |
+| ء | ' (szó elején elhagyva) |
+
+| Jel | Neve | Használt jel |
+| --- | --- | --- |
+| ـَ | Fatḥah | a |
+| ـِ | Kasrah | i |
+| ـُ | Ḍammah | u |
+| ـّ | Shaddah | Kettőzött betű |
+| ـْ | Sukūn | Magánhangzó hiánya |
+
+---
+
+# Szójegyzék
+
+*Āyāt*: (egyes sz. āyah) Bizonyítékok, jelek, versek stb.
+
+*Adhān*: Felhívás a Ṣalāhra (imára) az előírt módon.
+
+*Aḥzāb*: (egyes sz. ḥizb) csoportokat és pártokat jelent. A Quraish és az összes iszlámellenes erő, a pogány törzsek és Arábia zsidói szövetséget alkottak, és együttesen támadták meg Madīnát, innen a Szövetségesek csatájának neve.
+
+*Al Mīzān*: A mérleg. A tetteket a túlvilágon megmérik jutalom vagy büntetés végett.
+
+*Allāh*: A világegyetem Teremtőjének személyneve. Ő „A Magasztos", a Világok Rabbja (Ura).
+
+*Arafah*: Dhul-Ḥijjah havának kilencedik napja, amikor a zarándokok napnyugtáig az Arafah síkságán tartózkodnak. Ez a Ḥajj legfőbb része. Nincs Ḥajj (zarándoklat) Arafah nélkül.
+
+*Dīn*: Vallás, teljes életmód, amelyet Allah (ﷻ) rendelt el az emberiség számára, és amely az emberi élet minden területét felöleli: a magánéletet, a társadalmit, a vallásit, a politikait, a jogit stb.
+
+*Da'wah*: Küldetés, hithirdetés (meghívás az iszlámra).
+
+*Dhirā'*: Egy dhirā' egy könyöknyivel egyenlő; ősi hosszmérték, amely az alkar hosszával egyezik meg.
+
+*Dhuhr*: Dél, délidő. A déli Ṣalāh (ima) neve.
+
+*Dhul Qa'dah*: Az iszlám (hidzsri) naptár tizenegyedik hónapja.
+
+*Dinars*: Ősi aranyból vert pénzérme.
+
+*Dirham*: Ezüstpénz, amely 50, levágott végű árpaszem súlyú. Értékben egy Uqiyyah arany 1/12-ével egyenlő.
+
+*Ḥanīf*: Ibrāhīm (Ábrahám) vallásának neve; a tiszta egyistenhit, amelyben egyedül Allahot imádják. Az iszlám másik neve.
+
+*Ḥarām*: Az iszlám hite szerint tiltott dolgok.
+
+*Hijrah*: Kivándorlás. Kifejezetten a Próféta és a muszlimok Makkából Madīnába való kivándorlására használják, a Mindenható parancsára.
+
+*Ḥirā*: Jól ismert barlang egy Makka melletti hegyben. Az utolsó Próféta (ﷺ) itt szokott elmélkedni, mielőtt prófétasággal bízták meg.
+
+*Hijri*: Egy időszámítás neve. Az iszlám naptár, amely az utolsó Próféta (ﷺ) Makkából Madīnába való kivándorlásából ered.
+
+*Ḥūr*: Húrik, Allah teremtményei a Jannah lakói számára.
+
+*Huffādh*: (egyes sz. Ḥāfiẓ) emberek, akik fejből tudják a Koránt.
+
+*Imām*: Vezető. Olyan személy, aki a Ṣalātot (imát) vezeti; tekintély az iszlám jogtudományban és rendkívüli tudású iszlám tudós, valamint a muszlim kalifa (vagy uralkodó).
+
+*Isrā'*: A Próféta felemelkedése.
+
+*'Issa*: Jézus (عليه السلام).
+
+*Jahilīyyah*: Tudatlanság. Nem iszlám állapotok. Az iszlám előtti kornak adott név.
+
+*Janābah*: A tisztátalanság állapota. Nemi együttlét és/vagy magömlés (nedves álom) után. Az ilyen állapotban lévő személynek Ghuslt (azaz teljes mosakodást) kell végeznie, vagy Tayammumot, ha a fürdés nem lehetséges.
+
+*Jannah*: Paradicsom.
+
+*Jihād*: Szent küzdelem Allah (ﷻ) Ügyéért, vagy bármilyen más erőfeszítés annak érdekében, hogy Allah Szava (azaz az iszlám) felülkerekedjen. A dzsihād az iszlám egyik alappillérének számít.
+
+*Jizyah*: Fejadó az iszlám kormányzat védelme alatt élő nem muszlimok számára. Mentesülnek a Zakāh és a dzsihād alól.
+
+*Jumada I & II*: A muszlim naptár hatodik és hetedik hónapja.
+
+*Khilāfah*: Helytartóság, helyettesítés. Egyben utódlás is.
+
+*Khalīfah*: (többes sz. Khulafā) Utód. Kalifa. Iszlám kifejezés, amelyet a muszlimok uralkodóira használnak a Próféta (ﷺ) halála után. Az iszlám első négy kalifáját Khulafā al-Rāshidūn néven ismerik.
+
+*Lāt és 'Uzza*: Két istenség neve az iszlám előtti Ḥijāz (Arábia) korából; a Tudatlanság Korában imádták őket.
+
+*Maḥram*: Közeli vérrokon, akivel a házasság tilos.
+
+*Madīnah*: Jól ismert város Szaúd-Arábiában, ahová a Próféta (ﷺ) Makkából kivándorolt, és ahol el van temetve. A Próféta és a korai kalifák idején az iszlám uralom központja volt.
+
+*Maghazī*: Csaták. A korai iszlám időszak háborúinak történetét leíró könyveket Maghazī néven ismerik.
+
+*Matn*: A hadísz tényleges szövege.
+
+*Mir'āj*: Az utolsó Próféta (ﷺ) felemelkedése az egekbe (lélekkel és testtel).
+
+*Miswāk*: Az arāk-fa gyökeréből készült fogtisztító.
+
+*Mu'jiza*: Csodák. Természetfeletti esemény Allah egy prófétája által, a hitetlenek kihívására válaszul.
+
+*Mu'adhdhin*: Aki az előírt módon felhív a Ṣalātra (imára).
+
+*Mudhammam*: A Muhammad („a dicsért") névnek a gáncsolást jelentő ellentéte.
+
+*Maghrib*: Napnyugta. Az esti Ṣalāt (ima) idejének neve.
+
+*Muhajirīn*: (egyes sz. Muhajir) Kivándorlók, különösen azok, akik Makkából Madīnába vándoroltak ki az utolsó Prófétával (ﷺ).
+
+*Muḥarram*: A muszlim naptár első hónapja.
+
+*Mushrikūn*: (egyes sz. Mushrik) Politeisták. Pogányok, bálványimádók, akik nem az egyetlen Istent imádják, és/vagy társakat állítanak Allah mellé.
+
+*Nuṭfah*: Ondó.
+
+*Qaṣīdahs*: (egyes sz. Qasidah) Valakinek a dicséretére írt költemények.
+
+*Rak'ah*: (többes sz. Rak'āt) Egység. A muszlimok Ṣalātja (imája) több egységből áll; minden egység egy állásból, egy meghajlásból és két leborulásból tevődik össze.
+
+*Ramaḍān*: A muszlim naptár kilencedik hónapja. Ez a Ṣaum (böjt) hónapja. Ekkor kezdett kinyilatkoztatni a nemes Korán. Az iszlám történetének első döntő csatája, a badri csata ebben a hónapban zajlott.
+
+*Ṣalāh*: Ima. Az ima iszlám terminológiája: Allah Áldásáért fohászkodni az előírt formában.
+
+*Ṣaḥābī*: (többes sz. Ṣaḥābah) A Próféta (ﷺ) társa.
+
+*Riḍwān*: Elégedettség. A hudaibiyai szerződés alkalmával 'Uthmān ibn 'Affānt Makkába küldték tárgyalni. Ott egy időre feltartóztatták. Az a hír járta, hogy a Quraish megölte. A Próféta (ﷺ) esküt vett a hívőktől, hogy ennek megtorlásaként a végsőkig harcolnak. Ez Bay'at al-Riḍwān néven ismert.
+
+*Sīrah*: Élet, életrajz. Általában a Próféta (ﷺ) életrajza.
+
+*Sūrah*: (többes sz. Sūrahs) A nemes Korán fejezete. A Korán 114 Sūrahra oszlik.
+
+*Safā*: Egy domb neve a Ka'bah közelében. A zarándok erről a dombról indítja Sa'y szertartását, és a Marwáig megy, egy másik dombig a Ka'bah közelében, amely a Safával szemben áll.
+
+*Salām*: békét jelent. Köszönésre használják.
+
+*Salāsil*: Láncok. A muszlimokkal szemben álló római seregről azt beszélik, hogy láncra verték őket, nehogy megfussanak a háborúból.
+
+*Sha'bān*: A muszlim naptár nyolcadik hónapja.
+
+*Shari'ah*: Vallási, jogi és erkölcsi törvénykönyv.
+
+*Shawwāl*: A muszlim naptár tizedik hónapja.
+
+*Subḥānallāh*: Dicsőség Allahnak.
+
+*Tahajjud*: Szó szerint: éjszakai, alvás utáni felkelés. Egy önkéntes ima neve, amelyet bármikor el lehet végezni az 'Ishā után és a Fajr ima előtt.
+
+*Tawhīd*: A Teremtő egységébe vetett hit.
+
+*Tayammum*: Az imákhoz való megtisztulás eszköze a Wuḍu (rituális mosakodás) és/vagy a Ghusl (fürdés) helyett, amikor nincs víz, vagy a víz az egészségre ártalmas.
+
+*Uhud*: Jól ismert hegy Madīnában. Lábánál zajlott az iszlám történet egyik nagy csatája, az uhudi csata.
+
+*Ulama*: (egyes sz. 'alim) Tudósok, tanult emberek.
+
+*Ummah*: Nemzet. A muszlim közösség egészét muszlim ummának nevezik.
+
+*Umrah*: Kis zarándoklat. Az év bármely szakában és akárhányszor elvégezhető.
+
+*Uqiyah*: Kifejezetten aranyra és ezüstre vonatkozó mértékegység.
+
+*Zakāt al fitr*: Zakát a Ramaḍān havi böjtért. Minden muszlimnak — felnőttnek vagy gyermeknek, férfinak vagy nőnek, gazdagnak vagy szegénynek — meg kell fizetnie, mielőtt az Ídi imára menne.
+
+*Zamzam*: A szent kút a Ḥaramban (a nagymecsetben) Makkában.

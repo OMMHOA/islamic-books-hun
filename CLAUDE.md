@@ -9,14 +9,19 @@ Muhammad Naṣiruddīn Al-Albānī).
 
 1. **English transcription** from the scanned PDF — ✅ done (2026-07-13, commit `edf317e`)
 2. **Verification / proofreading** of the transcription — ⬜ not started (commit is marked "unverified")
-3. **Hungarian translation** — 🟡 in progress in `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md`:
-   front matter + Chapters 1–8 done (ch8 landed 2026-07-15, ~132k words total).
-   **Next: Chapter 9** (ENG-full line 6112, "The Companion on High").
+3. **Hungarian translation** — ✅ **full draft complete** in
+   `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md` (2026-07-15): front matter +
+   Chapters 1–9 + Epilogue ("# Utószó") + back matter ("# A könyvben használt jelek",
+   "# Átírási táblázat", "# Szójegyzék"). The Glossary has all 71 entries (headwords
+   kept in transliterated form as printed; only "Lāt and 'Uzza" → "Lāt és 'Uzza"
+   changed). Remaining work is now **review/proofreading only** (pass B), tracked in
+   `REVIEW-FLAGS.md`, plus updating `README.md` links.
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third (its footnote numbering differs from ENG: HUN ch3 has no ¹⁵ entry by
    design — draft's ¹⁴ covers ENG ¹⁵; body markers match their footnote lists).
-   Ch6 footnotes 1–84, ch7 footnotes 1–121 and ch8 footnotes 1–24 verified 1:1
-   body↔list by script.
+   Ch6 footnotes 1–84, ch7 footnotes 1–121, ch8 footnotes 1–24 and ch9 footnotes 1–18
+   verified 1:1 body↔list by script. Note: ENG-full keeps ch9's footnotes at the very
+   end of the book (after the Glossary); HUN places them right after ch9 per convention.
    **Review flags (honorific artifacts in ENG, Qur'ān 7:115 misprint, Mekka/Makka +
    hadísz-grading terminology) are tracked in `REVIEW-FLAGS.md`** — add new flags there,
    not here.
