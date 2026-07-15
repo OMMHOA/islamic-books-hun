@@ -32,12 +32,28 @@ this verse is 2:115. Kept as printed in both ENG (line 3339) and HUN (line ~3299
 Decide in review whether the HUN edition should silently correct it or keep it with a
 translator's note.
 
-### 3. Terminology consistency — pass B
+### 3. Terminology consistency — pass B ✅ DONE (2026-07-15 / -16)
 
-- Older drafts (ch1–ch3 reused material) say **Mekka / hiteles hadísz**; newer chapters
-  (ch4–ch6) say **Makka / ép hadísz**. Unify (direction: Makka/ép, per CLAUDE.md).
-- Ḥadīth grading map used in ch5–6: authentic → **hiteles**, sound/ṣaḥīḥ → **ép**,
-  ḥasan/good → **jó**, weak → **gyenge**. Verify ch1–4 footnotes follow the same map.
+- **Mekka → Makka** — done (17 occurrences, all in the reused ch1 material; the Hungarian
+  word *Mekkora* "how big" was correctly left alone).
+- **Ḥadīth grading map — FINAL decision (2026-07-16): ṣaḥīḥ → `hiteles` everywhere.**
+  Both ENG "sound" and ENG "authentic" render the single grade ṣaḥīḥ, so they map to the
+  **same** Hungarian word, **`hiteles`** — the standard term and the one the book's own
+  glossary uses (`*Ṣaḥīḥ*: hiteles hadísz`, front matter). `ép` is **not** a ḥadīth grade
+  and no longer used as one. Map: ṣaḥīḥ/sound/authentic → **hiteles**, ḥasan/good → **jó**,
+  ḍaʿīf/weak → **gyenge**.
+  - **History:** the earlier drafts split "sound" → *ép* vs "authentic" → *hiteles*, an
+    invented two-tier distinction (ṣaḥīḥ is one grade). On 2026-07-15 ch2–3 were first
+    unified *to* that ép-convention; on 2026-07-16, per user decision, the whole book was
+    converted the other way — **all grade-sense `ép` → `hiteles`** (209 replacements incl.
+    the `Ép (ṣaḥīḥ):` / `Ép:` footnote labels in ch7–9, `ép hadísz`, `ép lánc*`, and
+    predicate/comparative forms `lánca ép`, `… szerint ép`, `épnek nyilvánítja`, `épebb`).
+  - **`ép` deliberately kept (ordinary Hungarian word, not a grade):** `ép ítélőképesség`,
+    `ép gondolkodó`, `ép elmével`, `ép, erős ifjút`, `ép testű`, and L≈2715
+    "a hadísz értelme … ép" (the *meaning* is sound — that hadith's chain is weak, so it is
+    **not** ṣaḥīḥ; `hiteles` would be wrong there).
+  - **`hasan`/`jó` untouched**, incl. ch3 fn8 (ENG "good Ḥadīth" → `jó`).
+  - **Glossary** `Mu'allal` def updated: "apparently sound" → `látszólag hiteles`.
 - Ch6 coinages to sanity-check: "flying columns" → **portyázó különítmények**;
   "Battle of the Ditch" → **Árok-ütközet**; "Confederates" → **szövetségesek**;
   "reciters" (Bi'r Ma'ūnah) → **recitálók**.
