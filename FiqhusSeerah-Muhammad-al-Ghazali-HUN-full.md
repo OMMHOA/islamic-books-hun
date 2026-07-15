@@ -5851,3 +5851,299 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 ¹²¹ Lásd „Türelem és türelmetlenség az iszlám és a kereszténység között" című könyvünket.
 
 ---
+
+# Nyolcadik fejezet
+
+# A hívők anyái
+
+Egyes írók vihart kavartak a többnejűség elve körül, és megpróbálták korlátozni vagy megakadályozni azt, amit az iszlám e tekintetben megengedett. Olykor azzal érvelnek, hogy az iszlám nem adott egyértelmű engedélyt, máskor pedig azt mondják: a civilizáció fejlődésével és az emberiség érdekeivel az áll összhangban, hogy a férfinak csak egy felesége legyen.
+
+Kétségtelen, hogy ezek a gondolatok különféle tényezők eredményeként születtek meg társadalmainkban, és hatékony cáfolatukhoz részletes elemzésre van szükség. A többnejűség ellenzői immár hosszú évek óta próbálják elérni, hogy a törvényt nézeteikhez igazítsák. Erőfeszítéseik azonban megtorpantak, amikor kiváltották az *'ulamā'* (vallástudósok) és az iszlám ügyeivel törődő körök haragját. Akkoriban írtam egy cikket a többnejűség természetéről, amelyet — úgy vélem — helyénvaló itt megismételni, mielőtt az előttünk álló témával foglalkoznánk, hiszen nyilvánvaló kapcsolat van a kettő között.
+
+Az életnek szilárd kulturális és gazdasági törvényei vannak, amelyek elkerülhetetlenül rákényszerítik magukat az emberekre — akár ismerik őket és felkészültek rájuk, akár nem tudnak róluk, és elmulasztanak felkészülni. Azon dolgok közé, amelyeket a társadalmi törvények határoznak meg, tartozik egyetlen férfi kapcsolata több nővel; és aki úgy tesz, mintha erről nem tudna, az hiábavaló kísérletet tesz a valósággal szembeni ellenállásra.
+
+Ez azért van így, mert a férfiak és a nők aránya vagy egyenlő, vagy az egyik oldal javára billen. Ha egyenlő, vagy ha a nők vannak kevesebben, a többnejűség magától eltűnik, és a természet a számok szerint kényszeríti ki a maga igazságos elosztását, és minden férfinak — akarva-akaratlanul — be kell érnie a maga részével. Ha azonban a nők többen vannak, mint a férfiak, akkor három lehetséges helyzet egyikével kell szembenéznünk:
+
+1. A nők egy része szükségképpen férj nélkül marad egészen a halálig.
+
+2. Megengedjük a férfiaknak, hogy szeretőket tartsanak, és törvényesítjük a házasságtörést.
+
+3. Megengedjük a többnejűséget.
+
+Úgy gondoljuk, hogy maguk a nők — még a férfiak előtt — utasítják el a nélkülözés életét, és ugyanígy elutasítják a bűn és a törvényszegés életét is. Az egyetlen út, amely a nő előtt nyitva marad, az, hogy megossza férjét egy másik nővel, aki éppúgy az ő oltalma alatt áll majd, mint ő maga, és akinek gyermekei a férfi gyermekei lesznek. Így nem marad más, mint elismerni a többnejűség elvét, amelyet az iszlám jóváhagyott.
+
+Ezenfelül nagy különbség van a férfiak nemi étvágya között. Egyes férfiaknak jó egészség, eleven ösztön és kényelmes élet adatott, ami másoknak nem. Távol áll az igazságosságtól egyenlővé tenni a hideg érzésű férfit azzal, aki könnyen hevül. Vajon nem engedünk-e nagyobb mennyiségű ételt a nagy étvágyúaknak, amit nem engedünk meg a gyengélkedőknek és erőtleneknek?
+
+Van egy másik ok is: a feleség lehet törékeny, beteg, meddő vagy idős — és miért kellene őt ezért félreállítani? A régi kötelék iránti tiszteletből az a méltányos, hogy férje oltalma alatt maradjon, a férfi pedig megkapja a lehetőséget, hogy másik feleséget hozzon, aki maradéktalanul eleget tesz a házastársi kapcsolatnak.
+
+A többnejűség számtalan igazolása ellenére az iszlám hajthatatlanul megtagadta, hogy azt egyes férfiak vágyainak és a mértéktelen élvezetre vagy hatalomra való hajlamának meghosszabbításává tegye. Az adók a gazdagsághoz igazodnak, és ahol könnyítés adatik, ott súlyosabb kötelesség követi. Így a többnejűség esetében is gondoskodni kell arról, hogy teljes igazságosság érvényesüljön. Ha valaki a többnejűséggel önmagának, gyermekeinek vagy feleségeinek ártana, akkor az számára nem megengedett.
+
+Ha a törvény a szükséges kiadások viselésére való képtelenséget akadálynak tekinti az egy feleséggel kötendő házasságban, akkor akadály lesz az egynél többel kötendőben is. A *saría* azt tanácsolja a fiatal nőtlennek, aki nem tud feleséget eltartani, hogy böjtöljön, és annak, aki nem talál feleséget, megparancsolja, hogy éljen önmegtartóztatásban.
+
+(És akik nem találnak házasságra módot, éljenek önmegtartóztatásban, míg Allah gazdaggá nem teszi őket kegyelméből.) (Korán 24: 33)
+
+Mi hát a helyzete annak, akinek egy felesége van? Neki még nagyobb önmérsékletet és tisztaságot kell gyakorolnia. Sok feleséggel rendszerint sok gyermek jár, és az iszlám kötelezővé teszi az igazságosság megtartását a gyermekek között a nevelés, a jó bánásmód és az ellátás dolgában, akkor is, ha anyáik különbözők. A mondás így szól: „Allah (ﷻ) megátkozza azt, aki engedetlenné teszi gyermekét."¹ A többnejű apának ezért tudatában kell lennie annak, milyen következményekkel jár az aránytalan szeretet kimutatása.
+
+Hasonlóképpen az iszlám kötelezővé teszi az igazságosságot a feleségek között is. Még ha az ember nem is tud parancsolni szíve hajlandóságának, vannak más cselekedetek és körülmények, amelyekben a férj a *saría* határain belül maradhat, megtarthatja a méltányosságot, és félheti Allahot (ﷻ) azoknak az embereknek és javaknak a dolgában, amelyeket Ő (ﷻ) a gondjaira bízott.
+
+A Próféta (ﷺ) azt mondta: „Bizony, Allah (ﷻ) minden embert megkérdez arról, amit gondjaira bízott: megőrizte-e, vagy veszni hagyta."² Azt is mondta: „Elég bűn az embernek, ha veszni hagyja azokat, akiknek eltartása rá hárul."³ Ezek az igazságosság határai, amelyeket Allah (ﷻ) a többnejűségre szabott; és aki elbírja ennek terheit, az elvehet kettőt, hármat vagy négyet, ha úgy kívánja — máskülönben érje be eggyel: „Ha pedig féltek, hogy nem tudtok igazságosak lenni, akkor csak egyet."
+
+Olvastam, hogy egyes újságírók úgy kifogásolják a többnejűség elvét, hogy megkérdezik: miért szabad a férfinak egynél több feleség, míg a nőnek nem szabad egynél több férj? Megnéztem ezeket a kérdezőket, és úgy találtam, hogy többségük vagy kicsapongó, vagy nők kerítője és futtatója. Meglepett, hogy a bűn világában élnek, mégis a leghevesebben azt gyűlölik, hogy a családok a tisztaság alapján épüljenek fel.
+
+E beteg kérdésre az a válasz, hogy a nemi kapcsolat végső célja a családalapítás és a gyermekek tiszta légkörben való felnevelése. Ez nem lehetséges olyan nő otthonában, akihez több férfi jár, és aki nem tudja, melyikük a gyermekei apja. Ráadásul a nő szerepe a nemi kapcsolatok terén a befogadóé, nem az adóé; a vezetetté, nem a vezetőé. El tudunk képzelni egy mozdonyt, amely négy kocsit húz, de olyan kocsit nem, amely négy mozdonyt húz. A dolgok természetének tagadása azt állítani, hogy nem a férfiak a nők gondviselői.
+
+Valóban szomorú, hogy a tömegek úgy döntöttek: nem vesznek tudomást ezekről a határokról, és úgy vágtak bele a többnejűségbe, hogy nincsenek tudatában az előírt igazságosság értelmének és alkalmazásának. Valójában a vágy hívásának engedtek, még ha az ismételt törvényszegésekhez és nyilvánvaló igazságtalansághoz vezeti is őket. Van például férfi, aki önmagát sem képes eltartani, mégis azon küszködik, hogy megházasodjék; egy másik egyet sem képes eltartani, mégis másodikat keres. Van, aki nem gondoskodik gyermekei taníttatásáról, vagy vagyonát szeszélyei szerint osztja el, megint más pedig azért vesz el második feleséget, hogy az elsőt elhagyja. Láthatunk olyan férfit, aki képes volna négyet is eltartani gyermekeikkel együtt, mégis nemi koldulásból él, és rossz hírű nők társaságát élvezi. Mi a gyógymód erre a zűrzavarra? Vajon a többnejűség betiltása megmenti-e az ummát ezektől a betegségektől? Természetesen nem. A megengedett korlátozása annak bizonyítéka, hogy valaki nem érti az iszlám törvényét.
+
+Ha azonban az iszlám hallgatott volna a többnejűség dolgáról, akkor kötelességünk lett volna véleményt mondani, és ez esetben mellette foglaltunk volna állást a közjó érdekében, ahogyan azt e fejtegetés elején kifejtettük. A szabály rögzítése azonban egy dolog, helytelen alkalmazása pedig egészen más. Amikor törvényhozásra van szükség társadalmunk megreformálásához és e téren mutatkozó ferdeségeinek kiegyenesítéséhez, akkor fordítsák a törvényhozók erejüket annak biztosítására, hogy az igazságosság minden vonatkozásában érvényesüljön. Eközben időpocsékolás és hiábavaló gyakorlat magán a többnejűség elvén vitatkozni.
+
+Bizton állíthatom, hogy ez az iszlám országok elleni újkori keresztes hadjárat egyik hatása, mert Nūḥ (عليه السلام) kora óta az összes vallás közül egyedül a kereszténység tiltotta meg a többnejűséget.⁴ Minden férfit, bármi legyen is a rangja, egyetlen feleségre korlátozott, azután a társadalomra hagyta, hogy a nőtöbblet gondjaival és az alapvető ösztönök tombolásával küzdjön meg, bármilyen más eszközzel, amelyet össze tud szedni. Ma sok körben a többnejűséget bűnnek tekintik, míg a házasságtörést jelentéktelen időtöltésnek. A ma fennálló probléma a vallás és az erkölcs egészének problémája, és ilyen körülmények között a többnejűség megállítására irányuló erőfeszítés undorító kísérlet a társadalom beszennyezésére — az iszlám rovására és a törvény nevében.
+
+Nagy számban voltak próféták és igaz emberek, akik egy vagy több feleséggel házasodtak, és ez a legkevésbé sem csorbította jámborságukat. A ma kezünkben lévő Ószövetség lapjai tanúskodnak erről a tényről. Az iszlám nem tekinti a nemi élettől való tartózkodást az istentisztelet egyik formájának, ahogyan a szerzetesek teszik, és nem tekinti bűnnek a négy feleséggel kötött házasságot sem, ahogyan azt a kereszténységnek tulajdonítják. A bűn akkor támad, amikor a nemi ösztönt szabadjára engedik, vagy úgy fojtják el, hogy az más kiutakat talál magának, mint a föld alatti vizek.
+
+Amit a Próféta (ﷺ) hiteles életrajzai feljegyeznek, az az, hogy 25 éves korában vette feleségül Khadījahot, aki akkor 40 éves volt. Vele maradt, mást nem véve el, míg a nemes hölgy túl nem járt a 65. évén. Khadījah akkor halt meg, amikor a Próféta alig múlt 50 éves. Legádázabb ellenfelei közül sem merte őt senki bármiféle erkölcstelenséggel vagy illetlenséggel vádolni, és életének ebben a — bármely ember életét tekintve is legtevékenyebb és legzsúfoltabb — szakaszában a tisztaság és a nemesség csillaga ragyogott homlokán, bárhová ment.
+
+Ha másikat akart volna elvenni, sem törvény, sem értelem, sem szokás nem állta volna útját. A többnejűség hagyomány volt az arabok között, amelyet a próféták atyja, Ibrāhīm (عليه السلام) vallása részeként ismertek. Ő mégis beérte eggyel, akiben vigaszt és megnyugvást talált, noha az asszony már idős korában járt, ő pedig férfiereje teljében volt. Ez a magatartás igen sokatmondó.
+
+Amikor Khadījah meghalt, és a Próféta (ﷺ) újra meg akart házasodni, nem a szépség volt a mérce, amely szerint élettársát vagy élettársait kiválasztotta. Ha így tett volna, azért sem érhette volna bírálat. Fő szempontja az volt, hogy megerősítse kötelékeit azokkal a férfiakkal, akik életüket az ő üzenetének és a *da'wának* szentelték. 'Ā'ishahot, Abū Bakr (رضي الله عنه) leányát választotta, zsenge kora ellenére, és Ḥafṣahot, 'Umar (رضي الله عنه) leányát, szépségének hiánya ellenére. Azután Umm Salamahot választotta, az Allah (ﷻ) útján vértanúhalált halt parancsnokának özvegyét, aki férje oldalán sokat szenvedett a Makkából Abesszíniába, majd Abesszíniából Madīnába való kivándorlásban. Őelőtte volt Sawdah, egy asszony, aki idős kora miatt már letett a házasság gondolatáról. Az élet e néggyel nem ígérkezett csupa vidámságnak és örömnek — és ha az lett volna, azért sem érhette volna gáncs a Prófétát (ﷺ). Minden hívőnek joga van élvezni feleségei társaságát, és nem kétséges, hogy a Próféta (ﷺ) valóban egyenlően bánt velük.
+
+Mondhatod erre: A Próféta (ﷺ) azonban kilenc feleséget hagyott hátra halálakor. Hogyan történt ez, és hogyan lehetett neki az, ami másoknak nem? Nem kapunyitás-e ez a bujaság előtt, és válasz az élvezet hívására?
+
+Erre azt feleljük: Van-e helye az élvezetnek egy olyan ember életében, aki egyetlen napot sem pihent a szüntelen küzdelem és a kimerítő *dzsihád* fáradalmaitól? A kevés valóban nagy jelentőségű személyiséget bizony annyira lefoglalják az emberek gondjai, hogy aligha élveznek akár egy órányi pihenést is, legfeljebb hogy kissé erőt gyűjtsenek, mielőtt folytatnák véget nem érő munkájukat. Milyen lett volna hát a próféták legnagyobbikának helyzete, akit az arabok úgy fogadtak, ahogyan azt már jeleztük?
+
+Azt is mondjuk: Mi helye az élvezetnek egy olyan ember életében, aki azt már ifjúkorában elutasította? Hogyan merülhetett volna el benne öregemberként? A másik öt feleséget övező körülmények bizony azzá tették a velük való életet, ami annak a tehernek volt része, amelyet a Prófétának (ﷺ) államfőként kellett hordoznia — azé az államfőé, aki a közösségért és annak minden egyes tagjáért felelős volt. Része volt annak a felelősségének is, hogy megszilárdítsa a jót és felszámolja a rosszat.
+
+Vegyük például a Zaynab bint Jaḥsh-sal kötött házasságát: ez a házasság súlyos próbatétel volt a Próféta (ﷺ) számára. Allah (ﷻ) parancsolta meg neki, hogy lépjen bele, hogy leromboljon egy, az arabok között széles körben elterjedt hagyományt, és ő csupa zavarral és kényszeredettséggel ment bele. Zaynab egyike volt unokatestvéreinek, akit gyermekkorától ismert. Zayd ibn Ḥārithahhoz kívánta feleségül adni. Zaynabnak azonban nem tetszett a gondolat, fivére pedig ellenezte a házasságot, mert büszke volt családjuk rangjára. Zaynab a Quraishból való volt, míg Zayd rabszolga, akit a Próféta (ﷺ) szabadított fel, aki a fogadott fia lett, és akit Zayd ibn Muhammadnak hívtak. A Próféta (ﷺ) ragaszkodott ehhez a házassághoz, mert meg akarta törni az arabok származási gőgjét, és Zaynabnak nem volt más választása, mint elfogadni a Próféta (ﷺ) döntését az ügyben — különösen azután, hogy a következő āyāh (vers) kinyilatkoztatott:
+
+(És nem illeti meg a hívő férfit és a hívő nőt, hogy amikor Allah és az Ő küldötte eldöntött egy ügyet [számukra], azután maguk igényeljenek bármi beleszólást ügyükbe.) (Korán 33: 36)
+
+Így hozzáment Zaydhoz, bár vonakodó szívvel. Zayd hamarosan úgy találta, hogy nem tud vele élni, és panaszt tett a Prófétánál (ﷺ), aki időről időre közbelépett, hogy rendbe hozza a dolgokat — de hiába. Ilyen körülmények között nyilatkoztatta ki Allah (ﷻ) a Prófétának (ﷺ), hogy engedje meg Zaydnak a válást, ő maga pedig vegye feleségül Zaynabot. A Prófétát (ﷺ) nagy nyugtalanság fogta el e különös parancs miatt, és magában tartotta, attól félve, hogy az emberek azt mondják majd: a fia feleségét vette el, ami nem volt megengedett. Csakhogy Allah (ﷻ) éppen azt akarta lerombolni, amit az emberek mondtak volna; elkerülhetetlen volt, hogy a Próféta (ﷺ) végrehajtsa a parancsot — és talán remélte, hogy Allah (ﷻ) felmenti alóla. Sőt még tovább is ment: amikor Zayd a feleségére panaszkodva jött hozzá, és elmondta, hogy el akar válni tőle, a Próféta (ﷺ) így szólt hozzá:
+
+(Tartsd meg magadnak feleségedet, és féld Allahot.) (Korán 33: 37)
+
+Erre kinyilatkoztatás érkezett, amely megrótta a Prófétát (ﷺ) habozásáért, sürgette, hogy teljesítse Zayd kívánságát a feleségétől való különválásra, és kötelezte, hogy ő maga vegye feleségül az asszonyt — még ha az emberek fel is emelik szavukat, mondván, hogy a fia elvált asszonyát vette el. Az örökbefogadás ugyanis a hamisítás egy formája volt, amelyet az arabok hagyományként őriztek, és amelynek elhagyására rá kellett kényszeríteni őket. Hadd legyen a Próféta (ﷺ) tette — önmagával és a hozzá közel állókkal — az első, amely lerombolja ezen elterjedt hagyomány *jahilīyáját*.
+
+Ez a történet, ahogyan Allah (ﷻ) elbeszélni kezdte:
+
+(És amikor azt mondtad annak, aki iránt Allah kegyet gyakorolt, és aki iránt te is kegyet gyakoroltál: Tartsd meg magadnak feleségedet, és féld Allahot. És elmédben rejtetted azt, amit Allah napvilágra akart hozni, és félted az embereket, holott Allahnak több joga van arra, hogy Őt féld. Amikor aztán Zayd elvégezte vele szemben a szükséges formaságot [a válást], hozzád adtuk őt házasságban, hogy [ezentúl] ne legyen vétke a hívőknek fogadott fiaik feleségei dolgában, ha azok elvégezték velük szemben a szükséges formaságot [az elbocsátást]. Allah parancsának teljesülnie kell.) (Korán 33: 37)
+
+A különös ebben a történetben az, amit az együgyűek olcsó szerelmi drámaként és buja cselszövésként koholtak belőle. Azt állítják, hogy a Próféta (ﷺ) beleszeretett Zaynabba, és rejtegette érzéseit. Ám a dolog napvilágra került, és ő feleségül vette az asszonyt, miután az elvált. Azt is állítják, hogy a fent idézett āyāh első része azért érkezett, hogy megrója őt ezért az elfojtott érzésért. Mélységes megdöbbenéssel állunk e rémítő képtelenség és az igazság hazugsággal való leplezésének kísérlete előtt. Ki akadályozhatta volna meg Muhammadot (ﷺ) abban, hogy feleségül vegye Zaynabot, ha úgy akarta volna? Az unokatestvére volt, és ő maga adta feleségül egy férfihoz, aki iránt az asszony nem érzett szerelmet. Maga a Próféta (ﷺ) ragaszkodott ehhez a házassághoz, és minden tőle telhetőt megtett, hogy az asszonyt megbékítse vele. Vajon miután másnak adta, lettek volna szándékai vele?
+
+Nézzük most azokat az āyātokat, amelyekről azt állítják, hogy megrovást tartalmaznak a Próféta (ﷺ) számára. Azt mondják: az, amit magában tartott, és amit félt feltárni az emberek előtt, a Zaynab iránti szerelme volt. Más szóval — állításuk szerint — Allah (ﷻ) azért szidta meg, mert nem tárta fel ezt a szerelmet. Erkölcsi mérce-e az, hogy ha egy férfi szeret egy nőt, járjon körbe, és kürtölje világgá szerelmét — kivált, ha az történetesen abból a torz fajtából való, amikor a más feleségét szereti? Vajon megróna-e Allah (ﷻ) egy férfit azért, mert a más feleségét szereti, és ezt a szerelmet a szívébe rejti? Emelné-e a rangját, ha szerelmes verseket költene róla? Szemenszedett badarság ez, Allahra (ﷻ)! És ezzel a badarsággal akarják egyes ostoba emberek a Koránt magyarázni.
+
+Allah (ﷻ) senkit sem szid meg vakmerő szerelem rejtegetéséért. A történet tényei azok, amiket elmondtam. Amit a Próféta (ﷺ) a szívébe rejtett, az a rákényszerített házasság miatti aggodalma volt, késlekedése Allah parancsának végrehajtásában, és félelme attól a felzúdulástól, amelyet az emberek csapnak majd, amikor azt látják, hogy dédelgetett hagyományuk, az örökbefogadás leromboltatott. Allah (ﷻ) mindazonáltal megértette Prófétájával (ﷺ), hogy semmiféle képzelt ellenvetés nem tarthatja vissza parancsának végrehajtásától, és hogy neki — akárcsak az előtte járt prófétáknak — nincs más választása, mint hallani és engedelmeskedni.
+
+Ha visszatérsz a történetről szóló āyāhhoz, azt találod, hogy ezzel a kijelentéssel zárul: „Allah (ﷻ) parancsának teljesülnie kell", majd két olyan āyāh követi, amely megerősíti ezt az értelmezést:
+
+(Nem érheti szemrehányás a Prófétát abban, amit Allah kötelességévé tett. Ez volt Allah eljárása azokkal, akik korábban éltek — és Allah parancsa elrendelt végzés —, akik Allah üzeneteit közvetítették és félték Őt, és nem féltek senkitől, csak Allahtól. Allah pontosan számon tart mindent.) (Korán 33: 38–39)
+
+Amikor meg akarsz nyugtatni valakit, azt mondod: (Ne félj senkitől, csak Allahtól.) Nem akkor mondod ezt neki, amikor bűntett elkövetésében van, hanem csak akkor, amikor nagy erényű, nemes tettre készül, amely ütközik az örökölt hagyományokkal. Ezekből az āyātokból világos, hogy Allah (ﷻ) nem arra biztatta Prófétáját, hogy fülig szerelmes legyen egy asszonyba, hanem arra sarkallta: szedje össze bátorságát egy erős támogatást élvező rossz szokás lerombolására, és ő maga is vesse alá magát ennek. Ezért mondja Allah (ﷻ) közvetlenül ezután:
+
+(Muhammad nem atyja egyetlen férfinak sem közületek, hanem Allah küldötte és a próféták pecsétje. Allahnak mindenről tudomása van.) (Korán 33: 40)
+
+Ami a többi hölgyet illeti, akiket a Próféta (ﷺ) feleségül vett: nemes származásúak voltak, és akár királyok leányainak is tekinthetők. Bizonyos körülmények veszélynek tették ki őket, amikor felvették az iszlámot — és ezt a *da'wa* vezetője nem engedhette meg magának, hogy figyelmen kívül hagyja.
+
+Umm Ḥabībah Abū Sufyānnak, a Quraish főnökének leánya volt — azé, aki az iszlám elleni húszéves háborúban a Quraish vezére volt. Umm Ḥabībah felvette az iszlámot, dacolva apjával és törzsével Allah (ﷻ) ügyéért, és Makkából — ahol apja uralkodott — Abesszíniába vándorolt ki. Gondolod, hogy a Próféta (ﷺ) férje halála után az idő viszontagságaira hagyhatta volna ezt a hölgyet? Feleségévé tette, hogy megtisztelje őt, és elismerje áldozatait Allah (ﷻ) ügyéért.
+
+Ṣafīyah Ḥuyayynak, a zsidók királyának leánya volt. Apja, fivére és férje elpusztult az iszlám és a zsidóság közötti összecsapásban, ő pedig egy katonának jutott osztályrészül, aki csak annyit tudott, hogy hadifogoly, akivel úgy bánhat, ahogyan jónak látja. Ha a Próféta (ﷺ) megkönyörült rajta és szabadságot adott neki, enyhítette sebeit, és házassággal tisztelte meg múltját — érheti-e ezért gáncs?
+
+Juwayrīyah Al-Ḥārithnak, a Banū al Muṣṭaliq főnökének leánya volt. Törzse vereséget szenvedett a muszlimoktól, és mindnyájan hadifogságba estek. A Próféta (ﷺ) azzal vigasztalta meg a lesújtott vezért, hogy feleségül vette leányát, hogy ezzel is megtanítsa a muszlimoknak, miként kell nemesen és nagylelkűen viselkedniük. Amit ezzel kívánt, be is következett: a törzs — férfiak és nők — visszanyerte szabadságát, amikor a muszlimokat bántani kezdte, hogy a Próféta rokonságát hadifogolyként tartják.
+
+Azoknak, akik keveset tudnak a *sīráról*, eszükbe juthat, hogy a Próféta (ﷺ) élete bőséges ételen, italon és egyéb élvezeteken nyugodott. A kép, amely egy több feleséggel bíró férfiról azonnal felmerülhet bennük: anyagi jólétben úszik, asztala roskadozik mindenféle hústól, gyümölcstől és részegítő italoktól, miközben elbűvölő nők társaságát élvezi, és minden napja gondtalan. Ez többé-kevésbé annak a képe lehet, ami a királyok palotáiban zajlik. Óvakodj azonban attól, hogy bolondot csinálj magadból, azt gondolva, hogy e fényűző életből akár szemernyi is megtalálható volt a Próféta házaiban. Fordítsd gyorsan elmédet egy másik, egyszerű életforma felé, hogy olyan embert láss benne, akinek minden gondja egyedül az igazság volt; aki fáradozott annak megismerésén, és a végsőkig megfeszítette erejét, hogy az embereket köréje gyűjtse; akinek öröme azokban a lépésekben volt, amelyek céljához közelebb vitték, és a világi vágyaktól eltávolították.
+
+Ha a föld színéről kilőtt ágyúgolyók elérhetnék a távoli csillagokat, csak akkor közelíthetnék meg az élet kísértései Muhammad (ﷺ) szívét. Olyan ember volt ő, akit a Gondviselés kiválasztott és megtisztított, és így egy másik világban szárnyalt. Azt mondta:
+
+„Mi közöm nekem e világhoz? Olyan vagyok, mint az ember, aki megpihen egy fa árnyékában, azután felkel, és otthagyja."⁵
+
+Törekvései magasztos eszmények felé irányultak, és afelé, mi lesz az ember sorsa, amikor visszatér Allahhoz (ﷻ): „A paradicsomban egy ostorcsapásnyi hely jobb, mint a világ és mindaz, amit magában foglal; és egy reggeli vagy esti út Allah (ﷻ) ösvényén jobb, mint a világ és mindaz, amit magában foglal."⁶
+
+Élete feleségeivel olyan önmegtartóztató út volt, amelyet senki nem tudott volna elviselni. Bukhārī közölte Anas ibn Mālik (رضي الله عنه) tekintélyére hivatkozva: „Nem tudok arról, hogy a Próféta (ﷺ) vékony lepénykenyeret látott volna, mielőtt eltávozott, és soha nem látott saját szemével *sumaytot* sem."
+
+'Ā'ishah így beszélte el: „Néztük az újholdat — három újhold két hónap alatt —, és a Próféta (ﷺ) házaiban nem gyúlt tűz (ételkészítéshez)."
+
+'Urwah ibn al Zubayr megkérdezte tőle: „Mit adott nektek enni?"
+
+Így felelt: „A két feketét: datolyát és vizet."
+
+'Ā'ishah azt is elbeszélte: „Allah Küldötte (ﷺ) meghalt, és szekrényemben nem volt hús, amit ehettem volna. Csak egy darab árpakenyér volt az egyik polcomon."
+
+Ami az ágyat illeti, amelyen aludt: bőrből készült, rosttal kitömve.⁷ Elhelyezkedett rajta, és alig melegítette át kissé, már szólt a kakas, és ő felkelt, készülődve a hajnali imára.
+
+E leírással nem azt akarjuk mondani, hogy az iszlám irtózik az élet javaitól, vagy hogy a Próféta (ﷺ) példát mutatott az embereknek azok elhagyására. A *saría* világos és egyértelmű ebben a kérdésben. Csupán egy olyan ember életének tényeit tárjuk fel, akiben nem volt vágy azok iránt a dolgok iránt, amelyekért az emberek halomra ölik egymást. Az ember játékot ad kisgyermekeinek, amelyet azok élveznek, és amelyen összevesznek egymással — de férfimivoltának természete távol tartja őt a gyermekek játékától. Egyes tudósok és gondolkodók megfeledkeznek a nekik készített ételről — nem megvetésből, hanem mert gondolataik teljesen elmerülnek tárgyukban. Szinte látom a Prófétát (ﷺ), amint a múló élvezeteken marakodó embertömegeket nézve csóválja a fejét, és így szól: „Ha tudnátok, amit én tudok, keveset nevetnétek és sokat sírnátok."⁸ Majd Allahhoz (ﷻ) fohászkodik: „Ó, Allah (ﷻ), adj Muhammad (ﷺ) családjának táplálékot!"⁹ Az értelem megcsúfolása és kiáltó igazságtalanság a történelemmel szemben, ha egy kívülálló azt látja vagy hallja, hogy Muhammadnak (ﷺ) sok felesége volt, és ebből azt a következtetést vonja le, hogy ez az élvezetekben való elmerülés és a vágy kielégítésének bizonyítéka.
+
+Másfelől senki se gondolja, hogy ez az egyszerű élet azért volt, mert nem telt jobbra, és hogy ha Muhammadnak (ﷺ) alkalma nyílt volna fényűző életmódra, élvezte volna a jólétet és vagyont halmozott volna fel, és feleségei ugyanígy élvezték volna a jólétet, és ugyanígy vagyont halmoztak volna. Nem. Hatalmában állt volna megtartani magának valamennyit abból a vagyonból, amely a kezén átment, és amely fölött rendelkezett. Ám a nagylelkű Próféta felette állt a kicsinyes élvezetek vágyának, mert szemét magasabb célra függesztette. Ha a föld kincseit kapta volna meg, első gondolata az lett volna, hogy mindenekelőtt az emberek szükségleteit elégítse ki.
+
+Abū Dharr mondta:
+
+„A Prófétával (ﷺ) sétáltam a Madīna közelében fekvő lávamezőn. Uḥud felé fordultunk, és ő megszólalt: »Abū Dharr!«
+
+Feleltem neki, ő pedig folytatta: »Nem szeretném, ha akkora aranyam volna, mint az Uḥud hegye, és három nap múltán még egyetlen dinár is a birtokomban maradna belőle — kivéve egy keveset adósság törlesztésére. Szétosztanám Allah (ﷻ) szolgái között, így és így.« Jobbjára, baljára és a háta mögé mutatott. Ment egy darabig, majd így szólt: »Akiknek több jut, azoknak lesz kevesebb az Ítélet Napján — kivéve azokat, akik így meg így tesznek« — jobbjára, baljára és a háta mögé mutatott —, »és bizony kevesen vannak ilyenek.«"¹⁰
+
+A legízletesebb étel sem szerez örömet a jóllakott ember szájában. A Próféta (ﷺ) a szívében volt jóllakott, és a világ csillogása, amely után mások siettek, egyetlen hajszálát sem tudta megmozdítani. Nem csoda hát, hogy amit kapott, szétosztotta a rászorulók és a várakozók között, míg az ő gazdagsága a szívében volt. Ez az a magatartás, amelyről Allah (ﷻ) szólt, amikor azt mondta:
+
+(És ne mereszd szemedet arra, aminek élvezetét egyes párjaiknak megadtuk — az evilági élet virágára, hogy azzal próbára tegyük őket. Urad gondoskodása jobb és maradandóbb. És hagyd meg népednek az istentiszteletet, és légy állhatatos abban. Nem kérünk tőled ellátást: Mi látunk el téged. És a jó vég az istenfélelemé.) (Korán 20: 131–132)
+
+A legtöbb, amire a Próféta (ﷺ) vágyott, az volt, hogy megmeneküljön a világ viszontagságaitól és az emberek igazságtalanságától, és hogy őt és családját ne alázza meg a szegénység. E szerint az elv szerint élt: „Ami kevés és elegendő, jobb annál, ami bőséges és elvon."¹¹ E kevés és elegendő határain belül kívánt szabad lenni az emberek szorításától, ezért így fohászkodott Allahhoz (ﷻ): „Allah, bizony Hozzád menekülök a szegénységtől, az éhségtől és a gyalázattól; attól, hogy igazságtalanságot tegyek [másokkal], vagy igazságtalanság érjen; s attól, hogy tudatlanul viselkedjem, vagy mások viselkedjenek tudatlanul velem."¹²
+
+Azt mondta: „Ó, Allah (ﷻ), Tőled kérek vezérlést, istenfélelmet, egészséget és megelégedettséget."¹³ Ez a szigorú életmód olyan nehézségek elviselésére kényszerítette feleségeit, amilyeneket sohasem ismertek. Legtöbbjük fényűző otthonból jött, és életük első szakaszában hozzászokott a jó ételhez és a mindenből való bőséghez — akár apjánál, akár korábbi férjénél. Nem volt hát meglepő, hogy nyugtalankodni kezdtek ez új élet miatt, és könnyebbséget, kényelmet kerestek. Összegyűltek — apró nézeteltéréseik ellenére —, hogy járandóságuk fölemelését kérjék a Prófétától (ﷺ). Hiszen az arabok legnagyobb emberének házában éltek, életmódjuknak tehát rangjukhoz illőnek kellene lennie. E követelésekben 'Ā'ishah és Ḥafṣah vitte a vezető szerepet, a többiek pedig követték őket.
+
+A Prófétát (ﷺ) mélyen elkeserítette ez a fellépés. Ő volt az első muszlim a föld színén, és a hívők — férfiak és nők — szeme minden irányból rá szegeződött, miközben egy olyan nemzet építésén munkálkodott, amelynek lesben álló ellenséghadak között kellett átküzdenie magát az útján. Ha az ő háza népe nem a körülzárt harcos életét éli, hogyan tarthatta volna fenn a küzdelmet, és hogyan bízhatta volna ummája férfiaira és asszonyaira, hogy mindenről lemondjanak, csak hogy e vallást előbbre vigyék, míg az biztonságba nem ér? Ezért a Próféta (ﷺ) megtagadta feleségei kérésének teljesítését, hogy fölemelje járandóságukat. Rosszallása jeléül, amiért ilyen kéréssel álltak elő, úgy döntött, hogy távol tartja magát tőlük; az emberek között pedig elterjedt a hír, hogy a Próféta (ﷺ) végleg elvált feleségeitől.
+
+Abū Bakr (رضي الله عنه) és 'Umar (رضي الله عنه) megriadt e hírre, hiszen mindketten apósai voltak a Prófétának (ﷺ). Elmentek hozzá, és bebocsátást kértek, hogy megbizonyosodjanak a tényekről. Belépve némán találták őt, feleségeit pedig körülötte, csüggedten. 'Umar (رضي الله عنه) megkérdezte, elvált-e feleségeitől, és ő azt felelte: nem.
+
+A nyomott légkör azonban továbbra is súlyosan ült a helyen, ezért 'Umar (رضي الله عنه) elhatározta, hogy szól a Prófétához (ﷺ), és megnevetteti. Így szólt: „Ó, Allah (ﷻ) Küldötte, láttad volna Zayd (رضي الله عنه) leányát (a saját feleségét), amikor az imént járandósága fölemelését kérte tőlem — és én nyakon ütöttem!"
+
+A Próféta (ﷺ) úgy nevetett, hogy kilátszottak a fogai, majd így szólt: „Ők a járandóságuk fölemelését kérik tőlem."
+
+Erre Abū Bakr (رضي الله عنه) odament 'Ā'ishahhoz, és megszidta, 'Umar (رضي الله عنه) pedig Ḥafṣahhoz. Mindketten ezt mondták: „Olyat kértek a Prófétától (ﷺ), amije nincs?"
+
+A Próféta (ﷺ) megtiltotta a két apának, hogy bármit tegyenek leányaikkal. Feleségei bűnbánatot mutattak.
+
+Azt mondták: „Allahra (ﷻ), ez után az ülés után nem kérünk Allah Küldöttétől (ﷺ) olyat, amije nincs."
+
+A Próféta (ﷺ) mindazonáltal egy hónapig távol maradt tőlük, míg őszintén meg nem bánták. Akkor Allah (ﷻ) kinyilatkoztatta a Sūrat al Aḥzāb āyātjait, amelyek azt kívánták tőlük: vagy a túlvilágot keresik egy olyan Prófétával (ﷺ), akinek ilyen az életmódja, vagy visszatérnek családjukhoz, ahol szép ruhákat és ízletes ételeket találnak.
+
+Ez a lecke elég volt ahhoz, hogy kitörölje elméjükből a vágyakozás utolsó nyomait is, amely nem jutott túl a heves kérlelés szakaszán. Mindnyájan azt választották, hogy a Prófétával (ﷺ) maradnak, az ő régi elve szerint: „ami kevés és elegendő, jobb annál, ami bőséges és elvon."¹⁴ Ezután mindannyian vele éltek a *dzsihád* és a *tahajjud*, az áldozat és a jótékonyság, az alázat és a szolgálat jegyében.
+
+(Ó, Próféta! Mondd feleségeidnek: ha az evilági életet és annak díszét kívánjátok, jöjjetek! Kielégítelek benneteket, és elbocsátalak titeket illő módon. Ha azonban Allahot és az Ő küldöttét és a túlvilági hajlékot kívánjátok, akkor íme, Allah hatalmas jutalmat készített a jóravalóknak közületek.) (Korán 33: 28–29)¹⁵
+
+Ők Allahot (ﷻ) és az Ő Küldöttét (ﷺ) és a túlvilági hajlékot választották, és úgy éltek a Prófétával (ﷺ), mint az igazság segítői, akik a jutalmat óhajtják. A prófétaság szolgálatában tanúsított ezen önmegtagadással és az önző vágyak semmibevételével Allah (ﷻ) felemelte rangjukat, és nem egy élvezetet kereső férfi feleségei lettek, hanem társak egy drága, erényes életben; és kiérdemelték a címet, amelyet Allah (ﷻ) adományozott nekik, amikor így szólt:
+
+(A Próféta közelebb áll a hívőkhöz, mint önmaguk, és feleségei [olyanok nekik, mint] anyáik.) (Korán 33: 6)
+
+E lelki anyaság nyomatékosítására a hívők anyáitól szigorú *ḥijāb* megtartását kívánták meg, és idegen még *maḥram*¹⁶ kíséretében sem találkozhatott velük. Minden kérdést, amelyet az iszlám dolgairól vagy világi ügyekről intéztek hozzájuk, függöny mögül kellett feltenni, és tilos volt bárkinek feleségül vennie bármelyiküket a Próféta (ﷺ) halála után. Ez a határozott törvény megálljt parancsolt azoknak a tolakodó és kellemetlen embereknek, akik a vezetők otthonait látogatják, ahogyan megálljt parancsolt azoknak is, akik e hölgyekkel kötendő házasságtól reméltek dicsőséget. Semmi különöset nem találunk ebben a törvényben, hiszen némely férfi már olyan vakmerővé vált, hogy egyikük ki is mondta: „Ha a Próféta (ﷺ) meghal, elveszem 'Ā'ishahot!" A Prófétának (ﷺ) joga volt ahhoz, hogy érzéseit óvják, és hogy őt és családját megvédjék az ilyen ostoba beduinoktól.
+
+A Prófétának (ﷺ) feleségeitől nem született fia. Leányai, akik Khadījahtól születtek, Fāṭimah kivételével mind meghaltak még az ő életében. Fāṭimah néhány hónappal élte túl, és családjából ő követte elsőként a sírba. Fia született azonban Māriyától, akit Alexandria pátriárkája küldött neki ajándékul, és aki felvette az iszlámot. A fiút Ibrāhīmnak nevezte el ősatyja, a próféták atyja után. A gyermek azonban nem élt sokáig: csecsemőkorában meghalt.
+
+Anas (رضي الله عنه) mondta: „Láttam, amint Allah Küldötte (ﷺ) előtt kilehelte lelkét. A Próféta (ﷺ) szeme könnybe lábadt, és így szólt: »A szem könnyezik, és a szív szomorú, de nem mondunk mást, csak ami Urunknak tetszik — és szomorkodunk érted, Ibrāhīm.«"¹⁷
+
+Úgy esett, hogy ugyanazon a napon napfogyatkozás volt, és az emberek azt mondták: a Próféta (ﷺ) fiának halála miatt van. Erre a Próféta (ﷺ) kiállt az emberek közé, és így szólt: „Ó, emberek! A nap és a hold Allah (ﷻ) jelei közül valók, és nem fogyatkoznak el egyetlen ember halálakor sem. Amikor csak látjátok, hogy bekövetkezik, imádkozzatok (*ṣalāh*), míg a fogyatkozás el nem múlik."¹⁸
+
+## Megszilárdulás
+
+A *jahilīyah* pora úgy tisztult el az Arab-félsziget látóhatáráról, ahogyan az éjszaka maradványai oszlanak el a hajnal sugarainak érkeztével. A lelkiismeretesek elméje istenfélelemre ébredt, és az új hittől életre kelt sivatag levegőjét átjárta az egyedül Allahba (ﷻ) vetett remény hangja. A Korán tanítói útnak indultak északra és délre, recitálva a Könyv āyātjait, megszilárdítva Allah (ﷻ) törvényeit, és megtanítva az arabokat arra, amit sem ők, sem atyáik nem tudtak.
+
+E félszigetnek soha nem volt ilyen áldott újjászületése, és történelme nem látott ilyen páratlan napokat, amióta civilizáció támadt rajta. A Próféta (ﷺ) Madīnában fogadta a küldöttségeket, és úgy búcsúztatta el őket, hogy előbb átitatta őket valamennyivel a saját szelleméből, és útravalóul adta nekik káprázatos bölcsességét. Visszatértek oda, ahonnan jöttek, hogy az iszlám erődítményeit építsék fel azokon a távoli helyeken, és tiszta lapokat nyissanak törzseik történetében.
+
+Nem érte be azonban a vendégek fogadásával. Legközelebbi társait délre is elküldte, hogy növeljék az iszlám befolyását azokon a részeken. Jemenben és környékén sűrűn lakott törzsek éltek, és a korábbi Írások népe kiterjedt tevékenységet folytatott közöttük. Az iszlám valóban elterjedt és gyökeret vert ott, Perzsia árnyéka pedig úgy zsugorodott össze, hogy nem volt többé visszaút számára. E távoli vidékek azonban állandó figyelmet igényeltek, ezért elküldte Khālid ibn al-Walīdot, majd Mu'ādh ibn Jabalt, Abū Mūsa al Ash'arīt és 'Alīt.¹⁹
+
+Mintha egy rejtett hang azt súgta volna a Prófétának (ﷺ), hogy halála közeleg: útmutatásokat adott Mu'ādhnak, mielőtt útnak indította, és lova mellett gyalogolt, miközben az Jemenbe indult. Így szólt: „Mu'ādh, talán nem találkozol velem többé ez év után, és talán elhaladsz majd e mecsetem és sírom mellett." Mu'ādh sírva fakadt a gondolatra, hogy el kell válnia Allah Küldöttétől (ﷺ). Azután a Próféta (ﷺ) megfordult, Madīna felé nézett, és kijelentette: „A hozzám legközelebb állók az istenfélők, bárkik legyenek és bárhol legyenek is."²⁰ Pontosan úgy történt, ahogyan a Próféta (ﷺ) jelezte: Mu'ādh Jemenben maradt a búcsúzarándoklatig, a Próféta (ﷺ) halála pedig nyolcvanegy nappal a Ḥajj után következett be.
+
+A Jemen iránti aggodalom indokolt volt. A Banū Ḥanīfában két trónkövetelő jelent meg, akik prófétaságot igényeltek maguknak, noha egyikükben sem volt meg semmi azokból a férfias jellemvonásokból vagy a jóság jeleiből, amelyek akár egy maroknyi embert vonzhattak volna az oldalukra.
+
+Mindazonáltal a vak elfogultság betegsége a tömegek nagy részével azt mondatta: „Tudjuk, hogy Musaylimah hazug; de Rabī'ah hazugja jobb, mint Muḍar igazmondója." A hamis próféták szította viszály lángolt egy ideig, míg a *mudzsáhidok* el nem oltották, és Musaylimah meg a hozzá hasonlók prófétasága úgy tűnt el, ahogyan a juhok vizelete tűnik el a föld színén.
+
+## A búcsúzarándoklat
+
+A Próféta (ﷺ) kihirdette szándékát, hogy elvégzi a zarándoklatot, hogy aki kívánja, elkísérhesse. Dhul Qi'dah vége felé hagyta el Madīnát, miután Abū Dajānahot bízta meg a város irányításával.²¹ A Ḥajj ez alkalommal más volt, mint amihez az arabok a *jahilīyah* napjaiban hozzászoktak. A bálványimádókkal kötött szerződések lejártak, és tilos volt belépniük a Szent Mecsetbe. Így minden küldöttség, amely eljött, egyistenhívőkből állt, akik Allahon (ﷻ) kívül senkit sem imádtak. Annak tudatában jöttek, hogy ebben az évben vezetőjük a zarándoklaton és szertartásaik tanítója nem más lesz, mint maga a Próféta (ﷺ).
+
+A nyüzsgő ezreket nézve, amint Allah (ﷻ) hívásának engedve siettek, hogy engedelmeskedjenek Neki, a Próféta (ﷺ) szíve megelégedéssel telt el, hogy alávetették magukat az igazságnak. Elhatározta, hogy lelkükbe ülteti a hit alapjait; hogy ez áldott gyülekezés alkalmát felhasználva eloszlassa a *jahilīyah* utolsó maradványait is, amelyek elméjükben még megbújhattak; és hogy nyomatékosítsa azokat az erkölcsöket, kapcsolatokat és törvényeket, amelyek megszilárdításához az iszlám ragaszkodott. A következő átfogó beszédet mondta el.²²
+
+„Ó, emberek, hallgassátok meg, amit mondok, mert nem tudom, találkozom-e még veletek ez év után.
+
+Ó, emberek, bizony életetek és javaitok sérthetetlenek egymás számára, míg Uratokkal nem találkoztok — éppúgy, ahogyan sérthetetlen ez a napotok és ez a hónapotok. Bizony találkozni fogtok Uratokkal, és Ő megkérdez benneteket tetteitekről. Én átadtam az üzenetet.
+
+Akire rábíztak valamit, adja vissza annak, aki rábízta. A kamat eltöröltetik, de tőkétek a tiétek marad: nem tesztek igazságtalanságot, és titeket sem ér igazságtalanság. Allah (ﷻ) úgy rendelkezett, hogy ne legyen kamat, és Al-'Abbās ibn 'Abdul Muṭṭalib minden kamata eltöröltetik.
+
+És bizony a *jahilīyah* napjainak minden vérbosszúja eltöröltetik, és vérbosszúitok közül az első, amelyet elengedek, Rabī'ah ibn al Ḥārith ibn 'Abdul Muṭṭālib vére, akit a Banū Layth nevelt fel, és a Hudhayl ölt meg. Ez az első a *jahilīyah* vérbosszúi közül, amellyel kezdem.
+
+Továbbá, ó, emberek: a Sátán immár örökre letett arról, hogy ezen a földeteken imádják. Ha azonban az imádatnál kisebb dolgokban engedelmeskednek neki, azzal is elégedett lesz — olyan tetteitekkel, amelyeket csekélységnek tartotok. Óvakodjatok hát tőle vallásotok dolgában. Ó, emberek:
+
+([A szent hónap] elhalasztása csak a hitetlenség tetézése, amellyel a hitetlenek tévelygésbe vitetnek; egyik évben megengedik, a másik évben tiltottá teszik, hogy kiegyenlítsék a hónapok számát, amelyeket Allah megszentelt, és így megengedik azt, amit Allah megtiltott.) (Korán 9: 37)
+
+„Az idő betöltötte körforgását, és olyan, amilyen azon a napon volt, amikor Allah (ﷻ) megteremtette az egeket és a földet. Bizony, a hónapok száma Allahnál (ﷻ) tizenkettő, ezek közül négy szent: három egymást követő hónap, és a Rajab, amely Jumādā és Sha'bān között van."
+
+„Továbbá, ó, emberek: nektek jogaitok vannak feleségeitek fölött, és nekik jogaik vannak fölöttetek. A ti jogotok fölöttük az, hogy ne szennyezzék be ágyatokat, és ne kövessenek el semmiféle súlyos illetlenséget. Ha mégis megteszik, Allah (ﷻ) megengedte nektek, hogy elhagyjátok ágyukat, és megüssétek őket — nem kegyetlenül. Ha azonban felhagynak vele, joguk van ételükhöz és ruházatukhoz, méltányosan. Bánjatok jól az asszonyokkal, mert ők foglyok a ti kezetekben, és semmijük sincs önmaguknak. Csak Allah (ﷻ) rátok bízott zálogaként vettétek őket, és Allah (ﷻ) szavával tettétek őket magatok számára megengedetté. Értsétek hát meg, amit mondok, ó, emberek, mert világosan szóltam."
+
+„Olyasmit hagytam nálatok, amihez ha szilárdan ragaszkodtok, soha nem tévelyedtek el — világos dolgot: Allah (ﷻ) Könyvét és az Ő Prófétájának (ﷺ) Szunnáját. Ó, emberek, hallgassátok meg, amit mondok, és értsétek meg! Tudjátok meg, hogy minden muszlim a muszlim testvére, és hogy a muszlimok testvérek. A muszlimnak nem megengedett a testvére vagyonából semmi, csak amit az a szíve jóságából ad neki. Ne tegyetek hát igazságtalanságot önmagatok ellen. Ó, Allah (ﷻ), átadtam-e üzenetedet, amelyért küldettem?"
+
+Mindnyájan azt mondták: „Igen, Allahra (ﷻ)!" — a Próféta (ﷺ) pedig így szólt: „Ó, Allah (ﷻ), légy tanú!"
+
+Ibn Isḥāq azt mondja, hogy az az ember, aki a Próféta (ﷺ) szavait a sokasághoz továbbította, Rabī'ah ibn Umayyah ibn Khalaf volt.
+
+A Próféta (ﷺ) azt mondta neki: „Mondd: Ó, emberek, a Küldött (ﷺ) azt kérdezi: tudjátok-e, melyik hónap ez?" Ő elmondta, azok pedig azt felelték: a sérthetetlen hónap. Erre így szólt: „Mondd meg nekik, hogy Allah (ﷻ) sérthetetlenné tette vérüket és javaikat, míg Urukkal nem találkoznak — éppúgy, ahogyan sérthetetlen ez a hónapjuk." Azután azt mondta: „Mondd: Ó, emberek, Allah (ﷻ) Küldötte azt kérdezi: tudjátok-e, melyik város ez?" Ő elmondta, azok pedig azt felelték: a sérthetetlen város. Erre így szólt: „Mondd meg nekik, hogy Allah (ﷻ) sérthetetlenné tette vérüket és javaikat, míg Urukkal nem találkoznak — éppúgy, ahogyan sérthetetlen ez a városuk." Azután azt mondta: „Mondd: Ó, emberek, Allah (ﷻ) Küldötte azt kérdezi: tudjátok-e, melyik nap ez?" Ő elmondta nekik, azok pedig azt felelték: „a Nagy Zarándoklat napja." Erre meghagyta neki, mondja meg, hogy Allah (ﷻ) sérthetetlenné tette vérüket és javaikat, míg Urukkal nem találkoznak — éppúgy, ahogyan sérthetetlen az a napjuk.
+
+A Próféta (ﷺ), aki oly sokat szenvedett az üzenet átadásáért, minden intelmét az emberek fülébe és szívébe akarta önteni. Tudta, hogy ez a gyülekezet egyedül megy majd tovább az élet vadonjában, ezért úgy kiáltott hozzájuk, ahogyan az apa kiáltja intő szavait vonaton induló fiának. Ez a jó szívű Próféta (ﷺ) mindig megújította a figyelmeztetés kiáltásait, valahányszor a Sátánnak az emberiség elleni cselvetéseitől tartott; felébresztette bennük a lelkiismeret legmélyebb érzéseit, majd útmutatást és tudást nyújtott. Ily módon elhárított minden kifogást, a végén pedig tanúságot vett ki az emberekből önmagukkal és önmagával szemben: hogy ők meghallgatták, és hogy ő átadta azt, amiért küldetett. Huszonhárom évet töltött azzal, hogy összekösse a földet az éggel: közel s távol élőknek recitálta a Könyv āyātjait, amelyekkel a Megbízható Lélek szállt le a szívére; lemosta a *jahilīyah* szennyét, amely mindent beszennyezett; és felnevelt az arabok közül egy nemzedéket, amely értette ezeket az igazságokat, és rajtuk keresztül értette a világot.
+
+Most az első olyan Ḥajjon vezette a zarándokokat, amely megtisztult a bálványimádástól, és teljesen Allahnak (ﷻ), az Egyetlennek, a Hatalmasnak volt szentelve. Tevéjéről szólt a sokasághoz, hogy nyomatékot adjon üzenete értelmének, amelyet elmagyarázott nekik, és hogy teljesítse a vállára helyezett kötelességet: az átadást és a világossá tételt. Ő volt a válasz arra a fohászra, amelyet a próféták atyja, Ibrāhīm (عليه السلام) mondott el, miközben a Ka'bát építette:
+
+(Urunk! Támassz közöttük küldöttet közülük, aki hirdeti nekik kinyilatkoztatásaidat, megtanítja nekik az Írást és a bölcsességet, és gyarapítja őket. Íme, Te vagy a Hatalmas, a Bölcs.) (Korán 2: 129)
+
+A Hatalmas és Bölcs az Ő kiváló neveivel nyilvánította ki magát e terület felett, és hatalmat és bölcsességet — vagy mondjuk így: erőt és irányítást — adott Muhammadnak (ﷺ), 'Abdullāh fiának, aki képes volt letörölni a gonoszság nyomait a föld színéről; és ami nem olvadt meg a türelemtől és a béketűréstől, az megadta magát a fegyelemnek és a hatalomnak. Ez az igazságosságot irgalommal vegyítő út úgy elsorvasztotta a hamisság birodalmát, hogy a *jahilīyah* és szennye eltűnt, és az iszlám megszilárdult. Ekkor az arabok — miután engedelmességre bírattak — a búcsúzarándoklaton meghallgatták az igazság végső hangját.
+
+E nagy zarándoklat 'Arafah napján nyilatkoztatta ki Allah (ﷻ) ezt az āyāhot:
+
+(E napon tökéletessé tettem számotokra vallásotokat, kiteljesítettem rajtatok kegyelmemet, és az iszlámot választottam nektek vallásul.) (Korán 5: 3)
+
+Amikor 'Umar (رضي الله عنه) meghallotta, sírva fakadt. Megkérdezték, mi késztette sírásra, és így felelt: „A tökéletesség után már csak fogyatkozás jöhet." Valószínűleg megérezte, hogy közel a Próféta (ﷺ) halála. Valóban, a Próféta (ﷺ) ajkára jött kifejezések némelyike arra utalt, hogy búcsúzik az élettől és az élőktől. A zarándoklaton elmondott beszédében is volt ezekből, és mások abból voltak kivehetők, amit a köréje gyűlt sokaságnak tanított.
+
+A sátán megkövezésénél például így szólt: „Vegyétek át tőlem zarándoklati szertartásaitokat, mert talán nem zarándokolok többé ez év után."²³
+
+## Madīnába
+
+Ḥajját befejezvén a Próféta (ﷺ) visszasietett Madīnába — nem pihenni, hanem hogy folytassa a küzdelem és a fáradozás életét Allah (ﷻ) ügyéért. A gonoszok soha nem engednek alkalmat a megpihenésre az igazság hordozóinak, azok pedig nem attól éledeznek fel, hogy felhagynak a tevékenységgel. Az ő útjuk-módjuk a munkához való erőgyűjtésre a kötelességtudat. Teljes nyugalmuk azon a napon jön el, amikor sikerük gyümölcsét szüretre éretten látják.
+
+A Próféta (ﷺ) azért tért haza, hogy újabb sereget mozgósítson a Róma elleni harcra. E birodalom gőgje nem engedte, hogy elismerje az iszlám jogát az élethez, és megölette követői közül mindazokat, akik a kezébe kerültek. Farwah ibn 'Umar al-Judhāmā a rómaiak nevében Ma'ānnak és környékének kormányzója volt Szíriában; [amikor felvette az iszlámot,] a rómaiak feldühödtek. Rátámadtak, elhurcolták, és börtönbe vetették, míg ki nem mondták rá a halálos ítéletet. Azután kivégezték egy palesztinai víznyerőhelyüknél, amelyet 'Afrānak hívtak, és fenn hagyták a keresztfán, elrettentésül mindenkinek, aki hasonlót akarna tenni.
+
+Azt mondják, hogy amikor felakasztani készültek, ezt a verspárt mondta el:
+
+*Mondjátok meg a muszlimok fejének, hogy átadtam Uramnak csontjaimat és véremet.*
+
+Így a Próféta (ﷺ) hatalmas sereget szerelt fel, Usāmah ibn Zaydot tette meg parancsnokává, és megparancsolta neki, hogy vezesse lovasságát a palesztinai Al-Balqā és Al Dārūm határvidékére, erőt mutatva a rómaiakkal szemben, és hogy visszatérjen az önbizalom a határvidéken élő arabok szívébe. Senki ne gondolhassa, hogy nincs, ami az Egyház túlkapásainak megálljt parancsolna, és hogy az iszlám elfogadása elkerülhetetlen halált jelent.
+
+Mivel Usāmah csak 18 éves volt, egyes tudatlan emberek megütköztek a kinevezésén, és kifogásolták, hogy ő vezesse a nála tapasztaltabb férfiakat. Nem kétséges, hogy a Próféta (ﷺ) az emberek kiválasztásában egyedül a rátermettséget nézte, és akit alkalmasnak talált egy tisztségre, azt oda is állította, korára való tekintet nélkül. A kor nem ad értelmet az ostobának, és a fiatalság nem von le semmit a jámbor erényéből.
+
+Így a bírálóknak válaszolva a Próféta (ﷺ) azt mondta: „Ha kifogásoljátok, hogy Usāmahot tettem parancsnokká, akkor bizonyára azt is kifogásoltátok korábban, hogy az apját tettem meg. Allahra (ﷻ), ő méltó volt arra a tisztségre, és utána a fia is méltó rá — és ő egyike volt a számomra legkedvesebb embereknek."²⁴
+
+Sokan sereglettek ezért Usāmah köré, és álltak be a seregébe — csakhogy a Próféta (ﷺ) betegségének nyugtalanító híre a menet elhalasztására kényszerítette őket, hogy lássák, mi lesz Allah rendelése ebben a dologban.
+
+## Lábjegyzetek
+
+¹ Nem ismerem. Hasonlót közölt Al Ṭabarānī Abū Ḥurairah (رضي الله عنه) tekintélyére hivatkozva, miszerint a Próféta (ﷺ) azt mondta: „Segítsétek gyermekeiteket, hogy bűntelenek legyenek. Aki akarja, kivonhatja az engedetlenséget gyermekéből." A lánc azonban ismeretlen elbeszélőket tartalmaz.
+
+² Al Nasā'īnak tulajdonítják, bár nem találtam az *Al Sunan al Ṣughrā*-ban; talán az *Al Sunan al Kubrā*-ban van, amely nincs kiadva.
+
+³ Itt más szövegezéssel idézik, de azonos értelemben. Abū Dawūd és mások hagyományozták Ibn 'Umar (رضي الله عنه) tekintélyére hivatkozva. Al Ḥākim hitelesítette. Muszlim hasonló változatot közölt más lánccal ugyanattól a tekintélytől.
+
+⁴ Mi úgy hisszük, hogy a többnejűség Allah (ﷻ) törvénye minden vallásban, a kereszténységet is beleértve, és emellett semmilyen ember alkotta törvénynek nem tulajdonítunk jelentőséget.
+
+⁵ Ép (ṣaḥīḥ): Al Tirmidhī, Ibn Mājah, Al-Ḥākim és Aḥmad hagyományozta Ibn Mas'ūd tekintélyére hivatkozva.
+
+⁶ Ép (ṣaḥīḥ): teljes egészében Al Bukhārī hagyományozta, második felét Muszlim, Sahl ibn Sa'd tekintélyére hivatkozva.
+
+⁷ Ép (ṣaḥīḥ): Bukhārī hagyományozta 'Ā'ishah tekintélyére hivatkozva.
+
+⁸ Ép (ṣaḥīḥ): Bukhārī hagyományozta Abū Hurairah (رضي الله عنه) és Anas (رضي الله عنه) tekintélyére hivatkozva.
+
+⁹ Ép (ṣaḥīḥ): Bukhārī és Muszlim hagyományozta. A szövegezés az utóbbié. Nem a fenti hadísz folytatása, ahogyan a szerző szavai sugallják: a kettő független hadísz, és nem tudni, melyik hangzott el előbb.
+
+¹⁰ Ép (ṣaḥīḥ): a két sejk hagyományozta Abū Dharr tekintélyére hivatkozva.
+
+¹¹ Ez a Próféta (ﷺ) hadísza, ép lánccal hagyományozva, és ezt illett volna megemlíteni. Aḥmad és Al Ṭayalisī hagyományozta Abū Dardā' tekintélyére hivatkozva. A lánc Muszlim kritériumai szerint ép.
+
+¹² Ép (ṣaḥīḥ): két hadíszból áll. Az első Abū Hurairah (رضي الله عنه) tekintélyére hivatkozik, az „éhség" és a „tudatlanul viselkedjem…" szavak nélkül. A másik Umm Salamah tekintélyére, aki azt mondta: „A Próféta (ﷺ) sohasem hagyta el otthonomat anélkül, hogy fejét az ég felé emelve így ne szólt volna: »Allah (ﷻ), Hozzád menekülök attól, hogy eltévelyedjem, vagy tévelygésbe vitessem; hogy elcsússzam, vagy elcsúsztassanak; hogy igazságtalanságot tegyek, vagy igazságtalanság érjen; s hogy tudatlanul viselkedjem, vagy mások viselkedjenek tudatlanul velem.«"
+
+¹³ Ép (ṣaḥīḥ), az „egészség" helyett „tisztaság" szóval; Muszlim, Al-Tirmidhī, Ibn Mājah és Aḥmad közölte Ibn Mas'ūd tekintélyére hivatkozva.
+
+¹⁴ Már szóltunk róla.
+
+¹⁵ Muszlim hagyományozta Jābir tekintélyére hivatkozva. Bukhārīnál rövidebb változata van 'Ā'ishah tekintélyére hivatkozva.
+
+¹⁶ *Maḥram*: közeli rokon, akivel a házasság tilos.
+
+¹⁷ Ép (ṣaḥīḥ): Bukhārī hagyományozta Anas (رضي الله عنه) tekintélyére hivatkozva.
+
+¹⁸ Ép (ṣaḥīḥ): a két sejk hagyományozta Al Mughīrah ibn Shubah tekintélyére hivatkozva. Számos Ṣaḥābītól is hagyományozzák ép láncokkal.
+
+¹⁹ E négy elküldése hiteles, és Bukhārī jegyezte fel.
+
+²⁰ Ép (ṣaḥīḥ): Aḥmad hagyományozta Mu'ādh tekintélyére hivatkozva.
+
+²¹ Ehhez az állításhoz nem találtam láncot. Ibn Hishām említi, de nem teljes bizonyossággal. Azt mondta: „Abū Dajānah al Sa'idīt tette meg Madīna felügyelőjévé, vagy — mint mondják — Ṣiba Ibn 'Arfataḥ a-Ghifārīt."
+
+²² Ibn Hishām hagyományozta Ibn Isḥāqtól lánc nélkül. Lánca szétszórt hadíszokban található, amelyek túl számosak ahhoz, hogy itt kifejtsük. A részletek megtalálhatók készülő könyvemben, A búcsúzarándoklatban, ha Allah (ﷻ) megengedi, hogy befejezzem.
+
+²³ Ép (ṣaḥīḥ): Muszlim és mások hagyományozták Jābir (رضي الله عنه) tekintélyére hivatkozva.
+
+²⁴ Ép (ṣaḥīḥ): Bukhārī hagyományozta 'Abdullāh ibn 'Umar tekintélyére hivatkozva.
+
+---

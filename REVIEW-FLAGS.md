@@ -110,6 +110,57 @@ appears exactly once (both ENG and HUN).
   "those whose hearts were to be reconciled" → **akiknek szívét meg kellett
   nyerni**; "Harnessing of the Bedouin" → **A beduinok megzabolázása**.
 
+## Chapter 8 (translated 2026-07-15)
+
+HUN ch8 starts at line 5855 ("# Nyolcadik fejezet"); ENG ch8 at line 5816.
+Footnotes 1–24 verified by script: list runs 1–24 in order, each body marker
+appears exactly once (both ENG and HUN).
+
+### 1. Honorific artifact — pass A, then B
+
+- ENG ~5978 and ~5980: **(عليه السلام)** after the Prophet's infant son
+  **Ibrāhīm** — the honorific belongs to the ancestor-prophet Ibrāhīm, not the
+  baby. **HUN omits it at these two spots.** The honorifics after the
+  prophet Ibrāhīm elsewhere in the chapter (ENG ~5866, ~6030) are correct
+  and kept. Check the PDF whether the print really has them on the infant.
+
+### 2. Names/typos where HUN silently normalized — pass A (verify against PDF)
+
+- "**Nooh**" (ENG ~5860) → HUN **Nūḥ**.
+- "**Abū Sufāyn**" (ENG ~5906) → HUN **Abū Sufyān**.
+- "**Mudar**" (ENG ~5996) → HUN **Muḍar**.
+- "**Banu Ḥanifah**" (ENG ~5994) → HUN **Banū Ḥanīfah**.
+- "**Abū Darda**" (ENG footnote 11) → HUN **Abū Dardā'**.
+
+### 3. Kept as printed (decide in review)
+
+- ENG ~5922: guests served "**Sumayt**" — likely *samīṭ* (roasted sheep);
+  HUN keeps "*sumaytot*". Check PDF / identify the dish.
+- ENG ~6048: "**Farwah ibn 'Umar al-Judhāmā**" — historically Farwah ibn
+  'Amr al-Judhāmī; kept as printed in both files. The same sentence is
+  garbled in ENG ("was governor or Ma'ān … on behalf of the Romans were
+  enraged") — **HUN bridges it with a bracketed insertion**
+  "[amikor felvette az iszlámot,]". Check the PDF for the actual sentence.
+- ENG footnote 21: "**Ṣiba Ibn 'Arfataḥ a-Ghifārī**" — usually Sibā' ibn
+  'Urfuṭah al-Ghifārī; kept as printed in both files.
+- ENG ~5850: inline Qur'ān 4:3 quote with no reference in print ("If you
+  fear that you cannot be just, then only one") — HUN likewise quotes it
+  without a (Korán 4: 3) reference: "Ha pedig féltek, hogy nem tudtok
+  igazságosak lenni, akkor csak egyet."
+- ENG ~5936 (Qur'ān 33: 28–29) is garbled in transcription ("Say to wives…
+  come! Shall content you") — HUN renders a readable version; verify the
+  printed wording in pass A.
+
+### 4. Ch8 coinages to sanity-check — pass B
+
+- *Shari'ah* → **saría** (older HUN material once used "iszlám törvény");
+- *Mujāhidin* → **mudzsáhidok**;
+- "Settling Down" → **Megszilárdulás**;
+- "The Farewell Pilgrimage" → **A búcsúzarándoklat**; "To Madīnah" →
+  **Madīnába**;
+- *'ulamā'* → ***'ulamā'* (vallástudósok)**;
+- "day of the Greater Pilgrimage" → **a Nagy Zarándoklat napja**.
+
 ## Carried over from earlier chapters
 
 - HUN ch3 footnote numbering intentionally differs from ENG: HUN ch3 has no ¹⁵ entry —

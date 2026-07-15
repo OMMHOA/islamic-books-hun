@@ -10,12 +10,13 @@ Muhammad Naṣiruddīn Al-Albānī).
 1. **English transcription** from the scanned PDF — ✅ done (2026-07-13, commit `edf317e`)
 2. **Verification / proofreading** of the transcription — ⬜ not started (commit is marked "unverified")
 3. **Hungarian translation** — 🟡 in progress in `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md`:
-   front matter + Chapters 1–7 done (ch7 landed 2026-07-15, ~124.5k words total).
-   **Next: Chapter 8** (ENG-full line 5816, "The Mothers of the Believers").
+   front matter + Chapters 1–8 done (ch8 landed 2026-07-15, ~132k words total).
+   **Next: Chapter 9** (ENG-full line 6112, "The Companion on High").
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third (its footnote numbering differs from ENG: HUN ch3 has no ¹⁵ entry by
    design — draft's ¹⁴ covers ENG ¹⁵; body markers match their footnote lists).
-   Ch6 footnotes 1–84 and ch7 footnotes 1–121 verified 1:1 body↔list by script.
+   Ch6 footnotes 1–84, ch7 footnotes 1–121 and ch8 footnotes 1–24 verified 1:1
+   body↔list by script.
    **Review flags (honorific artifacts in ENG, Qur'ān 7:115 misprint, Mekka/Makka +
    hadísz-grading terminology) are tracked in `REVIEW-FLAGS.md`** — add new flags there,
    not here.
