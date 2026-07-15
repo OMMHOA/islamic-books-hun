@@ -34,8 +34,12 @@ translator's note.
 
 ### 3. Terminology consistency — pass B ✅ DONE (2026-07-15 / -16)
 
-- **Mekka → Makka** — done (17 occurrences, all in the reused ch1 material; the Hungarian
-  word *Mekkora* "how big" was correctly left alone).
+- **Place name → `Mekka`** (the standard Hungarian spelling). History: on 2026-07-15 the
+  17 ch1 `Mekka` forms were first unified *to* `Makka` (matching the newer chapters); on
+  2026-07-16, per user decision, the whole book was reversed to **`Mekka`** (all `Makka*`
+  place forms incl. the `makkai` adjectives). The ordinary Hungarian word *mekkora*
+  ("how big") and unrelated words containing the substring *makk* (*bántalmakkal*,
+  *szidalmakkal*, *alkalmakkor*) were left alone.
 - **Ḥadīth grading map — FINAL decision (2026-07-16): ṣaḥīḥ → `hiteles` everywhere.**
   Both ENG "sound" and ENG "authentic" render the single grade ṣaḥīḥ, so they map to the
   **same** Hungarian word, **`hiteles`** — the standard term and the one the book's own

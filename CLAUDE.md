@@ -69,8 +69,8 @@ flagged and preserved the book's own misprints verbatim (e.g. "United Sates" p. 
 - Hungarian quotation marks: „…"
 - Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid,
   Mohamed → **Muhammad** (kept as in existing HUN files)
-- Place name: **Makka** (not Mekka); but leave the ordinary Hungarian word *mekkora*
-  ("how big") alone
+- Place name: **Mekka** (the standard Hungarian spelling); leave the ordinary Hungarian
+  word *mekkora* ("how big") alone
 - **Ḥadīth grading terms:** ṣaḥīḥ / "sound" / "authentic" → **hiteles** (one grade, one
   word — matches the glossary `*Ṣaḥīḥ*: hiteles hadísz`); ḥasan / "good" → **jó**;
   ḍaʿīf / "weak" → **gyenge**. Al-Albānī's `Ṣaḥīḥ:` footnote labels → `Hiteles (ṣaḥīḥ):`.
