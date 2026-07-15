@@ -22,9 +22,13 @@ Muhammad Naṣiruddīn Al-Albānī).
    Ch6 footnotes 1–84, ch7 footnotes 1–121, ch8 footnotes 1–24 and ch9 footnotes 1–18
    verified 1:1 body↔list by script. Note: ENG-full keeps ch9's footnotes at the very
    end of the book (after the Glossary); HUN places them right after ch9 per convention.
-   **Review flags (honorific artifacts in ENG, Qur'ān 7:115 misprint, Mekka/Makka +
-   hadísz-grading terminology) are tracked in `REVIEW-FLAGS.md`** — add new flags there,
-   not here.
+   **Review flags are tracked in `REVIEW-FLAGS.md`** — add new flags there, not here.
+   **Pass-B terminology done (2026-07-16):** place name unified to **Mekka**; ḥadīth
+   grade unified to **hiteles** (ṣaḥīḥ/sound/authentic — `ép` dropped as a grade); 6
+   glossary headwords Hungarianized (Dzsihád/Tauhid/Umma/Hidzsra/Saría/Kalifa). See
+   REVIEW-FLAGS §2–3. Still open: pass-A PDF checks (honorific artifacts, Qur'ān 7:115 &
+   other misprints), coinage sanity-checks, optional full glossary re-alphabetization,
+   and `README.md` links.
 
 ## Files
 
@@ -80,10 +84,14 @@ flagged and preserved the book's own misprints verbatim (e.g. "United Sates" p. 
 
 ## Next steps
 
-1. Verify/proofread `-ENG-full.md` against the PDF (it is committed but unverified)
-2. Continue the Hungarian translation from `-ENG-full.md` — use a stronger model than
-   Sonnet for translation quality (Opus/Fable); Sonnet was only used for OCR-style
-   transcription
-3. Decide fate of the legacy partial `-ENG.md` and the `chapter*-normalized.md`
-   working files once superseded
-4. Update `README.md` links when new translated chapters land
+The Hungarian **translation draft is complete** and pass-B **terminology** is done
+(see the pipeline note above). Remaining:
+
+1. **Pass A** — verify/proofread `-ENG-full.md` against the PDF (committed but unverified):
+   honorific artifacts, Qur'ān 7:115 & other misprints, garbled sentences (REVIEW-FLAGS
+   §1/§3/§4 per chapter).
+2. **Pass B leftovers** — coinage sanity-checks and the optional full Hungarian
+   re-alphabetization of the glossary (REVIEW-FLAGS §2 open sub-question).
+3. Update `README.md` links (currently stale) now that all chapters have landed.
+4. Decide fate of the legacy partial `-ENG.md` and the `chapter*-normalized.md` /
+   `-HUN-Chapter3…` / `-HUN-Khadijah.md` working files (superseded by the `-full` files).
