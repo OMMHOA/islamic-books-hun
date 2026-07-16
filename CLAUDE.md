@@ -31,8 +31,9 @@ Muhammad Naṣiruddīn Al-Albānī).
    image-only PDF, printed page = PDF page + 1); the honorific artifacts, both Qur'ān
    ref misprints (7:115→2:115, 49:24→48:24) and the garbled names/passages are all
    **English-edition errors** — 9 HUN fixes applied (see REVIEW-FLAGS "Arabic-original
-   corroboration"). Still open: pass-A ENG-print fidelity checks, the silently-correct
-   vs. translator's-note decision for the two Qur'ān refs, coinage sanity-checks,
+   corroboration"). The two misprinted refs keep the printed text + a translator's
+   note — `[helyesen: X: Y — a ford.]` (user decision 2026-07-16: never overwrite the
+   source). Still open: pass-A ENG-print fidelity checks, coinage sanity-checks,
    optional full glossary re-alphabetization, and `README.md` links.
 
 ## Files

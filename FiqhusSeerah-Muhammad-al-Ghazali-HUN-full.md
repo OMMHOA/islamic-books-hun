@@ -3296,7 +3296,7 @@ A hidzsra második évében tétetett kötelezővé a Ramaḍān-böjt és a zak
 
 (Nem az az igazságosság, hogy kelet vagy nyugat felé fordítjátok arcotokat, hanem az az igaz, aki hisz Allahban és az Utolsó Napban…") (Korán 2: 177)
 
-(Allahé a Kelet és a Nyugat, és bármerre fordultok, ott van Allah Orcája.) (Korán 7: 115)
+(Allahé a Kelet és a Nyugat, és bármerre fordultok, ott van Allah Orcája.) (Korán 7: 115 [helyesen: 2: 115 — a ford.])
 
 Allah (ﷻ) minden idők és helyek Ura, és az, hogy egy nemzetet meghatározott qibla felé irányít (ﷻ), nem jelenti azt, hogy térben korlátozott vagy istenségében fogyatékos volna. A muszlimok Ka'ba felé fordulása visszatérés volt az eredetihez, amelyet a próféták atyja, Ibrahīm (Ábrahám) (عليه السلام) épített. Az eredetihez való visszatérésben benne van azoknak az eltévelyedéseknek az elkerülése, amelyek későbbi időkben a tévelygő utódok — kiváltképp Izrael fiai — kezén történtek.
 
@@ -5620,7 +5620,7 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 
 ⁶ Mindez a Ḥudaybiyah-történet része Ibn Isḥāq szerint. Bukhārī hasonlóan beszélte el.
 
-⁷ Gyenge: Ibn Hishām beszélte el Ibn Isḥāqtól, és a lánc egyik tagját nem nevezte meg. Aḥmad rövidebb változatot beszélt el 'Abdullāh ibn Mughaffaltól hiteles lánccal, és abban a bálványimádók száma 30 ifjú. Az āyah (vers) — „És Ő az, Aki visszatartotta tőletek az emberek kezét, és visszatartotta a ti kezeteket tőlük…" (Korán 49: 24) — velük kapcsolatban nyilatkoztatott ki.
+⁷ Gyenge: Ibn Hishām beszélte el Ibn Isḥāqtól, és a lánc egyik tagját nem nevezte meg. Aḥmad rövidebb változatot beszélt el 'Abdullāh ibn Mughaffaltól hiteles lánccal, és abban a bálványimádók száma 30 ifjú. Az āyah (vers) — „És Ő az, Aki visszatartotta tőletek az emberek kezét, és visszatartotta a ti kezeteket tőlük…" (Korán 49: 24 [helyesen: 48: 24 — a ford.]) — velük kapcsolatban nyilatkoztatott ki.
 
 ⁸ A történet része, ahogyan Ibn Isḥāq elbeszélte.
 

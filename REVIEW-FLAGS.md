@@ -29,15 +29,19 @@ Check items off here as they're resolved; the per-chapter sections hold the deta
   honorific («يا ابن الخطاب»); ENG inserted it and HUN wrongly blesses the pagan father.
   → dropped in HUN → „Ó, Khaṭṭāb fia". ✅ APPLIED 2026-07-16.
 
-### B. Qur'ān reference misprints — verify, decide correct-silently vs translator's note
+### B. Qur'ān reference misprints — ✅ RESOLVED (2026-07-16)
 
-- [ ] **Ch6** line ~3339 — cited (Qur'ān 7: 115), verse is **2:115**. Kept as printed
-  in ENG + HUN. **AR-checked (p.190): Arabic prints [البقرة: ١١٥] = 2:115** — ENG-edition
-  misprint confirmed. (Note: Arabic quote order is 2:142 → 2:115 → 2:177; ENG reordered
-  to 142 → 177 → 115.) → only the correct-silently vs translator's-note decision remains.
-- [ ] **Ch7** fn7 ~5628 — cited (Qur'ān 49: 24), verse is **48:24**. Kept as printed
-  in ENG + HUN. **AR-checked (p.252 fn١): Arabic prints [الفتح: ٢٤] = 48:24** — ENG-edition
-  misprint confirmed. → only the correct-silently vs translator's-note decision remains.
+**Decision (user, 2026-07-16): keep the printed reference, add a translator's note —
+never overwrite the source.** Convention introduced: `[helyesen: X: Y — a ford.]`
+appended inside the reference parentheses.
+
+- [x] **Ch6** line ~3339 — cited (Qur'ān 7: 115), verse is **2:115**. **AR-checked
+  (p.190): Arabic prints [البقرة: ١١٥] = 2:115** — ENG-edition misprint. (Note: Arabic
+  quote order is 2:142 → 2:115 → 2:177; ENG reordered to 142 → 177 → 115.)
+  → HUN now reads „(Korán 7: 115 [helyesen: 2: 115 — a ford.])". ✅ APPLIED.
+- [x] **Ch7** fn7 ~5628 — cited (Qur'ān 49: 24), verse is **48:24**. **AR-checked
+  (p.252 fn١): Arabic prints [الفتح: ٢٤] = 48:24** — ENG-edition misprint.
+  → HUN now reads „(Korán 49: 24 [helyesen: 48: 24 — a ford.])". ✅ APPLIED.
 
 ### C. Names/typos HUN silently normalized — verify PDF spelling, then unify
 
@@ -183,7 +187,8 @@ Results (details + applied HUN fixes are in the Master checklist above):
 
 - **B misprints**: Arabic prints **[البقرة: ١١٥]** (p.190) and **[الفتح: ٢٤]** (p.252 fn١)
   — both flagged refs are ENG-edition misprints. Arabic quote order on p.190 is
-  2:142 → 2:115 → 2:177 (ENG reordered). Decision silently-correct vs note still open.
+  2:142 → 2:115 → 2:177 (ENG reordered). Decision: keep as printed + translator's note
+  (`[helyesen: X: Y — a ford.]`) — applied to both spots in HUN.
 - **A-ch7 Mūsā ibn ʿUqbah** (p.259): plain, no honorific — ENG insertion; HUN correct.
 - **A-ch8 infant Ibrāhīm** (p.347): plain «إبراهيم» / «يا إبراهيم» — ENG insertions;
   HUN correct.
