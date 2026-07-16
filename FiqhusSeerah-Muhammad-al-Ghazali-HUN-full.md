@@ -4336,7 +4336,7 @@ A Quraish így felelt: „Még ha nem is harci szándékkal jött, Istenre, akko
 
 Azután Makraz ibn Ḥafst küldték, és ő ugyanazzal a hírrel tért vissza, mint Badīl. Utánuk az aḥābīsh főnökét, Al-Halīs ibn 'Alqamát küldték.
 
-Amikor a Próféta (ﷺ) meglátta, így szólt: „Bizony, olyan nép közül jön, amely zavarban van. Hajtsátok ki elé az áldozati állatokat, hadd lássa őket."⁴ Amikor az meglátta a felé közeledő állatokat a vádi partja felől, még a Prófétával (ﷺ) való találkozás előtt visszatért a Quraishhoz — annak hatására, amit látott.
+Amikor a Próféta (ﷺ) meglátta, így szólt: „Bizony, olyan nép közül jön, amely istenfélő. Hajtsátok ki elé az áldozati állatokat, hadd lássa őket."⁴ Amikor az meglátta a felé közeledő állatokat a vádi partja felől, még a Prófétával (ﷺ) való találkozás előtt visszatért a Quraishhoz — annak hatására, amit látott.
 
 Amikor beszámolt nekik erről, azt mondták: „Ülj le! Tudatlan beduin vagy."
 
@@ -4794,7 +4794,7 @@ Erről az 'umráról Allah (ﷻ) a következő āyát (verset) nyilatkoztatta ki
 
 ## A mu'tai hadjárat
 
-A muszlimokat elszomorította a Buṣra kormányzójához menesztett követük halála és a dicstelen bánásmód, amelyben részesült. Bubayl ibn 'Amr hátrakötözte kezeit, előretaszította, azután levágta a fejét. Ő volt az egyetlen megölt követ a Próféta (ﷺ) által küldött számos küldöttség tagjai közül. A muszlimok ezt súlyos sértésnek érezték, hiszen követeket nem szokás megölni. Elhatározták hát, hogy megtorló lépéseket tesznek, és megleckéztetik azt a bűnös kormányzót, aki a rómaiak nevében tette, amit tett.
+A muszlimokat elszomorította a Buṣra kormányzójához menesztett követük halála és a dicstelen bánásmód, amelyben részesült. Shuraḥbīl ibn 'Amr hátrakötözte kezeit, előretaszította, azután levágta a fejét. Ő volt az egyetlen megölt követ a Próféta (ﷺ) által küldött számos küldöttség tagjai közül. A muszlimok ezt súlyos sértésnek érezték, hiszen követeket nem szokás megölni. Elhatározták hát, hogy megtorló lépéseket tesznek, és megleckéztetik azt a bűnös kormányzót, aki a rómaiak nevében tette, amit tett.
 
 A muszlimok olyan sereget mozgósítottak, amely hozzájuk képest nagynak számított, mert háromezer harcost tett ki. A Próféta (ﷺ) elrendezte a sereg vezéreit: Zayd ibn Ḥārithát állította az élre. Megparancsolta, hogy ha Zayd elesik, Ja'far ibn Abī Ṭālib vegye át a vezetést, és ha Ja'far elesik, akkor 'Abdullāh ibn Rawāḥah. A sereg elindult Szíria dombjai felé, de a hír már megelőzte a rómaiaknál. Bizonyára nagy félelem övezte a muszlimok hírnevét és katonai erejét, mert a rómaiak hatalmas sereg mozgósításába fogtak. Amikor a muszlimok Ma'ānba értek, megtudták, hogy százezer római várja őket, és további százezer keresztény arab. Ilyen hatalmas sereget megtámadni súlyos kockázat volt, ezért a muszlimok két éjszakát töltöttek Ma'ānban, azt fontolgatva, mit tegyenek. Némelyek úgy gondolták, írniuk kellene a Prófétának (ﷺ), tudatva vele az ellenséges erők nagyságát, hogy vagy erősítést küldjön, vagy más lehetőség mellett döntsön.
 
@@ -6184,7 +6184,7 @@ Felállt egy másik férfi, és így szólt: „Allahra (ﷻ), ó, Allah Küldö
 
 'Umar (رضي الله عنه) felállt, és így szólt: „Szégyent hoztál magadra."
 
-Ekkor a Próféta (ﷺ) így szólt: „Ó, Khaṭṭāb (رضي الله عنه) fia, a világ szégyene könnyebb, mint a túlvilág szégyene. Ó, Allah (ﷻ), adj neki igazmondást és hitet, és fordítsd ügyeit a jó felé."³
+Ekkor a Próféta (ﷺ) így szólt: „Ó, Khaṭṭāb fia, a világ szégyene könnyebb, mint a túlvilág szégyene. Ó, Allah (ﷻ), adj neki igazmondást és hitet, és fordítsd ügyeit a jó felé."³
 
 A Próféta (ﷺ) visszatért a mecset melletti házába, hogy a betegágyban aludjon, jóllehet sohasem szokott lefeküdni, sem nyugalmat lelni benne. Sok ügy várt figyelmére, de a betegség terhei ágyhoz kötötték. Azon a néhány alkalmon, amikor jobban érezte magát, kiment a mecsetbe, hogy egy utolsó pillantást vessen a nemzetre, amelyet felépített, és a férfiakra, akiket szeretett.
 

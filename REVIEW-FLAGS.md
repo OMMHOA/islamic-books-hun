@@ -7,15 +7,160 @@ Items to resolve during the two review passes:
 Line numbers refer to the files as of 2026-07-14 (after Chapter 6 landed) and will
 drift as the files grow — search for the quoted text if they no longer match.
 
+---
+
+## Master checklist (consolidated)
+
+The single actionable to-do list, gathered from the per-chapter sections below.
+Check items off here as they're resolved; the per-chapter sections hold the detail.
+
+### A. Honorific artifacts — verify against PDF, then decide HUN handling
+
+- [x] **Ch6** — (رضي الله عنه) on enemies of Islam (Ka'b ibn al-Ashraf, 'Amr ibn
+  'Abdul Wudd, Ka'b ibn Asad). PDF has them; Arabic original doesn't → HUN omits.
+  RESOLVED 2026-07-16 (Ch6 §1). Principle: no honorifics for enemies of Islam.
+- [ ] **Ch7** ~4507 — Mūsā ibn 'Uqbah (رضي الله عنه): a later scholar, not a Ṣaḥābī.
+  HUN omits. Confirm print has it. *(not an enemy — separate rationale)*
+- [ ] **Ch8** ~5978/~5980 — (عليه السلام) on the infant Ibrāhīm (belongs to the
+  ancestor-prophet). HUN omits at these two spots. Confirm print has them.
+- [x] **Ch9** ~6148 — "O son of Khaṭṭāb (رضي الله عنه)". **AR-checked**: Arabic has no
+  honorific («يا ابن الخطاب»); ENG inserted it and HUN wrongly blesses the pagan father.
+  → dropped in HUN → „Ó, Khaṭṭāb fia". ✅ APPLIED 2026-07-16.
+
+### B. Qur'ān reference misprints — verify, decide correct-silently vs translator's note
+
+- [ ] **Ch6** line ~3339 — cited (Qur'ān 7: 115), verse is **2:115**. Kept as printed
+  in ENG + HUN.
+- [ ] **Ch7** fn7 ~5628 — cited (Qur'ān 49: 24), verse is **48:24**. Kept as printed
+  in ENG + HUN.
+
+### C. Names/typos HUN silently normalized — verify PDF spelling, then unify
+
+- [x] **Ch7** — Hubaybiyah/Ḥubaybiyah → HUN Ḥudaybiyah (~4907, fn15). **AR: «الحديبية»** — HUN correct.
+- [x] **Ch7** — Thābit ibn **Aqrad** (~4861) vs ibn **Arqam** (~4837), same man → unify.
+  **AR prints BOTH** (أرقم p.281 / أقرد p.282) — book-level inconsistency; HUN→Arqam OK.
+- [ ] **Ch7** — "from **Aslaj**" (~5370) → HUN "Aslam törzsbeli"
+- [ ] **Ch7** — **mu'addal** (fn 98, 108, 116) → HUN standard **mu'ḍal**
+- [ ] **Ch7** — Al-Halis / Al-Halīs varies → HUN unified Al-Halīs
+- [ ] **Ch8** — **Nooh** (~5860) → HUN Nūḥ
+- [ ] **Ch8** — **Abū Sufāyn** (~5906) → HUN Abū Sufyān
+- [ ] **Ch8** — **Mudar** (~5996) → HUN Muḍar
+- [ ] **Ch8** — **Banu Ḥanifah** (~5994) → HUN Banū Ḥanīfah
+- [x] **Ch8** — **Abū Darda** (fn11) → HUN Abū Dardā'. **AR: «أبو الدرداء»** — HUN correct.
+- [x] **Ch9** — **Mumūnah** (~6116) → HUN Maymūnah. **AR: «ميمونة»** — HUN correct.
+- [ ] **Ch9** — "grew more **sever**" (~6116) → HUN "súlyosbodott"
+
+### D. Garbled / dubious passages kept as printed — verify PDF, decide
+
+- [x] **Ch7** ~5098 — "until they reach the **seal**!" → **AR: «دون البحر» = "sea"**; ENG
+  typo, HUN „a tengerig" correct.
+- [x] **Ch7** ~4827 vs ~4737 — envoy's killer. **AR: «شرحبيل بن عمرو» = Shuraḥbīl** (p.280);
+  ENG "Bubayl" is a corruption → HUN changed to Shuraḥbīl. ✅ APPLIED 2026-07-16.
+- [ ] **Ch7** ~5018 — "Sa'd ibn 'Ubādah, chief of the **Aws**" (was Khazraj) → HUN faithful
+- [ ] **Ch7** ~5246 / fn121 — book title "Prejudice and Tolerance…" vs "Tolerance and
+  intolerance…" inconsistency → HUN mirrors both
+- [x] **Ch7** ~4371 / fn4 — Al-Halīs "people who are **confused**". **AR: «قوم يتألهون»** =
+  "devout / venerate the sacred rites"; ENG mistranslation → HUN „zavarban van" changed to
+  „istenfélő". ✅ APPLIED 2026-07-16.
+- [ ] **Ch7** ~4946 — duplicated sentence → HUN collapsed to one; confirm print duplicates
+- [ ] **Ch7** fn94 vs fn103 — (Abul) Zubayr "a forger" vs "known for tadlīs" → book's own
+  inconsistency, kept in both
+- [ ] **Ch8** ~5922 — dish "**Sumayt**" (likely *samīṭ*, roasted sheep) → HUN "sumaytot"
+- [ ] **Ch8** ~6048 — "**Farwah ibn 'Umar al-Judhāmā**" + garbled sentence → HUN bracketed
+  bridge "[amikor felvette az iszlámot,]"
+- [ ] **Ch8** fn21 — "**Ṣiba Ibn 'Arfataḥ a-Ghifārī**" (usually Sibā' ibn 'Urfuṭah)
+- [ ] **Ch8** ~5850 — inline Qur'ān 4:3 with no reference in print → HUN also no reference
+- [ ] **Ch8** ~5936 — Qur'ān 33:28–29 garbled in transcription → verify printed wording
+- [ ] **Ch9** ~6196 — "what one's right hand possessed" (*mā malakat aymānukum*) → HUN
+  literal "akit jobb kezünk birtokol"; consider a gloss
+- [ ] **Ch9** ~6206 — "the Companion on high from paradise" (*al-rafīq al-aʿlā*) → HUN
+  "a Legfőbb Társ"; confirm preferred rendering
+
+### E. Pass-B leftovers (Hungarian side)
+
+- [ ] **Ch6** coinages — portyázó különítmények / Árok-ütközet / szövetségesek / recitálók
+- [ ] **Ch7** coinages — Nehézség Serege / riḍwān-fogadalom / szabadon bocsátottak /
+  A viszály (ḍirār) mecsete / akiknek szívét meg kellett nyerni / A beduinok megzabolázása
+- [ ] **Ch8** coinages — saría / mudzsáhidok / Megszilárdulás / A búcsúzarándoklat /
+  Madīnába / 'ulamā' (vallástudósok) / a Nagy Zarándoklat napja
+- [ ] **Ch9** — Qur'ān 3:144 rendered fresh; verify vs a standard Hungarian Qur'ān translation
+- [ ] **Glossary** — optional full Hungarian re-alphabetization of all 71 entries (currently
+  book-order; "Dzsihád" sits in the old *J*-cluster). Separate pass if wanted.
+- [ ] **Glossary** book imprecisions kept as printed — decide: Isrā'/Mi'rāj definition swap,
+  *Mir'āj* headword spelling, *Jahilīyyah* double-y (back matter §1)
+
+### F. Housekeeping
+
+- [ ] Update `README.md` links (stale now that all chapters landed)
+- [ ] Decide fate of legacy/working files: partial `-ENG.md`, `chapter*-normalized.md`,
+  `-HUN-Chapter3…md`, `-HUN-Khadijah.md` (superseded by the `-full` files)
+
+---
+
+## Arabic-original corroboration (2026-07-16)
+
+Checked the flagged items against the **Arabic original** `فقه السيرة - محمد الغزالي.pdf`
+(Maṭābiʿ al-Shurūq ed., 368 pp, image-only — no text layer). **Offset: printed page =
+PDF page + 1** (i.e. PDF page = printed − 1). Note the Arabic edition *does* carry the
+ḥadīth-grading footnotes (صحيح/ضعيف), so footnote items are checkable here too. Arabic
+Qurʾān citations sampled were all correct ([الفتح: ٢٧]=48:27, [النور: ٣٣]=24:33,
+[طه: ١٣١،١٣٢]), supporting that the two flagged verse misprints are English-edition errors.
+
+### Corroborated — HUN fixes ✅ APPLIED (2026-07-16)
+
+- **A-ch9 Khaṭṭāb honorific** (printed p.356): Arabic reads plain **«يا ابن الخطاب»** —
+  **no honorific**. The ENG (رضي الله عنه) is an English-edition insertion, and the current
+  HUN „Khaṭṭāb (رضي الله عنه) fia" wrongly attaches the blessing to the *pagan father*
+  al-Khaṭṭāb. → **Drop it in HUN**: „Ó, Khaṭṭāb fia". (Consistent with the enemy-of-Islam
+  principle re the pagan father.)
+- **D-ch7 Al-Ḥulays "confused"** (printed p.250): Arabic **«إن هذا من قوم يتألهون»** = "a
+  people who are devout / venerate [the sacred rites]"; the passage then has him awed
+  (إعظاماً) by the sight of the hady. ENG "confused" is a **mistranslation**; HUN
+  „zavarban van" is **wrong → fix** (e.g. „istenfélő nép" / „akik tisztelik a szent
+  [áldozati állatokat]").
+- **D-ch7 Bubayl → Shuraḥbīl** (printed p.280): the envoy's killer is
+  **«شرحبيل بن عمرو»** (Shuraḥbīl ibn ʿAmr) — «أوثق شرحبيل بن عمرو رباطه ثم قدمه فضرب عنقه».
+  ENG "Bubayl ibn ʿAmr" is a corruption; HUN keeps "Bubayl" → **change to Shuraḥbīl**
+  (matches the other ENG mention at ~4737 and the Arabic).
+
+### Corroborated — HUN already correct (no change)
+
+- **D-ch7 "seal" → "sea"** (printed p.299): **«لا تنتهي هزيمتهم دون البحر»** = "the sea".
+  ENG "seal" is the typo; HUN „a tengerig" is right.
+- **C-ch7 Ḥudaybiyah**: Arabic **«الحديبية»** throughout ch7. HUN Ḥudaybiyah correct;
+  ENG "Hubaybiyah/Ḥubaybiyah" is a corruption.
+- **C-ch9 Maymūnah** (printed p.354): **«ميمونة»**. HUN correct; ENG "Mumūnah" is a typo.
+- **C-ch8 Abū Dardā'** (printed p.344, footnote): **«أبو الدرداء»**. HUN correct.
+
+### Corroborated — book-level inconsistency (ENG faithful, HUN unified)
+
+- **C-ch7 Thābit ibn Aqrad / Arqam**: the **Arabic original itself prints both** —
+  **«ثابت بن أرقم»** (printed p.281, Abū Hurayrah narration) and **«ثابت بن أقرد»**
+  (printed p.282, banner scene). So the ENG double-spelling faithfully mirrors the Arabic.
+  HUN's unification to the historically-correct **Arqam** is sound.
+
+### Still to check in Arabic (not yet located)
+
+- **A-ch7** Mūsā ibn ʿUqbah honorific (footnote-based)
+- **A-ch8** infant Ibrāhīm (عليه السلام) — not yet located (al-Ghazali is thematic, not
+  strictly chronological; may need a wider scan of ch8 pp.334–352 / PDF 333–351)
+- **B** the two Qurʾān misprints at their exact spots (2:115, 48:24)
+- **C** Nūḥ, Muḍar, Banū Ḥanīfah, Aslam, mu'ḍal (HUN already normalized — low value)
+- **D** Sa'd ibn ʿUbādah "chief of the Aws", "Sumayt" dish, Farwah al-Judhāmī, the
+  duplicated sentence, Zubayr "forger"/tadlīs
+
+---
+
 ## Chapter 6 (translated 2026-07-14)
 
-### 1. Honorific (رضي الله عنه) after enemies of Islam — pass A (check PDF), then pass B
+### 1. Honorific (رضي الله عنه) after enemies of Islam — ✅ RESOLVED (2026-07-16)
 
 The ENG transcription places (رضي الله عنه) after men who died as enemies of Islam.
-Almost certainly artifacts of the book (or OCR pass), since the same honorific is used
-correctly elsewhere in the same passages. **The HUN translation deliberately omits them.**
-Confirm against the PDF whether the printed book really has them; if yes, they stay in
-ENG-full (faithful transcription) and stay out of HUN.
+**PDF confirmed (2026-07-16): the official English translation really does print them**
+(e.g. Ka'b ibn al-Ashraf). But the **Arabic original has none** — they are artifacts of
+the English translation. **Decision — editorial principle: no Islamic honorifics for
+enemies of Islam.** So: they **stay in ENG-full** (faithful transcription of the English
+print) and **stay omitted from HUN** (already done). Flag closed.
 
 | Person | ENG-full lines | HUN handling |
 |---|---|---|
