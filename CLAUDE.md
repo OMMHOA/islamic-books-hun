@@ -31,10 +31,13 @@ Muhammad Naṣiruddīn Al-Albānī).
    image-only PDF, printed page = PDF page + 1); the honorific artifacts, both Qur'ān
    ref misprints (7:115→2:115, 49:24→48:24) and the garbled names/passages are all
    **English-edition errors** — 9 HUN fixes applied (see REVIEW-FLAGS "Arabic-original
-   corroboration"). The two misprinted refs keep the printed text + a translator's
-   note — `[helyesen: X: Y — a ford.]` (user decision 2026-07-16: never overwrite the
-   source). Still open: pass-A ENG-print fidelity checks, coinage sanity-checks,
-   optional full glossary re-alphabetization, and `README.md` links.
+   corroboration"). **Fidelity policy (2026-07-16): faithful to the Arabic original
+   only** — corroborated English-edition errors are corrected in *both* ENG-full and
+   HUN (done for all items verified so far: refs 2:115/48:24, enemy honorifics, Bubayl→
+   Shuraḥbīl, seal→sea, Ḥulays, Aslam, Farwah, Sumayt, forger→tadlīs, dup sentence, etc.).
+   Still open: pass-A checks against the *Arabic* (remaining transcription-quality
+   doubts), coinage sanity-checks, optional full glossary re-alphabetization, and
+   `README.md` links.
 
 ## Files
 
@@ -58,11 +61,20 @@ seams and footnote numbering verified (ch. 6 footnotes 1–84, ch. 7 footnotes 1
 continuous). Each agent self-checked footnote marker ↔ text matching and page
 continuity, but **no human or second-model proofread has happened yet**. Agents
 flagged and preserved the book's own misprints verbatim (e.g. "United Sates" p. 177,
-"Egyt" p. 194, duplicated sentence on p. 83).
+"Egyt" p. 194, duplicated sentence on p. 83). *(Preservation policy since superseded —
+see the fidelity policy under Transcription conventions.)*
 
 ## Transcription conventions (keep these when editing/verifying)
 
-- Faithful to the printed text, including its typos and awkward grammar
+- **Fidelity policy (user decision 2026-07-16): the Arabic original is the sole source
+  of truth.** English-edition errors (mistranslations, corrupted names, wrong Qur'ān
+  refs, honorifics the Arabic doesn't have) are **corrected in both `-ENG-full.md` and
+  the HUN file** once corroborated against the Arabic PDF — no translator's notes, just
+  the correct text; log every correction in `REVIEW-FLAGS.md`. Obvious English print
+  typos ("United Sates", "Egyt") may be fixed silently in pass A. Where the **Arabic
+  itself** errs (e.g. Sa'd ibn 'Ubādah "chief of the Aws", AR p.292), both files stay
+  faithful to the Arabic. (This supersedes the original "faithful to the printed English
+  text, typos included" rule.)
 - Diacritics preserved: Qur'ān, Ḥadīth, Madīnah, Āyāh, Ṣaḥābī…
 - Honorifics: (ﷺ) after the Prophet/Muhammad, (ﷻ) after Allah, (رضي الله عنه), (عليه السلام)
 - Qur'ān quotes: plain paragraph in parentheses + `(Qur'ān X: Y)` reference

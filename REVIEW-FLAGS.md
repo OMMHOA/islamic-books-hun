@@ -4,6 +4,12 @@ Items to resolve during the two review passes:
 (A) verifying `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` against the PDF, and
 (B) proofreading the Hungarian in `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md`.
 
+**Fidelity policy (user decision, 2026-07-16): the Arabic original is the sole source
+of truth.** Corroborated English-edition errors are corrected in **both** ENG-full and
+HUN — plainly, no translator's notes (the `[helyesen: … — a ford.]` convention tried
+earlier the same day was reverted). Where the Arabic itself errs, both files follow
+the Arabic. Every correction is logged here.
+
 Line numbers refer to the files as of 2026-07-14 (after Chapter 6 landed) and will
 drift as the files grow — search for the quoted text if they no longer match.
 
@@ -19,6 +25,7 @@ Check items off here as they're resolved; the per-chapter sections hold the deta
 - [x] **Ch6** — (رضي الله عنه) on enemies of Islam (Ka'b ibn al-Ashraf, 'Amr ibn
   'Abdul Wudd, Ka'b ibn Asad). PDF has them; Arabic original doesn't → HUN omits.
   RESOLVED 2026-07-16 (Ch6 §1). Principle: no honorifics for enemies of Islam.
+  **Update (fidelity policy, 2026-07-16): removed from ENG-full too** (17 spots).
 - [x] **Ch7** ~4507 — Mūsā ibn 'Uqbah (رضي الله عنه): a later scholar, not a Ṣaḥābī.
   **AR-checked (p.259): «وروى موسى بن عقبة» — plain, no honorific.** ENG insertion;
   HUN omission correct. *(ENG-print check remains pass A, transcription fidelity only.)*
@@ -31,17 +38,14 @@ Check items off here as they're resolved; the per-chapter sections hold the deta
 
 ### B. Qur'ān reference misprints — ✅ RESOLVED (2026-07-16)
 
-**Decision (user, 2026-07-16): keep the printed reference, add a translator's note —
-never overwrite the source.** Convention introduced: `[helyesen: X: Y — a ford.]`
-appended inside the reference parentheses.
+**Final decision (user, 2026-07-16, superseding the note-convention tried earlier the
+same day): faithful to the Arabic only → plain corrected refs in both ENG and HUN.**
 
-- [x] **Ch6** line ~3339 — cited (Qur'ān 7: 115), verse is **2:115**. **AR-checked
-  (p.190): Arabic prints [البقرة: ١١٥] = 2:115** — ENG-edition misprint. (Note: Arabic
-  quote order is 2:142 → 2:115 → 2:177; ENG reordered to 142 → 177 → 115.)
-  → HUN now reads „(Korán 7: 115 [helyesen: 2: 115 — a ford.])". ✅ APPLIED.
-- [x] **Ch7** fn7 ~5628 — cited (Qur'ān 49: 24), verse is **48:24**. **AR-checked
-  (p.252 fn١): Arabic prints [الفتح: ٢٤] = 48:24** — ENG-edition misprint.
-  → HUN now reads „(Korán 49: 24 [helyesen: 48: 24 — a ford.])". ✅ APPLIED.
+- [x] **Ch6** line ~3339 — ENG cited (Qur'ān 7: 115). **AR-checked (p.190): [البقرة:
+  ١١٥] = 2:115.** (Arabic quote order is 2:142 → 2:115 → 2:177; ENG reordered to
+  142 → 177 → 115.) → ENG "(Qur'ān 2: 115)", HUN „(Korán 2: 115)". ✅ APPLIED.
+- [x] **Ch7** fn7 ~5628 — ENG cited (Qur'ān 49: 24). **AR-checked (p.252 fn١):
+  [الفتح: ٢٤] = 48:24.** → ENG "(Qur'ān 48: 24)", HUN „(Korán 48: 24)". ✅ APPLIED.
 
 ### C. Names/typos HUN silently normalized — verify PDF spelling, then unify
 
@@ -52,11 +56,13 @@ appended inside the reference parentheses.
   «وسعى ساعٍ من أسلم»** — Aslam; ENG typo, HUN correct.
 - [x] **Ch7** — **mu'addal** (fn 98, 108, 116) → HUN standard **mu'ḍal**. **AR: the term
   is «معضل»** (seen at pp.187, 259, 349 footnotes) — HUN correct.
-- [ ] **Ch7** — Al-Halis / Al-Halīs varies → HUN unified Al-Halīs. **AR: «الحليس»** —
-  standard vocalization is **al-Ḥulays**; consider HUN "Al-Ḥulays" instead of "Al-Halīs".
+- [x] **Ch7** — Al-Halis / Al-Halīs varies. **AR: «الحليس»**, standard vocalization
+  **al-Ḥulays** → renamed to **Al-Ḥulays/Ḥulays** in both ENG and HUN.
+  ✅ APPLIED 2026-07-16 (fidelity policy).
 - [x] **Ch8** — **Nooh** (~5860) → HUN Nūḥ. **AR (p.336): «من عهد نوح»** — HUN correct.
   (Arabic has no honorific there; ENG added (عليه السلام) — harmless, he is a prophet.)
-- [ ] **Ch8** — **Abū Sufāyn** (~5906) → HUN Abū Sufyān *(obvious; not AR-checked)*
+- [x] **Ch8** — **Abū Sufāyn** (~5906) → Abū Sufyān — obvious corruption, fixed in
+  ENG too (fidelity policy). ✅ APPLIED 2026-07-16.
 - [x] **Ch8** — **Mudar** (~5996) → HUN Muḍar. **AR (p.349): «مضر»** — HUN correct.
 - [x] **Ch8** — **Banu Ḥanifah** (~5994) → HUN Banū Ḥanīfah. **AR (p.349): «بني حنيفة»** —
   HUN correct. Bonus: Arabic reads «ظهر **فيها وفي بني حنيفة** دجالان» — the two impostors
@@ -65,7 +71,8 @@ appended inside the reference parentheses.
   ✅ APPLIED 2026-07-16.
 - [x] **Ch8** — **Abū Darda** (fn11) → HUN Abū Dardā'. **AR: «أبو الدرداء»** — HUN correct.
 - [x] **Ch9** — **Mumūnah** (~6116) → HUN Maymūnah. **AR: «ميمونة»** — HUN correct.
-- [ ] **Ch9** — "grew more **sever**" (~6116) → HUN "súlyosbodott"
+- [x] **Ch9** — "grew more **sever**" (~6116) → "severe", fixed in ENG (print typo;
+  HUN "súlyosbodott" was already fine). ✅ APPLIED 2026-07-16.
 
 ### D. Garbled / dubious passages kept as printed — verify PDF, decide
 
@@ -207,6 +214,32 @@ Results (details + applied HUN fixes are in the Master checklist above):
 „Ott és a Banū Ḥanīfában" (two impostors: Yemen + B. Ḥanīfah); ch8 fn21 → Sibā' ibn
 'Urfuṭah al-Ghifārī.
 
+### Fidelity-policy application to ENG-full (2026-07-16, after the policy decision)
+
+Per the Arabic-only fidelity policy, all corroborated English-edition errors were
+corrected **in `-ENG-full.md` as well** (they had previously been kept "as printed"):
+
+- Qur'ān refs 7:115 → **2:115** (3339), 49:24 → **48:24** (fn7)
+- Honorifics removed where the Arabic has none: Ka'b ibn al-Ashraf ×6, 'Amr ibn 'Abdul
+  Wudd ×2, Ka'b ibn Asad ×9 (enemy honorifics, ch6); Mūsā ibn 'Uqbah (4507); infant
+  Ibrāhīm ×2 (5978/5980); "O son of Khaṭṭāb" (6148)
+- Names: Bubayl → **Shuraḥbīl** (4827); Hubaybiyah/Ḥubaybiyah → **Ḥudaybiyah** (4907,
+  fn15); Aslaj → **Aslam** (5370); Mumūnah → **Maymūnah** (6116); Abū Darda → **Abū
+  Dardā'** (fn11); Al-Halis/Al-Halīs/Halīs → **Al-Ḥulays/Ḥulays** (4369–4377; Arabic
+  «الحليس» — HUN renamed too); "Mursi ibn 'Aqabah" → **Mūsā ibn 'Uqbah** (ch6 fn36 —
+  also fixed in HUN fn36, which had carried the corruption); mu'addal → **mu'ḍal**
+  (fns 36/98/108/116); Ṣiba Ibn 'Arfataḥ a-Ghifārī → **Sibā' ibn 'Urfuṭah al-Ghifārī**
+  (fn21); Farwah ibn 'Umar al-Judhāmā → **Farwah ibn 'Amr al-Judhāmī** + restored lost
+  clause (6048)
+- Text: "reach the seal" → **"reach the sea"** (5098); "people who are confused" →
+  **"devout"** (4371, «يتألهون»); Ḥātib duplicated sentence collapsed (4946); "Sumayt"
+  → **"a whole roasted sheep (samīṭ)"** (5922); "a forger" → **"known for tadlīs"**
+  (fn4 ch4, fn94 ch7, «مدلس»); "grew more sever" → **severe** (6116, print typo)
+- The `[helyesen: … — a ford.]` notes in HUN were replaced by plain corrected refs.
+
+NOT changed (Arabic itself has it): Sa'd ibn 'Ubādah "chief of the Aws" (p.292);
+Thābit Aqrad/Arqam double spelling (Arabic prints both; HUN unified to Arqam).
+
 ---
 
 ## Chapter 6 (translated 2026-07-14)
@@ -217,8 +250,9 @@ The ENG transcription places (رضي الله عنه) after men who died as enem
 **PDF confirmed (2026-07-16): the official English translation really does print them**
 (e.g. Ka'b ibn al-Ashraf). But the **Arabic original has none** — they are artifacts of
 the English translation. **Decision — editorial principle: no Islamic honorifics for
-enemies of Islam.** So: they **stay in ENG-full** (faithful transcription of the English
-print) and **stay omitted from HUN** (already done). Flag closed.
+enemies of Islam.** Originally they stayed in ENG-full (faithful-transcription rule);
+**under the 2026-07-16 Arabic-only fidelity policy they were removed from ENG-full
+as well**. Omitted from HUN throughout. Flag closed.
 
 | Person | ENG-full lines | HUN handling |
 |---|---|---|
