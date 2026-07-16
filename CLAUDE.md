@@ -26,9 +26,14 @@ Muhammad Naṣiruddīn Al-Albānī).
    **Pass-B terminology done (2026-07-16):** place name unified to **Mekka**; ḥadīth
    grade unified to **hiteles** (ṣaḥīḥ/sound/authentic — `ép` dropped as a grade); 6
    glossary headwords Hungarianized (Dzsihád/Tauhid/Umma/Hidzsra/Saría/Kalifa). See
-   REVIEW-FLAGS §2–3. Still open: pass-A PDF checks (honorific artifacts, Qur'ān 7:115 &
-   other misprints), coinage sanity-checks, optional full glossary re-alphabetization,
-   and `README.md` links.
+   REVIEW-FLAGS §2–3. **Arabic-original corroboration complete (2026-07-16):** every
+   flagged content question was checked against the Arabic original (`فقه السيرة`,
+   image-only PDF, printed page = PDF page + 1); the honorific artifacts, both Qur'ān
+   ref misprints (7:115→2:115, 49:24→48:24) and the garbled names/passages are all
+   **English-edition errors** — 9 HUN fixes applied (see REVIEW-FLAGS "Arabic-original
+   corroboration"). Still open: pass-A ENG-print fidelity checks, the silently-correct
+   vs. translator's-note decision for the two Qur'ān refs, coinage sanity-checks,
+   optional full glossary re-alphabetization, and `README.md` links.
 
 ## Files
 

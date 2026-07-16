@@ -19,10 +19,12 @@ Check items off here as they're resolved; the per-chapter sections hold the deta
 - [x] **Ch6** — (رضي الله عنه) on enemies of Islam (Ka'b ibn al-Ashraf, 'Amr ibn
   'Abdul Wudd, Ka'b ibn Asad). PDF has them; Arabic original doesn't → HUN omits.
   RESOLVED 2026-07-16 (Ch6 §1). Principle: no honorifics for enemies of Islam.
-- [ ] **Ch7** ~4507 — Mūsā ibn 'Uqbah (رضي الله عنه): a later scholar, not a Ṣaḥābī.
-  HUN omits. Confirm print has it. *(not an enemy — separate rationale)*
-- [ ] **Ch8** ~5978/~5980 — (عليه السلام) on the infant Ibrāhīm (belongs to the
-  ancestor-prophet). HUN omits at these two spots. Confirm print has them.
+- [x] **Ch7** ~4507 — Mūsā ibn 'Uqbah (رضي الله عنه): a later scholar, not a Ṣaḥābī.
+  **AR-checked (p.259): «وروى موسى بن عقبة» — plain, no honorific.** ENG insertion;
+  HUN omission correct. *(ENG-print check remains pass A, transcription fidelity only.)*
+- [x] **Ch8** ~5978/~5980 — (عليه السلام) on the infant Ibrāhīm. **AR-checked (p.347):
+  «أسماه إبراهيم، باسم جده أبى الأنبياء» and «وإنا بك يا إبراهيم لمحزونون» — no honorific
+  anywhere, not even on the ancestor mention.** ENG insertions; HUN omits — correct.
 - [x] **Ch9** ~6148 — "O son of Khaṭṭāb (رضي الله عنه)". **AR-checked**: Arabic has no
   honorific («يا ابن الخطاب»); ENG inserted it and HUN wrongly blesses the pagan father.
   → dropped in HUN → „Ó, Khaṭṭāb fia". ✅ APPLIED 2026-07-16.
@@ -30,22 +32,33 @@ Check items off here as they're resolved; the per-chapter sections hold the deta
 ### B. Qur'ān reference misprints — verify, decide correct-silently vs translator's note
 
 - [ ] **Ch6** line ~3339 — cited (Qur'ān 7: 115), verse is **2:115**. Kept as printed
-  in ENG + HUN.
+  in ENG + HUN. **AR-checked (p.190): Arabic prints [البقرة: ١١٥] = 2:115** — ENG-edition
+  misprint confirmed. (Note: Arabic quote order is 2:142 → 2:115 → 2:177; ENG reordered
+  to 142 → 177 → 115.) → only the correct-silently vs translator's-note decision remains.
 - [ ] **Ch7** fn7 ~5628 — cited (Qur'ān 49: 24), verse is **48:24**. Kept as printed
-  in ENG + HUN.
+  in ENG + HUN. **AR-checked (p.252 fn١): Arabic prints [الفتح: ٢٤] = 48:24** — ENG-edition
+  misprint confirmed. → only the correct-silently vs translator's-note decision remains.
 
 ### C. Names/typos HUN silently normalized — verify PDF spelling, then unify
 
 - [x] **Ch7** — Hubaybiyah/Ḥubaybiyah → HUN Ḥudaybiyah (~4907, fn15). **AR: «الحديبية»** — HUN correct.
 - [x] **Ch7** — Thābit ibn **Aqrad** (~4861) vs ibn **Arqam** (~4837), same man → unify.
   **AR prints BOTH** (أرقم p.281 / أقرد p.282) — book-level inconsistency; HUN→Arqam OK.
-- [ ] **Ch7** — "from **Aslaj**" (~5370) → HUN "Aslam törzsbeli"
-- [ ] **Ch7** — **mu'addal** (fn 98, 108, 116) → HUN standard **mu'ḍal**
-- [ ] **Ch7** — Al-Halis / Al-Halīs varies → HUN unified Al-Halīs
-- [ ] **Ch8** — **Nooh** (~5860) → HUN Nūḥ
-- [ ] **Ch8** — **Abū Sufāyn** (~5906) → HUN Abū Sufyān
-- [ ] **Ch8** — **Mudar** (~5996) → HUN Muḍar
-- [ ] **Ch8** — **Banu Ḥanifah** (~5994) → HUN Banū Ḥanīfah
+- [x] **Ch7** — "from **Aslaj**" (~5370) → HUN "Aslam törzsbeli". **AR (p.318):
+  «وسعى ساعٍ من أسلم»** — Aslam; ENG typo, HUN correct.
+- [x] **Ch7** — **mu'addal** (fn 98, 108, 116) → HUN standard **mu'ḍal**. **AR: the term
+  is «معضل»** (seen at pp.187, 259, 349 footnotes) — HUN correct.
+- [ ] **Ch7** — Al-Halis / Al-Halīs varies → HUN unified Al-Halīs. **AR: «الحليس»** —
+  standard vocalization is **al-Ḥulays**; consider HUN "Al-Ḥulays" instead of "Al-Halīs".
+- [x] **Ch8** — **Nooh** (~5860) → HUN Nūḥ. **AR (p.336): «من عهد نوح»** — HUN correct.
+  (Arabic has no honorific there; ENG added (عليه السلام) — harmless, he is a prophet.)
+- [ ] **Ch8** — **Abū Sufāyn** (~5906) → HUN Abū Sufyān *(obvious; not AR-checked)*
+- [x] **Ch8** — **Mudar** (~5996) → HUN Muḍar. **AR (p.349): «مضر»** — HUN correct.
+- [x] **Ch8** — **Banu Ḥanifah** (~5994) → HUN Banū Ḥanīfah. **AR (p.349): «بني حنيفة»** —
+  HUN correct. Bonus: Arabic reads «ظهر **فيها وفي بني حنيفة** دجالان» — the two impostors
+  appeared "in it [Yemen] *and* in Banū Ḥanīfah" (al-Aswad al-ʿAnsī + Musaylimah); ENG
+  flattened this to "in the Banu Ḥanifah" → HUN fixed: „Ott és a Banū Ḥanīfában".
+  ✅ APPLIED 2026-07-16.
 - [x] **Ch8** — **Abū Darda** (fn11) → HUN Abū Dardā'. **AR: «أبو الدرداء»** — HUN correct.
 - [x] **Ch9** — **Mumūnah** (~6116) → HUN Maymūnah. **AR: «ميمونة»** — HUN correct.
 - [ ] **Ch9** — "grew more **sever**" (~6116) → HUN "súlyosbodott"
@@ -56,21 +69,41 @@ Check items off here as they're resolved; the per-chapter sections hold the deta
   typo, HUN „a tengerig" correct.
 - [x] **Ch7** ~4827 vs ~4737 — envoy's killer. **AR: «شرحبيل بن عمرو» = Shuraḥbīl** (p.280);
   ENG "Bubayl" is a corruption → HUN changed to Shuraḥbīl. ✅ APPLIED 2026-07-16.
-- [ ] **Ch7** ~5018 — "Sa'd ibn 'Ubādah, chief of the **Aws**" (was Khazraj) → HUN faithful
+- [x] **Ch7** ~5018 — "Sa'd ibn 'Ubādah, chief of the **Aws**" (was Khazraj). **AR-checked
+  (p.292): the Arabic original itself prints «سعد بن عبادة زعيم الأوس»** — al-Ghazali's own
+  error, ENG faithful → HUN „az Aws főnöke" stays (optional translator's note).
 - [ ] **Ch7** ~5246 / fn121 — book title "Prejudice and Tolerance…" vs "Tolerance and
   intolerance…" inconsistency → HUN mirrors both
 - [x] **Ch7** ~4371 / fn4 — Al-Halīs "people who are **confused**". **AR: «قوم يتألهون»** =
   "devout / venerate the sacred rites"; ENG mistranslation → HUN „zavarban van" changed to
   „istenfélő". ✅ APPLIED 2026-07-16.
-- [ ] **Ch7** ~4946 — duplicated sentence → HUN collapsed to one; confirm print duplicates
-- [ ] **Ch7** fn94 vs fn103 — (Abul) Zubayr "a forger" vs "known for tadlīs" → book's own
-  inconsistency, kept in both
-- [ ] **Ch8** ~5922 — dish "**Sumayt**" (likely *samīṭ*, roasted sheep) → HUN "sumaytot"
-- [ ] **Ch8** ~6048 — "**Farwah ibn 'Umar al-Judhāmā**" + garbled sentence → HUN bracketed
-  bridge "[amikor felvette az iszlámot,]"
-- [ ] **Ch8** fn21 — "**Ṣiba Ibn 'Arfataḥ a-Ghifārī**" (usually Sibā' ibn 'Urfuṭah)
+- [x] **Ch7** ~4946 — duplicated sentence. **AR-checked (p.289): single sentence**
+  («علمنا الإسلام ألا ننسى الحسنات والفضائل لمن يخطئون حينًا بعد أن أصابوا طويلا») — the
+  duplication is an ENG-edition dittography → HUN stays collapsed; ENG stays as printed
+  *(pass-A: confirm the ENG print really duplicates)*.
+- [x] **Ch7** fn94 vs fn103 — (Abul) Zubayr "a forger" vs "known for tadlīs". **AR-checked:
+  the Arabic says مدلس in BOTH** (p.307 fn٣ «أبو الزبير مدلس وقد عنعنه»; p.315 fn١ «أبا
+  الزبير مدلس»; same again in ch4's pledge footnote, p.114 fn١ «عنعنة أبي الزبير وكان
+  مدلسًا») — "a forger" is an **ENG mistranslation pattern**, not the book's inconsistency.
+  → HUN fixed „hamisító" → „ismert a tadlīsról" at fn94 (~5797) **and** ch4 fn4 (~2236);
+  fn103 already said „tadlīsról ismert". ✅ APPLIED 2026-07-16. ENG stays as printed.
+- [x] **Ch8** ~5922 — dish "**Sumayt**". **AR-checked (p.343): «ولا رأى شاة سميطًا بعينه
+  قط»** — a whole roasted/scalded sheep (*shāh samīṭ*); ENG even dropped the word "sheep".
+  → HUN fixed: „sumaytot" → „egészben sült birkát (*samīṭ*)". ✅ APPLIED 2026-07-16.
+- [x] **Ch8** ~6048 — Farwah. **AR-checked (p.353): «فروة بن عمرو الجذامي»** = Farwah ibn
+  **'Amr** al-**Judhāmī** (ENG "'Umar…Judhāmā" doubly corrupt), and the garbled ENG sentence
+  lost «فاعتنق الإسلام وبعث إلى النبي ﷺ يخبره بذلك» (he embraced Islam and sent word to the
+  Prophet — this is what enraged the Romans; beheaded at the water of «عفراء» in Palestine,
+  left crucified). → HUN fixed: name corrected + bracketed bridge replaced with the full
+  clause „amikor felvette az iszlámot, és követe útján hírül adta ezt a Prófétának (ﷺ)".
+  ✅ APPLIED 2026-07-16.
+- [x] **Ch8** fn21 — "**Ṣiba Ibn 'Arfataḥ a-Ghifārī**". **AR-checked (p.349 fn١):
+  «سباع بن عرفطة الغفاري»** = Sibā' ibn 'Urfuṭah al-Ghifārī; ENG corrupt → HUN fixed.
+  ✅ APPLIED 2026-07-16. (Same footnote also prints «معضلاً» — mu'ḍal again.)
 - [ ] **Ch8** ~5850 — inline Qur'ān 4:3 with no reference in print → HUN also no reference
-- [ ] **Ch8** ~5936 — Qur'ān 33:28–29 garbled in transcription → verify printed wording
+- [ ] **Ch8** ~5936 — Qur'ān 33:28–29 garbled in transcription → verify printed wording.
+  **AR (p.346): full verses printed cleanly** [الأحزاب: ٢٨، ٢٩] — the garble is ENG-side;
+  check the ENG print in pass A, and check the HUN rendering against the Arabic wording.
 - [ ] **Ch9** ~6196 — "what one's right hand possessed" (*mā malakat aymānukum*) → HUN
   literal "akit jobb kezünk birtokol"; consider a gloss
 - [ ] **Ch9** ~6206 — "the Companion on high from paradise" (*al-rafīq al-aʿlā*) → HUN
@@ -139,15 +172,35 @@ Qurʾān citations sampled were all correct ([الفتح: ٢٧]=48:27, [النو
   (printed p.282, banner scene). So the ENG double-spelling faithfully mirrors the Arabic.
   HUN's unification to the historically-correct **Arqam** is sound.
 
-### Still to check in Arabic (not yet located)
+### Second pass (2026-07-16, later session) — ✅ ALL remaining items checked
 
-- **A-ch7** Mūsā ibn ʿUqbah honorific (footnote-based)
-- **A-ch8** infant Ibrāhīm (عليه السلام) — not yet located (al-Ghazali is thematic, not
-  strictly chronological; may need a wider scan of ch8 pp.334–352 / PDF 333–351)
-- **B** the two Qurʾān misprints at their exact spots (2:115, 48:24)
-- **C** Nūḥ, Muḍar, Banū Ḥanīfah, Aslam, mu'ḍal (HUN already normalized — low value)
-- **D** Sa'd ibn ʿUbādah "chief of the Aws", "Sumayt" dish, Farwah al-Judhāmī, the
-  duplicated sentence, Zubayr "forger"/tadlīs
+Chapter page map from the Arabic TOC (printed pages): ch4 الهجرة العامة 109, ch5 أسس
+البناء 135, ch6 الكفاح الدامي 159, ch7 طور جديد 247 (الفتح الأعظم 285, حنين 297,
+الطائف 306, تبوك 310, المخلفون 316), ch8 أمهات المؤمنين 333 (استقرار 348, حجة
+الوداع 349, إلى المدينة 352), ch9 الرفيق الأعلى 354, خاتمة 362.
+
+Results (details + applied HUN fixes are in the Master checklist above):
+
+- **B misprints**: Arabic prints **[البقرة: ١١٥]** (p.190) and **[الفتح: ٢٤]** (p.252 fn١)
+  — both flagged refs are ENG-edition misprints. Arabic quote order on p.190 is
+  2:142 → 2:115 → 2:177 (ENG reordered). Decision silently-correct vs note still open.
+- **A-ch7 Mūsā ibn ʿUqbah** (p.259): plain, no honorific — ENG insertion; HUN correct.
+- **A-ch8 infant Ibrāhīm** (p.347): plain «إبراهيم» / «يا إبراهيم» — ENG insertions;
+  HUN correct.
+- **C names**: Aslam (p.318), Nūḥ (p.336), Muḍar (p.349), Banū Ḥanīfah (p.349),
+  mu'ḍal «معضل» (pp.187/259/349 fns) — all confirm HUN normalizations. New sub-flag:
+  Arabic «الحليس» suggests **al-Ḥulays**, HUN currently "Al-Halīs".
+- **D**: Sa'd ibn ʿUbādah "chief of the Aws" is **in the Arabic original** (p.292);
+  duplicated Ḥātib sentence is ENG dittography (Arabic single, p.289); "Sumayt" =
+  «شاة سميطًا» roasted sheep (p.343); Farwah = «فروة بن عمرو الجذامي» + lost clause
+  «فاعتنق الإسلام وبعث إلى النبي ﷺ يخبره بذلك» (p.353); Zubayr "forger" = ENG
+  mistranslation of «مدلس» (pp.307/315 fns; also ch4 pledge fn, p.114); ch8 fn21 =
+  «سباع بن عرفطة الغفاري» (p.349 fn١); Aḥzāb 28–29 printed cleanly (p.346).
+
+**HUN fixes applied this pass (6):** fn94 + ch4 fn4 „hamisító" → „ismert a tadlīsról";
+„sumaytot" → „egészben sült birkát (*samīṭ*)"; Farwah name + un-bracketed Islam-clause;
+„Ott és a Banū Ḥanīfában" (two impostors: Yemen + B. Ḥanīfah); ch8 fn21 → Sibā' ibn
+'Urfuṭah al-Ghifārī.
 
 ---
 
