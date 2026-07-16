@@ -8,7 +8,8 @@ Items to resolve during the two review passes:
 of truth.** Corroborated English-edition errors are corrected in **both** ENG-full and
 HUN — plainly, no translator's notes (the `[helyesen: … — a ford.]` convention tried
 earlier the same day was reverted). Where the Arabic itself errs, both files follow
-the Arabic. Every correction is logged here.
+the Arabic. Every correction is logged here, and the consolidated list of English-
+edition errors lives in **`ENGLISH-EDITION-ERRATA.md`**.
 
 Line numbers refer to the files as of 2026-07-14 (after Chapter 6 landed) and will
 drift as the files grow — search for the quoted text if they no longer match.

@@ -46,6 +46,7 @@ Muhammad Naṣiruddīn Al-Albānī).
 | `FiqhusSeerah-Muhammad-alGhazali.pdf` | Source scan, 512 PDF pages, no text layer. **PDF page = printed page − 2** |
 | `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` | Complete English transcription: Preface → Chapters 1–9 → Epilogue → Glossary, ~176k words |
 | `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
+| `ENGLISH-EDITION-ERRATA.md` | Consolidated list of the English edition's errors verified against the Arabic original (wrong Qur'ān refs, inserted honorifics, mistranslations, corrupted names) — all corrected in both ENG-full and HUN per the fidelity policy |
 | `FiqhusSeerah-Muhammad-al-Ghazali.md` | Hungarian translation, main file (Chapter 1 sections 1.1–1.2 so far) |
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-Chapter3-AkuldetesKuzdelme.md` | Hungarian Chapter 3 draft |
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-Khadijah.md` | Hungarian Khadījah section draft (from Chapter 2) |
