@@ -74,8 +74,9 @@ see the fidelity policy under Transcription conventions.)*
   the correct text; log every correction in `REVIEW-FLAGS.md`. Obvious English print
   typos ("United Sates", "Egyt") may be fixed silently in pass A. Where the **Arabic
   itself** errs (e.g. Sa'd ibn 'Ubādah "chief of the Aws", AR p.292), both files stay
-  faithful to the Arabic. (This supersedes the original "faithful to the printed English
-  text, typos included" rule.)
+  faithful to the Arabic **and get an inline bracketed translator's note** — ENG
+  `[… — translator's note]`, HUN `[… — a ford.]`. (This supersedes the original
+  "faithful to the printed English text, typos included" rule.)
 - Diacritics preserved: Qur'ān, Ḥadīth, Madīnah, Āyāh, Ṣaḥābī…
 - Honorifics: (ﷺ) after the Prophet/Muhammad, (ﷻ) after Allah, (رضي الله عنه), (عليه السلام)
 - Qur'ān quotes: plain paragraph in parentheses + `(Qur'ān X: Y)` reference

@@ -4828,7 +4828,7 @@ Halálakor 'Abdullāh ibn Rawāḥah vette fel a zászlót, és lován előrenyo
 
 Ekkor odalépett hozzá egyik unokatestvére, és egy darab húst nyújtott neki, mondván, hogy erősítse meg vele magát. Ám alig tört le belőle egy falatot, amikor a mező túlsó feléről, ahol harc folyt, meghallotta a kardok csattogását, és így szólt magához: „Te még e világon vagy?" Elhajította az ételt, és a csatába vetette magát; harcolt, míg meg nem ölték.
 
-Thābit ibn Aqram ragadta fel a zászlót, amelyet a három vezér a magasban tartott, és így kiáltott: „Ó, muszlimok! Válasszatok magatok közül egy embert!"
+Thābit ibn Arqam [az arab eredeti itt Aqrad, korábban Arqam alakban írja a nevet; a történetileg hiteles alak az Arqam — a ford.] ragadta fel a zászlót, amelyet a három vezér a magasban tartott, és így kiáltott: „Ó, muszlimok! Válasszatok magatok közül egy embert!"
 
 Azt mondták: „Téged!" Ő azonban visszautasította, és akkor megegyeztek Khālid ibn al-Walīdban (رضي الله عنه) mint vezérükben. Thābit nem azért utasította vissza a vezérséget, mert félt a haláltól, hanem mert úgy érezte, vannak nála rátermettebbek a csapatban. Az, hogy felemelte a zászlót, nehogy leessék, a bátorság jele volt e megpróbáló körülmények között. Bárcsak minden ember, aki ismeri az emberek értékét, az őket megillető helyre állítaná őket, és nem kényszerítené nemzetét arra, hogy az ő tehetetlenségének és önzésének terheit hordozza.
 
@@ -4998,7 +4998,7 @@ Az emberek ekkor szétszéledtek, és otthonaikba vagy a Ka'bához menekültek. 
 
 Miközben a sereg folytatta menetelését Mekka felé, a Próféta (ﷺ) tevéjén ült, fején fekete turbánnal, fejét az Allah (ﷻ) előtti mélységes alázatból lehajtva. Olyan mélyre hajolt — vonásain tükröződött az alázat —, hogy szakálla szinte hátasa hátát érintette.⁶⁶ A hatalmas, félelmetes sereg, amely a Ḥaram központja felé vonult, és a vértezett csapatok, amelyek körülvették, csak egyetlen jelére vártak, és Mekkában semmi sem maradt volna békében. Bizonyára ez a nyilvánvaló győzelem hosszú fejezetekkel teli múltat idézett fel benne: hogyan űzték el, és hogyan tért ma vissza végül erős hódítóként. Adhatott-e Allah (ﷻ) nagyobb megtiszteltetést neki, mint hogy megláthatta ezt az áldott reggelt? Minél többet gondolt e kegyekre, annál mélyebbre hajolt alázatában hátasán.
 
-Úgy tűnt azonban, hogy némelyek elméjében más érzelmek is munkáltak. Sa'd ibn 'Ubādah, az Aws főnöke emlékezett arra, mit tettek a mekkaiak, és milyen megátalkodottságot mutattak Allahhal (ﷻ) szemben. Azután kezében érezte a hatalom gyeplőjét, és így kiáltott: „Ma van az öldöklés napja! Ma megengedetté válik a tiltott! Ma hozza Allah (ﷻ) szégyenbe a Quraisht!"
+Úgy tűnt azonban, hogy némelyek elméjében más érzelmek is munkáltak. Sa'd ibn 'Ubādah, az Aws főnöke [így az arab eredetiben; valójában a Khazraj főnöke volt — a ford.] emlékezett arra, mit tettek a mekkaiak, és milyen megátalkodottságot mutattak Allahhal (ﷻ) szemben. Azután kezében érezte a hatalom gyeplőjét, és így kiáltott: „Ma van az öldöklés napja! Ma megengedetté válik a tiltott! Ma hozza Allah (ﷻ) szégyenbe a Quraisht!"
 
 E szavak eljutottak a Próféta (ﷺ) fülébe, és ő így szólt: „Nem. Ma van az a nap, amelyen a Ka'ba felmagasztaltatik.⁶⁷ Ma van az a nap, amelyen Allah (ﷻ) megbecsüli a Quraisht" — és megparancsolta, hogy vegyék el a zászlót Sa'dtól, és adják fiának, attól tartva, hogy Sa'd tettekre tüzelhetné embereit.
 

@@ -68,12 +68,18 @@ and stay.)
 | 26 | ch8, ENG ~6048 | Farwah sentence garbled: "…on behalf of the Romans **were enraged**" (clause lost) + "governor **or** Ma'ān" | restored per AR p.353: he **embraced Islām and sent word of it to the Prophet (ﷺ)**; the Romans were enraged |
 | 27 | ch9, ENG ~6116 | "grew more **sever**" | severe (print typo) |
 
-## 6. Errors in the *Arabic original* itself — kept in both files
+## 6. Errors in the *Arabic original* itself — kept, with a translator's note
+
+Convention (2026-07-16): the text stays faithful to the Arabic and carries an inline
+bracketed note — ENG `[… — translator's note]`, HUN `[… — a ford.]`.
 
 - **Sa'd ibn 'Ubādah, "chief of the Aws"** — the Arabic prints «زعيم الأوس» (AR p.292);
-  historically he was chief of the **Khazraj**. Faithful to the Arabic → kept.
+  historically he was chief of the **Khazraj**. Kept + note in both files (ENG ~5018,
+  HUN ~5001). ✅ noted
 - **Thābit ibn Aqrad / Arqam** — the Arabic prints both spellings («أرقم» p.281,
-  «أقرد» p.282). ENG mirrors it; HUN unified to the historically correct Arqam.
+  «أقرد» p.282). ENG mirrors both + note at the Aqrad spot (~4861); HUN unified to the
+  historically correct **Arqam** + note (a stray HUN "Aqram" typo fixed on the way).
+  ✅ noted
 
 ## 7. Known / suspected, not yet fixed (pass-A candidates)
 

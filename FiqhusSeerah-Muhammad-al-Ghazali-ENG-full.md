@@ -4858,7 +4858,7 @@ Upon his death, 'Abdullāh ibn Rawāḥah took the banner and advanced on his ho
 
 Then a cousin of his approached and gave him a piece of meat, saying that he should strengthen himself with it. However, he had hardly broken off a morsel from it when he heard the clashing of swords from the far side of the field where fighting was taking place, and he said to himself, "You are yet in this world?" He flung away the food and joined the battle, fighting until he was killed.
 
-Thābit ibn Aqrad snatched up the banner which the three leaders had kept aloft, and he shouted: "O Muslims! Select a man from among you!"
+Thābit ibn Aqrad [thus in the Arabic original here, though it prints Arqam elsewhere; Arqam is the historically attested form — translator's note] snatched up the banner which the three leaders had kept aloft, and he shouted: "O Muslims! Select a man from among you!"
 
 They said, "You!" He refused, however, and then they agreed upon Khālid ibn al-Walīd (رضي الله عنه) as their leader. Thābit refused the leadership not because he was afraid of death but because he felt that there were others more competent than himself in the group. His lifting of the banner for fear that it might fall was a sign of bravery under these trying circumstances. How I wish that every man who knew the worth of the people would place them in their rightful positions and not cause the nation to bear the woes of his incompetence and egotism.
 
@@ -5015,7 +5015,7 @@ The people then dispersed and fled to their homes or to the Ka'bah. Soon the "Mo
 
 As the army continued its march to Makkah, the Prophet (ﷺ) was on his camel, a black turban on his head, and his head lowered out of abject humility to Allāh (ﷻ). He bent forward so far, the humility reflecting in his features, that his beard almost touched the back of his mount.⁶⁶ The powerful, frightening army which was marching to the centre of the Ḥaram and the armour-clad troops who surrounded him were waiting for one signal from himself and nothing in Makkah would remain at peace. Surely this manifest victory reminded him of a past with long chapters of how he was ejected and how he had finally returned this day as the strong conqueror. What greater honour did Allāh (ﷻ) bestow on him than to see this auspicious morning? The more he thought of these bounties, the more he bowed in humility on his mount.
 
-However, it seemed as though there were other emotions playing in the minds of some. Sa'd ibn 'Ubādah, chief of the Aws, remembered what the Makkans had done and how they had shown intransigence to Allāh (ﷻ). Then he felt the reins of power in his hands and shouted: "Today is the day of slaughter! Today the unlawful will be permitted! Today Allāh (ﷻ) will bring shame on the Quraish!"
+However, it seemed as though there were other emotions playing in the minds of some. Sa'd ibn 'Ubādah, chief of the Aws [thus in the Arabic original; he was in fact chief of the Khazraj — translator's note], remembered what the Makkans had done and how they had shown intransigence to Allāh (ﷻ). Then he felt the reins of power in his hands and shouted: "Today is the day of slaughter! Today the unlawful will be permitted! Today Allāh (ﷻ) will bring shame on the Quraish!"
 
 These words reached the ears of the Prophet (ﷺ) and he said: "No. Today is the day when the Ka'bah will be exalted.⁶⁷ Today is the day when Allāh (ﷻ) will honour the Quraish," and he ordered the banner to be taken from Sa'd and given to his son for fear that Sa'd might instigate his men to action.
 

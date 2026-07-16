@@ -53,6 +53,8 @@ same day): faithful to the Arabic only → plain corrected refs in both ENG and 
 - [x] **Ch7** — Hubaybiyah/Ḥubaybiyah → HUN Ḥudaybiyah (~4907, fn15). **AR: «الحديبية»** — HUN correct.
 - [x] **Ch7** — Thābit ibn **Aqrad** (~4861) vs ibn **Arqam** (~4837), same man → unify.
   **AR prints BOTH** (أرقم p.281 / أقرد p.282) — book-level inconsistency; HUN→Arqam OK.
+  **2026-07-16: translator's note added at the Aqrad spot in ENG + HUN** (author-error
+  convention); stray HUN "Aqram" typo fixed to Arqam.
 - [x] **Ch7** — "from **Aslaj**" (~5370) → HUN "Aslam törzsbeli". **AR (p.318):
   «وسعى ساعٍ من أسلم»** — Aslam; ENG typo, HUN correct.
 - [x] **Ch7** — **mu'addal** (fn 98, 108, 116) → HUN standard **mu'ḍal**. **AR: the term
@@ -83,7 +85,8 @@ same day): faithful to the Arabic only → plain corrected refs in both ENG and 
   ENG "Bubayl" is a corruption → HUN changed to Shuraḥbīl. ✅ APPLIED 2026-07-16.
 - [x] **Ch7** ~5018 — "Sa'd ibn 'Ubādah, chief of the **Aws**" (was Khazraj). **AR-checked
   (p.292): the Arabic original itself prints «سعد بن عبادة زعيم الأوس»** — al-Ghazali's own
-  error, ENG faithful → HUN „az Aws főnöke" stays (optional translator's note).
+  error, ENG faithful → kept in both files **with translator's note** (ENG ~5018,
+  HUN ~5001). ✅ APPLIED 2026-07-16.
 - [ ] **Ch7** ~5246 / fn121 — book title "Prejudice and Tolerance…" vs "Tolerance and
   intolerance…" inconsistency → HUN mirrors both
 - [x] **Ch7** ~4371 / fn4 — Al-Halīs "people who are **confused**". **AR: «قوم يتألهون»** =
