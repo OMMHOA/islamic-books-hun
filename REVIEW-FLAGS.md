@@ -175,10 +175,20 @@ e.g. the ch7 ~4946 dittography, fold into G3).
   - Name-spelling inconsistencies preserved as printed (e.g. ثابت بن أرقم / ثابت بن أقرد
     on one page; نوف بن معاوية vs نوفل, printed 286); ch3: printed 96 has two (١) body
     markers, the second footnote's text typeset at the bottom of printed 97.
-- [ ] **G2. Scripted Qur'ān-reference sweep** — validate every `(Korán X: Y)` /
-  `(Qur'ān X: Y)` reference (and, where feasible, the quoted wording) against the
-  canonical Qur'ān text (e.g. Tanzil). Deterministic; both ref misprints found so far
-  (7:115→2:115, 49:24→48:24) were this error class.
+- [x] **G2. Scripted Qur'ān-reference sweep** — **DONE 2026-07-17.** Script
+  (`scripts/g2_quran_sweep.py`, re-runnable) extracted every `(Korán X: Y)` / `(Qur'ān X: Y)`
+  ref (HUN 222, ENG 221), validated all against the Kufan āyah counts (surah 1–114,
+  āyah ≤ max, ranges ascending) — **zero out-of-range refs** — and sequence-aligned
+  the ENG↔HUN ref lists. Findings (all corroborated against the Arabic original):
+  - **ENG 43:19-20 + 43:21-23 → 53:19-23** (ch3, cranes/Sūrat an-Najm passage;
+    AR p.87 prints سورة النجم) — fixed in ENG-full; HUN was already correct.
+    Errata #2a.
+  - **ENG 3:91 → 3:191** (ch5, ﴿ربنا ما خلقت هذا باطلاً﴾; AR p.148 prints
+    [آل عمران: ١٩١]) — fixed in ENG-full; HUN was already correct. Errata #2b.
+  - HUN fn12 (ch3) carries a clarifying **(Korán 16: 106)** the ENG footnote lacks —
+    intentional HUN addition, ref verified correct (the ʿAmmār verse); kept.
+  Quoted-wording verification (vs canonical text) folds into G3, which reads every
+  quote against the Arabic anyway.
 - [ ] **G3. Chunk-aligned HUN ↔ AR verification pass** — subagents compare the HUN
   translation against the Arabic text chunk by chunk. Catches all three error classes
   at once: ENG OCR errors, undiscovered ENG-edition mistranslations, HUN drift.

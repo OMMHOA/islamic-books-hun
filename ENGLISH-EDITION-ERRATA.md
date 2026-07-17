@@ -16,6 +16,8 @@ of the Arabic edition.
 |---|---|---|---|---|
 | 1 | ch6, ENG ~3339 | (Qur'ān **7**: 115) | [البقرة: ١١٥] (AR p.190) | **2:115** |
 | 2 | ch7 fn7, ENG ~5628 | (Qur'ān **49**: 24) | [الفتح: ٢٤] (AR p.252 fn١) | **48:24** |
+| 2a | ch3, ENG ~1433/1437 | (Qur'ān **43**: 19-20) + (Qur'ān **43**: 21-23) | سورة (النجم) — the cranes passage (AR p.87) | **53**:19-20 + **53**:21-23 (the ENG text itself says "In Sūrah Al Najm") |
+| 2b | ch5, ENG ~2577 | (Qur'ān 3: **91**) | ﴿ربنا ما خلقت هذا باطلاً﴾ [آل عمران: ١٩١] (AR p.148) | **3:191** (dropped digit) |
 
 Also on AR p.190: the Arabic quotes the three East/West verses in the order
 2:142 → 2:115 → 2:177; the English reordered them to 142 → 177 → 115.

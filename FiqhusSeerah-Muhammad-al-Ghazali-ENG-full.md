@@ -1430,11 +1430,11 @@ Some simpletons claim that there was actually a truce between Islām and paganis
 
 Where did he say these words? In Sūrah Al Najm, between the Qur'ānic āyāt (verses) which mention these idols. Thus it became like this:
 
-(Have you thought upon Al Lāt and Al Uzza and Manāt, the third, the other?) (Qur'ān 43: 19-20)
+(Have you thought upon Al Lāt and Al Uzza and Manāt, the third, the other?) (Qur'ān 53: 19-20)
 
 (Those lofty cranes, And surely their intercession is to be sought.)
 
-(Are yours the males and His the females? That indeed were an unfair division! They are but names which you have given, you and your fathers, for which Allah has revealed no warrant. They follow but a guess and that which [they] themselves desire. And now the guidance from their Lord has come to them.) (Qur'ān 43: 21-23)
+(Are yours the males and His the females? That indeed were an unfair division! They are but names which you have given, you and your fathers, for which Allah has revealed no warrant. They follow but a guess and that which [they] themselves desire. And now the guidance from their Lord has come to them.) (Qur'ān 53: 21-23)
 
 The meaning of this would be:
 
@@ -2574,7 +2574,7 @@ The Prophet (ﷺ) of Islām came to arouse these two qualities in the hearts of 
 
 When you recognize His greatness through the magnificence of the creation which surrounds you, you will be ashamed to attack Him and attribute anything unworthy to Him and you will say, together with the people of knowledge:
 
-(O our Rabb [Lord]! You did not create [all] this without purpose].) (Qur'ān 3: 91)
+(O our Rabb [Lord]! You did not create [all] this without purpose].) (Qur'ān 3: 191)
 
 If generous people invite you to a meal and you see the smiles on their faces and the plentiful food, you will remember them as long as you live and will do your best to repay them. You will talk to everyone you know of these hospitable people. So what do you say of Him Who has taken charge of you and showered His bounties on you from the cradle to the grave? You eat only of what He has provided; you cover yourself only with the clothing He has given you; you take shelter only under His roof; and you do not escape from any hardship except with His help.
 
