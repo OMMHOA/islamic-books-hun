@@ -143,6 +143,51 @@ same day): faithful to the Arabic only → plain corrected refs in both ENG and 
 - [ ] Decide fate of legacy/working files: partial `-ENG.md`, `chapter*-normalized.md`,
   `-HUN-Chapter3…md`, `-HUN-Khadijah.md` (superseded by the `-full` files)
 
+### G. Arabic-source verification plan (2026-07-16) — SUPERSEDES the old pass A
+
+**Rationale (user decision 2026-07-16):** the Arabic is the sole source of truth, and
+every corroboration so far has shown the English edition carries its own errors that
+read fluently (seal/sea, forger/tadlīs, corrupted names…). Proofreading ENG-full
+against the *English* scan can only catch our OCR mistakes while re-validating the
+English edition's translation mistakes. So the verification pass targets the Arabic
+directly; the old "pass A vs ENG scan" is demoted (residual ENG OCR errors matter only
+where they propagated to HUN — G3 catches those; ENG-print spot-checks still open,
+e.g. the ch7 ~4946 dittography, fold into G3).
+
+- [x] **G1. Transcribe the Arabic original** → `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md`
+  — **DONE 2026-07-17.** Printed pages 2–368 (367 page blocks), ~126.5k words, whole-book
+  `[صفحة N]` continuity verified by script (no gaps, no duplicates). PDF 368 = back cover,
+  not transcribed. Source: `فقه السيرة - محمد الغزالي.pdf`, 368 pages, image-only,
+  **printed page = PDF page + 1** (TOC on printed 365–367). Same parallel-subagent
+  pipeline as the ENG run (2026-07-13); fragments in `.transcription-fragments/ar/`.
+  Page markers `[صفحة N]` per printed page; per-page footnotes as blockquotes after
+  each page. **Caveat: the AR transcription is a locating/reading aid, not gospel** —
+  Arabic OCR is more error-prone; decision-critical readings are re-checked on the
+  rendered PDF page (now with an exact location to look at).
+  Chapter → PDF-page map: front 1–13, ch1 14–44, ch2 45–69, ch3 70–107, ch4 108–133,
+  ch5 134–157, ch6 158–245, ch7 246–331, ch8 332–352, ch9+خاتمة+TOC 353–367.
+  Known transcription-quality notes:
+  - 9 `[غير مقروء]` spots, all in ch7b's slice (printed 293, 295, 297, 300, and several
+    on 304 — worst print degradation of the book; the rest recovered at high DPI).
+  - Repaired during stitching: ch8's agent had skipped printed 346 and mislabeled
+    347–349 as 346–348 — caught via marker-gap check, markers renumbered, page 346
+    transcribed directly from the rendered scan (main-session verification).
+  - Name-spelling inconsistencies preserved as printed (e.g. ثابت بن أرقم / ثابت بن أقرد
+    on one page; نوف بن معاوية vs نوفل, printed 286); ch3: printed 96 has two (١) body
+    markers, the second footnote's text typeset at the bottom of printed 97.
+- [ ] **G2. Scripted Qur'ān-reference sweep** — validate every `(Korán X: Y)` /
+  `(Qur'ān X: Y)` reference (and, where feasible, the quoted wording) against the
+  canonical Qur'ān text (e.g. Tanzil). Deterministic; both ref misprints found so far
+  (7:115→2:115, 49:24→48:24) were this error class.
+- [ ] **G3. Chunk-aligned HUN ↔ AR verification pass** — subagents compare the HUN
+  translation against the Arabic text chunk by chunk. Catches all three error classes
+  at once: ENG OCR errors, undiscovered ENG-edition mistranslations, HUN drift.
+  Absorbs the remaining D-items and the E coinage checks in context.
+- [ ] **G4. Name + ḥadīth-grade sweep** — every proper name in HUN checked against its
+  Arabic spelling; every hiteles/jó/gyenge label checked against صحيح/حسن/ضعيف in
+  Al-Albānī's footnotes. (Bubayl→Shuraḥbīl and Farwah ibn 'Umar→'Amr were name
+  corruptions of exactly this kind.)
+
 ---
 
 ## Arabic-original corroboration (2026-07-16)

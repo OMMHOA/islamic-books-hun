@@ -45,6 +45,8 @@ Muhammad Naṣiruddīn Al-Albānī).
 |---|---|
 | `FiqhusSeerah-Muhammad-alGhazali.pdf` | Source scan, 512 PDF pages, no text layer. **PDF page = printed page − 2** |
 | `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` | Complete English transcription: Preface → Chapters 1–9 → Epilogue → Glossary, ~176k words |
+| `فقه السيرة - محمد الغزالي.pdf` | Arabic original scan (Maṭābiʿ al-Shurūq ed.), 368 PDF pages, no text layer. **Printed page = PDF page + 1**; PDF 368 = back cover |
+| `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md` | Complete Arabic transcription (2026-07-17): printed pages 2–368, ~126.5k words, `[صفحة N]` page markers, per-page footnote blockquotes. Locating/reading aid for verification — not gospel; decision-critical readings re-checked on the rendered page. 9 `[غير مقروء]` spots (ch7, pp. 293–304) |
 | `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
 | `ENGLISH-EDITION-ERRATA.md` | Consolidated list of the English edition's errors verified against the Arabic original (wrong Qur'ān refs, inserted honorifics, mistranslations, corrupted names) — all corrected in both ENG-full and HUN per the fidelity policy |
 | `FiqhusSeerah-Muhammad-al-Ghazali.md` | Hungarian translation, main file (Chapter 1 sections 1.1–1.2 so far) |
@@ -105,13 +107,23 @@ see the fidelity policy under Transcription conventions.)*
 ## Next steps
 
 The Hungarian **translation draft is complete** and pass-B **terminology** is done
-(see the pipeline note above). Remaining:
+(see the pipeline note above). **New verification plan (2026-07-16): verify against
+the Arabic original directly** — see REVIEW-FLAGS `§G` for the full rationale and the
+chapter→PDF-page map. This supersedes the old "pass A vs the English scan" (which
+could only catch our OCR errors while re-validating the English edition's own
+translation errors).
 
-1. **Pass A** — verify/proofread `-ENG-full.md` against the PDF (committed but unverified):
-   honorific artifacts, Qur'ān 7:115 & other misprints, garbled sentences (REVIEW-FLAGS
-   §1/§3/§4 per chapter).
-2. **Pass B leftovers** — coinage sanity-checks and the optional full Hungarian
-   re-alphabetization of the glossary (REVIEW-FLAGS §2 open sub-question).
-3. Update `README.md` links (currently stale) now that all chapters have landed.
-4. Decide fate of the legacy partial `-ENG.md` and the `chapter*-normalized.md` /
-   `-HUN-Chapter3…` / `-HUN-Khadijah.md` working files (superseded by the `-full` files).
+1. ~~**G1 — transcribe the Arabic original**~~ ✅ **done 2026-07-17**:
+   `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md`, printed pages 2–368, continuity
+   verified. A locating/reading aid, not gospel — decision-critical readings get
+   re-checked on the rendered page. Details in REVIEW-FLAGS §G.
+2. **G2 — scripted Qur'ān-reference sweep**: every `(Korán X: Y)`/`(Qur'ān X: Y)` ref
+   validated against the canonical Qur'ān text (deterministic, script-able).
+3. **G3 — chunk-aligned HUN ↔ AR verification pass** (subagents): catches ENG OCR
+   errors, undiscovered ENG-edition mistranslations, and HUN drift in one pass;
+   absorbs the remaining REVIEW-FLAGS D-items and E coinage checks.
+4. **G4 — name + ḥadīth-grade sweep** vs the Arabic (names; hiteles/jó/gyenge vs
+   صحيح/حسن/ضعيف).
+5. Housekeeping: update `README.md` links; decide fate of the legacy partial `-ENG.md`
+   and the `chapter*-normalized.md` / `-HUN-Chapter3…` / `-HUN-Khadijah.md` working
+   files (superseded by the `-full` files); optional glossary re-alphabetization.
