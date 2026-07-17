@@ -1190,7 +1190,7 @@ The consequences of this belief were that the stones which the Arabs worshipped 
 
 The day will inevitably come when people will have to face their Lord and be questioned on every minute detail of their previous life.
 
-(And whoever does an atom's weight of evil, will see it then.) (Qur'ān 99: 7-8)
+(And whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it.) (Qur'ān 99: 7-8)
 
 Thereafter will be either eternal bliss for the good people to enjoy or dreadful punishment in which the evil-doers will remain miserable.
 
@@ -2286,7 +2286,7 @@ Our view is supported by the *mursal* Ḥadīth narrated by Al Ṭabarāni on th
 
 ⁹ A sound Ḥadīth narrated by Bukhārī, Al-Ḥākim and Al-Bayhaqī on the authority of 'Ā'ishah, and by Bukhārī, Muslim and Ibn Mājah on the authority of Abū Mūsā.
 
-¹⁰ They began to return, and this continued until the year of the Hijrah.
+¹⁰ They began to return, and this continued until the sixth year of the Hijrah.
 
 ¹¹ This is from the Ḥadīth of Ibn 'Abbās, who said "The Messenger of Allāh (ﷺ) was in Makkah, then he was ordered to migrate and this *ayah* was Revealed to him." It is narrated by Al Tirmidhī. Al'Ḥakim, Al Bayhaqi and Aḥmad by way of Qābūs ibn Abū Zibyan from his father from Ibn Abbas. However, Aḥmad's and Al-Bayhaqī's chain does not contain "from his father." Al Tirmidhī said it was a good, sound Ḥadīth, and Al-Ḥakim said, "Its chain is sound and Al Dhahabi has authenticated it."
 
@@ -2346,7 +2346,7 @@ The Jews and the idolaters of Madīnah saw this new Prophet (ﷺ) labouring with
 
 Al Bayhaqī reported on the authority of 'Abdul Rahmān ibn 'Auf,⁴ who said:
 
-"The first sermon delivered by the Messenger of Allah (ﷺ) in Madīnah was when he stood up and praised Allah (ﷻ) in a way befitting Him. He then said: "To proceed: O people, send on (your good deeds) for the benefit of your souls. You do know, by Allah (ﷻ), that one of you will surely be struck dead. Then his Lord will surely ask him, and there will be no spokesman nor guardian between them: 'Did My Messenger not come to you and convey (My message)? Did I not give you wealth and shower My bounties on you? What have you therefore sent forward for yourself?' He will look right and left and will see nothing but hell. So whoever of you can protect himself from the fire, even by means of a single date, let him do so, and whoever cannot find that, then by a good word, for through it a good deed will be rewarded from 10 to 700 times its value. Peace be upon the Messenger of Allah (ﷺ)!"
+"The first sermon delivered by the Messenger of Allah (ﷺ) in Madīnah was when he stood up and praised Allah (ﷻ) in a way befitting Him. He then said: "To proceed: O people, send on (your good deeds) for the benefit of your souls. You do know, by Allah (ﷻ), that one of you will surely be struck dead, then leave his flock with no shepherd. Then his Lord will surely ask him, and there will be no spokesman nor guardian between them: 'Did My Messenger not come to you and convey (My message)? Did I not give you wealth and shower My bounties on you? What have you therefore sent forward for yourself?' He will look right and left and will see nothing but hell. So whoever of you can protect himself from the fire, even by means of a single date, let him do so, and whoever cannot find that, then by a good word, for through it a good deed will be rewarded from 10 to 700 times its value. Peace be upon the Messenger of Allah (ﷺ)!"
 
 ## The Brotherhood
 
@@ -4151,7 +4151,7 @@ Khālid replied: "By Allāh (ﷻ), the path is clear. Surely the man is a Prophe
 
 ## Footnotes
 
-¹ Al Islām wal Istibdad al Siyāsi (Islām and Political Oppression) and Al-Ta'aṣṣub wal Tasāmuḥ bayn al Masīḥīyah wal Islām (Tolerance and Intolerance between Islām and Christianity).
+¹ Al Islām wal Istibdad al Siyāsi (Islām and Political Oppression) and Al-Ta'aṣṣub wal Tasāmuḥ bayn al Masīḥīyah wal Islām (Intolerance and Tolerance between Christianity and Islām).
 
 ² An authentic Ḥadīth narrated by Muslim, Abū Dāwūd, Al Tirmidhī, Ibn Mājah and Aḥmad.
 
@@ -4678,7 +4678,13 @@ No sooner had the Muslims solved the problem of the Jews than they began turning
 
 Islām made great efforts to raise their material and moral circumstances. However, their ambushing of the Islāmic missionaries made the Muslims confront them with force to remove this source of worry. One of the most important actions of the Muslims after their return from Khaybar and their journey to Makkah for the compensatory 'Umrah as promised in the Treaty of Ḥudaybiyah was the dispatching of scouting parties in the deserts of Najd. It is not necessary for us to itemize the details of all of the skirmishes, for though they enhanced the military might of the Muslims, they were more akin to police patrols than to mobilized armies. The main reason for them was to strengthen security, stop the raids on Madīnah, and enable the Muslim missionaries to travel with the teachings of the divine message without fear of treachery or attack.
 
-The conditions of these tribes strongly resembled those in Saudi villages in the recent feudal era, when the village chief held a thousand votes in his village. The talk of political freedom in such an atmosphere is nothing but a fairy tale. Similarly, the tribal chiefs of old had the total support of these clans in war and peace, and it was always the desires of these chiefs which prevailed. If, therefore, there were many foolish rulers who were blindly obeyed and their policy was to raid and flee as the opportunity arose, do you think that the missionaries could be left in such an environment to carry out their work in peace? To work for the establishment of peace is different from forcing people to accept certain beliefs. The aim of the first is to remove all pressure and influences from society, so that if individuals in a tribe accept Islām, they will not encounter anyone with a whip to deter them. However, the other is to use the whip to force people to accept a particular set of beliefs.
+The conditions of these tribes strongly resembled those in our villages in the recent feudal era, when the village chief held a thousand votes in his village. The talk of political freedom in such an atmosphere is nothing but a fairy tale. Similarly, the tribal chiefs of old had the total support of these clans in war and peace, and it was always the desires of these chiefs which prevailed. If, therefore, there were many foolish rulers who were blindly obeyed and their policy was to raid and flee as the opportunity arose, as Durayd ibn al-Ṣimmah said:
+
+*A man who has a score against us raids us and is gladdened if we are struck; or we raid against one who owes us a score!*
+
+*Thus have we divided time into two halves between us: it never passes but that we are living in one of the halves!*
+
+Do you think that the missionaries could be left in such an environment to carry out their work in peace? To work for the establishment of peace is different from forcing people to accept certain beliefs. The aim of the first is to remove all pressure and influences from society, so that if individuals in a tribe accept Islām, they will not encounter anyone with a whip to deter them. However, the other is to use the whip to force people to accept a particular set of beliefs.
 
 The expeditions which the Prophet (ﷺ) dispatched in different direction carried with them the word of Allāh (ﷻ) so that they might read from it.
 
@@ -5243,7 +5249,7 @@ The hypocrites were overjoyed at this new conflict and they thought that grave o
 
 The Prophet (ﷺ) wanted to strengthen the ties between Islām and Christianity, though not at the expense of Islām. Thus he did not accept any bargaining over the issue of whether his missionaries should be left free to present their message to the mankind with the option of their accepting it or rejecting it. Islām strongly opposed the killing of its missionaries and the erection of barriers in the way of their work. Moreover, the Romans in Syria, Iraq, Egypt and other lands were invaders who had no links with the original inhabitants except by forceful occupation and moral conquest. Therefore, those who wished to object to Islām's march towards the north should first ask themselves why they remained silent at the Romans' march to the south, and in what manner they governed the lands which they conquered.
 
-An unbiased evaluation would remove the doubts about the Prophet's (ﷺ) intentions. His proposal was that the different ideologies should explain themselves in an open environment, and let the people decide which of these they chose to follow, a choice free from any form of constraint or coercion. However, this demand was met with armed rejection. Neither did the Roman Empire open the door of its trap for the many victims who were struggling within its confines, nor did the Roman Church welcome this new change of atmosphere. In our book *Prejudice and Tolerance between Islām and Christianity*, we referred to the Battle of Tabūk: "The Church could not bear to have by its side another opinion which disagreed with it on trivial matters."
+An unbiased evaluation would remove the doubts about the Prophet's (ﷺ) intentions. His proposal was that the different ideologies should explain themselves in an open environment, and let the people decide which of these they chose to follow, a choice free from any form of constraint or coercion. However, this demand was met with armed rejection. Neither did the Roman Empire open the door of its trap for the many victims who were struggling within its confines, nor did the Roman Church welcome this new change of atmosphere. In our book *Intolerance and Tolerance between Christianity and Islām*, we referred to the Battle of Tabūk: "The Church could not bear to have by its side another opinion which disagreed with it on trivial matters."
 
 How could it, then, allow a religion to exist which denied the authority of its personages? This new religion held that there were no intermediaries between people and god, and it rejected the doctrine of the atonement, which was the basis of Christianity, because it considered reward and punishment to be based on people's actions alone.
 
@@ -5783,7 +5789,7 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 ¹⁰⁷ Weak: transmitted by Ibn Hishām from Ibn Isḥāq without a chain. However, Ibn Kathīr mentioned it in his *tafsīr* from Ibn Isḥāq from Al Zuhri, Yazīd ibn Rūmān, 'Abdullāh ibn Abī Bakr, 'Āṣim ibn 'Umar, Ibn Qatādah and others as *mursal*.
 
-¹⁰⁸ Weak: Ibn Hishām mentions it from Ibn Isḥāq as *mu'ḍal*.
+¹⁰⁸ Weak: Ibn Hishām (2/225–226) mentions it from Ibn Isḥāq as *mu'ḍal*. The last sentence, however, was given a connected chain by Abū Dāwūd (2/42) and Aḥmad (5/218), from Al-Ḥasan, from ʿUthmān ibn Abī al-ʿĀṣ, raised (*marfū'*) to the Prophet (ﷺ) with similar wording. Its narrators are trustworthy, but Al-Ḥasan — that is, Al-Baṣrī — is a *mudallis* and narrated it with *'an'anah*.
 
 ¹⁰⁹ Ḥasan: Ibn Hishām transmitted it from Ibn Isḥāq as *mursal*. It has other ḥadīths to support it and these are mentioned by Ibn Kathīr in his History.
 
@@ -5809,7 +5815,7 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 ¹²⁰ A comedy.
 
-¹²¹ See our book Tolerance and intolerance Between Islām and Christianity.
+¹²¹ See our book Intolerance and Tolerance between Christianity and Islām.
 
 ---
 
@@ -5983,7 +5989,7 @@ It so happened that there was an eclipse of the sun on the same day, and the peo
 
 ## Settling Down
 
-The dust of *jahilīyah* cleared from the horizons of the Arabian peninsula just as the remains of the night clear away at the coming of the rays of dawn. The minds of the conscientious were awakened to fear, and hope in none but Allāh (ﷻ) was heard penetrating the air of the desert which had been revived by the new faith. The teachers of the Qur'ān set out to the north and south, reciting the āyāt of the Book, establishing the laws of Allāh (ﷻ), and teaching the Arabs what neither they nor their fathers had known.
+The dust of *jahilīyah* cleared from the horizons of the Arabian peninsula just as the remains of the night clear away at the coming of the rays of dawn. The ailing minds became sound again, no longer fearing or hoping in anyone but Allāh (ﷻ), after ages of worshipping lifeless idols; and the call to prayer (adhān) was heard cleaving the vast expanse of the sky across the desert which the new faith had revived. The teachers of the Qur'ān set out to the north and south, reciting the āyāt of the Book, establishing the laws of Allāh (ﷻ), and teaching the Arabs what neither they nor their fathers had known.
 
 This peninsula had never had such a blessed renaissance nor had its history seen such unique days ever since civilization rose upon it. The Prophet (ﷺ) would receive the deputations in Madīnah and bid them farewell, having imbued them with some of his spirit and provisioned them with his dazzling wisdom. They would return from where they came to build strongholds for Islām in those far-flung places and to turn over clean pages in the history of their tribes.
 
@@ -6053,6 +6059,10 @@ Thus the Prophet (ﷺ) equipped a huge army, made Usāmah ibn Zayd its commander
 
 Since Usāmah was only 18 years old, some ignorant people were offended at his appointment and objected to his leading the more experienced men. There is no doubt that in choosing personnel the Prophet (ﷺ) looked only at competence, and whomever he found to be competent for a post he would put him there without considering his age. Age does not give intellect to the foolish, and youthfulness does not detract from the virtue of the pious.
 
+*Youth is no barrier to ḥilm (forbearance),*
+
+*for ḥilm may be found alike in the young and the grey-haired.*
+
 Thus in reply to the critics the Prophet (ﷺ) said: "If you object to my appointing Usāmah as commander, then you must have objected before to my appointing his father. By Allāh (ﷻ), he was fit to be in that post, and his son after him is fit to be in it, and he was one of the dearest people to me."²⁴
 
 Many therefore flocked around Usāmah and enlisted in his army, except that the disturbing news of the Prophet's (ﷺ) illness forced them to delay their march so as to see what would be Allāh's decree in this matter.
@@ -6061,7 +6071,7 @@ Many therefore flocked around Usāmah and enlisted in his army, except that the 
 
 ¹ I do not know it. Something similar was transmitted by Al Ṭabarānī on the authority of Abū Ḥurairah (رضي الله عنه) that the Prophet (ﷺ) said: "Help your children to be sinless. Whoever wishes can extract disobedience from his child." However, the chain contains unknown narrators.
 
-² Ascribed to Al Nasā'ī though I have not found it in his *Al Sunan al Ṣughra*, so perhaps it is in his *Al Sunan al Kubrā*, which is not published.
+² He attributed it in *Al-Jāmi' al-Ṣaghīr* to Al-Nasā'ī and to Ibn Ḥibbān in his *Ṣaḥīḥ*, on the authority of Anas. I searched for it in *Sunan al-Nasā'ī al-Ṣughrā* in its likely places but did not find it, so perhaps it is in his *Al Sunan al Kubrā*, which is not published. I came upon a *waqf* (stopping) in its chain: Abū Nu'aym transmitted it in *Ḥilyat al-Awliyā'* (9/235) from Al-Nasā'ī with his chain, from Qatādah, from Anas; and Abū Nu'aym also narrated it (6/281) by a route other than Al-Nasā'ī's. The chain is *ṣaḥīḥ* if Qatādah heard it from Anas, for he is described as having some *tadlīs*.
 
 ³ A different wording is quoted here but with the same meaning. Transmitted by Abū Dawūd and others on the authority of Ibn 'Umar (رضي الله عنه). Al Ḥākim authenticated it. Muslim narrated a similar version by another chain from the same authority.
 

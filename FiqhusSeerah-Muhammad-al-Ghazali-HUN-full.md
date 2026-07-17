@@ -1155,7 +1155,7 @@ Ennek a hitnek a következményei azok voltak, hogy a kövek, amelyeket az arabo
 
 Eljön elkerülhetetlenül a nap, amikor az embereknek szembe kell nézniük Urukkal, és számot kell adniuk korábbi életük minden apró részletéről.
 
-(És aki egy porszemnyi rosszat tesz, látni fogja azt akkor.) (Korán 99: 7–8)
+(Aki egy porszemnyi jót tesz, látni fogja azt; és aki egy porszemnyi rosszat tesz, látni fogja azt.) (Korán 99: 7–8)
 
 Azután vagy örök boldogság lesz a jó emberek élvezetére, vagy rettenetes büntetés, amelyben a gonosztevők nyomorúságban maradnak.
 
@@ -2247,7 +2247,7 @@ Nézetünket támogatja az Al Ṭabarāni által 'Urwa tekintélyére hivatkozva
 
 ⁹ Hiteles hadísz, Bukhārī, Al-Ḥākim és Al-Bayhaqī beszélte el 'Ā'ishah tekintélyére hivatkozva, valamint Bukhārī, Muszlim és Ibn Mājah Abū Mūsā tekintélyére hivatkozva.
 
-¹⁰ Elkezdtek visszatérni, és ez a hidzsra évéig folytatódott.
+¹⁰ Elkezdtek visszatérni, és ez a hidzsra hatodik évéig folytatódott.
 
 ¹¹ Ez Ibn 'Abbās hadíszából való, aki azt mondta: „Allah Küldötte (ﷺ) Mekkában volt; azután megparancsoltatott neki a kivándorlás, és ez az *āyah* nyilatkoztatott ki neki." Al Tirmidhī, Al-Ḥakim, Al Bayhaqi és Aḥmad beszélte el Qābūs ibn Abū Zibyan útján, annak apjától, Ibn Abbastól. Aḥmad és Al-Bayhaqī láncában azonban nem szerepel az „apjától". Al Tirmidhī szerint jó, hiteles hadísz, Al-Ḥakim pedig azt mondta: „Lánca hiteles, és Al Dhahabi hitelesítette."
 
@@ -2306,7 +2306,7 @@ Madīna zsidói és bálványimádói látták ezt az új Prófétát (ﷺ), ami
 
 Al Bayhaqī közölte 'Abdul Rahmān ibn 'Auf tekintélyére hivatkozva,⁴ aki mondta:
 
-„Allah Küldöttének (ﷺ) első prédikációja Madīnában az volt, amikor felállt, és Hozzá illő módon dicsérte Allahot (ﷻ). Majd így szólt: »Továbbá: ó, emberek, küldjetek előre (jócselekedeteitekből) lelketek javára. Tudjátok, Allahra (ﷻ), hogy egyikőtöket bizony lesújtja a halál. Akkor Ura bizonyosan megkérdezi — és nem lesz közöttük sem szóvivő, sem gyám —: Nem jött-e el hozzád Küldöttem, és nem adta-e át (üzenetemet)? Nem adtam-e neked vagyont, és nem árasztottam-e rád kegyeimet? Mit küldtél hát előre magadért? Jobbra és balra néz majd, és semmit sem lát, csak a poklot. Aki tehát közületek meg tudja védeni magát a tűztől akár egyetlen datolyával is, tegye meg; és aki azt sem talál, akkor jó szóval, mert általa a jótett tíztől hétszázszorosáig jutalmaztatik. Béke legyen Allah Küldöttén (ﷺ)!«"
+„Allah Küldöttének (ﷺ) első prédikációja Madīnában az volt, amikor felállt, és Hozzá illő módon dicsérte Allahot (ﷻ). Majd így szólt: »Továbbá: ó, emberek, küldjetek előre (jócselekedeteitekből) lelketek javára. Tudjátok, Allahra (ﷻ), hogy egyikőtöket bizony lesújtja a halál, és nyáját pásztor nélkül hagyja. Akkor Ura bizonyosan megkérdezi — és nem lesz közöttük sem szóvivő, sem gyám —: Nem jött-e el hozzád Küldöttem, és nem adta-e át (üzenetemet)? Nem adtam-e neked vagyont, és nem árasztottam-e rád kegyeimet? Mit küldtél hát előre magadért? Jobbra és balra néz majd, és semmit sem lát, csak a poklot. Aki tehát közületek meg tudja védeni magát a tűztől akár egyetlen datolyával is, tegye meg; és aki azt sem talál, akkor jó szóval, mert általa a jótett tíztől hétszázszorosáig jutalmaztatik. Béke legyen Allah Küldöttén (ﷺ)!«"
 
 ## A testvériség
 
@@ -4118,7 +4118,7 @@ Khālid így felelt: „Allahra (ﷻ), az út világos. Bizony, az az ember Pró
 
 ## Lábjegyzetek
 
-¹ Al Islām wal Istibdad al Siyāsi (Az iszlám és a politikai elnyomás) és Al-Ta'aṣṣub wal Tasāmuḥ bayn al Masīḥīyah wal Islām (Türelem és türelmetlenség az iszlám és a kereszténység között).
+¹ Al Islām wal Istibdad al Siyāsi (Az iszlám és a politikai elnyomás) és Al-Ta'aṣṣub wal Tasāmuḥ bayn al Masīḥīyah wal Islām (A türelmetlenség és a türelem a kereszténység és az iszlám között).
 
 ² Hiteles hadísz, Muszlim, Abū Dāwūd, Al Tirmidhī, Ibn Mājah és Aḥmad beszélte el.
 
@@ -4646,7 +4646,13 @@ Alighogy a muszlimok megoldották a zsidók problémáját, energiáikat a pogá
 
 Az iszlám nagy erőfeszítéseket tett anyagi és erkölcsi körülményeik felemelésére. Ám az, hogy lesből támadtak az iszlám hithirdetőire, arra késztette a muszlimokat, hogy erővel lépjenek fel ellenük, és elhárítsák az aggodalomnak ezt a forrását. A muszlimok egyik legfontosabb lépése a Khaybarból való visszatérésük és a ḥudaybiyai szerződésben ígért pótló 'umrára Mekkába tett útjuk után az volt, hogy felderítő csapatokat küldtek ki Najd sivatagjaiba. Nem szükséges tételesen felsorolnunk mindezen csetepaték részleteit, mert bár növelték a muszlimok katonai erejét, inkább hasonlítottak rendőrjárőrökre, mint mozgósított seregekre. Fő céljuk az volt, hogy megerősítsék a biztonságot, megállítsák a Madīna elleni rajtaütéseket, és lehetővé tegyék a muszlim hithirdetők számára, hogy az isteni üzenet tanításaival árulástól vagy támadástól való félelem nélkül utazhassanak.
 
-E törzsek viszonyai erősen emlékeztettek a szaúdi falvakéra a közelmúlt hűbéri korszakában, amikor a falu ura ezer szavazatot tartott a kezében falujában. Politikai szabadságról beszélni ilyen légkörben nem több tündérmesénél. Hasonlóképpen a régi törzsfők is e nemzetségek teljes támogatását élvezték háborúban és békében, és mindig e főnökök kívánságai érvényesültek. Ha tehát sok olyan esztelen uralkodó volt, akinek vakon engedelmeskedtek, és akiknek politikája az volt, hogy rajtaütnek és elmenekülnek, amint alkalom kínálkozik — gondolod, hogy a hithirdetőket magukra lehetett hagyni ilyen környezetben, hogy békében végezzék munkájukat? A béke megteremtéséért dolgozni más, mint bizonyos hittételek elfogadására kényszeríteni az embereket. Az első célja minden nyomás és befolyás eltávolítása a társadalomból, hogy ha egy törzs egyes tagjai felveszik az iszlámot, ne találkozzanak senkivel, aki korbáccsal riasztja el őket. A másik viszont a korbács használata, hogy az embereket egy bizonyos hitrendszer elfogadására kényszerítsék.
+E törzsek viszonyai erősen emlékeztettek a mi falvainkéra a közelmúlt hűbéri korszakában, amikor a falu ura ezer szavazatot tartott a kezében falujában. Politikai szabadságról beszélni ilyen légkörben nem több tündérmesénél. Hasonlóképpen a régi törzsfők is e nemzetségek teljes támogatását élvezték háborúban és békében, és mindig e főnökök kívánságai érvényesültek. Ha tehát sok olyan esztelen uralkodó volt, akinek vakon engedelmeskedtek, és akiknek politikája az volt, hogy rajtaütnek és elmenekülnek, amint alkalom kínálkozik, ahogyan Durayd ibn al-Ṣimmah mondta:
+
+*Ránk tör, akinek vérbosszú jár tőlünk, s enyhül a kínja, ha minket ér csapás; vagy mi törünk arra, kin bosszú esedékes!*
+
+*Így osztottuk fel egymás közt kétfelé az időt: sosem múlik el úgy, hogy ne az egyik felében volnánk!*
+
+Gondolod, hogy a hithirdetőket magukra lehetett hagyni ilyen környezetben, hogy békében végezzék munkájukat? A béke megteremtéséért dolgozni más, mint bizonyos hittételek elfogadására kényszeríteni az embereket. Az első célja minden nyomás és befolyás eltávolítása a társadalomból, hogy ha egy törzs egyes tagjai felveszik az iszlámot, ne találkozzanak senkivel, aki korbáccsal riasztja el őket. A másik viszont a korbács használata, hogy az embereket egy bizonyos hitrendszer elfogadására kényszerítsék.
 
 A hadjáratok, amelyeket a Próféta (ﷺ) különböző irányokba küldött, Allah (ﷻ) szavát vitték magukkal, hogy abból olvassanak fel:
 
@@ -5238,7 +5244,7 @@ A képmutatók ujjongtak ezen az új összecsapáson, és azt gondolták, ebben 
 
 A Próféta (ﷺ) erősíteni akarta a kötelékeket az iszlám és a kereszténység között, de nem az iszlám rovására. Így nem fogadott el semmiféle alkudozást abban a kérdésben, hogy hithirdetői szabadon tárhassák-e üzenetüket az emberiség elé, az elfogadás vagy elutasítás választásával. Az iszlám határozottan ellenezte hithirdetőinek megölését és munkájuk elé akadályok emelését. A rómaiak ráadásul Szíriában, Irakban, Egyiptomban és más országokban hódítók voltak, akiket az eredeti lakossághoz semmi sem fűzött az erőszakos megszálláson és az erkölcsi hódításon kívül. Akik tehát kifogásolni kívánták az iszlám észak felé vonulását, először azt kérdezzék meg maguktól, miért hallgattak a rómaiak dél felé vonulásakor, és milyen módon kormányozták azok a meghódított földeket.
 
-Egy elfogulatlan mérlegelés eloszlatná a kételyeket a Próféta (ﷺ) szándékai felől. Az volt a javaslata, hogy a különböző eszmék szabad légkörben fejtsék ki magukat, és az emberek döntsék el, melyiket kívánják követni — minden kényszertől és megfélemlítéstől mentes választással. Ezt a kívánságot azonban fegyveres elutasítás fogadta. Sem a Római Birodalom nem nyitotta meg csapdája ajtaját a benne vergődő sok áldozat előtt, sem a római egyház nem üdvözölte a légkör ez új változását. „Az előítélet és türelem az iszlám és a kereszténység között" című könyvünkben utaltunk a tabūki ütközetre: „Az egyház nem tűrhette meg maga mellett a más véleményt, amely jelentéktelen kérdésekben is szembement vele."
+Egy elfogulatlan mérlegelés eloszlatná a kételyeket a Próféta (ﷺ) szándékai felől. Az volt a javaslata, hogy a különböző eszmék szabad légkörben fejtsék ki magukat, és az emberek döntsék el, melyiket kívánják követni — minden kényszertől és megfélemlítéstől mentes választással. Ezt a kívánságot azonban fegyveres elutasítás fogadta. Sem a Római Birodalom nem nyitotta meg csapdája ajtaját a benne vergődő sok áldozat előtt, sem a római egyház nem üdvözölte a légkör ez új változását. „A türelmetlenség és a türelem a kereszténység és az iszlám között" című könyvünkben utaltunk a tabūki ütközetre: „Az egyház nem tűrhette meg maga mellett a más véleményt, amely jelentéktelen kérdésekben is szembement vele."
 
 Hogyan engedhetett volna hát létezni egy olyan vallást, amely tagadta személyiségeinek tekintélyét? Ez az új vallás azt vallotta, hogy nincsenek közvetítők az emberek és Isten között, és elvetette az engesztelés tanát, a kereszténység alapját, mert a jutalmat és büntetést egyedül az emberek tetteire alapozta.
 
@@ -5822,7 +5828,7 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 
 ¹⁰⁷ Gyenge: Ibn Hishām hagyományozta Ibn Isḥāqtól lánc nélkül. Ibn Kathīr azonban említette tafsīrjában Ibn Isḥāqtól, Al Zuhrītól, Yazīd ibn Rūmāntól, 'Abdullāh ibn Abī Bakrtól, 'Āṣim ibn 'Umar ibn Qatādától és másoktól, mursalként.
 
-¹⁰⁸ Gyenge: Ibn Hishām említi Ibn Isḥāqtól mu'ḍalként.
+¹⁰⁸ Gyenge: Ibn Hishām (2/225–226) említi Ibn Isḥāqtól *mu'ḍal*ként. Az utolsó mondatot azonban teljes lánccal közölte Abū Dāwūd (2/42) és Aḥmad (5/218) Al-Ḥasantól, ʿUthmān ibn Abī al-ʿĀṣtól, a Prófétáig (ﷺ) felvezetve (*marfū'*), hasonló szövegezéssel. Elbeszélői megbízhatók, de Al-Ḥasan — vagyis Al-Baṣrī — *mudallis*, és *'an'ana* formában adta tovább.
 
 ¹⁰⁹ Jó (ḥasan): Ibn Hishām hagyományozta Ibn Isḥāqtól mursalként. Vannak más, támogató hadíszai, ezeket Ibn Kathīr említi Történetében.
 
@@ -5848,7 +5854,7 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 
 ¹²⁰ Komédia.
 
-¹²¹ Lásd „Türelem és türelmetlenség az iszlám és a kereszténység között" című könyvünket.
+¹²¹ Lásd „A türelmetlenség és a türelem a kereszténység és az iszlám között" című könyvünket.
 
 ---
 
@@ -6020,7 +6026,7 @@ Anas (رضي الله عنه) mondta: „Láttam, amint Allah Küldötte (ﷺ) e
 
 ## Megszilárdulás
 
-A *jahilīyah* pora úgy tisztult el az Arab-félsziget látóhatáráról, ahogyan az éjszaka maradványai oszlanak el a hajnal sugarainak érkeztével. A lelkiismeretesek elméje istenfélelemre ébredt, és az új hittől életre kelt sivatag levegőjét átjárta az egyedül Allahba (ﷻ) vetett remény hangja. A Korán tanítói útnak indultak északra és délre, recitálva a Könyv āyātjait, megszilárdítva Allah (ﷻ) törvényeit, és megtanítva az arabokat arra, amit sem ők, sem atyáik nem tudtak.
+A *jahilīyah* pora úgy tisztult el az Arab-félsziget látóhatáráról, ahogyan az éjszaka maradványai oszlanak el a hajnal sugarainak érkeztével. A beteg elmék meggyógyultak, s többé nem féltek és nem reménykedtek senki másban, csak Allahban (ﷻ), miután korszakokon át élettelen bálványokat imádtak; és felhangzott az ima hívó szava (azán), amely áthasította a tér végtelenjét az új hittől életre kelt sivatag felett. A Korán tanítói útnak indultak északra és délre, recitálva a Könyv āyātjait, megszilárdítva Allah (ﷻ) törvényeit, és megtanítva az arabokat arra, amit sem ők, sem atyáik nem tudtak.
 
 E félszigetnek soha nem volt ilyen áldott újjászületése, és történelme nem látott ilyen páratlan napokat, amióta civilizáció támadt rajta. A Próféta (ﷺ) Madīnában fogadta a küldöttségeket, és úgy búcsúztatta el őket, hogy előbb átitatta őket valamennyivel a saját szelleméből, és útravalóul adta nekik káprázatos bölcsességét. Visszatértek oda, ahonnan jöttek, hogy az iszlám erődítményeit építsék fel azokon a távoli helyeken, és tiszta lapokat nyissanak törzseik történetében.
 
@@ -6092,6 +6098,10 @@ Azt mondják, hogy amikor felakasztani készültek, ezt a verspárt mondta el:
 
 Mivel Usāmah csak 18 éves volt, egyes tudatlan emberek megütköztek a kinevezésén, és kifogásolták, hogy ő vezesse a nála tapasztaltabb férfiakat. Nem kétséges, hogy a Próféta (ﷺ) az emberek kiválasztásában egyedül a rátermettséget nézte, és akit alkalmasnak talált egy tisztségre, azt oda is állította, korára való tekintet nélkül. A kor nem ad értelmet az ostobának, és a fiatalság nem von le semmit a jámbor erényéből.
 
+*Az ifjúság nem gátja a bölcs megfontoltságnak (ḥilm),*
+
+*a ḥilm éppúgy fellelhető az ifjakban, mint az ősz hajúakban.*
+
 Így a bírálóknak válaszolva a Próféta (ﷺ) azt mondta: „Ha kifogásoljátok, hogy Usāmahot tettem parancsnokká, akkor bizonyára azt is kifogásoltátok korábban, hogy az apját tettem meg. Allahra (ﷻ), ő méltó volt arra a tisztségre, és utána a fia is méltó rá — és ő egyike volt a számomra legkedvesebb embereknek."²⁴
 
 Sokan sereglettek ezért Usāmah köré, és álltak be a seregébe — csakhogy a Próféta (ﷺ) betegségének nyugtalanító híre a menet elhalasztására kényszerítette őket, hogy lássák, mi lesz Allah rendelése ebben a dologban.
@@ -6100,7 +6110,7 @@ Sokan sereglettek ezért Usāmah köré, és álltak be a seregébe — csakhogy
 
 ¹ Nem ismerem. Hasonlót közölt Al Ṭabarānī Abū Ḥurairah (رضي الله عنه) tekintélyére hivatkozva, miszerint a Próféta (ﷺ) azt mondta: „Segítsétek gyermekeiteket, hogy bűntelenek legyenek. Aki akarja, kivonhatja az engedetlenséget gyermekéből." A lánc azonban ismeretlen elbeszélőket tartalmaz.
 
-² Al Nasā'īnak tulajdonítják, bár nem találtam az *Al Sunan al Ṣughrā*-ban; talán az *Al Sunan al Kubrā*-ban van, amely nincs kiadva.
+² Az *Al-Jāmi' al-Ṣaghīr*-ban Al-Nasā'īnak, valamint Ibn Ḥibbānnak tulajdonította a *Ṣaḥīḥ*-jében, Anasz tekintélyére hivatkozva. Kerestem az *Al Sunan al Ṣughrā* várható helyein, de nem találtam; talán az *Al Sunan al Kubrā*-ban van, amely nincs kiadva. Láncában *waqf*-ra (megállásra) bukkantam: Abū Nu'aym közölte a *Ḥilyat al-Awliyā'*-ban (9/235) Al-Nasā'ītól, az ő láncán át, Qatādától, Anasztól; és Abū Nu'aym közölte (6/281) Al-Nasā'ī útjától eltérő úton is. A lánc hiteles (*ṣaḥīḥ*), ha Qatāda hallotta Anasztól, mert őt bizonyos *tadlīs* jellemzi.
 
 ³ Itt más szövegezéssel idézik, de azonos értelemben. Abū Dawūd és mások hagyományozták Ibn 'Umar (رضي الله عنه) tekintélyére hivatkozva. Al Ḥākim hitelesítette. Muszlim hasonló változatot közölt más lánccal ugyanattól a tekintélytől.
 
