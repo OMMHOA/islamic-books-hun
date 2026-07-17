@@ -2252,7 +2252,11 @@ Whenever the fever attacked Abū Bakr (رضي الله عنه) he would say in a
 
 *"Every man who awakes in the morning among his family finds that death is closer to him than his shoelace."*
 
-And Bilāl (رضي الله عنه), too, would recite some couplets of poetry when the fever eased.
+And Bilāl (رضي الله عنه), too, would recite these verses when the fever eased:
+
+*Ah, would that I knew whether I shall spend a night once more in the valley, with idhkhir and jalīl grass about me,*
+
+*and whether I shall one day come down to the waters of Majannah, and whether Shāmah and Ṭafīl (two mountains of Makkah) shall appear to me?*
 
 'Ā'ishah said: "I informed the Messenger of Allāh (ﷺ) of this, and he said: "O Allāh (ﷻ), make Madīnah as beloved to us as Makkah or even more so. O Allāh (ﷻ), make it a good place and bless us in its weights and measures and take away its fever and make it free from illness.""
 

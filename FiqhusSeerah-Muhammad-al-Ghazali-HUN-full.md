@@ -2213,7 +2213,11 @@ Valahányszor a láz rátört Abū Bakrra (رضي الله عنه), egy párvers
 
 *„Minden ember, aki reggel családja körében ébred, úgy találja: a halál közelebb van hozzá, mint cipőfűzője."*
 
-És Bilāl (رضي الله عنه) is párverseket szavalt, amikor a láz engedett.
+És Bilāl (رضي الله عنه) is ezeket a verssorokat szavalta, amikor a láz engedett:
+
+*Ó, bár tudnám, tölthetek-e még egy éjszakát a völgyben, körülöttem idhkhir- és dzsalíl-fűvel,*
+
+*és leszállhatok-e egy nap Madzsanna vizeihez, s feltűnik-e majd nekem Sámah és Tafíl (Mekka két hegye)?*
 
 'Ā'ishah mondta: „Beszámoltam erről Allah Küldöttének (ﷺ), és ő így szólt: »Ó, Allah (ﷻ), tedd Madīnát olyan kedvessé nekünk, mint Mekka, vagy még kedvesebbé. Ó, Allah (ﷻ), tedd jó hellyé, áldj meg bennünket súlyaiban és mértékeiben, vedd el lázát, és tedd betegségtől mentessé.«"
 

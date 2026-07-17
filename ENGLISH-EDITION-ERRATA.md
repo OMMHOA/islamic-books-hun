@@ -82,17 +82,74 @@ bracketed note — ENG `[… — translator's note]`, HUN `[… — a ford.]`.
   «أقرد» p.282). ENG mirrors both + note at the Aqrad spot (~4861); HUN unified to the
   historically correct **Arqam** + note (a stray HUN "Aqram" typo fixed on the way).
   ✅ noted
+- **Banū 'Abd al-Muṭṭalib** (Ḥilf al-Fuḍūl clan list, AR p.58) — the Arabic prints the
+  genealogically incoherent «بني عبدالمطلب»; ENG/HUN already carry the historically
+  correct **Banū al-Muṭṭalib**. Kept correct reading + translator's note in both
+  (2026-07-17, G3). ✅ noted
+- **Ibrāhīm's mother "Maryam"** (AR p.347) — the Arabic misprints «مريم» for the Coptic
+  **Māriyah** («مارية»); ENG/HUN already use Māriyah. Kept correct name + note in both
+  (2026-07-17, G3). ✅ noted
+- **Al-Albānī's signature date "1975 هـ"** (AR p.360 fn) — the Arabic misprints 1975 for
+  **1375 AH**; ENG/HUN already give 1375. Kept correct date + note in both
+  (2026-07-17, G3). ✅ noted
+
+## G3 pass — HUN↔Arabic verification (2026-07-17): further corrections applied to both files
+
+Corrupted names / tribes (§4 class): 'Afīq→**'Aqīq** (ch1 p.45); Banū 'Āmir ibn
+'Awf→**Banū 'Amr ibn 'Awf** (ch4 p.131); "Samuel"→**al-Samaw'al** (ch5 p.152); Majdī ibn
+'Umar→**'Amr** al-Juhanī (ch6 p.162); 'Aqūl→**'Aqīl** ibn Abī Ṭālib (ch6 p.180); Al-Barra
+ibn Azid→**Al-Barā' ibn 'Āzib** (ch6 fn37); 'Utbah→**'Uqbah** ibn 'Āmir (ch6 p.207,
+1st occ.); 'Udal→**'Aḍal** (ch6 p.210); Muharik→**Muḥārib** (ch6 p.216); "Qasira"→
+**al-Qaṣwā'** (ch7 p.247, the she-camel); Abū Ḥatmah→**Abū Khaythamah** (ch7 fn48);
+Sālim→**Sulaym** tribe (ch7 p.290); 'Aṭiyah→**'Ulayyah ibn Yazīd** (ch7 p.312);
+fn101 authority Ibn Ḥajar→**al-'Uqaylī** (ch7 p.314).
+
+Qur'ān refs (§1 class): 5:120→**5:117** (ch1 p.44); added missing **41:3** on the first
+Fuṣṣilat sentence (ch1 p.38); ch3 p.74 Zalzalah 99:7 'good-deed' half restored (ref was
+already "7–8"); ch8 p.335 added missing **4:3** ref.
+
+Mistranslations (§3 class): "bull"→**"ball"** (كرة, ch1 p.45); Sumayyah speared in the
+**heart**→**pudendum** (قُبل, ch3 p.81); "forty **feet**"→**"forty cubits"** (dhirā',
+ch6 p.227); Khālid "**migrated**"→**"intended to migrate"** (ch6 p.246); *al-iḥtirāf*
+"deviation"→**careerism/making religion a profession** (ch9 p.362); fn13 «وصله» "also
+undecided"→**"gave it a connected chain"** (ch2); fn9 "as the author's words indicate"
+→**inverted sense corrected** (ch8); fn3 "weak"→**"very weak"** (ضعيف جدا, ch9);
+Badr companions **313→315** (ch6 p.179).
+
+Fabrications inserted by the IIPH edition, removed (Arabic has no such wording): "Saudi
+Arabian countryside"→**"our countryside"** (ريفنا, ch5 p.136); "Saudi children"→**"our
+children"** (أطفالنا, ch2 p.50); "Saudi villages"→**"our villages"** (قرانا, ch7 p.270);
+"(and what a life!)" interpolation **removed** (ch9 p.362).
+
+Dropped content restored (both files): ch5 khutbah "leave his flock with no shepherd"
+clause; **Durayd ibn al-Ṣimmah couplet** (ch7 p.270); ch8 "Settling Down" adhān imagery +
+"ailing minds became sound" metaphor; **ḥilm couplet** (ch8 p.353); **Bilāl's longing-for-
+Makkah couplet** (ch4 p.134, mountain gloss inline); fn10 dropped "sixth year" (ch4);
+fn2 restored al-Albānī's *mawqūf*+tadlīs verdict (ch8); fn108 restored the connected-chain
+second sentence (ch7 p.322); fn121 book title unified to Arabic order across all 6
+mentions → *Intolerance and Tolerance between Christianity and Islām*.
+
+HUN-only drift fixed: 'Umayr→**'Umar ibn 'Anbasa** (ch3 p.75); fn10 grade word **ép→
+helytálló** (banned grade term, ch5); **ch3 fn2–7 marker scramble repaired** (had inverted
+a ṣaḥīḥ/ḍaʿīf grading). ENG-only: 33:28–29 grammar ("I shall content you…", HUN already
+correct).
 
 ## 7. Known / suspected, not yet fixed (pass-A candidates)
 
 - "**United Sates**" (ENG print p.177), "**Egyt**" (p.194), duplicated sentence on
   print p.83 — pure English print typos; may now be fixed silently (policy), pending
   a look at the spots.
-- ch7 ~5246 vs fn121 — book title "Prejudice and Tolerance…" vs "Tolerance and
-  intolerance… Between Islām and Christianity" — edition inconsistency; check the
-  Arabic footnote for al-Ghazali's actual title (likely «التعصب والتسامح بين
-  المسيحية والإسلام»).
-- ch8 ~5936 — Qur'ān 33:28–29 possibly garbled in the ENG transcription; Arabic prints
-  the verses cleanly (AR p.346); verify the ENG print wording.
+- ~~ch7 ~5246 vs fn121 — book title inconsistency~~ ✅ **resolved (G3)**: al-Ghazali's
+  title is «التعصب والتسامح بين المسيحية والإسلام»; all mentions unified to
+  *Intolerance and Tolerance between Christianity and Islām*.
+- ~~ch8 ~5936 — Qur'ān 33:28–29 garbled~~ ✅ **resolved (G3)**: ENG grammar fixed
+  ("I shall content you…"); HUN was already correct.
+- **Still open — 5 dropped-footnote restorations needing chapter renumbering** (G3
+  D-items): ch1 "Love Allāh for His bounties" grading fn (ḍaʿīf + author's rebuttal of
+  al-Albānī); ch2 Ka'bah-foundations grading fn (ṣaḥīḥ, Bukhārī/Muslim); ch4 two ṣaḥīḥ
+  citation fns ('Ā'ishah + Anas Madīnah-du'ā reports); ch7 p.319 source-attribution fn
+  (Bukhārī/Muslim for the Kaʿb ibn Mālik narration); ch3 p.105 self-citation fn
+  (low priority). Each requires inserting a numbered footnote and renumbering the
+  chapter's body markers + list in both files.
 - Glossary back-matter imprecisions (Isrā'/Miʿrāj definition swap, *Mir'āj* headword
   spelling, *Jahilīyyah* double-y) — see `REVIEW-FLAGS.md` §E.
