@@ -892,7 +892,7 @@ Ami a Quraisht illeti, ez a háború a szent hónapok és a Szent Föld sérthet
 
 Ez a szövetség bizonyíték arra, hogy bármilyen komorrá válnak is az élet lapjai, és bármennyire elterjed a gonoszság, soha nem lesz híján azoknak a nemes lelkeknek, akik felébresztik a társadalom együttérzését és jóságát. Abban a terméketlen dzsáhilijjában is támadtak a jó előmozdítói, és szövetséget kötöttek egymás között, hogy igazságot teremtsenek, harcoljanak az elnyomás ellen, és feltámasszák az erényes tulajdonságokat, amelyek kivesztek a Szent Földön. Ibn Athīr mondta:
 
-„Ezután a Quraish néhány nemzetsége meghirdette ezt a szövetséget, és mindnyájan felesküdtek rá 'Abdullāh ibn Jad'an házában, annak erénye és kora miatt. Ezek voltak: a Banū Hāshim, a Banū Muttalib, a Banū Asad ibn 'Abdul 'Uzza, Zuhrah ibn Kilāb és Taym ibn Murrah. Megkötötték a szövetséget, és megfogadták egymásnak: ha valaha jogtalanságot szenvedett embert találnak Mekkában — akár saját népükből, akár bármely más törzsből —, mellé állnak és megvédik, hogy a rajta esett sérelem jóvátétessék. Ezt az egyezséget a Quraish az Erényesek Szövetségének nevezte, és tanúja volt Allah Küldötte (ﷺ)."
+„Ezután a Quraish néhány nemzetsége meghirdette ezt a szövetséget, és mindnyájan felesküdtek rá 'Abdullāh ibn Jad'an házában, annak erénye és kora miatt. Ezek voltak: a Banū Hāshim, a Banū Muttalib [az arab eredeti a történetileg pontatlan „Banū 'Abd al-Muṭṭalib" alakot írja; a fordítás a helyes „Banū al-Muṭṭalib" olvasatot követi — a ford.], a Banū Asad ibn 'Abdul 'Uzza, Zuhrah ibn Kilāb és Taym ibn Murrah. Megkötötték a szövetséget, és megfogadták egymásnak: ha valaha jogtalanságot szenvedett embert találnak Mekkában — akár saját népükből, akár bármely más törzsből —, mellé állnak és megvédik, hogy a rajta esett sérelem jóvátétessék. Ezt az egyezséget a Quraish az Erényesek Szövetségének nevezte, és tanúja volt Allah Küldötte (ﷺ)."
 
 Miután Allah (ﷻ) Prófétává választotta, azt mondta: „Tanúja voltam nagybátyjaimmal egy szövetségnek 'Abdullāh ibn Jad'an házában, és nem cserélném el a legválogatottabb fényűzésekért sem. Ha az iszlámban hívnának, hogy vegyek részt benne, válaszolnék."¹⁵
 
@@ -1133,13 +1133,13 @@ Ezek a határozott, egymást követő parancsok azt hirdették a Prófétának (
 
 Hadd vigye tehát az üzenetet, hadd vezesse az embereket, és keressen támaszt a Kinyilatkoztatásban, mert az az üzenetének forrása és hívásának megerősítése.
 
-A Kinyilatkoztatás a szív megihletése azzal, amit Allah (ﷻ) akar, oly világos módon, amely nem ad helyet a kételynek. Különféle formákat ölt, amelyek közül némelyik könnyebb a többinél. 'Umar (رضي الله عنه) állítólag azt mondta: valahányszor a Kinyilatkoztatás leszállt a Prófétára (ﷺ), méhek zümmögéséhez hasonló hang hallatszott az arca közelében. Néha úgy jött, mint egy harang csengése, és ez volt számára a legnehezebb forma. Az angyal úgy jött el hozzá, hogy a homloka bőségesen verejtékezett egy hideg, téli napon,² és hátasa lefeküdt a földre, ha éppen lovagolt rajta. Egyszer a Kinyilatkoztatás akkor jött hozzá, amikor a combja Zayd ibn Thābit (رضي الله عنه) combján nyugodott,³ és olyan nehézzé vált, hogy Zayd (رضي الله عنه) combja majdnem eltört.⁴ Máskor könnyebben és enyhébben jöhetett annál.
+A Kinyilatkoztatás a szív megihletése azzal, amit Allah (ﷻ) akar, oly világos módon, amely nem ad helyet a kételynek. Különféle formákat ölt, amelyek közül némelyik könnyebb a többinél. 'Umar (رضي الله عنه) állítólag azt mondta: valahányszor a Kinyilatkoztatás leszállt a Prófétára (ﷺ), méhek zümmögéséhez hasonló hang hallatszott az arca közelében.² Néha úgy jött, mint egy harang csengése, és ez volt számára a legnehezebb forma. Az angyal úgy jött el hozzá, hogy a homloka bőségesen verejtékezett egy hideg, téli napon,³ és hátasa lefeküdt a földre, ha éppen lovagolt rajta.⁴ Egyszer a Kinyilatkoztatás akkor jött hozzá, amikor a combja Zayd ibn Thābit (رضي الله عنه) combján nyugodott, és olyan nehézzé vált, hogy Zayd (رضي الله عنه) combja majdnem eltört.⁵ Máskor könnyebben és enyhébben jöhetett annál.
 
 Az ember megkérdezhetné, miért jöttek az első Kinyilatkoztatások ilyen intenzitással, és miért nem kezdődött a Korán kinyilatkoztatása álomban kapott ihletként vagy ébrenlétben kapott ihletként, mint abban az esetben, amelyet a Próféta (ﷺ) leírt:
 
-„A Szent Szellem, Jibrīl (عليه السلام) megihlette szívemet azzal a ténnyel, hogy egyetlen lélek sem hal meg addig, amíg ki nem merítette ellátását; féljétek hát Allahot (ﷻ), és legyetek mértékletesek a keresésben. Nem kevésbé valószínű-e ez, hogy rémületet és kimerültséget okozzon?"⁵
+„A Szent Szellem, Jibrīl (عليه السلام) megihlette szívemet azzal a ténnyel, hogy egyetlen lélek sem hal meg addig, amíg ki nem merítette ellátását; féljétek hát Allahot (ﷻ), és legyetek mértékletesek a keresésben. Nem kevésbé valószínű-e ez, hogy rémületet és kimerültséget okozzon?"⁶
 
-A válasz az, hogy a Korán először ilyen módon kezdett kinyilatkoztatni⁶ azért, hogy ne lehessen kétség afelől, hogy a szavak és a jelentés Allahtól (ﷻ) valók, és hogy Muhammadot (ﷺ) bízták meg vele, miután kiválasztották rá. Így az nem egy remete koholmánya, akinek bizonyos látomásai voltak, sem egy filozófus találmánya, aki kiemelkedett a logikában és a szép beszédekben; hanem Allah (ﷻ) szava, Aki az Abszolút Igazság.
+A válasz az, hogy a Korán először ilyen módon kezdett kinyilatkoztatni⁷ azért, hogy ne lehessen kétség afelől, hogy a szavak és a jelentés Allahtól (ﷻ) valók, és hogy Muhammadot (ﷺ) bízták meg vele, miután kiválasztották rá. Így az nem egy remete koholmánya, akinek bizonyos látomásai voltak, sem egy filozófus találmánya, aki kiemelkedett a logikában és a szép beszédekben; hanem Allah (ﷻ) szava, Aki az Abszolút Igazság.
 
 (Nem más az, mint egy ihlet, amely sugalltatott, Amelyre egy hatalmas erejű tanította őt, Egy szilárd; és ő tisztán láthatóvá vált, Amikor a legfelső horizonton volt, Aztán közeledett és leereszkedett, Míg [távol] két íjnyi hosszra vagy még közelebb nem volt, És kinyilatkoztatta szolgájának azt, amit kinyilatkoztatott. A szív nem hazudott [amikor látta] azt, amit látott. Vitatkoztok-e hát vele afelől, amit lát?) (Korán 53: 4–12)
 
@@ -1774,13 +1774,13 @@ Ennek ellenére, abban a fojtogató légkörben, a Próféta (ﷺ) soha nem enge
 
 ¹ Bukhārī és Muszlim beszélte el.
 
-² Ez annak a hadísznak a jelentése, amelyet Bukhārī beszélt el 'Ā'ishah tekintélyére hivatkozva.
+² Egy gyenge hadísz, amelyet Al-Tirmidhī beszélt el, aki megemlítette, hogy láncolatáról volt némi vita. A láncban szerepel Yūnus ibn Salīm, és tőle 'Abd al-Razzāq beszélte el. De Yūnus nem ismert. 'Abd al-Razzāqot megkérdezték róla, és ő azt mondta: „Nem hiszem, hogy ő bármi volna."
 
-³ Ez annak a hadísznak a jelentése, amelyet Aḥmad és Al-Ḥākim beszélt el 'Ā'ishah tekintélyére hivatkozva.
+³ Ez annak a hadísznak a jelentése, amelyet Bukhārī beszélt el 'Ā'ishah tekintélyére hivatkozva.
 
-⁴ Ez annak a hadísznak a jelentése, amelyet Bukhārī beszélt el Zayd ibn Thābit (رضي الله عنه) tekintélyére hivatkozva.
+⁴ Ez annak a hadísznak a jelentése, amelyet Aḥmad és Al-Ḥākim beszélt el 'Ā'ishah tekintélyére hivatkozva.
 
-⁵ Egy gyenge hadísz, amelyet Al-Tirmidhī beszélt el, aki megemlítette, hogy láncolatáról volt némi vita. A láncban szerepel Yūnus ibn Salīm, és tőle 'Abd al-Razzāq beszélte el. De Yūnus nem ismert. 'Abd al-Razzāqot megkérdezték róla, és ő azt mondta: „Nem hiszem, hogy ő bármi volna."
+⁵ Ez annak a hadísznak a jelentése, amelyet Bukhārī beszélt el Zayd ibn Thābit (رضي الله عنه) tekintélyére hivatkozva.
 
 ⁶ Egy hiteles hadísz, amely különböző forrásokból ered, mindegyik erősítve a másikat.
 
@@ -6018,7 +6018,7 @@ Ez a lecke elég volt ahhoz, hogy kitörölje elméjükből a vágyakozás utols
 
 E lelki anyaság nyomatékosítására a hívők anyáitól szigorú *ḥijāb* megtartását kívánták meg, és idegen még *maḥram*¹⁶ kíséretében sem találkozhatott velük. Minden kérdést, amelyet az iszlám dolgairól vagy világi ügyekről intéztek hozzájuk, függöny mögül kellett feltenni, és tilos volt bárkinek feleségül vennie bármelyiküket a Próféta (ﷺ) halála után. Ez a határozott törvény megálljt parancsolt azoknak a tolakodó és kellemetlen embereknek, akik a vezetők otthonait látogatják, ahogyan megálljt parancsolt azoknak is, akik e hölgyekkel kötendő házasságtól reméltek dicsőséget. Semmi különöset nem találunk ebben a törvényben, hiszen némely férfi már olyan vakmerővé vált, hogy egyikük ki is mondta: „Ha a Próféta (ﷺ) meghal, elveszem 'Ā'ishahot!" A Prófétának (ﷺ) joga volt ahhoz, hogy érzéseit óvják, és hogy őt és családját megvédjék az ilyen ostoba beduinoktól.
 
-A Prófétának (ﷺ) feleségeitől nem született fia. Leányai, akik Khadījahtól születtek, Fāṭimah kivételével mind meghaltak még az ő életében. Fāṭimah néhány hónappal élte túl, és családjából ő követte elsőként a sírba. Fia született azonban Māriyától, akit Alexandria pátriárkája küldött neki ajándékul, és aki felvette az iszlámot. A fiút Ibrāhīmnak nevezte el ősatyja, a próféták atyja után. A gyermek azonban nem élt sokáig: csecsemőkorában meghalt.
+A Prófétának (ﷺ) feleségeitől nem született fia. Leányai, akik Khadījahtól születtek, Fāṭimah kivételével mind meghaltak még az ő életében. Fāṭimah néhány hónappal élte túl, és családjából ő követte elsőként a sírba. Fia született azonban Māriyától [az arab eredeti „Mirjam"-ot ír; a helyes név Māriyah al-Qibṭīyah, a fordítás ezt követi — a ford.], akit Alexandria pátriárkája küldött neki ajándékul, és aki felvette az iszlámot. A fiút Ibrāhīmnak nevezte el ősatyja, a próféták atyja után. A gyermek azonban nem élt sokáig: csecsemőkorában meghalt.
 
 Anas (رضي الله عنه) mondta: „Láttam, amint Allah Küldötte (ﷺ) előtt kilehelte lelkét. A Próféta (ﷺ) szeme könnybe lábadt, és így szólt: »A szem könnyezik, és a szív szomorú, de nem mondunk mást, csak ami Urunknak tetszik — és szomorkodunk érted, Ibrāhīm.«"¹⁷
 
@@ -6302,7 +6302,7 @@ Visszahelyezte a kendőt a Próféta (ﷺ) fejére, és kiment a mecsetbe, ahol 
 
 ¹⁷ Anas (رضي الله عنه) hadíszának része, Ibn Isḥāq hagyományozta.
 
-¹⁸ Hiteles (ṣaḥīḥ): Ibn Hishām hagyományozta Ibn Isḥāqtól hiteles lánccal 'Ā'ishah tekintélyére hivatkozva. Megtalálható Bukhārīnál is, több helyen szétszórva. Ez a könyv utolsó hadísza, és ezzel zárul jegyzetelésem. Dicsőség Allahnak (ﷻ), hogy sikeres véghez juttatta. Dicsőség Neked, ó, Allah (ﷻ), és Néked legyen a dicséret. Tanúsítom, hogy nincs más isten Rajtad kívül, bocsánatodért esedezem, és Hozzád fordulok bűnbánattal. Aláírás: Muhammad Naṣir-ud-Dīn Al-Albānī, Damaszkusz, 1375. 5. 28. (a hidzsra szerint).
+¹⁸ Hiteles (ṣaḥīḥ): Ibn Hishām hagyományozta Ibn Isḥāqtól hiteles lánccal 'Ā'ishah tekintélyére hivatkozva. Megtalálható Bukhārīnál is, több helyen szétszórva. Ez a könyv utolsó hadísza, és ezzel zárul jegyzetelésem. Dicsőség Allahnak (ﷻ), hogy sikeres véghez juttatta. Dicsőség Neked, ó, Allah (ﷻ), és Néked legyen a dicséret. Tanúsítom, hogy nincs más isten Rajtad kívül, bocsánatodért esedezem, és Hozzád fordulok bűnbánattal. Aláírás: Muhammad Naṣir-ud-Dīn Al-Albānī, Damaszkusz, 1375. 5. 28. (a hidzsra szerint) [az arab eredeti a nyilvánvalóan hibás „1975 hidzsra" dátumot írja; a helyes 1375 AH — a ford.].
 
 ---
 
