@@ -1,9 +1,12 @@
 # islamic-books-hun
 
 Goal: translate Islamic books to Hungarian, published as Markdown in this repo.
+**Repo layout (since 2026-07-18): each book gets its own directory.** Root holds
+only `README.md`, `LICENSE`, and this file.
 Current book: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIPH Revised 2nd Edition,
 1420 AH / 1999 CE, English translation, with Ḥadīth commentary by Sheikh
-Muhammad Naṣiruddīn Al-Albānī).
+Muhammad Naṣiruddīn Al-Albānī) — everything in `fiqh-us-seerah/`; bare file names
+below are relative to that directory.
 
 ## Pipeline
 
@@ -15,7 +18,7 @@ Muhammad Naṣiruddīn Al-Albānī).
    "# Átírási táblázat", "# Szójegyzék"). The Glossary has all 71 entries (headwords
    kept in transliterated form as printed; only "Lāt and 'Uzza" → "Lāt és 'Uzza"
    changed). Remaining work is now **review/proofreading only** (pass B), tracked in
-   `REVIEW-FLAGS.md`, plus updating `README.md` links.
+   `REVIEW-FLAGS.md`.
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third. (The ch3 draft's "no ¹⁵ by design" numbering turned out to be a
    dropped fn9 — restored and renumbered in G4, 2026-07-18; HUN ch3 now matches ENG 1:1.)
@@ -38,10 +41,11 @@ Muhammad Naṣiruddīn Al-Albānī).
    HUN (done for all items verified so far: refs 2:115/48:24, enemy honorifics, Bubayl→
    Shuraḥbīl, seal→sea, Ḥulays, Aslam, Farwah, Sumayt, forger→tadlīs, dup sentence, etc.).
    Still open: pass-A checks against the *Arabic* (remaining transcription-quality
-   doubts), coinage sanity-checks, optional full glossary re-alphabetization, and
-   `README.md` links.
+   doubts), coinage sanity-checks, and optional full glossary re-alphabetization.
 
 ## Files
+
+All in `fiqh-us-seerah/`:
 
 | File | What it is |
 |---|---|
@@ -49,14 +53,15 @@ Muhammad Naṣiruddīn Al-Albānī).
 | `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` | Complete English transcription: Preface → Chapters 1–9 → Epilogue → Glossary, ~176k words |
 | `فقه السيرة - محمد الغزالي.pdf` | Arabic original scan (Maṭābiʿ al-Shurūq ed.), 368 PDF pages, no text layer. **Printed page = PDF page + 1**; PDF 368 = back cover |
 | `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md` | Complete Arabic transcription (2026-07-17): printed pages 2–368, ~126.5k words, `[صفحة N]` page markers, per-page footnote blockquotes. Locating/reading aid for verification — not gospel; decision-critical readings re-checked on the rendered page. 9 `[غير مقروء]` spots (ch7, pp. 293–304) |
+| `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md` | **The Hungarian translation** — complete draft, front matter → Chapters 1–9 → Utószó → back matter |
 | `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
 | `ENGLISH-EDITION-ERRATA.md` | Consolidated list of the English edition's errors verified against the Arabic original (wrong Qur'ān refs, inserted honorifics, mistranslations, corrupted names) — all corrected in both ENG-full and HUN per the fidelity policy |
-| `FiqhusSeerah-Muhammad-al-Ghazali.md` | Hungarian translation, main file (Chapter 1 sections 1.1–1.2 so far) |
-| `FiqhusSeerah-Muhammad-al-Ghazali-HUN-Chapter3-AkuldetesKuzdelme.md` | Hungarian Chapter 3 draft |
-| `FiqhusSeerah-Muhammad-al-Ghazali-HUN-Khadijah.md` | Hungarian Khadījah section draft (from Chapter 2) |
-| `chapter2-normalized.md`, `chapter3-normalized.md`, `chapter3-summary-hu.md` | Working files for the HUN drafts |
-| `FiqhusSeerah-Muhammad-al-Ghazali-ENG.md` | **Legacy** partial English transcription (sections 1.1–1.2 + parts of ch. 2, non-sequential). Superseded by `-ENG-full.md`; kept for reference |
-| `.transcription-fragments/` | Untracked backup of the per-chapter transcription fragments; deletable anytime |
+| `g3-findings/` | Per-chapter findings of the G3 HUN ↔ AR verification pass (the reasoning behind each applied fix); outcomes are summarized in REVIEW-FLAGS §G and the errata file |
+
+Deleted in the 2026-07-18 housekeeping (recoverable from git history): the legacy
+partial `-ENG.md`, the partial HUN drafts (`FiqhusSeerah-Muhammad-al-Ghazali.md`,
+`-HUN-Chapter3…`, `-HUN-Khadijah`), the `chapter*-normalized.md` working files,
+`.transcription-fragments/`, and the one-shot `scripts/g2_*`/`g4_*` sweep scripts.
 
 ## How the transcription was made (2026-07-13)
 
@@ -130,6 +135,10 @@ translation errors).
    labels verified aligned; ch3 dropped fn9 restored + renumbered to a clean 1–34;
    ~20 name fixes/unifications incl. Abū Ḥibbān and Abān with translator's notes —
    details in REVIEW-FLAGS §G4 and the errata file).
-5. Housekeeping: update `README.md` links; decide fate of the legacy partial `-ENG.md`
-   and the `chapter*-normalized.md` / `-HUN-Chapter3…` / `-HUN-Khadijah.md` working
-   files (superseded by the `-full` files); optional glossary re-alphabetization.
+5. ~~Housekeeping~~ ✅ **done 2026-07-18**: superseded working files and one-shot
+   scripts deleted (see the Files section), `g3-findings/` committed as audit trail,
+   repo restructured into per-book directories (`fiqh-us-seerah/`), `README.md`
+   links updated.
+6. Optional/remaining: glossary re-alphabetization; the "still open" pass-A items
+   listed in the pipeline note (remaining transcription-quality doubts vs the
+   Arabic, coinage sanity-checks).
