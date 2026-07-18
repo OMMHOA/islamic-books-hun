@@ -144,12 +144,29 @@ correct).
   *Intolerance and Tolerance between Christianity and Islām*.
 - ~~ch8 ~5936 — Qur'ān 33:28–29 garbled~~ ✅ **resolved (G3)**: ENG grammar fixed
   ("I shall content you…"); HUN was already correct.
-- **Still open — 5 dropped-footnote restorations needing chapter renumbering** (G3
-  D-items): ch1 "Love Allāh for His bounties" grading fn (ḍaʿīf + author's rebuttal of
-  al-Albānī); ch2 Ka'bah-foundations grading fn (ṣaḥīḥ, Bukhārī/Muslim); ch4 two ṣaḥīḥ
-  citation fns ('Ā'ishah + Anas Madīnah-du'ā reports); ch7 p.319 source-attribution fn
-  (Bukhārī/Muslim for the Kaʿb ibn Mālik narration); ch3 p.105 self-citation fn
-  (low priority). Each requires inserting a numbered footnote and renumbering the
-  chapter's body markers + list in both files.
+- ~~5 dropped-footnote restorations needing chapter renumbering~~ ✅ **all restored
+  (2026-07-18), scripted renumbering + before/after audits in both files:**
+  - **ch1 new fn¹** (AR p.20 fn١ + ٭): the "Love Allāh for His bounties" grading —
+    al-Albānī's full ḍaʿīf verdict (Tirmidhī/Ḥākim/Abū Nu'aym/Khaṭīb chain, al-Nawfalī's
+    obscurity, Ibn al-Jawzī "not authentic") plus al-Ghazali's `*` rebuttal "(Author.)"/
+    "(A szerző.)". Chapter-1 fns 1–19 → 2–20.
+  - **ch2 new fn²⁰** (AR p.64 fn٣): Ka'bah-foundations ḥadīth graded ṣaḥīḥ/hiteles
+    (Bukhārī+Muslim, Ḥajj chapters). Fns 20–24 → 21–25. Same commit also repaired the
+    HUN-only marker-placement scramble in the Zayd ibn 'Amr passage (²¹ restored onto
+    "Bukhārī", ²² onto "áldoztatok"/altars, stray end-of-quote marker removed — matches
+    AR/ENG placement).
+  - **ch3 new fn²⁹** (AR p.105 fn٢): self-citation to *Khuluq al-Muslim* and *Al-Islām
+    wal-Manāhij al-Ishtirākiyyah* at the fitrah-curtains sentence. Fns 29–33 → 30–34;
+    HUN's intentional ¹⁵ gap preserved. Also removed a stray duplicate ⁷ marker left in
+    HUN by the earlier fn2–7 scramble repair (fn⁷ belongs to the revelation-intensity
+    sentence, matching ENG/AR).
+  - **ch4 new fn²⁰ + fn²¹** (AR p.134 fn٣, fn٤): ṣaḥīḥ citations for 'Ā'ishah's
+    (Bukhārī 7/99–219, Aḥmad; Muslim abridged) and Anas's (Bukhārī 5/78, Muslim 4/115,
+    Aḥmad 2/142) Madīnah-du'ā reports. Fn 20 → 22. Same spot: restored the dropped
+    **al-Juḥfah** clause in the du'ā — AR «وانقل حماها واجعلها بالجحفة» ("remove its
+    fever and place it in Al-Juḥfah"), which ENG had flattened to "make it free from
+    illness" (also «صححها» "make it healthy" ← "make it a good place").
+  - **ch7 new fn¹⁰⁷** (AR p.319 fn١): Bukhārī (8/92–100) + Muslim (106/8–112)
+    attribution at the close of the Kaʿb ibn Mālik narration. Fns 107–121 → 108–122.
 - Glossary back-matter imprecisions (Isrā'/Miʿrāj definition swap, *Mir'āj* headword
   spelling, *Jahilīyyah* double-y) — see `REVIEW-FLAGS.md` §E.
