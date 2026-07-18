@@ -19,9 +19,11 @@ Muhammad Naṣiruddīn Al-Albānī).
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third (its footnote numbering differs from ENG: HUN ch3 has no ¹⁵ entry by
    design — draft's ¹⁴ covers ENG ¹⁵; body markers match their footnote lists).
-   Ch6 footnotes 1–84, ch7 footnotes 1–121, ch8 footnotes 1–24 and ch9 footnotes 1–18
-   verified 1:1 body↔list by script. Note: ENG-full keeps ch9's footnotes at the very
-   end of the book (after the Glossary); HUN places them right after ch9 per convention.
+   Footnote counts after the G3 restorations (2026-07-18, all verified 1:1 body↔list by
+   script in both files): ch1 1–20, ch2 1–25, ch3 1–34 (HUN skips ¹⁵ by design, see above),
+   ch4 1–22, ch5 1–23, ch6 1–84, ch7 1–122, ch8 1–24, ch9 1–18. Note: ENG-full keeps ch9's
+   footnotes at the very end of the book (after the Glossary); HUN places them right after
+   ch9 per convention.
    **Review flags are tracked in `REVIEW-FLAGS.md`** — add new flags there, not here.
    **Pass-B terminology done (2026-07-16):** place name unified to **Mekka**; ḥadīth
    grade unified to **hiteles** (ṣaḥīḥ/sound/authentic — `ép` dropped as a grade); 6
