@@ -1,8 +1,12 @@
 # Review flags
 
-Items to resolve during the two review passes:
-(A) verifying `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` against the PDF, and
-(B) proofreading the Hungarian in `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md`.
+**Status (2026-07-18): all content-verification passes are complete** — G1–G4 verified
+the HUN translation (and ENG-full) against the Arabic original; sections A–D, F and G
+below are closed. What remains open is Hungarian-side *style* work only (section E:
+coinages, one Qur'ān-rendering comparison, optional glossary re-sort) and any flags a
+future human read-through adds. *(Historical framing: this file began as the to-do
+list for pass A — ENG vs the English scan — and pass B — HUN proofreading; pass A was
+superseded by the Arabic-source plan in §G.)*
 
 **Fidelity policy (user decision, 2026-07-16): the Arabic original is the sole source
 of truth.** Corroborated English-edition errors are corrected in **both** ENG-full and
@@ -87,8 +91,10 @@ same day): faithful to the Arabic only → plain corrected refs in both ENG and 
   (p.292): the Arabic original itself prints «سعد بن عبادة زعيم الأوس»** — al-Ghazali's own
   error, ENG faithful → kept in both files **with translator's note** (ENG ~5018,
   HUN ~5001). ✅ APPLIED 2026-07-16.
-- [ ] **Ch7** ~5246 / fn121 — book title "Prejudice and Tolerance…" vs "Tolerance and
-  intolerance…" inconsistency → HUN mirrors both
+- [x] **Ch7** ~5246 / fn121 — book title inconsistency. **RESOLVED (G3, 2026-07-18):
+  AR prints «التعصب والتسامح بين المسيحية والإسلام» identically at both spots** → all
+  mentions unified in both files: ENG *Intolerance and Tolerance between Christianity
+  and Islām*, HUN „A türelmetlenség és a türelem a kereszténység és az iszlám között".
 - [x] **Ch7** ~4371 / fn4 — Al-Halīs "people who are **confused**". **AR: «قوم يتألهون»** =
   "devout / venerate the sacred rites"; ENG mistranslation → HUN „zavarban van" changed to
   „istenfélő". ✅ APPLIED 2026-07-16.
@@ -115,16 +121,23 @@ same day): faithful to the Arabic only → plain corrected refs in both ENG and 
 - [x] **Ch8** fn21 — "**Ṣiba Ibn 'Arfataḥ a-Ghifārī**". **AR-checked (p.349 fn١):
   «سباع بن عرفطة الغفاري»** = Sibā' ibn 'Urfuṭah al-Ghifārī; ENG corrupt → HUN fixed.
   ✅ APPLIED 2026-07-16. (Same footnote also prints «معضلاً» — mu'ḍal again.)
-- [ ] **Ch8** ~5850 — inline Qur'ān 4:3 with no reference in print → HUN also no reference
-- [ ] **Ch8** ~5936 — Qur'ān 33:28–29 garbled in transcription → verify printed wording.
-  **AR (p.346): full verses printed cleanly** [الأحزاب: ٢٨، ٢٩] — the garble is ENG-side;
-  check the ENG print in pass A, and check the HUN rendering against the Arabic wording.
-- [ ] **Ch9** ~6196 — "what one's right hand possessed" (*mā malakat aymānukum*) → HUN
-  literal "akit jobb kezünk birtokol"; consider a gloss
-- [ ] **Ch9** ~6206 — "the Companion on high from paradise" (*al-rafīq al-aʿlā*) → HUN
-  "a Legfőbb Társ"; confirm preferred rendering
+- [x] **Ch8** ~5850 — inline Qur'ān 4:3 with no reference in print. **RESOLVED (G3):
+  AR p.335 prints the reference [النساء: ٣]** that the English edition dropped →
+  `(Qur'ān 4: 3)` / `(Korán 4: 3)` added to both files. *(The G3 finding was logged in
+  the errata but the edit itself had been missed — caught and applied 2026-07-18.)*
+- [x] **Ch8** ~5936 — Qur'ān 33:28–29 garbled. **RESOLVED (G3): AR p.346 prints the
+  verses cleanly** — ENG grammar repaired ("I shall content you…"); HUN was already
+  correct (its verb conjugation supplies the subject the ENG garble lost).
+- [x] **Ch9** ~6196 — *mā malakat aymānukum*. **G3-verified faithful to AR** («وما ملكت
+  أيمانكم»); literal „akit jobb kezünk birtokol" kept, no fix required. An optional
+  clarifying gloss remains a style call for the HUN read-through.
+- [x] **Ch9** ~6206 — *al-rafīq al-aʿlā*. **G3-verified**: „a Legfőbb Társ" is consistent
+  (title + death scene) and faithful; kept.
 
-### E. Pass-B leftovers (Hungarian side)
+### E. Pass-B leftovers (Hungarian side) — the only OPEN section
+
+*(Note: G3 verified all these passages as **faithful** to the Arabic; what's left here
+is purely Hungarian style/terminology judgment — best done as a native read-through.)*
 
 - [ ] **Ch6** coinages — portyázó különítmények / Árok-ütközet / szövetségesek / recitálók
 - [ ] **Ch7** coinages — Nehézség Serege / riḍwān-fogadalom / szabadon bocsátottak /
@@ -137,11 +150,13 @@ same day): faithful to the Arabic only → plain corrected refs in both ENG and 
 - [ ] **Glossary** book imprecisions kept as printed — decide: Isrā'/Mi'rāj definition swap,
   *Mir'āj* headword spelling, *Jahilīyyah* double-y (back matter §1)
 
-### F. Housekeeping
+### F. Housekeeping — ✅ DONE (2026-07-18)
 
-- [ ] Update `README.md` links (stale now that all chapters landed)
-- [ ] Decide fate of legacy/working files: partial `-ENG.md`, `chapter*-normalized.md`,
-  `-HUN-Chapter3…md`, `-HUN-Khadijah.md` (superseded by the `-full` files)
+- [x] `README.md` rewritten for the per-book repo layout; links point to the `-full` files.
+- [x] Legacy/working files deleted (partial `-ENG.md`, `chapter*-normalized.md`,
+  `-HUN-Chapter3…md`, `-HUN-Khadijah.md`, `.transcription-fragments/`, the one-shot
+  G2/G4 scripts, and `g3-findings/` after committing it once for the audit trail —
+  all recoverable from git history). Book files moved into `fiqh-us-seerah/`.
 
 ### G. Arabic-source verification plan (2026-07-16) — SUPERSEDES the old pass A
 
@@ -190,10 +205,13 @@ e.g. the ch7 ~4946 dittography, fold into G3).
     *(After the G4 ch3 renumbering this body marker is fn13.)*
   Quoted-wording verification (vs canonical text) folds into G3, which reads every
   quote against the Arabic anyway.
-- [ ] **G3. Chunk-aligned HUN ↔ AR verification pass** — subagents compare the HUN
-  translation against the Arabic text chunk by chunk. Catches all three error classes
-  at once: ENG OCR errors, undiscovered ENG-edition mistranslations, HUN drift.
-  Absorbs the remaining D-items and the E coinage checks in context.
+- [x] **G3. Chunk-aligned HUN ↔ AR verification pass** — **DONE 2026-07-17/18.**
+  14 per-chapter subagents compared the HUN translation against the Arabic chunk by
+  chunk (findings preserved in git history: `g3-findings/` at commit `ef28f91`).
+  ~60 corrections applied in both files, incl. 5 dropped-footnote restorations with
+  scripted renumbering; all logged in the errata file ("G3 pass" section). Resolved
+  the remaining D-items (see section D above). *(Post-check 2026-07-18: one logged
+  fix — the ch8 Qur'ān 4:3 reference — had not actually been applied; fixed.)*
 - [x] **G4. Name + ḥadīth-grade sweep** — **DONE 2026-07-18.** Scripts:
   `scripts/g4_grade_sweep.py` (per-chapter ENG↔HUN footnote grade-label alignment +
   HUN untranslated-label scan), `scripts/g4_ar_align.py` (AR per-page footnote grades
@@ -582,11 +600,12 @@ old *J*-cluster (between *Janābah/Jannah* and *Jizyah*). Left there to avoid a 
 re-sort of an otherwise book-ordered list. If a full Hungarian re-alphabetization of all
 71 entries is wanted, that's a separate pass.
 
-## Carried over from earlier chapters
+## Carried over from earlier chapters — both notes SUPERSEDED
 
-- HUN ch3 footnote numbering intentionally differs from ENG: HUN ch3 has no ¹⁵ entry —
-  the draft's ¹⁴ covers ENG's ¹⁵; body markers match their own footnote list.
-  Don't "fix" this to match ENG mechanically.
-- ENG-full preserves the book's own misprints verbatim (e.g. "United Sates" p. 177,
-  "Egyt" p. 194, duplicated sentence on p. 83) — intentional, per transcription
-  conventions in CLAUDE.md.
+- ~~HUN ch3 "no ¹⁵ by design"~~ — **disproved in G4 (2026-07-18)**: the gap was a
+  silently dropped ENG fn9 (Sūrat ul-Lahab grading); restored and renumbered, HUN ch3
+  is now a clean 1–34 matching ENG 1:1.
+- ~~ENG-full preserves the book's misprints verbatim~~ — superseded by the
+  **Arabic-only fidelity policy (2026-07-16)**: corroborated English-edition errors
+  are corrected in both files (logged in the errata file); obvious print typos fixed
+  silently.
