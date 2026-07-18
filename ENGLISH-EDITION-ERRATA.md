@@ -92,6 +92,15 @@ bracketed note — ENG `[… — translator's note]`, HUN `[… — a ford.]`.
 - **Al-Albānī's signature date "1975 هـ"** (AR p.360 fn) — the Arabic misprints 1975 for
   **1375 AH**; ENG/HUN already give 1375. Kept correct date + note in both
   (2026-07-17, G3). ✅ noted
+- **"Abū Ḥibbān"** (ch1, AR p.23) — the Arabic prints «أبو حبان» for 'Abdullāh ibn
+  Ubayy's kunyah; the well-known form (Bukhārī) is **Abū Ḥubāb** «أبو حباب». Kept the
+  AR reading + note in both. (The ENG had compounded it into "**Ibn** Ḥibbān" — that
+  part corrected to **Abū** per the Arabic; rendered-page verified.) (2026-07-18, G4)
+  ✅ noted
+- **Abān ibn "Sa'd" ibn al-'Āṣ** (ch7, AR p.253) — the Arabic misprints his father as
+  «سعد»; the correct name is **Sa'īd** (أبان بن سعيد بن العاص), which ENG already
+  printed. Kept Sa'īd + note in both. (The ENG's "**Abbān**" corrected to **Abān** per
+  the Arabic «أبان»; rendered-page verified.) (2026-07-18, G4) ✅ noted
 
 ## G3 pass — HUN↔Arabic verification (2026-07-17): further corrections applied to both files
 
@@ -157,7 +166,8 @@ correct).
     AR/ENG placement).
   - **ch3 new fn²⁹** (AR p.105 fn٢): self-citation to *Khuluq al-Muslim* and *Al-Islām
     wal-Manāhij al-Ishtirākiyyah* at the fitrah-curtains sentence. Fns 29–33 → 30–34;
-    HUN's intentional ¹⁵ gap preserved. Also removed a stray duplicate ⁷ marker left in
+    HUN's ¹⁵ gap preserved at the time *(the gap later proved to be a dropped fn9, not
+    a designed merge — restored in G4, see below)*. Also removed a stray duplicate ⁷ marker left in
     HUN by the earlier fn2–7 scramble repair (fn⁷ belongs to the revelation-intensity
     sentence, matching ENG/AR).
   - **ch4 new fn²⁰ + fn²¹** (AR p.134 fn٣, fn٤): ṣaḥīḥ citations for 'Ā'ishah's
@@ -170,3 +180,25 @@ correct).
     attribution at the close of the Kaʿb ibn Mālik narration. Fns 107–121 → 108–122.
 - Glossary back-matter imprecisions (Isrā'/Miʿrāj definition swap, *Mir'āj* headword
   spelling, *Jahilīyyah* double-y) — see `REVIEW-FLAGS.md` §E.
+
+## G4 pass — name + ḥadīth-grade sweep (2026-07-18): further corrections in both files
+
+- **HUN ch3 fn⁹ restored** — the "intentional ¹⁵ gap" was a misdiagnosis: HUN had
+  dropped ENG fn9 (al-Albānī's grading of the Sūrat ul-Lahab revelation, AR p.76 fn١
+  «حديث صحيح أخرجه البخارى ومسلم»), shifting fns 9–15 by one. Restored + renumbered;
+  HUN ch3 is now a clean 1–34 (body↔list 1:1 verified by script in both files).
+- Corrupted/inconsistent names unified per the identical Arabic spelling:
+  **Ibn Ḥibbān → Abū Ḥibbān** (ch1; see §6), **Abbān → Abān** (ch7; see §6),
+  Badīl/Budayl → **Budayl** «بديل بن ورقاء»; Abū Bukhtari/Abul Bukhturi →
+  **Abul Bukhturi** «البخترى»; Al-Qarrah/Al-Qārrah → **Al-Qārah** «القارة»;
+  Ubāyy → **Ubayy** (6×/file); Zainab → **Zaynab**; Ruqaiyyah/Ruqayya → **Ruqayyah**;
+  Jamuḥ → **Jamūh**; Aḥmed → **Aḥmad**.
+- ENG print typos fixed silently: Shybah→Shaybah, Kharzraj→Khazraj,
+  Zoroastranism→Zoroastrianism, Muhammed→Muhammad.
+- HUN terminology/consistency: 6 untranslated `Ṣaḥīḥ` footnote labels →
+  `Hiteles (ṣaḥīḥ)` (ch4 fn18/19/22, ch6 fn7/45/55); Anasz→Anas, Hurayrah→Hurairah,
+  Khoszrau→Khosrau; Bilāl-couplet phonetic spellings aligned to book transliteration
+  (jalīl, Majannah, Shāmah és Ṭafīl).
+- Grade verdicts: all ENG/HUN hiteles–jó–gyenge labels verified aligned with each other
+  and (by sequence + spot-checks) with al-Albānī's صحيح/حسن/ضعيف in the Arabic; no
+  grade mismatches found.

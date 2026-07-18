@@ -187,16 +187,51 @@ e.g. the ch7 ~4946 dittography, fold into G3).
     [آل عمران: ١٩١]) — fixed in ENG-full; HUN was already correct. Errata #2b.
   - HUN fn12 (ch3) carries a clarifying **(Korán 16: 106)** the ENG footnote lacks —
     intentional HUN addition, ref verified correct (the ʿAmmār verse); kept.
+    *(After the G4 ch3 renumbering this body marker is fn13.)*
   Quoted-wording verification (vs canonical text) folds into G3, which reads every
   quote against the Arabic anyway.
 - [ ] **G3. Chunk-aligned HUN ↔ AR verification pass** — subagents compare the HUN
   translation against the Arabic text chunk by chunk. Catches all three error classes
   at once: ENG OCR errors, undiscovered ENG-edition mistranslations, HUN drift.
   Absorbs the remaining D-items and the E coinage checks in context.
-- [ ] **G4. Name + ḥadīth-grade sweep** — every proper name in HUN checked against its
-  Arabic spelling; every hiteles/jó/gyenge label checked against صحيح/حسن/ضعيف in
-  Al-Albānī's footnotes. (Bubayl→Shuraḥbīl and Farwah ibn 'Umar→'Amr were name
-  corruptions of exactly this kind.)
+- [x] **G4. Name + ḥadīth-grade sweep** — **DONE 2026-07-18.** Scripts:
+  `scripts/g4_grade_sweep.py` (per-chapter ENG↔HUN footnote grade-label alignment +
+  HUN untranslated-label scan), `scripts/g4_ar_align.py` (AR per-page footnote grades
+  bucketed by the chapter→page map, sequence-aligned vs ENG),
+  `scripts/g4_name_sweep.py` (capitalized-token clustering on diacritic-stripped keys,
+  both files). Findings & fixes:
+  - **Grades:** every ENG↔HUN leading grade label agrees (S/H/W/NS); the AR alignment
+    flags were all drift artifacts of the English edition's footnote merging (spot-checks
+    incl. ch6 fn52–54 vs AR p.202 confirmed correct, e.g. ENG fn53 "Not authentic" =
+    AR «حديث لا يصح»). 6 HUN footnotes still carried untranslated `Ṣaḥīḥ` labels
+    (ch4 fn18/19/22, ch6 fn7/45/55) → `Hiteles (ṣaḥīḥ)` per convention.
+  - **ch3 footnote repair:** the "HUN ch3 skips ¹⁵ by design" belief was a
+    misdiagnosis — HUN had *dropped ENG fn9* (Al-Albānī's grading of the Sūrat
+    ul-Lahab story; AR p.76 fn١ «حديث صحيح أخرجه البخارى ومسلم»), shifting fn9–15.
+    Restored fn9 („Hiteles hadísz, Bukhārī és Muszlim beszélte el."), renumbered
+    9–14→10–15; HUN ch3 is now a clean 1–34, body↔list 1:1 verified by script.
+  - **Names (fixed in both files per fidelity policy):** ENG "Ibn Ḥibbān" (kunyah of
+    'Abdullāh ibn Ubayy, ch1) → **Abū Ḥibbān** per AR p.23 «أبو حبان» + translator's
+    note (the Arabic itself misprints the well-known **Abū Ḥubāb**); "Abbān ibn Sa'īd"
+    → **Abān** per AR p.253 «أبان» + note (AR misprints his father as «سعد», correct
+    Sa'īd — rendered-page verified for both); Badīl/Budayl → **Budayl** (AR بديل
+    identical); Abū Bukhtari/Abul Bukhturi → **Abul Bukhturi** (AR البخترى identical,
+    Badr list + ṣaḥīfah scene); Al-Qarrah/Al-Qārrah → **Al-Qārah** (AR القارة in both
+    the Rajī' and Bi'r Ma'ūnah lists — note the AR prints al-Qārah where the canonical
+    Bi'r Ma'ūnah list has 'Uṣayyah; kept faithful); Ubāyy→Ubayy (6×/file);
+    Zainab→Zaynab, Ruqaiyyah/Ruqayya→Ruqayyah, Jamuḥ→Jamūh, Aḥmed→Aḥmad (ENG+HUN).
+  - **ENG print typos fixed silently:** Shybah→Shaybah, Kharzraj→Khazraj,
+    Zoroastranism→Zoroastrianism, Muhammed→Muhammad (2×).
+  - **HUN-internal unifications:** Anasz(tól)→Anas(tól), Hurayrah→Hurairah,
+    Khoszrau→Khosrau; the restored Bilāl-couplet's phonetic spellings aligned to the
+    book's transliteration (dzsalíl→jalīl, Madzsanna→Majannah, Sámah és Tafíl→Shāmah
+    és Ṭafīl).
+  - **Checked and left alone (verified legit/faithful):** Samwān fort + 'Azūl duelist
+    (AR p.264 prints سموان/عزولا), Al-Wāḥidī (real muffasir, ≠ Wāqidī), Wāqifī,
+    Kharijah, 'Utban ('Itbān ibn Mālik), Ḥudhāfah, Zubayd (tribe), Sirar (place),
+    al-Sulamī "Al Salami", 'Umayr ibn al-Ḥumām "Hamām", Majnah/Dhul-Majāz markets,
+    Naufal/Nawfal (per-person variance, mirrored consistently), plus the book-wide
+    diacritic variance the English edition itself carries (Ḥākim/Ḥakim etc.).
 
 ---
 

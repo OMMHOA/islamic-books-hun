@@ -17,10 +17,10 @@ Muhammad Naṣiruddīn Al-Albānī).
    changed). Remaining work is now **review/proofreading only** (pass B), tracked in
    `REVIEW-FLAGS.md`, plus updating `README.md` links.
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
-   ch3 first third (its footnote numbering differs from ENG: HUN ch3 has no ¹⁵ entry by
-   design — draft's ¹⁴ covers ENG ¹⁵; body markers match their footnote lists).
-   Footnote counts after the G3 restorations (2026-07-18, all verified 1:1 body↔list by
-   script in both files): ch1 1–20, ch2 1–25, ch3 1–34 (HUN skips ¹⁵ by design, see above),
+   ch3 first third. (The ch3 draft's "no ¹⁵ by design" numbering turned out to be a
+   dropped fn9 — restored and renumbered in G4, 2026-07-18; HUN ch3 now matches ENG 1:1.)
+   Footnote counts after the G3 restorations + G4 ch3 repair (2026-07-18, all verified
+   1:1 body↔list by script in both files): ch1 1–20, ch2 1–25, ch3 1–34,
    ch4 1–22, ch5 1–23, ch6 1–84, ch7 1–122, ch8 1–24, ch9 1–18. Note: ENG-full keeps ch9's
    footnotes at the very end of the book (after the Glossary); HUN places them right after
    ch9 per convention.
@@ -119,13 +119,17 @@ translation errors).
    `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md`, printed pages 2–368, continuity
    verified. A locating/reading aid, not gospel — decision-critical readings get
    re-checked on the rendered page. Details in REVIEW-FLAGS §G.
-2. **G2 — scripted Qur'ān-reference sweep**: every `(Korán X: Y)`/`(Qur'ān X: Y)` ref
-   validated against the canonical Qur'ān text (deterministic, script-able).
-3. **G3 — chunk-aligned HUN ↔ AR verification pass** (subagents): catches ENG OCR
-   errors, undiscovered ENG-edition mistranslations, and HUN drift in one pass;
-   absorbs the remaining REVIEW-FLAGS D-items and E coinage checks.
-4. **G4 — name + ḥadīth-grade sweep** vs the Arabic (names; hiteles/jó/gyenge vs
-   صحيح/حسن/ضعيف).
+2. ~~**G2 — scripted Qur'ān-reference sweep**~~ ✅ **done 2026-07-17**
+   (`scripts/g2_quran_sweep.py`; zero out-of-range refs, 2 ENG ref errors fixed —
+   details in REVIEW-FLAGS §G).
+3. ~~**G3 — chunk-aligned HUN ↔ AR verification pass**~~ ✅ **done 2026-07-17/18**
+   (per-chapter subagents, findings in `g3-findings/`; all FIX items applied incl.
+   5 dropped-footnote restorations — details in REVIEW-FLAGS §G and the errata file).
+4. ~~**G4 — name + ḥadīth-grade sweep**~~ ✅ **done 2026-07-18**
+   (`scripts/g4_grade_sweep.py`, `g4_ar_align.py`, `g4_name_sweep.py`; all grade
+   labels verified aligned; ch3 dropped fn9 restored + renumbered to a clean 1–34;
+   ~20 name fixes/unifications incl. Abū Ḥibbān and Abān with translator's notes —
+   details in REVIEW-FLAGS §G4 and the errata file).
 5. Housekeeping: update `README.md` links; decide fate of the legacy partial `-ENG.md`
    and the `chapter*-normalized.md` / `-HUN-Chapter3…` / `-HUN-Khadijah.md` working
    files (superseded by the `-full` files); optional glossary re-alphabetization.
