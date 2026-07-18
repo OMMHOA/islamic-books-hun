@@ -56,12 +56,13 @@ All in `fiqh-us-seerah/`:
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md` | **The Hungarian translation** — complete draft, front matter → Chapters 1–9 → Utószó → back matter |
 | `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
 | `ENGLISH-EDITION-ERRATA.md` | Consolidated list of the English edition's errors verified against the Arabic original (wrong Qur'ān refs, inserted honorifics, mistranslations, corrupted names) — all corrected in both ENG-full and HUN per the fidelity policy |
-| `g3-findings/` | Per-chapter findings of the G3 HUN ↔ AR verification pass (the reasoning behind each applied fix); outcomes are summarized in REVIEW-FLAGS §G and the errata file |
 
 Deleted in the 2026-07-18 housekeeping (recoverable from git history): the legacy
 partial `-ENG.md`, the partial HUN drafts (`FiqhusSeerah-Muhammad-al-Ghazali.md`,
 `-HUN-Chapter3…`, `-HUN-Khadijah`), the `chapter*-normalized.md` working files,
-`.transcription-fragments/`, and the one-shot `scripts/g2_*`/`g4_*` sweep scripts.
+`.transcription-fragments/`, the one-shot `scripts/g2_*`/`g4_*` sweep scripts, and
+`g3-findings/` (the G3 per-chapter findings — committed once for the audit trail,
+then removed; outcomes live in REVIEW-FLAGS §G and the errata file).
 
 ## How the transcription was made (2026-07-13)
 
@@ -128,17 +129,18 @@ translation errors).
    (`scripts/g2_quran_sweep.py`; zero out-of-range refs, 2 ENG ref errors fixed —
    details in REVIEW-FLAGS §G).
 3. ~~**G3 — chunk-aligned HUN ↔ AR verification pass**~~ ✅ **done 2026-07-17/18**
-   (per-chapter subagents, findings in `g3-findings/`; all FIX items applied incl.
-   5 dropped-footnote restorations — details in REVIEW-FLAGS §G and the errata file).
+   (per-chapter subagents, findings in `g3-findings/`, now in git history only; all
+   FIX items applied incl. 5 dropped-footnote restorations — details in
+   REVIEW-FLAGS §G and the errata file).
 4. ~~**G4 — name + ḥadīth-grade sweep**~~ ✅ **done 2026-07-18**
    (`scripts/g4_grade_sweep.py`, `g4_ar_align.py`, `g4_name_sweep.py`; all grade
    labels verified aligned; ch3 dropped fn9 restored + renumbered to a clean 1–34;
    ~20 name fixes/unifications incl. Abū Ḥibbān and Abān with translator's notes —
    details in REVIEW-FLAGS §G4 and the errata file).
 5. ~~Housekeeping~~ ✅ **done 2026-07-18**: superseded working files and one-shot
-   scripts deleted (see the Files section), `g3-findings/` committed as audit trail,
-   repo restructured into per-book directories (`fiqh-us-seerah/`), `README.md`
-   links updated.
+   scripts deleted (see the Files section), `g3-findings/` committed for the audit
+   trail then deleted, repo restructured into per-book directories
+   (`fiqh-us-seerah/`), `README.md` links updated.
 6. Optional/remaining: glossary re-alphabetization; the "still open" pass-A items
    listed in the pipeline note (remaining transcription-quality doubts vs the
    Arabic, coinage sanity-checks).
