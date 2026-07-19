@@ -101,10 +101,16 @@ see the fidelity policy under Transcription conventions.)*
 - Same heading/honorific/footnote conventions as above
 - Qur'ān quotes: `(… szöveg …) (Korán X: Y)` — en-dash in verse ranges (pl. 10: 68–70)
 - Hungarian quotation marks: „…"
-- Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid,
-  Mohamed → **Muhammad** (kept as in existing HUN files)
-- Place name: **Mekka** (the standard Hungarian spelling); leave the ordinary Hungarian
-  word *mekkora* ("how big") alone
+- Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid
+- The Prophet: **Mohamed** (standard Hungarian form — user decision 2026-07-20,
+  reversing the earlier Muhammad convention; suffixes follow *Mohamed*'s harmony:
+  Mohamedet, Mohameddel, Mohamednek…). **Other people named Muhammad keep the
+  transliterated form** (the author Muhammad Al-Ghazali, Al-Albānī, Muhammad ibn
+  Maslamah, ḥadīth narrators), as does the Arabic shahāda transliteration
+  (*Muhammadan rasūlu-llāh*).
+- Place names: **Mekka** and **Medina** (the standard Hungarian spellings; Medina
+  replaced Madīna/Al-Madīnah book-wide 2026-07-20, incl. the glossary headword);
+  leave the ordinary Hungarian word *mekkora* ("how big") alone
 - **Ḥadīth grading terms:** ṣaḥīḥ / "sound" / "authentic" → **hiteles** (one grade, one
   word — matches the glossary `*Ṣaḥīḥ*: hiteles hadísz`); ḥasan / "good" → **jó**;
   ḍaʿīf / "weak" → **gyenge**. Al-Albānī's `Ṣaḥīḥ:` footnote labels → `Hiteles (ṣaḥīḥ):`.

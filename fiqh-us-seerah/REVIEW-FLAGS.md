@@ -389,6 +389,23 @@ translator's note.
   place forms incl. the `makkai` adjectives). The ordinary Hungarian word *mekkora*
   ("how big") and unrelated words containing the substring *makk* (*bántalmakkal*,
   *szidalmakkal*, *alkalmakkor*) were left alone.
+- **The Prophet → `Mohamed`, the city → `Medina` (user decision 2026-07-20, HUN only).**
+  Reverses the earlier "keep Muhammad/Madīna" convention after the user's read-through.
+  *Mohamed*: 345 replacements — 253 bare + 91 suffixed with vowel-harmony conversion
+  (Muhammadot→Mohamedet 38, Muhammadnak→Mohamednek 16, Muhammaddal→Mohameddel 16,
+  Muhammadhoz→Mohamedhez 7, Muhammadtól→Mohamedtől 5, Muhammadról→Mohamedről 4,
+  Muhammadra→Mohamedre 2, Muhammadban→Mohamedben 2, Muhammadon→Mohameden 1) + 1 stray
+  `Muḥammad`. The Prophet's full-name mentions became `Mohamed ibn 'Abdullāh` (incl. the
+  Ḥudaybiyah treaty text and the Ḥunayn battle cry). **Kept as Muhammad (20):** the
+  author (title page **Muhammad Al-Ghazali** / Előszó signature), Al-Albānī (2×),
+  Muhammad ibn Maslamah (5×) and the other narrators/persons in footnotes (ibn 'Alī,
+  ibn Ibrāhīm, ibn 'Abdullāh ibn Zayd, Ibn/ibn 'Abdul Rahmān, ibn Ka'b, ibn Usāmah,
+  ibn Thaur, Al Anṣārī), and the shahāda transliteration *Muhammadan rasūlu-llāh*.
+  "Medina" chosen over "Medína" — HU Wikipedia, Katolikus Lexikon, Wikiszótár all use
+  the unaccented form. *Medina*: 233 replacements, `Madīn` → `Medin` with suffixes
+  carried over (Medinába/Medinában/Medinát…); the `Al-Madīnah`/`Al Madīna` article
+  forms dropped the article; the glossary headword `*Madīnah*` → `*Medina*` (matching
+  the 6 previously Hungarianized headwords).
 - **Ḥadīth grading map — FINAL decision (2026-07-16): ṣaḥīḥ → `hiteles` everywhere.**
   Both ENG "sound" and ENG "authentic" render the single grade ṣaḥīḥ, so they map to the
   **same** Hungarian word, **`hiteles`** — the standard term and the one the book's own
