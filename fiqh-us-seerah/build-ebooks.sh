@@ -50,10 +50,10 @@ EOF
 
 cat > "$TOOLS/meta.yaml" <<'EOF'
 title: "Fiqh-us-Seerah"
-subtitle: "Muhammad Próféta (ﷺ) életének megértése"
+subtitle: "Mohamed Próféta (ﷺ) életének megértése"
 author: "Muhammad al-Ghazali"
 lang: hu
-rights: "Magyar fordítás az angol kiadás alapján (IIPH, átdolgozott 2. kiadás, 1420 AH / 1999). A hadíszokat Sejk Muhammad Naṣiruddīn Al-Albānī látta el megjegyzésekkel."
+rights: "Magyar fordítás az angol kiadás alapján (IIFSO, terjeszti: IIPH, átdolgozott 2. kiadás, 1420 AH / 1999). A hadíszokat Sejk Muhammad Naṣiruddīn Al-Albānī látta el megjegyzésekkel."
 EOF
 
 # 2. EPUB

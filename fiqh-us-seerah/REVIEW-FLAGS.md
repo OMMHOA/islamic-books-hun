@@ -626,3 +626,17 @@ re-sort of an otherwise book-ordered list. If a full Hungarian re-alphabetizatio
   **Arabic-only fidelity policy (2026-07-16)**: corroborated English-edition errors
   are corrected in both files (logged in the errata file); obvious print typos fixed
   silently.
+
+## HUN read-through (user, 2026-07-20 →)
+
+Items the user flagged while reading the finished HUN draft. Terminology decisions from
+this read-through (Mohamed / Medina) are logged above; content fixes go here and, when
+they are English-edition errors corroborated against the Arabic, also in
+`ENGLISH-EDITION-ERRATA.md`.
+
+- **Előszó, "E lapok írását Medinában kezdtem…"** — user flagged "a szent körzetben,
+  amely egy ideig jó szerencsét hozott nekem" as wrong. Confirmed against AR p.7
+  (AR-full l.88): three English-edition errors (*al-jiwār al-ṭayyib* "goodly
+  neighbourhood" → "holy precinct"; *saʿidtu bihi* "I was happy in it" → "brought me
+  good fortune"; the *muṭahharah*/*ʿaṭirah* epithets of Sunnah and Sīrah dropped).
+  Fixed in ENG-full and HUN; details in the errata file.

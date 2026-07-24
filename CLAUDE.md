@@ -3,7 +3,8 @@
 Goal: translate Islamic books to Hungarian, published as Markdown in this repo.
 **Repo layout (since 2026-07-18): each book gets its own directory.** Root holds
 only `README.md`, `LICENSE`, and this file.
-Current book: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIPH Revised 2nd Edition,
+Current book: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIFSO Revised 2nd Edition,
+distributed by IIPH,
 1420 AH / 1999 CE, English translation, with Ḥadīth commentary by Sheikh
 Muhammad Naṣiruddīn Al-Albānī) — everything in `fiqh-us-seerah/`; bare file names
 below are relative to that directory.

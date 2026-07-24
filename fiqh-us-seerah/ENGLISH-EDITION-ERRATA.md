@@ -1,6 +1,7 @@
 # English-edition errata
 
-Errors found in the **IIPH English translation** (Revised 2nd Edition, 1420/1999) of
+Errors found in the **IIFSO English translation** (Revised 2nd Edition, 1420/1999,
+distributed by IIPH) of
 *Fiqh-us-Seerah*, verified against the **Arabic original** (Maṭābiʿ al-Shurūq ed.,
 368 pp; printed page = PDF page + 1). Under the fidelity policy (2026-07-16, see
 `CLAUDE.md`) the Arabic is the sole source of truth: every verified item below has
@@ -125,7 +126,7 @@ undecided"→**"gave it a connected chain"** (ch2); fn9 "as the author's words i
 →**inverted sense corrected** (ch8); fn3 "weak"→**"very weak"** (ضعيف جدا, ch9);
 Badr companions **313→315** (ch6 p.179).
 
-Fabrications inserted by the IIPH edition, removed (Arabic has no such wording): "Saudi
+Fabrications inserted by the English edition, removed (Arabic has no such wording): "Saudi
 Arabian countryside"→**"our countryside"** (ريفنا, ch5 p.136); "Saudi children"→**"our
 children"** (أطفالنا, ch2 p.50); "Saudi villages"→**"our villages"** (قرانا, ch7 p.270);
 "(and what a life!)" interpolation **removed** (ch9 p.362).
@@ -202,3 +203,41 @@ correct).
 - Grade verdicts: all ENG/HUN hiteles–jó–gyenge labels verified aligned with each other
   and (by sequence + spot-checks) with al-Albānī's صحيح/حسن/ضعيف in the Arabic; no
   grade mismatches found.
+
+## HUN read-through findings (2026-07-20 →): further corrections in both files
+
+- **Előszó, "I began writing these pages…"** (AR p.7 / AR-full l.88) — the English
+  compressed and mistranslated the sentence in three places. AR: «فى الجوار الطيب الذى
+  سعدت به حينا، وأعاننى على إتمام دراسات جيدة فى السنة المطهرة والسيرة العطرة».
+  - *الجوار الطيب* = "the goodly **neighbourhood**" (being neighbour to the Prophet's
+    mosque) → ENG had "the holy precinct", losing the point of *jiwār*;
+  - *سعدت به* = "in which I was **happy**" → ENG "which brought me good fortune";
+  - *دراسات جيدة فى السنة المطهرة والسيرة العطرة* = "**good** studies on the **pure**
+    Sunnah and the **noble** (lit. fragrant) Sīrah" → ENG "useful studies on the Sunnah
+    and the life of Muhammad", dropping both epithets.
+  Corrected in ENG-full and HUN ("abban az áldott szomszédságban, amelyben egy ideig
+  boldog lehettem, … néhány jó tanulmányt a tiszta Szunnáról és a Próféta (ﷺ) nemes
+  életrajzáról").
+- **Előszó, "…confident that it would not revive the dead"** (AR p.6 / AR-full l.80) —
+  AR ends «وهم واثقون أنه لن يحيى **مواتا**». *موات* (mawāt) = dead/**barren land,
+  lifelessness** (cf. أرض موات; the classical trope يحيى الموات "to revive dead ground"),
+  not الموتى "the dead (people)". Both ENG ("revive the dead") and HUN ("nem támasztja
+  fel a holtakat") had shifted to a resurrection image, losing the "bring life to what is
+  lifeless" metaphor. Corrected: ENG "revive what is lifeless"; HUN "nem kelt életre
+  semmi élettelent".
+- **Előszó (new-edition note), "…and a sifting of historical events"** (AR p.7 /
+  AR-full l.131) — AR «إبراز الحقيقة العلمية و**ضبط** الوقائع التاريخية». *ضبط* (ḍabṭ) =
+  precise establishing / accurate verification, not "sifting" (which suggests
+  discarding). Corrected: ENG "the accurate verification of historical events"; HUN
+  "pontosan rögzíteni a történelmi eseményeket".
+- **Ch1, "…hung its upliftment on a sacrifice. They turned the ideology of Jesus into a
+  hotchpotch…"** (AR p.16 / AR-full l.261) — AR lists six parallel actions of the pagan
+  corruption of Jesus's religion: «…**وانتكس بالإنسان، فعلق همته بالقرابين، وفكره
+  بالألغاز المعماة**» = "…and it set man back, pinning his aspiration (همّته) to
+  sacrificial offerings and his thought (فكره) to obscure riddles (الألغاز المعمّاة)."
+  The English mistranslated *himmah* "aspiration" as "its upliftment" (inverting the
+  sense) and dropped the "thought → obscure riddles" clause, replacing it with an
+  invented sentence ("a hotchpotch of unnatural beliefs, myths and legends"). Corrected
+  in both: ENG "caused man to regress, pinning his aspiration to sacrificial offerings
+  and his thought to obscure riddles"; HUN "visszavetették az embert, törekvését az
+  áldozati ajándékokhoz, gondolkodását pedig a homályos rejtélyekhez láncolva".
