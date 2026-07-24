@@ -103,6 +103,12 @@ see the fidelity policy under Transcription conventions.)*
 - Qur'ān quotes: `(… szöveg …) (Korán X: Y)` — en-dash in verse ranges (pl. 10: 68–70)
 - Hungarian quotation marks: „…"
 - Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid
+- **Heaven/Paradise/afterlife (user decision 2026-07-25):** never *menny/mennyország*
+  (too Christian-flavored — never seen in Hungarian Islamic usage). Map by the Arabic:
+  السماء / the sky-heaven & "heavenly" adjectives → **ég / égi / egek** (neutral);
+  الجنة (al-Jannah) → **Paradicsom**; الآخرة (al-ākhirah) → **túlvilág**. Swept
+  book-wide 2026-07-25 (leave the unrelated words *mennyi, mennyire, mennydörgés,
+  mennykő, mennyezet* alone).
 - The Prophet: **Mohamed** (standard Hungarian form — user decision 2026-07-20,
   reversing the earlier Muhammad convention; suffixes follow *Mohamed*'s harmony:
   Mohamedet, Mohameddel, Mohamednek…). **Other people named Muhammad keep the
