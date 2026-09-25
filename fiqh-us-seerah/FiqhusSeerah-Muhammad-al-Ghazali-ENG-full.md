@@ -14,7 +14,7 @@ Transcribed from the scanned PDF edition; footnotes are collected at the end of 
 
 There are many great personalities whose biographies people have read to savour the strokes of genius in them and to follow in admiration their ways of life and their attitudes towards the difficulties and problems which confronted them. The mere act of reading might be only link between these great personalities and those who know them and it might develop into a deep study or a strong human bond.
 
-I must hasten to say that I did not write about the greatest of all the personalities, Muhammad (ﷺ), 'Blessings and Peace be upon him' son of 'Abdullāh, with this limited concept in mind. I am a Muslim through knowledge: I know why I believe in Allāh (ﷻ) 'The Exalted', (Lord) of the Worlds, and in the prophethood of Muhammad (ﷺ), and why I follow the Book he brought to us. Indeed, I know why I call others to believe in all this which has brought tranquillity to my heart.
+I must hasten to say that I did not write about the bearer of the greatest Message, Muhammad (ﷺ), 'Blessings and Peace be upon him' son of 'Abdullāh, with this limited concept in mind. I am a Muslim through knowledge: I know why I believe in Allāh (ﷻ) 'The Exalted', (Lord) of the Worlds, and in the prophethood of Muhammad (ﷺ), and why I follow the Book he brought to us. Indeed, I know why I call others to believe in all this which has brought tranquillity to my heart.
 
 I happen to have previously published a number of treatises on the life of Muhammad (ﷺ). Did I ever digress from it in anything which I wrote? All the treatises in which I discussed faith, morals, social behaviour and government, I depended heavily on the life of Muhammad (ﷺ) for their material. Thus I can truthfully say that this book is not a sudden link with the Prophet of Islām (ﷺ), nor is it a collection of proofs for his truthfulness, nor ideas which occurred to me about his genius. All that has been analysed at length elsewhere. In producing this book I had a specific objective in mind and I hope it has been achieved.
 
@@ -26,27 +26,27 @@ Thus I have done my utmost to give readers a true picture of the life of the Pro
 
 Perhaps here I have blended the two methods in a new way which extracts the best from them both. From the details of the biography I have compiled a cohesive topic, all of whose parts are bound by one spirit. Then I arranged the texts and narrations in such a way as to conform with the unity of the topic and help to complete the whole picture. My aim was to make the biography into something which nurtures faith, purifies characters and fans the struggle, which encourages one to embrace the truth and be faithful to it and which contains a wealth of relevant examples.
 
-I wrote about the life of Muhammad (ﷺ) as soldiers would write about their general or employees about their employer or pupils about their teacher. I am not, as I have said, a neutral historian unrelated to whom I write about. Moreover, I wrote with the scenes of Muslim backwardness right in front of my eyes. So do not be surprised if I relate the events of the life of Muhammad (ﷺ) in a manner which hints at our sorrowful state. Whenever I present a story I include in it references to the true sentiments, sound thoughts and noble actions of a Muslim to correct this terrible degradation.
+I wrote about the life of Muhammad (ﷺ) as soldiers would write about their general or a follower about his master or pupils about their teacher. I am not, as I have said, a neutral historian unrelated to whom I write about. Moreover, I wrote with the scenes of Muslim backwardness right in front of my eyes. So do not be surprised if I relate the events of the life of Muhammad (ﷺ) in a manner which hints at our sorrowful state. Whenever I present a story I include in it references to the true sentiments, sound thoughts and noble actions of a Muslim to correct this terrible degradation.
 
 Muhammad (ﷺ) is not a story to be read on his birthday as many people do now, nor is he to be extolled in fabricated prayers added to the words of the *Adhān* (prayer call), nor can love for him be expressed in poems of praise which may make his admirers sigh when they hear them. The ties that Muslims have with the noble Prophet (ﷺ) are stronger and deeper than these deviations which have been thrust into the faith. The Muslims have indulged in these acts to express their relationship with their Prophet (ﷺ) only when they have neglected the essentials of their faith and contented themselves with outward manifestations and formalism. However, since these formalisms are limited in Islām they have resorted to inventing new forms.
 
-They should not innovate. To turn away from inventing formalities does not require much efforts. The effort that does require determination is to hold fast to the essence which has been neglected and return to the true faith. So instead of listening to the story of the Prophet's (ﷺ) birth being recited in a pleasant voice, one should get up and reform oneself in order to draw nearer to the Prophet's (ﷺ) practices in his worldly and spiritual life, in his likes and dislikes, in his knowledge and action, in his habits and forms of worship and in matters relating to war and peace. The Muslims in whose hearts the Prophet does not live and whose insight does not follow them in their actions and thoughts will never benefit by merely sending *Ṣalāh* and *Salām* to him a thousand times a day.
+And that is no burden for them! These forms cost them no effort from which they would shrink. The effort that does require determination is to hold fast to the essence which has been neglected and return to the true faith. So instead of listening to the story of the Prophet's (ﷺ) birth being recited in a pleasant voice, one should get up and reform oneself in order to draw nearer to the Prophet's (ﷺ) practices in his worldly and spiritual life, in his knowledge and action, in his habits and forms of worship and in matters relating to war and peace. The Muslims in whose hearts the Prophet does not live and whose insight does not follow them in their actions and thoughts will never benefit by merely sending *Ṣalāh* and *Salām* to him a thousand times a day.
 
 I should like to emphasize here the necessity of separating seriousness from fun in our lives. It would be nice to fix a time for fun and relaxation and not exceed it and a time for seriousness and work and not fall short of it. If people want to sing or listen to a song, let them do so. However turning Islām itself into a song, making the Qur'ān into beautiful tunes and the *sīrah* (life) (biography) into *qaṣīdahs* (poems) praising the Prophet and chants, have no justification and can be acceptable only to those who are negligent. This turnaround has been to the detriment of Islām since it was taken out of the field of behaviour and understanding into the field of play and entertainment. Those who do this are just the people described by the Qur'ānic Āyah (verse):
 
 (And forsake those who take their religion for a pastime and a jest, and whom the life of the world beguiles.) (Qur'ān 6: 70)
 
-The transformation of the Qur'ān into mere melodious chanting to which music lovers listen to is like the one what made the Jews and Christians broadcast it everywhere, confident that it would not revive what is lifeless. The transformation of the Prophet's (ﷺ) life into stories, *qaṣīdahs* and unintelligible prayers has made listening to it a form of mental imbalance and eccentricity, which in my opinion stems from a perversion of the instincts, and a corruption of society. It would be much better for music lovers to listen to pure music. If they wish for serious work, they should seek it from pure sources, whether it be the Qur'ān which commands and prohibits, or the Sunnah which clarifies and explains so that it may be followed, or the *Sīrah* which gives the fragrance of pure literature, sound principles and upright politics. And that is Islām.
+The transformation of the Qur'ān into mere melodious chanting to which music lovers listen to is what has made the Jews and Christians broadcast it everywhere, confident that it would not revive what is lifeless. The transformation of the Prophet's (ﷺ) life into stories, love *qaṣīdahs* (!) and unintelligible prayers has made listening to it a form of mental imbalance and eccentricity, which in my opinion stems from a perversion of the instincts, and a corruption of society. It would be much better for music lovers to listen to pure music. If they wish for serious work, they should seek it from pure sources, whether it be the Qur'ān which commands and prohibits, or the Sunnah which clarifies and explains so that it may be followed, or the *Sīrah* which gives the fragrance of pure manners, sound principles and upright politics. And that is Islām.
 
 I began writing these pages while I was in Madīnah, in the goodly neighbourhood in which I was happy for a while and which assisted me in completing some good studies on the pure Sunnah and the noble life of the Prophet (ﷺ). To Allāh (ﷻ) belongs the Grace for whatever bounties He (ﷻ) has bestowed on me and perhaps He (ﷻ) will make me of those who love Him and His Messenger (ﷺ). Now, since I can speak and act only with frankness, I must point out that the distance between the Muslims and their Prophet (ﷺ) is wide indeed, no matter what love for him they have in their hearts and what prayers they offer for him. I saw them visiting his grave with zeal and yearning before returning to their homelands to find those who envy them for their good fortune and long for the same chance.
 
-No believer would dispute the fact that love for the Prophet (ﷺ) is compulsory and that love for him will vanish only from the heart of a stubborn hypocrite. How should one make this feeling expressed and show its allegiance to him. This is the question that needs explanation and clarification.
+No believer would dispute the fact that love for the Prophet (ﷺ) is compulsory and that love for him will vanish only from the heart of a stubborn hypocrite. But that this emotion alone should be the expression of allegiance to him — that is what needs correcting and clarifying.
 
-Yathrib, from the point of view of general economics, is smaller than it was under the Aus and Khazraj in the pre-Islāmic days. The proportion of its land planted and cultivated today is one-tenth of what the Arabs used to plant and cultivate in the old days, the majority of the inhabitants today are those pilgrims and visitors who remained behind after the pilgrimage. They preferred to be near the Prophet (ﷺ) and unemployed rather than to go home and work! And they call this Hijrah!
+Yathrib, from the point of view of general economics, is smaller than it was under the Aws and Khazraj in the pre-Islāmic days. The proportion of its land planted and cultivated today is one-tenth of what the Arabs used to plant and cultivate in the old days, the majority of the inhabitants today are those pilgrims and visitors who remained behind after the pilgrimage. They preferred to be near the Prophet (ﷺ) and unemployed rather than to go home and work! And they call this Hijrah!
 
-Is this Islām or love for the Prophet (ﷺ)? I remember meeting a group of Moroccans who claimed that they came to Madīnah to escape persecution for their faith. I explained to them that they were fleeing from the battlefront because their brothers were fighting the French invaders, and they were committing a crime in leaving them to bear the brunt of the struggle all by themselves.¹ Such a love for the Prophet (ﷺ) is incomprehensible and such a Hijrah to his Madīnah is unacceptable. The bond between the Prophet of Allāh (ﷺ) and the slaves of Allāh (ﷻ) is stronger and firmer than finding expression in such crooked, devious paths.
+Is this Islām or love for the Prophet (ﷺ)? I remember meeting a group of North Africans (from the Maghrib) who claimed that they came to Madīnah to escape persecution for their faith. I explained to them that they were fleeing from the battlefront because their brothers were fighting the French invaders, and they were committing a crime in leaving them to bear the brunt of the struggle all by themselves.¹ Such a love for the Prophet (ﷺ) is incomprehensible and such a Hijrah to his Madīnah is unacceptable. The bond between the Prophet of Allāh (ﷺ) and the slaves of Allāh (ﷻ) is stronger and firmer than finding expression in such crooked, devious paths.
 
-The enemies of Islām were able to demolish the structure of Islām and turn it into ruins as a result of the negligence of the Muslims. How could the heritage of Muhammad (ﷺ) be left open to the vicissitudes of time? How could the early days of *Jahilīyah* be allowed to return? How could such a dangerous transformation be allowed to occur in silence? How could such a dangerous transformation be allowed to occur in the expressions of love for the Messenger of Allāh (ﷺ)? Let the Muslims therefore understand fully the life of their great Prophet (ﷺ). This would never occur if the Message itself were clearly understood and the life of the one who conveyed it is studied and his teaching strictly followed. How cheap is the love when it is only a talk! And how dear it is when it is ideal, safe and assured!
+The enemies of Islām were able to demolish the structure of Islām and turn it into ruins as a result of the negligence of the Muslims. How could the heritage of Muhammad (ﷺ) be left open to the vicissitudes of time? How could the early days of *Jahilīyah* be allowed to return? How could such a dangerous transformation be allowed to occur in silence? How could such a dangerous transformation be allowed to occur in the expressions of love for the Messenger of Allāh (ﷺ)? Let the Muslims therefore understand fully the life of their great Prophet (ﷺ). This can never be achieved except by a deep understanding of the Message itself, a true grasp of the life of the one who conveyed it and strict adherence to his teaching. How cheap is the love when it is only a talk! And how precious it is when it is capability and loyal commitment!
 
 I apologize for my inability to do proper justice to the subject. The Prophet's (ﷺ) importance is great, and explaining his life needs a sensitive mind and a sharp intellect. Let it suffice to know that this is my effort.
 
@@ -62,15 +62,15 @@ The problem with the historians who document the life of Muhammad (ﷺ) and othe
 
 The scholars of the Sunnah may differ in the authentication or rejection of a Ḥadīth. Sheikh Naṣiruddīn may argue that a Ḥadīth is weak, and he has the right to do so since he has a firm grounding in the knowledge of the Sunnah. The majority of Ḥadīth scholars may think that a Ḥadīth is weak. However I may look at its wording and find that it is in total agreement with a *āyah* (verse) of the Qur'ān or an authentic Ḥadīth and thereby find no harm in relating or writing it. As I see it, the Ḥadīth brings nothing new into the field of law or good deeds; it only explains what has already been fixed in the authentic sources.
 
-Take, for example, the first Ḥadīth which Sheikh Naṣiruddīn Judged to be weak: "Love Allāh (ﷻ) for the bounties He (ﷻ) bestows upon you and love me for the love of Allāh (ﷻ)". He may reject the authentication of this Ḥadīth by Al-Tirmidhī and Al-Hākim and he has the right to do so. However I found nothing in its meaning to prevent me from accepting it without hesitation.
+Take, for example, the first Ḥadīth which Sheikh Naṣiruddīn Judged to be weak: "Love Allāh (ﷻ) for the bounties He (ﷻ) bestows upon you and love me for the love of Allāh (ﷻ)". He may reject the authentication of this Ḥadīth by Al-Tirmidhī and Al-Ḥākim and he has the right to do so. However I found nothing in its meaning to prevent me from accepting it without hesitation.
 
-On the other hand, I hesitated to record the Ḥadīth of Muslim and Bukhārī in the way in which the Battle of the Bani Mustaliq took place. Their narrations of the Ḥadīth suggest that the Prophet (ﷺ) suddenly attacked that tribe without first offering them the *Dawah* or without any breaking of a treaty on their part or anything to rise suspicion occurring on their part or knowledge of any suspicious activities from their side.
+On the other hand, I refrained from recording the Ḥadīth of Muslim and Bukhārī in the way in which the Battle of the Bani Mustaliq took place. Their narrations of the Ḥadīth suggest that the Prophet (ﷺ) suddenly attacked that tribe without first offering them the *Dawah* or without any breaking of a treaty on their part or anything to rise suspicion occurring on their part or knowledge of any suspicious activities from their side.
 
 A battle begun by the Muslims in such a manner finds disapproval in the logic of Islām, and is far removed from the character of the Prophet (ﷺ). Thus I refused to accept that the battle began and ended in this way. However, I was satisfied with the circumstances as narrated by Ibn Jarīr, who, in spite of the weakness of his narration as disclosed by Sheikh Naṣiruddīn, conforms to the assured principle of Islām of "no aggression except to the wrongdoers." As for those who are peaceful and unaware, there is no justification for attacking them.
 
 The Ḥadīth as narrated by Bukhārī and Muslim can have no other explanation than its being the description of the second phase of the incident. In other words, taking them by surprise came only after hostilities had begun between that tribe and the Muslims, and each one was lying in wait for the other. Thus it was the Muslims who saw the opportunity and attacked their enemy, and 'war is deception' in this case there must be some preface to Bukhārī's and Muslim's narration similar to what Ibn Jarīr reported and was criticized by Sheikh Naṣiruddīn.
 
-I am not the first to adopt such a line of approach. It is the approach adopted by most of the scholars when confronted by both weak and strong narrations. They agree that a weak Ḥadīth may be accepted so long as it is in conformity with the basic general principles, which are of course, derived from the Qur'ān and the Sunnah. It was in the light of this balanced view that I related the Prophet's (ﷺ) consultation with Al Habbāb on the occasion of the Battle of Badr, even though the Ḥadīth scholars declared its chain of narrators to be weak, because it comes within the scope of the good deeds which Allāh (ﷻ) and His Messenger (ﷺ) enjoined and there is no harm in relating it. This is so far as the weak ḥadīths are concerned.
+I am not the first to adopt such a line of approach. It is the approach adopted by most of the scholars when confronted by both weak and authentic narrations. They agree that a weak Ḥadīth may be accepted so long as it is in conformity with the basic general principles, which are of course, derived from the Qur'ān and the Sunnah. It was in the light of this balanced view that I related the Prophet's (ﷺ) consultation with Al Ḥubāb on the occasion of the Battle of Badr, even though the Ḥadīth scholars declared its chain of narrators to be weak, because it comes within the scope of the good deeds which Allāh (ﷻ) and His Messenger (ﷺ) enjoined and there is no harm in relating it. This is so far as the weak ḥadīths are concerned.
 
 As for the authentic ḥadīths Sheikh Naṣiruddīn knows quite well that there is wide scope in their diverse meanings to accept or reject them. There is no scholar who has not rejected some authentic ḥadīths in preference to what appears to be more authentic. May Allāh (ﷻ) prevent us from provoking controversy over the Sunnah, which is undoubtedly the second source of Islām.
 
@@ -80,9 +80,9 @@ Nevertheless, if I study ḥadīths and find that, as a whole, they agree with t
 
 After this announcement, which is directed to both the callers and the called, and after the wars of the Prophet (ﷺ) and the righteous caliphs, in which they adopted this method of explaining the Message and allowing the people the opportunity of accepting or rejecting it, I do not think that anyone could force me to accept what the two Sheikhs (Bukhārī and Muslim) reported on the authority of 'Abdullāh ibn 'Aun. He said:
 
-I wrote to Nāfi', May Allāh (ﷻ) bless him, asking him about the supplication before fighting. He replied that, that was in the early days of Islām, when the Prophet (ﷺ) attacked the Banū Muṣṭaliq unawares and killed their fighters and took their women captive, and it was then that he took Juwairiyyah as wife. He said that 'Abdullāh ibn 'Umar (رضي الله عنه), who was in the army, told him about it.
+I wrote to Nāfi', may Allāh (ﷻ) have mercy on him, asking him about the call [to Islām] before fighting. He wrote back that this was only in the early days of Islām (!), for the Prophet (ﷺ) attacked the Banū Muṣṭaliq while they were unaware, killed their fighters and took their women and children captive, and it was on that day that he obtained Juwayriyah. He said that 'Abdullāh ibn 'Umar (رضي الله عنه) told him about it — and he was in that army!
 
-Just as I bypassed this Ḥadīth, I also bypassed another, which stated that the Prophet (ﷺ) addressed his Companions and informed them of the persecutions which would take place until the Day of Judgement and those who would be responsible for them. It has been proved from the Qur'ān and the Sunnah that the Prophet (ﷺ), did not know the unseen in this strange, detailed and comprehensive manner.
+Just as I bypassed this Ḥadīth, I also bypassed another, which stated that the Prophet (ﷺ) addressed his Companions and informed them of the trials (fitan) which would take place until the Day of Judgement and those who would be responsible for them. It has been proved from the Qur'ān and the Sunnah that the Prophet (ﷺ), did not know the unseen in this strange, detailed and comprehensive manner.
 
 I preferred this method of writing the biography so I accepted the narrations whose wordings conformed to the fixed principles and laws, even if their chains of narrators were not sound. I rejected those ḥadīths which were described as authentic, because they did not conform to the fixed principles and laws according to my understanding of Allāh's religion and the methodology of the *Da'wah*.
 
@@ -106,7 +106,7 @@ There is no space to comment on all my reasons for differing with Sheikh Naṣir
 
 *Munqaṭi'*: A name in the *Isnād* is omitted or an unknown name is mentioned.
 
-*Mu'aḍḍal*: Two or more names are omitted from the *Isnād*.
+*Mu'ḍal*: Two or more names are omitted from the *Isnād*.
 
 *Tadlīs* or *Mudallas*: (1) The narrator gives the impression that he/she heard it directly from one of his/her contemporaries, although that is not so. (2) The narrator ascribes qualities to the person from whom he/she heard it which that person does not possess.
 
@@ -120,13 +120,13 @@ There is no space to comment on all my reasons for differing with Sheikh Naṣir
 
 *Ḥasan Gharīb*: A Ḥadīth which has the attributes of both *Ḥasan* and *Gharīb*.
 
-*Mawḍū*: A fabrication by liars who ascribe it to the Prophet (ﷺ). This is, strictly speaking, not a Ḥadīth.
+*Mawḍū'*: A fabrication by liars who ascribe it to the Prophet (ﷺ). This is, strictly speaking, not a Ḥadīth.
 
 Note: Pickthall's translation has been used for all the quotations from the Qur'ān except in a few cases where the context required a different translation.
 
 ## Footnotes
 
-¹The first Arabic edition of this book was published at a time when the French had occupied three regions of Morocco along with other Islāmic lands.
+¹The first Arabic edition of this book was published at a time when the French had occupied the three countries of the Maghrib along with other Islāmic lands.
 
 ---
 
@@ -166,7 +166,9 @@ It would not be strange if Allāh (ﷻ) refused to help them, as the Ḥadīth s
 
 It was these remains which were impenetrable by polytheism in spite of the tidal wave of unbelief which flooded the hills and valleys. Before the prophethood of Muhammad (ﷺ), the world was drowned in confusion and misery which weighed heavily on people's shoulders.
 
-You came, while the people were in chaos: if you had passed by them you would have seen them worshipping idol upon idol. The king of Rome oppressed his people and the king of Persia was deaf and blind from pride.
+*You came, while the people were in chaos: if you had passed by them you would have seen them worshipping idol upon idol.*
+
+*The king of Rome oppressed his people and the king of Persia was deaf and blind from pride.*
 
 Finally Allāh (ﷻ) announced that He (ﷻ) would wipe out these traces and send His (ﷻ) choicest guidance to creation. He (ﷻ) sent Muhammad (ﷺ).
 
@@ -176,31 +178,31 @@ The prophethood of Muhammad (ﷺ) had the unique characteristic of being global 
 
 How is that? On a dangerous ground a sincere adviser may tell you: "Close your eyes and follow me," or, "Do not ask me about anything which arouses your attention." Safety may be in obeying him, thus you would prefer to walk behind him until you cross into a safe territory. In this case he is your appointed guide, who thinks and sees for you and who takes you by your hand. If he dies, so do you. However, if at the beginning a wise person comes to you, maps the itinerary, warns you of the dangerous places, shows you in detail what stages and difficulties you have to pass through and walks with you for a while in order to give you practical guidance in what you have learnt, then, in this case, you would be your own guide capable of relying on your own sight and reasoning. The first case is suited to children and simple-minded people, but the second case is to be applied when dealing with people of understanding.
 
-When Allāh (ﷻ) sent Muhammad (ﷺ) to guide the world, He ensured that the message contained the principles which would open doors for intelligent people to understand what was and what would be. The Qur'ān which He (ﷻ) sent down on the Prophet's (ﷺ) heart is a Book from the Lord of the Worlds to all living people to guide them to goodness and inspire them with uprightness. Muhammad (ﷺ) was not a leader of tribes, people who were good because he was good, and when he died they faded away. He was a force of goodness which played a role in the moral world similar to the role played in the material world by the discovery of steam and electricity. His appointment as Prophet (ﷺ) represented a stage in the evolution of the mankind. Before that, people under the guardianship of their keepers were like confined children. Then they grew up and became capable of bearing responsibility themselves. So Allāh's message came to them, through the agency of Muhammad (ﷺ), and explained how they should live on earth and return to heaven. Thus whether Muhammad (ﷺ) remained or went away, it would not take anything away from his real Message which opened eyes and ears and sharpened perceptions and minds, and it was all contained in his huge legacy of the Qur'ān and Sunnah.
+When Allāh (ﷻ) sent Muhammad (ﷺ) to guide the world, He ensured that the message contained the principles which would open doors for intelligent people to understand what was and what would be. The Qur'ān which He (ﷻ) sent down on the Prophet's (ﷺ) heart is a Book from the Lord of the Worlds to all living people to guide them to goodness and inspire them with uprightness. Muhammad (ﷺ) was not a leader of tribes, people who were good because he was good, and when he died they faded away. He was a force of goodness which played a role in the moral world similar to the role played in the material world by the discovery of steam and electricity. His appointment as Prophet (ﷺ) represented a stage in the evolution of the mankind. Before that, people under the guardianship of their keepers were like a child under guardianship. Then they grew up and became capable of bearing responsibility themselves. So Allāh's message came to them, through the agency of Muhammad (ﷺ), and explained how they should live on earth and return to heaven. Thus whether Muhammad (ﷺ) remained or went away, it would not take anything away from his real Message which opened eyes and ears and sharpened perceptions and minds, and it was all contained in his huge legacy of the Qur'ān and Sunnah.
 
 He was not sent to collect a set of people around him but to forge a link between creation and the truth by which their existence would be meaningful; between them and the light by which they would see their goal. So those who recognize the truth in their lives and walk among people with a light, have definitely acknowledged Muhammad (ﷺ), have taken shelter under his banner, even if they have never seen nor lived with their guide.
 
 (O mankind! Verily, there has come to you a convincing proof [Prophet Muhammad] from your Rabb; and We sent down to you a manifest light [this Qur'ān]. So, as for those who believed in Allāh and held fast to Him, He will admit them to His Mercy and Grace [i.e. Paradise], and guide them to Himself by the Straight Path. ) (Qur'ān 4: 174-175)
 
-So if you see children ignoring their teacher's lessons or clinging to his clothes while he is alive or holding onto his belongings after he is dead, then know that he is unworthy children. He is not fit to be addressed by the teaching of the Message, let alone standing firmly on its path.
+So if you see some people neglecting the teacher's lessons, clinging to his clothes while he is alive or holding onto his remains after he is dead, then know that such a person is a naive child. He is not fit to be addressed by the teachings of the Message, let alone to stand firmly on its path.
 
-In the Prophet's (ﷺ) mosque in Madīnah I saw throngs of people seeking proximity to his grave and longing to spend their lives beside it. If the Prophet (ﷺ) came out alive and saw them he would abhor the sight of them and hate to be near them. Their shabby appearance, their lack of knowledge, their idleness and negligence, make their relationship with the Prophet of Islām (ﷺ) weaker than the web of a spider.
+In the Prophet's (ﷺ) mosque in Madīnah I saw throngs of people seeking proximity to his grave and longing to spend their lives beside it. If the Prophet (ﷺ) came out alive and saw them he would disapprove of their staying near him. Their shabby appearance, their lack of knowledge, their idleness and negligence, make their relationship with the Prophet of Islām (ﷺ) weaker than the web of a spider.
 
 I said to them: "what do you gain from being near the Prophet (ﷺ) and what does he gain from you?"
 
-Those who understand his Message and live it beyond the sands and seas know the secret of the Prophet (ﷺ) better than you. It is a spiritual and mental proximity above which forms the only bond between Muhammad (ﷺ) and those who are related to him. So how could sick spirits and feeble minds be related to him who came to deposit the good health of religion and the world in the spirits and minds? Is this proximity the sign of love and the means of forgiveness? You will never love for Allāh's sake unless you first know Allāh (ﷻ). The natural sequence is that before anything else you should know who is your Rabb and what is your faith. When you know this with a clean mind you will appreciate with a grateful heart the kindness of the one who conveyed the Message of Allāh (ﷻ) to you an bore hardships on your account. That is the meaning of the Ḥadīth: "Love Allāh (ﷻ) for the bounties He (ﷻ) provides you with and love me for the love of Allāh (ﷻ)";¹ And the meaning of the Qur'ānic verse:
+Those who understand his Message and live it beyond the sands and seas know the reality of Muhammad (ﷺ) better than you. It is a spiritual and mental proximity above which forms the only bond between Muhammad (ﷺ) and those who are related to him. So how could sick spirits and feeble minds be related to him who came to deposit the good health of religion and the world in the spirits and minds? Is this proximity the sign of love and the means of forgiveness? You will never love for Allāh's sake unless you first know Allāh (ﷻ). The natural sequence is that before anything else you should know who is your Rabb and what is your faith. When you know this with a clean mind you will appreciate with a grateful heart the kindness of the one who conveyed the Message of Allāh (ﷻ) to you an bore hardships on your account. That is the meaning of the Ḥadīth: "Love Allāh (ﷻ) for the bounties He (ﷻ) provides you with and love me for the love of Allāh (ﷻ)";¹ And the meaning of the Qur'ānic verse:
 
 (Say [O Muhammad to mankind]: If you [really] love Allāh, then follow me; Allāh will love you and forgive you of your sins. Allāh often is oft-Forgiving, All-Merciful.) (Qur'ān 3: 31)
 
-Then again, the Prophet of Islām (ﷺ) did not appoint himself as a "gateway" for forgiveness and blessings. He never did so for a single day, because he was never implicated in swindling. He tells you either to go with him or go along with someone else, and let us all stand before Allāh (ﷻ) and pray to Him (ﷻ):
+Then again, the Prophet of Islām (ﷺ) did not appoint himself a "Pope" who grants forgiveness to people and bestows blessings. He never did so for a single day, because he never engaged in charlatanry! He tells you either to go with him or go along with someone else, and let us all stand before Allāh (ﷻ) and pray to Him (ﷻ):
 
-(You [Alone] we worship, and you [Alone] we ask for help [for each and everything]. Show us the straight path; The path of those whom you have favoured; Not the path of those who deserve your anger nor of those who go astray.) (Qur'ān 1: 5-7)
+(Show us the straight path; The path of those whom you have favoured; Not the path of those who deserve your anger nor of those who go astray.) (Qur'ān 1: 6-7)
 
 So if this Prophet (ﷺ) is pleased with you, he will pray to Allāh (ﷻ) for you: and if you are pleased with him and acknowledge his great work and status in your heart, then pray to Allāh (ﷻ) for him likewise. You will be participating with the angels, who recognize his greatness and pray for his increased reward:
 
 (Look! Allah and His angels shower blessings on the Prophet. You who believe! Ask for blessings on him and salute him with a worthy salutation.) (Qur'ān 33: 56)
 
-It is not Muhammad's task to drag you to paradise with a rope. His task is only to implant insight into your heart to see the truth within. His means of doing that is a Book which falsehood can never approach either from infront or behind, which is easy to remember and safe from deviation. That is the secret of the permanency in his message.
+It is not Muhammad's (ﷺ) task to drag you to paradise with a rope. His task is only to implant insight into your heart to see the truth within. His means of doing that is a Book which falsehood can never approach either from infront or behind, which is easy to remember and safe from deviation. That is the secret of the permanency in his message.
 
 Let us see, therefore, how the Prophet (ﷺ) treated the environment in which he was born, in the light of this essential nature of his message, and let us before that look at the conditions of this environment itself.
 
@@ -234,7 +236,7 @@ The Prophet (ﷺ) greeted them and then stopped and dismounted. He called them t
 
 Then he mounted and rode off and when he reached Sa'd ibn Ubadah he said: "Did you hear what Abū Ḥibbān [the Arabic original prints 'Ḥibbān'; the well-known kunyah is Abū Ḥubāb — translator's note] (that is, 'Abdullāh ibn Ubayy) said?"
 
-Sa'd asked what he said and the Prophet (ﷺ) told him. Then Sa'd said: "You must pardon him, Messenger of Allāh (ﷺ), for by Him who revealed the Book to you, Allāh (ﷻ) has given you the truth which He (ﷻ) revealed to you. The people of this lake (Madīnah) had assembled to crown him and tie a band (of honour) on his head. But when Allāh (ﷻ) prevented that with the truth He gave you, he was outmatched by that. And that is what made him do what you saw."²
+Sa'd asked what he said and the Prophet (ﷺ) told him. Then Sa'd said: "You must pardon him, Messenger of Allāh (ﷺ), for by Him who revealed the Book to you, Allāh (ﷻ) has given you the truth which He (ﷻ) revealed to you. The people of this town (Madīnah) had assembled to crown him and tie a band (of honour) on his head. But when Allāh (ﷻ) prevented that with the truth He gave you, he choked on it. And that is what made him do what you saw."²
 
 Ibn Ubayy was tormented by Islām since he saw it, as a threat to his leadership, and it was the same with Abū Jahl before. Now, if these people turned away from the truth after understanding it clearly, there are thousands of others who, although they do not understand Islām, hate it and fight against it.
 
@@ -250,9 +252,9 @@ When the world became crammed with vice and corruption, the eagerness for the aw
 
 I was riding behind the Messenger of Allāh (ﷺ) one day and he said:
 
-"Do you know any poem of Umayyah ibn al Ṣalt? I Said yes, so he said recite it. I recited a couplet, and he asked me to continue reciting until I had recited a hundred couplets."
+"Do you know any poem of Umayyah ibn al Ṣalt? I Said yes, so he said recite it. I recited a couplet, and he asked me to continue reciting until I had recited a hundred couplets."⁴
 
-However, Providence ignored these aspiring poets and revolutionaries and imposed the great trust on a man who never aspired for it nor had any thought of it:
+However, Providence ignored these aspiring poets and prose-writers and imposed the great trust on a man who never aspired for it nor had any thought of it:
 
 (You had no hope that the Scripture would be inspired in you; but it is a mercy from your Lord, so never be a helper to the disbeliever.) (Qur'ān 28: 86)
 
@@ -282,11 +284,11 @@ Look how He extracts the marrow from amid the dust of argument! What good would 
 
 It is not necessary for a question to be asked for the answer "Say" to come from Allāh (ﷻ). It may be that the method used to present the principles and etiquette of the da'wah requires this kind of opening. Thus the purpose behind it would be to explain the need for Islām and the Prophet in such a clear and satisfactory manner that all doubts are uprooted before they are born.
 
-(Say [O Muhammad]: "Truly, my Lord has guided me to a Straight Path, a right religion, the religion of Ibrahīm [Abraham], Ḥanīfa [i.e. the true Islamic Monotheism – to believe in One God [Allāh] i.e. to worship none but Allāh, Alone] and he was not of Al Mushrikūn [Polytheists]. Say [O Muhammad]: "Verily, my Ṣalāt [prayer], my sacrifice, my living, and my dying are for Allāh, the Lord of the 'ālamīn [mankind, jinn and all that exists]. "He has no partner. And of this I have been commanded, and I am the first of the Muslims." Say: "Shall I seek a lord other than Allāh, while He is the Lord of all things? No person earns and [sins] except against himself [only], and no bearer of burdens shall bear the burden of another. Then unto your Lord is your return, so He will tell you that wherein you have been differing.") (Qur'ān 6: 161-164)
+(Say [O Muhammad]: "Truly, my Lord has guided me to a Straight Path, a right religion, the religion of Ibrahīm [Abraham], Ḥanīfa [i.e. the true Islamic Monotheism – to believe in One God [Allāh] i.e. to worship none but Allāh, Alone] and he was not of Al Mushrikūn [Polytheists]." Say [O Muhammad]: "Verily, my Ṣalāt [prayer], my sacrifice, my living, and my dying are for Allāh, the Lord of the 'ālamīn [mankind, jinn and all that exists]. He has no partner. And of this I have been commanded, and I am the first of the Muslims." Say: "Shall I seek a lord other than Allāh, while He is the Lord of all things? No person earns and [sins] except against himself [only], and no bearer of burdens shall bear the burden of another. Then unto your Lord is your return, so He will tell you that wherein you have been differing.") (Qur'ān 6: 161-164)
 
 This address to the Prophet (ﷺ) implies a command to all living beings in his era as well as the era of the afterwards to contemplate with their intellect what is being revealed to him and judge with their consciences the extent of its accuracy and sincerity. Thus If one's heart is full of faith, it is faith in the Lord of everything and the Prophet's (ﷺ) task ends at this point: when the intellect and heart arrive at their Creator and the straight path becomes clear to them. After that every man and women must (themselves) bear the consequences of the good or evil that they do.
 
-The Prophet (ﷺ) is not an intermediary who bears for you the good you performed, nor a sacrificial victim who bears for you the punishment you deserve. Herein lies the deep gulf between Christianity and Islām. Islām rates highly the value of humans and gives them their appropriate reward according to their righteousness or depravity. In Christianity, however, humans are too lowly to have direct access to the Lord of the Worlds: there must be another whom they can approach and who accepts their repentance. And who is that other? An adopted son! If people confess to sins, it is not they who face the penalty: the sacrifice was offered in a past age for these sins, and they must believe in that if they want to gain salvation! This insanity is in need of heavy drag lines to travel through life opposed to logic and justice.
+The Prophet (ﷺ) is not an intermediary who bears for you the good you performed, nor a sacrificial victim who bears for you the punishment you deserve. Herein lies the deep gulf between Christianity and Islām. Islām rates highly the value of humans and gives them their appropriate reward according to their righteousness or depravity. In Christianity, however, humans are too lowly to have direct access to the Lord of the Worlds: there must be another whom they can approach and who accepts their repentance. And who is that other? An adopted son! If a person commits a sin, it is not he who faces the penalty: the sacrifice was offered long ago for that sin of his, and he must believe in that if he wants to gain salvation! This insanity is in need of heavy drag lines to travel through life opposed to logic and justice.
 
 In Islām, Allāh (ﷻ) tells His Prophet (ﷺ) something which opens up the eyes and intellect:
 
@@ -302,7 +304,7 @@ The world is overflowing with incentives to deviation, and it attempts first and
 
 It is not expected that the Prophet (ﷺ) would obey the non-believes and hypocrites for him to be warned of it. It is we who are meant by this directive. Similarly we find the verse:
 
-("Call [the mankind] to your Rabb, and do not be of those who ascribe partners [to Him]. And do not call any other god along with Allāh") (Qur'ān 28: 87-88)
+("Call [the mankind] to your Rabb, and do not be of those who ascribe partners [to Him]. And do not call any other god along with Allāh; there is no god but He.") (Qur'ān 28: 87-88)
 
 From the very start of his da'wah the Prophet (ﷺ) waged war on polytheism and false gods, and it is from him that the people learned of this battle, thus it is not possible to expect otherwise from him.
 
@@ -322,7 +324,7 @@ In any case the Prophet (ﷺ) is the most excellent example and from his pattern
 
 (If you ascribe a partner of Allāh your work will fail and indeed you will be among the losers. No, it is Allāh you must serve, and be among the thankful.) (Qur'ān 39: 65-66)
 
-This mode of address resounds in the ears and it is used for a purpose. It had the effect of rousing the feelings of the Muslims against corruption and frightening them against allowing it to happen, lest they fall into it.
+This mode of address resounds in our ears and it has a purpose, as the saying goes: "It is you I mean, but listen, O neighbour!" It had the effect of rousing the feelings of the Muslims against corruption and frightening them against allowing it to happen, lest they fall into it.
 
 The opinions of the commentators which previously quoted are also equally applicable to this Āyāh (verse):
 
@@ -344,7 +346,7 @@ It is also supported by the saying which Bukhārī reports from Ibn 'Abbās. He 
 
 "O gathering of Muslims, how could you ask the People of the Book while your Book which was revealed to your Prophet is the most recent book from Allāh (ﷻ)? You recite it in its pure form without any corruption, and Allāh (ﷻ) tells you that the People of the Book changed and interpolated the Book of Allāh (ﷻ). They wrote the Book with their own hands and said it was from Allāh (ﷻ) so that they might sell it for a little price! Does not the knowledge which came to you prevent you from asking them? No, by Allāh (ﷻ), we do not see a single one of them ever asking you about what was revealed to them!"
 
-Islām from the educational point of view is knowledge of the truth, and from the emotional point of view love for and support of it and hatred and open enmity towards falsehood. There are some people who show calmness in their feelings and with this they receive an opinion and its opposite. This may be acceptable in trifling matters. However, if it concerns faith and disbelief, morality and immorality, then it is not. It is Allāh (ﷻ) who taught His Prophet (ﷺ) the Book and faith, and from this recognition of Allāh's bounty to him he held his faith dear and felt proud of the Qur'ān. He lived with them, and for them he waged war and made peace. Many a time did his enemies long for him to compromise a little with them, but they were disappointed.
+Islām from the intellectual point of view is knowledge of the truth, and from the emotional point of view love for and support of it and hatred and open enmity towards falsehood. There are some people who show calmness in their feelings and with this they receive an opinion and its opposite. This may be acceptable in trifling matters. However, if it concerns faith and disbelief, morality and immorality, then it is not. It is Allāh (ﷻ) who taught His Prophet (ﷺ) the Book and faith, and from this recognition of Allāh's bounty to him he held his faith dear and felt proud of the Qur'ān. He lived with them, and for them he waged war and made peace. Many a time did his enemies long for him to compromise a little with them, but they were disappointed.
 
 (Who would have had you compromise, that they may compromise.) (Qur'ān 68: 9)
 
@@ -366,19 +368,19 @@ The Qur'ān is the law of Islām and the Sunnah its application, and Muslims are
 
 It must be remembered, however, that divine inspiration does not paralyse the higher human faculties. It is a mistake to think that the prophets are puppets whom the angels cause to talk or keep quiet. Even if they were not prophets, they would have been respectable men qualified to be in the forefront. Revelation does not come to people haphazardly. Only those are selected for it, who are the most perfect of all people in their intellect, virtue and character. Their way of life is not to be discarded nor are they to be neglected, above all when all these qualities are reinforced by infallibility and the sagacity by correct direction.
 
-To follow the footsteps of the Prophets (ﷺ) is total virtue and, as such, the Sunnah of Muhammad (ﷺ) was made a primary source of law along with the Qur'ān by which Allāh (ﷻ) honoured him and all the Muslims. The things that are reported from him must be adopted, however, be scrutinized carefully before they are accepted as genuine, because of the distortions which occurred in the past. Not everything which is authentically proved to come from him is always understood correctly or given its rightful position. The Muslims were not hurt by the fabricated ḥadīths as much as by the misinterpretation of genuine ḥadīths. This reached such a great extent that finally people began to look at the entire collection of ḥadīths with a sceptical eye and wished that the Muslim would eradicate them.
+To follow in the footsteps of the Messengers is the whole of goodness, and for this reason the Sunnah of Muhammad (ﷺ) became a source of his Law along with the Book with which Allāh (ﷻ) honoured him. The majority of Muslims hold this understanding. However, the transmitted Sunnah calls for vigilance in receiving it: not everything ascribed to the Messenger (ﷺ) is an acceptable Sunnah, and not everything whose ascription is authentic is correctly understood or put in its proper place! The Muslims were not hurt by the fabricated ḥadīths as much as by the misinterpretation of genuine ḥadīths. This reached such a great extent that finally people began to look at the entire collection of ḥadīths with a sceptical eye and wished that the Muslim would eradicate them.
 
 This is an error on two counts. Firstly, it ignores historical reality, since the world has never known any man whose every action was recorded and minutely scrutinized as those of Muhammad Ibn 'Abdullāh. How could they then be thrown into the dustbin? Secondly, there are many gems of wisdom in the Sunnah, and if they were to be ascribed to anybody else, that person would be considered one of the greatest reformers, so why allow them to go waste and deprive people of their benefit?
 
 When we study the legacy of Muhammad (ﷺ) in morals and when we review his sayings which run into the thousands on virtue, we have the impression that if an army of psychologists and educationists were to come together and try to produce such advice, they would fail. Yet morality is only one branch of the Prophet's (ﷺ) message. Nevertheless, no-one can be an authority on the Sunnah unless he or she fulfils all the requirements necessary to make the study of it beneficial to Islām and the Muslims.
 
-(1) No-one can be an authority on the Sunnah unless he or she studies the Qur'ānic sciences in detail. The Qur'ān is the sole constitution of Islām, and it is what defines precisely for Muslims their duties and rights, it delegates to them all their responsibilities in order, and it demarcates their acts of devotion, their lives, so that one act does not cross out another or cause them to neglect their work and duties in life. Those who fail to acquire this knowledge from the Qur'ān will never be compensated for its loss by anything else, and any picture which forms in their minds about Islām from a non-Qur'ānic source is defective and may be totally contrary to the truth. For this reason the leading Ṣaḥābah were keen to clear the way for the noble Qur'ān to occupy its rightful place in their hearts and they ensured that nothing vied with it for priority.
+(1) No-one can be an authority on the Sunnah unless he or she studies the Qur'ānic sciences in detail. The Qur'ān is the fundamental constitution of Islām, and it is what defines precisely for Muslims their duties and rights, it delegates to them all their responsibilities in order, and it demarcates their acts of devotion, their lives, so that one act does not cross out another or cause them to neglect their work and duties in life. Those who fail to acquire this knowledge from the Qur'ān will never be compensated for its loss by anything else, and any picture which forms in their minds about Islām from a non-Qur'ānic source is defective and may be totally contrary to the truth. For this reason the leading Ṣaḥābah were keen to clear the way for the noble Qur'ān to occupy its rightful place in their hearts and they ensured that nothing vied with it for priority.
 
-Ibn 'Abdul Barr reported in his book Jāmi' Bayān al 'Ilm wa Fadlih from Jābir Ibn⁴ 'Abdullāh ibn Yasār who said he heard 'Alī (رضي الله عنه) saying:
+Ibn 'Abdul Barr reported in his book Jāmi' Bayān al 'Ilm wa Fadlih from Jābir Ibn⁵ 'Abdullāh ibn Yasār who said he heard 'Alī (رضي الله عنه) saying:
 
 I strongly urge all those who have written collections (other than Qur'ān) to go back and destroy them, for the people perished only because they followed sayings of their scholars and cast aside the Book of their Lord.
 
-He also reported from Al Zuhrī from 'Urwa⁵ that 'Umar ibn al Khattāb (رضي الله عنه) wanted to write down the Prophetic (ﷺ) sayings and consulted the Companions about it. They agreed, and 'Umar (رضي الله عنه) prayed for one month, asking Allāh's guidance in the matter. One day he came, confident of Allāh's decision, and said:
+He also reported from Al Zuhrī from 'Urwa⁶ that 'Umar ibn al Khattāb (رضي الله عنه) wanted to write down the Prophetic (ﷺ) sayings and consulted the Companions about it. They agreed, and 'Umar (رضي الله عنه) prayed for one month, asking Allāh's guidance in the matter. Then one morning, Allāh having settled his resolve, he said:
 
 I had wanted to write down the prophetic sayings but I remembered a people before you, who wrote books and held fast to them and forgot the Book of Allāh (ﷻ). By Allāh (ﷻ), I shall not mix the Book of Allāh (ﷻ) with anything at all. [or in another version] shall not cause the Book of Allāh (ﷻ) to be forgotten.
 
@@ -398,7 +400,7 @@ We left the town, heading for Iraq and 'Umar (رضي الله عنه) went with 
 
 They said: "Yes. We are the Prophet's (ﷺ) Companions so you have walked with us in order to see us off and honour us."
 
-Then he said, "You are going to the people of a town who recite the Qur'ān with a humming sound like that of the bee. Do not distract them with the Ḥadīth. Recite the Qur'ān to the best of your ability and keep to the minimum your quotations from the Prophet (ﷺ), peace be upon him. Continue and I shall be your partner."
+Then he said, "You are going to the people of a town who recite the Qur'ān with a humming sound like that of the bee. Do not distract them with the Ḥadīth. Recite the Qur'ān to the best of your ability and keep to the minimum your quotations from the Prophet (ﷺ). Continue and I shall be your partner."
 
 When Quraza reached Iraq, the people asked him to narrate the Prophet's (ﷺ) sayings and he said, "Umar (رضي الله عنه) stopped us from doing that."
 
@@ -406,19 +408,19 @@ When Quraza reached Iraq, the people asked him to narrate the Prophet's (ﷺ) sa
 
 Care must be taken especially since the way in which the Ḥadīth are narrated brings together various sayings which the Prophet (ﷺ) made on different occasions and at different times. 'Urwa ibn al Zubayr reports that 'Ā'ishah said:
 
-(1) Are you not surprised at Abū Hurairah (رضي الله عنه)? He came and sat next to my room and narrated Ḥadīth from the Messenger of Allāh (ﷺ), wanting me to hear. I was praying and he left before I finished my prayer. If I had caught him I should have replied to him. The Messenger of Allāh (ﷺ) did not recite Ḥadīth as you do.⁶
+Are you not surprised at Abū Hurairah (رضي الله عنه)? He came and sat next to my room and narrated Ḥadīth from the Messenger of Allāh (ﷺ), wanting me to hear. I was praying and he left before I finished my prayer. If I had caught him I should have replied to him. The Messenger of Allāh (ﷺ) did not recite Ḥadīth as you do.⁷
 
-(2) After the understanding of the Qur'ān comes the correct understanding of the authentic ḥadīths. It is best for those who know the Sunnah to refrain from quoting the Prophet (ﷺ) if they do not understand the full implication of the quotation, though they may understand the literal sense of the words. The Sunnah suffered greatly in the past from those who memorized much of it but understood very little. 'Ā'ishah's astonishment at Abū Hurairah's (رضي الله عنه) quoting of ḥadīths was not because she was accusing him of lying. His method of narrating Ḥadīth neglected the circumstances under which they had been said and strung one Ḥadīth to another. Muslim narrates that 'Umar (رضي الله عنه) struck Abū Hurairah (رضي الله عنه) because he heard him quoting the Ḥadīth of the Prophet (ﷺ): "who-ever says 'there is no god but Allāh (ﷻ)' will enter paradise." Perhaps 'Umar (رضي الله عنه) did so because he found Abū Hurairah (رضي الله عنه) mentioning the Ḥadīth to those who understood nothing about it except that Islām is a spoken statement and there is no action behind it.⁷ Stopping the Ḥadīth, even if it be authentic, is better than reporting it in this manner, surrounded by ignorance.⁸
+(2) After the understanding of the Qur'ān comes the correct understanding of the authentic ḥadīths. It is best for those who know the Sunnah to refrain from quoting the Prophet (ﷺ) if they do not understand the full implication of the quotation, though they may understand the literal sense of the words. The Sunnah suffered greatly in the past from those who memorized much of it but understood very little. 'Ā'ishah's astonishment at Abū Hurairah's (رضي الله عنه) quoting of ḥadīths was not because she was accusing him of lying. His method of narrating Ḥadīth neglected the circumstances under which they had been said and strung one Ḥadīth to another. Muslim narrates that 'Umar (رضي الله عنه) struck Abū Hurairah (رضي الله عنه) because he heard him quoting the Ḥadīth of the Prophet (ﷺ): "who-ever says 'there is no god but Allāh (ﷻ)' will enter paradise." Perhaps 'Umar (رضي الله عنه) did so because he found Abū Hurairah (رضي الله عنه) mentioning the Ḥadīth to those who understood nothing about it except that Islām is a spoken statement and there is no action behind it.⁸ Stopping the Ḥadīth, even if it be authentic, is better than reporting it in this manner, surrounded by ignorance.⁹
 
-Ibn 'Abdul Barr reports that Abū Hurairah (رضي الله عنه) himself said: "I am narrating to you Ḥadīth which if I had done so during 'Umar's (رضي الله عنه) time, he would have struck me with a cane." 'Umar's (رضي الله عنه) reason for preventing the narration of Ḥadīth was because he wanted to build society on the teachings of the Qur'ān, and encourage people to study the Qur'ān and extract what they needed from it. If the Sunnah were narrated after this had been accomplished, it would be absorbed by enlightened minds and would not be misinterpreted. Abū Hurairah (رضي الله عنه) might have been able to quote a hundred ḥadīths on ṣalāh because of his good memory, and perhaps 'Umar (رضي الله عنه) would have no objection to them being taught in a specialist school. However, disliked the Muslim masses to be occupied with such things when a few ḥadīths were sufficient for them, and then they could devote more time to what would be beneficial for Islām and all its people. This is the reason why he objected to those who narrated too many ḥadīths. Ibn Ḥazm reported almost a thousand pages of Ḥadīth on wuḍu, for those who were interested in this kind of knowledge, although to occupy the masses of Muslims with the like would be sheer stupidity! What time would be left for the Qur'ān itself? In fact, to occupy the Muslims with the Qur'ān in this manner is to trespass on the religion.
+Ibn 'Abdul Barr reports that Abū Hurairah (رضي الله عنه) himself said: "I am narrating to you Ḥadīth which if I had done so during 'Umar's (رضي الله عنه) time, he would have struck me with a cane." 'Umar's (رضي الله عنه) reason for preventing the narration of Ḥadīth was because he wanted to build society on the teachings of the Qur'ān, and encourage people to study the Qur'ān and extract what they needed from it. If the Sunnah were narrated after this had been accomplished, it would be absorbed by enlightened minds and would not be misinterpreted. Abū Hurairah (رضي الله عنه) might have been able to quote a hundred ḥadīths on ṣalāh because of his good memory, and perhaps 'Umar (رضي الله عنه) would have no objection to them being taught in a specialist school. However, disliked the Muslim masses to be occupied with such things when a few ḥadīths were sufficient for them, and then they could devote more time to what would be beneficial for Islām and all its people. This is the reason why he objected to those who narrated too many ḥadīths. Ibn Ḥazm reported almost a thousand pages of Ḥadīth on wuḍu, for those who were interested in this kind of knowledge, although to occupy the masses of Muslims with the like would be sheer stupidity! What time would be left for the Qur'ān itself? Indeed, even occupying the Muslims with the Qur'ān in this manner is not part of the religion.
 
 The Messenger of Allāh (ﷺ) said:
 
-"Recite the Qur'an and do not exaggerate in it nor shun it, and do not eat by it."⁹
+"Recite the Qur'an and do not exaggerate in it nor shun it, and do not eat by it."¹⁰
 
 If any credit should go to the memorizers, it is because they conveyed the knowledge to those who could benefit from it. In a similar vein the Prophet said:
 
-"Perhaps the carrier of knowledge is not knowledgeable. Perhaps one carries knowledge to a person who is more knowledgeable than one self."¹⁰
+"Perhaps the carrier of knowledge is not knowledgeable. Perhaps one carries knowledge to a person who is more knowledgeable than one self."¹¹
 
 Abū Yūsuf said:
 
@@ -428,7 +430,7 @@ Al A'mash asked me about a problem. The two of us were alone and I answered him.
 
 Then he said to me: "O Ya'qub, I learnt this Ḥadīth before your parents were married and I never knew its meaning until now."
 
-Abū Yūsuf, the scholar, might have seen what Al A'mash, the memorizer, did not. It is not forbidden to memorize without understanding. What is forbidden is that, one should understand incorrectly.
+Abū Yūsuf, the scholar, might have seen what Al A'mash, the memorizer, did not. What is to be feared, however, is not memorizing without understanding, but understanding the matter wrongly.
 
 The technical arrangement of the ḥadīths as they were recorded and came down to us, places all matters of faith in one chapter and all matters of law in another, and so on. Now, since Islām is a collection of all these truths, the Sunnah has come to resemble a huge clothing store in which different garments are arranged in different corners. Here you will find the headwear, across there the trousers, and beyond that the shirts, etc. Naturally, those who want a complete outfit will go to every corner and select what suits them. It often happens, however, that you see someone buying two caps and leaving barefoot, and another buying a handkerchief but is without a proper shirt! This is what happened to many groups who studied the Sunnah.
 
@@ -436,11 +438,11 @@ After much speculation, they came out to the people armed with a toothbrush and 
 
 (3) Lack of understanding of the Sunnah, in spite of the preoccupation with it, has harmed the orientation of the Muslims and spread among them a set of unsuitable laws and restrictive traditions. These are rejected by the spirit of the Qur'ān and Sunnah, although they may be based on an authentic Ḥadīth not properly understood.
 
-The cause of this is that Islām has presented a set of laws on all important matters, and they are contained in the Qur'ān and Sunnah; they are all complementary, verified and supported by one another. Thus if there appears to be something which contradicts all the others, it is investigated until a rational explanation is found for it which conforms to all the others, or it is rejected in favour of those which are more authenticated. Many of the scholars think that the Ḥadīth narrated by one authentic individual (and these ḥadīths are known technically as aḥād) must be rejected if they contradict the evident meaning of the Qur'ānic verses or other authentic sources or if they contradict the reasoning of qiyas (analogy) based on the Qur'ān itself. They differentiate between the ḥadīths narrated by the jurists and those narrated by people who are memorizers only. Let me give you an example of how nations may be exposed to stagnation and loss as a result of their misunderstanding of events.
+The cause of this is that Islām has presented a set of laws on all important matters, and they are contained in the Qur'ān and Sunnah; they are all complementary, verified and supported by one another. Thus if there appears to be something which contradicts all the others, it is investigated until a rational explanation is found for it which conforms to all the others, or it is rejected in favour of those which are more authenticated. Many of the scholars think that the Ḥadīth narrated by one authentic individual (and these ḥadīths are known technically as aḥād) must be rejected if they contradict the evident meaning of the Qur'ānic verses or other authentic sources or if they contradict the reasoning of qiyas (analogy) based on the Qur'ān itself. They differentiate between the ḥadīths narrated by the jurists and those narrated by people who are memorizers only. Let me give you an example of how nations may be exposed to stagnation and loss as a result of their misunderstanding of a transmitted report.
 
-Many Muslims rule that women should not see any stranger or be seen by any stranger, and in Madīnah the women walked in the streets wearing loose garments covering them from head to toe. There are two slits for them to see through, although these may be covered by pieces of glass or celluloid. This widespread tradition is based on a Ḥadīth which I heard the Imām of the Prophet's (ﷺ) Mosque quoting in the pulpit during a Friday prayer. The Ḥadīth states that the Messenger of Allāh (ﷺ) objected to his wives seeing 'Abdullāh ibn Umm Maktūm and when they pointed out that he was blind, he asked them, "Are you blind?"¹¹
+Many Muslims rule that women should not see any stranger or be seen by any stranger, and in Madīnah the women walked in the streets wearing loose garments covering them from head to toe. There are two slits for them to see through, although these may be covered by pieces of glass or celluloid. This widespread tradition is based on a Ḥadīth which I heard the Imām of the Prophet's (ﷺ) Mosque quoting in the pulpit during a Friday prayer. The Ḥadīth states that the Messenger of Allāh (ﷺ) objected to his wives seeing 'Abdullāh ibn Umm Maktūm and when they pointed out that he was blind, he asked them, "Are you blind?"¹²
 
-I objected to the preacher's citing of this Ḥadīth, since the scholar of the Sunnah had spoken about its meaning. It is sheer ignorance of the Sunnah to cite it when speaking of the duties of women, their way of life and the principles of their participation in society in general. Why do we not mention the Ḥadīth reported by Bukhārī in this connection since they are more precise and authentic?
+I objected to the preacher's citing of this Ḥadīth, since the scholars of the Sunnah have criticized its meaning. It is sheer ignorance of the Sunnah to cite it when speaking of the duties of women, their way of life and the principles of their participation in society in general. Why do we not mention the Ḥadīth reported by Bukhārī in this connection since they are more precise and authentic?
 
 Under the heading "Women at War and their Fighting with the Men" Bukhārī narrates that Anas (رضي الله عنه) said:
 
@@ -448,17 +450,17 @@ Under the heading "Women at War and their Fighting with the Men" Bukhārī narra
 
 He also mentioned under the heading "Women at War at Sea" that Anas (رضي الله عنه) said:
 
-"The Messenger of Allāh (ﷺ) entered the house of Milhan's daughter. He lay down and slept. Then he laughed.
+"The Messenger of Allāh (ﷺ) entered upon Umm Ḥarām bint Milḥān. He reclined at her place, then he laughed.
 
 She asked: "Why did you laugh, Messenger of Allāh (ﷺ)?"
 
-He said: 'I saw people from my Ummah sailing across blue sea in the path of Allāh (ﷻ) as if they were kings seated on thrones.
+He said: "People from my Ummah, sailing across the green sea in the path of Allāh (ﷻ), like kings seated on thrones."
 
 She said: O Messenger of Allāh (ﷺ), pray to Allāh (ﷻ) to make me one of them.
 
 He said: "O Allāh (ﷻ), make her one of them."
 
-Then he slept again, and he laughed. She asked him the reason and he repeated his dream as before.
+Then he laughed again. She asked him the reason and he told her the same as before.
 
 She said: "Pray to Allāh (ﷻ) to make me one of them."
 
@@ -470,17 +472,17 @@ He also mentioned under the heading of "Women's Carrying of Waterbags to the Peo
 
 Some of those with him said: "O Commander of the faithful, give this one to the grand daughter of Allāh's Messenger (ﷺ), who is with you. They meant Umm Kulthum, daughter of 'Alī (رضي الله عنه).
 
-'Umar (رضي الله عنه) Said: "Umm Salit is more deserving of it. She was one of the Anṣār women who took the pledge with Allāh's Messenger (ﷺ)."
+'Umar (رضي الله عنه) Said: "Umm Salīṭ is more deserving of it. She was one of the Anṣār women who took the pledge with Allāh's Messenger (ﷺ)."
 
 'Umar (رضي الله عنه) continued: "She used to sew water bags for us on the day of Uhud."
 
-He also mentioned under the heading of "Women's Attendance to the Wounded in Battle" from Al Rubayyi' bint Mu'awwadh. She said: "We were with the Prophet, giving water to drink, attending the sick and removing the wounded to Madīna," etc.
+He also mentioned under the heading of "Women's Attendance to the Wounded in Battle" from Al Rubayyi' bint Mu'awwadh. She said: "We were with the Prophet, giving water to drink, treating the wounded and bringing the dead back to Madīnah," etc.
 
 Let us suppose that Bukhārī did not narrate these authentic ḥadīths: should the Ḥadīth of the blind man be imposed upon society? Should women be confined to their homes and never able to leave this prison? Such a ruling cannot be seen in the Qur'ān. In fact, the Qur'ān makes this ruling the punishment for women who commit fornication!
 
 (As for those of your women who are guilty of lewdness, call to witness four of you against them. And if they testify [to the truth of the allegation] then confine them to the houses until death take them or [until] Allāh appoint for them a way [through new legislation].) (Qur'ān 4: 15)
 
-However, the Muslims, when they found the civilized ways of educating men and women too hard because of their deviation from the Qur'ān resorted to prisons and castles, and what happened is well known. The Muslims abandoned the Qur'ān for the ḥadīths. Then they abandoned the ḥadīths for the sayings of the scholars. Then they abandoned the sayings of the scholars for the method of the blind followers. Then they abandoned these blind followers and their sternness for the ignorant people and their confusion. The evolution of Islāmic thought in this manner was a disaster for Islām and the Muslims. Ibn 'Abdul Barr reports from Al-Ḍahhāk ibn Muzāhim:
+However, the Muslims, when they found the civilized ways of educating men and women too hard because of their deviation from the Qur'ān resorted to imprisonment and confinement, and what happened is well known. The Muslims abandoned the Qur'ān for the ḥadīths. Then they abandoned the ḥadīths for the sayings of the scholars. Then they abandoned the sayings of the scholars for the method of the blind followers. Then they abandoned these blind followers and their sternness for the ignorant people and their confusion. The evolution of Islāmic thought in this manner was a disaster for Islām and the Muslims. Ibn 'Abdul Barr reports from Al-Ḍahhāk ibn Muzāhim:
 
 "There will come a time over people when the Qur'ān will be left on the shelf and spiders will build their webs over it: no use will be made of what is in it and men's actions will be according to narrations and ḥadīths."
 
@@ -490,29 +492,27 @@ The path of rectitude in this blind alley is to return to the Qur'ān and make i
 
 The life of the Prophet (ﷺ), both public as well as private, went according to the customary laws of nature and, as a whole, did not go beyond them. As a human being, he felt hunger and satisfaction, he had his periods of health and sickness, he became tired, he rested, he felt sad and glad. However, humans in these things are of various categories and they are not all bound by a general law. There are those who are passionate about their necessities, and if they diminish just a little their hearts palpitate and their energies are drained. And there are others who are sturdy and content with their small share. They march towards their goal with high head and firm footsteps. The machines which run on oil are of different categories. There is the bad kind which consumes much fuel and gives little benefit, and there is the good kind which produces much with a small fuel consumption. Human beings are just like that with their bodies, necessities and luxuries.
 
-Anyone who pursues the Sīrah of Muhammad (ﷺ) Ibn 'Abdullāh will see from his private life the sturdiness of the material which moulded his body in such a manner that giants could not compete with him. He was able to bear the burdens of life and the difficulties of the struggle with complete bravery and rectitude. Yes there are geniuses who are blind or deaf, who have stomachache or pains in their chest, but genius is not prophethood.¹² Allāh's perfect favour to anybody is that He (ﷻ) should grant him freedom from all these diseases so that all the elements may be complete which would rectify his vision of life and his behaviour in it. From this point of view Muhammad (ﷺ) was a perfect human being and his life was in total accordance with Allāh's universal laws concerning outstanding heroes.
+Anyone who pursues the Sīrah of Muhammad (ﷺ) Ibn 'Abdullāh will see from his private life the sturdiness of the material which moulded his body in such a manner that giants could not compete with him. He was able to bear the burdens of life and the difficulties of the struggle with complete bravery and rectitude. Yes there are geniuses who are blind or deaf, who have stomachache or pains in their chest, but genius is not prophethood.¹³ Allāh's perfect favour to anybody is that He (ﷻ) should grant him freedom from all these diseases so that all the elements may be complete which would rectify his vision of life and his behaviour in it. From this point of view Muhammad (ﷺ) was a perfect human being and his life was in total accordance with Allāh's universal laws concerning outstanding heroes.
 
-As for his public life, as a Messenger (ﷺ) conveying the Message from Allāh (ﷻ), training the believers, resisting the unbelievers and persisting in the spread of his da'wah until it bore fruit in all corners of the globe.
+As for his public life — as a Messenger (ﷺ) conveying the Message from Allāh (ﷻ), training the believers, resisting the unbelievers and persisting in the spread of his da'wah until it bore fruit in all corners of the globe — there is no doubt that the mighty Qur'ān is its foundation and its edifice.
 
-There is no doubt that, the Qur'ān is a miraculous book, it awakens the higher faculties in the human race. It is somewhat similar to the great events which happen to people and cause them to think deeply and with insight. It is therefore a human book which assists the general awareness to be more mature and accurate.
+Although the Qur'ān is a miraculous book, it works by awakening the higher faculties in the human race. It is somewhat similar to the great events which happen to people and cause them to think deeply and with insight. It is therefore a human book which assists the general awareness to be more mature and accurate.
 
 (Behold! We have appointed it a lecture [Qur'ān] in Arabic that perhaps you might understand.) (Qur'ān 43: 3)
 
-A Scripture whereof the Āyāt (verses) are expounded, a lecture (Qur'ān) in Arabic for people who have knowledge. (Qur'ān 41: 3)
+(A Scripture whereof the Āyāt (verses) are expounded, a lecture (Qur'ān) in Arabic for people who have knowledge.) (Qur'ān 41: 3)
 
 (Good tidings and a warning.) (Qur'ān 41: 4)
 
-The difference between the education of the Arabs by the Qur'ān and the education of the Jews by the Torah is like the difference between the voice of guidance which shows the intelligent person the way and the whip of punishment which stings the back of the stupid beast to make it move forward, but it takes one step forward and then jibs. 'Abdullāh ibn Rawāha used to chant:
+The difference between the guidance of the Arabs by the Qur'ān and the guidance of the Jews by the mountain raised over them is like the difference between the voice of guidance which shows the intelligent person the way and the whip of punishment which stings the back of the stupid beast to make it move forward, but it takes one step forward and then jibs. 'Abdullāh ibn Rawāha used to chant:
 
-"Among us is the Messenger of Allāh (ﷺ) reciting His (ﷻ) Book.
+*"Among us is the Messenger of Allāh (ﷺ) reciting His (ﷻ) Book, when the hidden brightness of dawn breaks forth.*
 
-When a hidden ray of sunlight splits the dawn. He showed us guidance after blindness.
+*He showed us guidance after blindness, so our hearts are certain that what he says will come to pass.*
 
-So our hearts have faith in him, that what he says is true. At night he forsakes his bed.
+*At night he keeps his side away from his bed, when their beds weigh heavy upon the idolaters."*
 
-When beds make the idolaters heavy with sleep."
-
-Some scholars say that the Qur'ān is the only miracle of the Prophet. Here they are looking only at the literal sense of the word miracle (Arabic mu'jiza), which is a supernatural occurrence combined with a challenge, and such a challenge was offered only by the Qur'ān. I have accepted a similar meaning¹³, not because of the literal definition of miracle, but in consideration of the intrinsic value of other miracles in relation to the noble goals Islām brought by.
+Some scholars say that the Qur'ān is the only miracle of the Prophet. Here they are looking only at the literal sense of the word miracle (Arabic mu'jiza), which is a supernatural occurrence combined with a challenge, and such a challenge was offered only by the Qur'ān. I have accepted a similar meaning¹⁴, not because of the literal definition of miracle, but in consideration of the intrinsic value of other miracles in relation to the noble goals Islām brought by.
 
 There is, however, no relationship between belief or action and these studies: wicked people will not be forgiven their wickedness because of their belief that the Prophet was sheltered by a cloud or addressed by a rock, nor will righteous people lose their status if they deny such miracles. Such studies go back to the scientific assessment of the evidence for and against such occurences and the evaluation of their significance. Accuracy or inaccuracy in this matter will not take away from one's faith.
 
@@ -520,25 +520,25 @@ A terrible craze took over the Muslims in the ascribing of miracles to righteous
 
 There is much nonsense of this sort, reflecting ignorance of the real nature of the religion (Islām) and of the world. It also shows that its promoters are too deviant in their minds and hearts to understand fully the lives of the Prophet (ﷺ) and his Companions. Muhammad (ﷺ) was not a man of fanciful imagination who built his life and mission on fictitious tales. He was a man of reality who perceived from near and afar, and if he wanted anything he would take the necessary steps to achieve it. In taking these steps, as can be seen in the light of bitter reality, he took the utmost precautions and expended his utmost energies. Neither he nor his Companions ever thought that heaven would strive for him if he relaxed, act for him if he was lazy, or look after him if he was negligent. Never were miracles or supernatural occurrences the foundations or girders in the building of a great man or a great nation.
 
-Muhammad (ﷺ) and his Companions learnt and taught, fought and made peace, defeated and were defeated. They spread their call throughout the horizons and they struggled on a handful of earth. No earthly law was ever broken for them and no universal law was ever bent for them. In fact, they sweated more than their enemies did and bore heavy losses in the path of their Lord, and thus in the struggle for survival they had the priority of steadfastness and victory. Allāh (ﷻ) taught them harsh lessons so that they might not expect any favouritism from Providence in any clash, although they were too sharp-witted to expect such favouritism. Allāh (ﷻ) says to His Prophet (ﷺ):
+Muhammad (ﷺ) and his Companions learnt and taught, fought and made peace, defeated and were defeated. They spread their call throughout the horizons and they struggled for every span of land. No earthly law was ever broken for them and no universal law was ever bent for them. In fact, they sweated more than their enemies did and bore heavy losses in the path of their Lord, and thus in the struggle for survival they had the priority of steadfastness and victory. Allāh (ﷻ) taught them harsh lessons so that they might not expect any favouritism from Providence in any clash, although they were too sharp-witted to expect such favouritism. Allāh (ﷻ) says to His Prophet (ﷺ):
 
 (And when you [Muhammad] are among them and arrange [their] worship for them, let only a party of them stand with you [to worship] and let them take their arms. Then when they have performed their prostration, let them fall to the rear, and let another party come that has not worshipped, and let them worship with you, and let them take precautions and their arms. Those who disbelieve long for you to neglect your arms and your baggage that they may attack you once for all. It is no sin for you to lay aside your arms if rain impedes you or you are sick. But take precautions. Behold! Allāh prepares for the disbelievers a shameful punishment.) (Qur'ān 4: 102)
 
 Look how they are ordered, while standing in prayer before Allāh (ﷻ) to be extremely cautious and attentive. Allāh (ﷻ) did not allow any hope to them into thinking that the angels would descend and assist them. If they did not protect themselves, then no-one would protect them. That is what Allāh (ﷻ) said to Muhammad (ﷺ) and his Companions.
 
-When the Muslims failed to heed this lesson in the Battle of Uhud, they were dealt a painful blow, which felled seventy of their heroes and made them taste bitter defeat. On that day the leader of the unbelievers, Abū Sufyān, stood up and shouted "Long live Hubal!" (Their chief god). The Prophet (ﷺ) was severely tested in his ability to save the situation: he fought and killed and was wounded.
+When the Muslims failed to heed this lesson in the Battle of Uhud, they were dealt a painful blow, which felled seventy of their heroes and made them taste bitter defeat. On that day the leader of the unbelievers, Abū Sufyān, stood up and shouted "Long live Hubal!" (Their chief god). The Prophet (ﷺ) fought valiantly to save the situation: he fought and killed and was wounded.
 
 Abū Hurairah (رضي الله عنه) narrates that the Messenger of Allāh (ﷺ) said on the day of Uhud:
 
-"May Allāh's anger be severe on the people who do this to their Prophet. [Pointing to his teeth]. "May Allāh's anger be severe on a man who is killed by Allāh's Messenger in the path of Allāh (ﷻ)."¹⁴
+"May Allāh's anger be severe on the people who do this to their Prophet. [Pointing to his teeth]. "May Allāh's anger be severe on a man who is killed by Allāh's Messenger in the path of Allāh (ﷻ)."¹⁵
 
 Anas (رضي الله عنه) said that the Prophet's (ﷺ) front teeth were broken on the day of Uhud and his head was gashed. He began wiping away the blood from his face, saying: "How could a people be successful who gashed their Prophet's (ﷺ) head and broke his teeth while he was calling them to Allāh (ﷻ)?" Upon this Allāh (ﷻ) revealed:
 
-(It is no concern at all of yours [Muhammad] whether He relents toward them or punish them; for they are evildoers.) (Qur'ān 3: 128)¹⁵
+(It is no concern at all of yours [Muhammad] whether He relents toward them or punish them; for they are evildoers.) (Qur'ān 3: 128)¹⁶
 
 Do you think that negligence of the steps toward victory brought anything other than defeat? Even though those who were defeated were representatives of true tawḥīd? Even though those who gained victory were upholders of pure paganism?
 
-Whenever the Prophet (ﷺ) wanted to attack, he feigned otherwise, saying: 'War is Deception'.¹⁶ In spite of his taking precautions according to Allāh's order, and his respect for the natural laws which regulate human life, some of the Arab tribes were able to trick him. They persuaded him to send a group of Qurrā' of the Holy Qur'ān who were some of the choicest Ṣaḥābah, and they killed them all to the last man at Bi'r Ma'una. Only the birds discovered their place of death and hovered in the air above the bodies of these martyrs. These men who fell victims to treachery were some of the best-loved of Allāh's creation to Him, yet He did not give permission to any of them to fly without wings or escape his inevitable fate, is to be thought by the backward Muslims of today.
+Whenever the Prophet (ﷺ) wanted to attack, he feigned otherwise, saying: 'War is Deception'.¹⁷ In spite of his taking precautions according to Allāh's order, and his respect for the natural laws which regulate human life, some of the Arab tribes were able to trick him. They persuaded him to send a group of Qurrā' of the Holy Qur'ān who were some of the choicest Ṣaḥābah, and they killed them all to the last man at Bi'r Ma'ūnah. Only the birds discovered their place of death and hovered in the air above the bodies of these martyrs. These men who fell victims to treachery were some of the best-loved of Allāh's creation to Him, yet He did not give permission to any of them to fly without wings or escape his inevitable fate, is to be thought by the backward Muslims of today.
 
 If precaution and care were the Prophet's (ﷺ) practice, then even more so were preparation and exhaustion of energy. How do you think Muhammad (ﷺ) gained victory over the mankind? He brought his men to maturity with faith just as the summer ripens its sweetest fruits with its slow heat. Thus when he dispatched them to all corners of the earth, they went with a roar like that of a violent storm. Islām from the day it started was a battle led by Revelation, thus its first flowing impressions were like a storm with lightning and thunder:
 
@@ -554,9 +554,9 @@ Muhammad (ﷺ) did not know the unseen. He was like any other human being not kn
 
 He might be approached by someone who intended evil but expressed love, and he knew nothing of that until the man was exposed by his actions:
 
-(And among the town people of Al Madīnah [there are some who] persist in hypocrisy whom you [O Muhammad] do not know. We know them.) (Qur'ān 9: 101)
+(And among the wandering Arabs around you there are hypocrites, and among the town people of Al Madīnah [there are some who] persist in hypocrisy whom you [O Muhammad] do not know. We know them.) (Qur'ān 9: 101)
 
-On the Day of Judgement he will be confronted by men whom he left thinking that they were staunch believers but were later exposed as to their black hearts and evil intentions. He will then say, as Jesus said:¹⁷
+On the Day of Judgement he will be confronted by men whom he left thinking that they were staunch believers but were later exposed as to their black hearts and evil intentions. He will then say, as Jesus said:¹⁸
 
 (I was a witness over them while I dwelt amongst them, but when you took me up you were the Watcher over them.) (Qur'ān 5: 117)
 
@@ -570,29 +570,29 @@ I said: "No. But I have been told of it."
 
 He said: "If your life is prolonged, you will see women on camels travelling from Ḥirah to the Ka'bah, not fearing anyone but Allāh (ﷻ)."
 
-I said to myself: "So where will be the homes of (the tribe of) Tayy who have become high ranking in the land?"
+I said to myself: "So where will the robbers of (the tribe of) Ṭayyi' be, who have set the land ablaze?"
 
 He said: "And if your life is prolonged, you will see the treasures of Khosrau being opened up."
 
 I said to myself: "Khosrau son of Hurmuz?"
 
-He said: "Khosrau son of Hurmuz. And I saw the women on camels travelling Ḥirah and circumambulating the Ka'bah fearing none but Allāh (ﷻ), and I was among those who conquered the treasures of Chosroes."¹⁸
+He said: "Khosrau son of Hurmuz. And I saw the women on camels travelling Ḥirah and circumambulating the Ka'bah fearing none but Allāh (ﷻ), and I was among those who conquered the treasures of Chosroes."¹⁹
 
-In truth these ḥadīths and others like them were not information of the unseen.¹⁹ They were a testament to the truth of Allāh's promise that the future belonged to Islām and that this religion would become supreme in all corners of the globe. They were thus an explanation by the Prophet of Allāh's (ﷺ) words:
+In truth these ḥadīths and others like them were not information of the unseen.²⁰ They were a testament to the truth of Allāh's promise that the future belonged to Islām and that this religion would become supreme in all corners of the globe. They were thus an explanation by the Prophet of Allāh's (ﷺ) words:
 
 (He it is who has sent His messenger with the guidance and the religion of truth, that He may cause it to prevail over all religions. And Allāh suffices as a witness.) (Qur'ān 48: 28)
 
 (Allāh has promised those of you who believe and do good works that He will surely make them to succeed [the present rulers] in the earth, even as He caused those who were before them to succeed [others]; and that he will surely establish for them their religion which He approved for them and will give them in exchange safety after their fear.) (Qur'ān 24: 55)
 
-Similar to that are the ḥadīths which warn of persecution. A person who knows the market forces will not hesitate, after a brief examination of the prevailing conditions, to issue a correct judgement of them. Someone who intimately understands psychology will, after a quick glance, fathom what lies beneath the surface. It is like the poet's couplet: "Al Alma'ī who is suspicious of you as if he actually saw and heard!"
+Similar to that are the ḥadīths which warn of trials (fitan). An expert on markets will not hesitate, after a brief examination of the prevailing conditions, to issue a correct judgement of them. An expert on the secrets of souls will, after a quick glance, fathom what lies beneath the surface. It is like the poet's couplet: "The sharp-witted man, who judges you as though he had already seen and heard!"
 
-Muhammad (ﷺ) had a deep knowledge of people and their qualities, of the world and its stages, of time and its vicissitudes, of the earlier religions and what they and their adherents suffered in blazing their trail through life. The minds of the prophets were unblemished and sharpened and they had clear inspiration. So imagine what the highest of all prophets was like: Providence took care of him from birth and brought him up, so that he might bear the message whose miracle lay in its method and whose method was to purify the natures of people and sharpen their intellects.
+Muhammad (ﷺ) was an expert on people and their qualities, of the world and its stages, of time and its vicissitudes, of the earlier religions and what they and their adherents suffered in blazing their trail through life. The minds of the prophets were unblemished and sharpened and they had clear inspiration. So imagine what the highest of all prophets was like: Providence took care of him from birth and brought him up, so that he might bear the message whose miracle lay in its method and whose method was to purify the natures of people and sharpen their intellects.
 
-This made him the best person to evaluate the conditions of the time and expect what the future would hold. Is it possible for a traveller in the northern regions to expect the sky to be clear of heavy fog, or is it possible for a traveller in the equatorial regions to expect a hailstorm? How then is it worthy of the Prophet of a great religion to forget the persecution which affected his teachings and his followers, whether it was in the near or distant future, and whether it was blatant or hidden.
+This made him the best person to evaluate the conditions of the time and expect what the future would hold. Is it possible for a traveller in the northern regions to expect the sky to be clear of heavy fog, or for a traveller in the equatorial regions not to expect scorching storms? How then is it worthy of the Prophet of a great religion to forget the trials which would afflict his teachings and his followers, whether it was in the near or distant future, and whether it was blatant or hidden.
 
-Thus the Prophet (ﷺ) talked much about persecution, and his aim was not to prophesy it but to caution against it, suffering will affect people because of their different ways of thinking and their different personalities; suffering will occur because worldly pleasures will attract people who will rival one another for them; and suffering will affect the Ummah after unbelief regains its strength. He cautioned his Companions about all of these in ḥadīths too numerous to quote here.
+Thus the Prophet (ﷺ) talked much about trials, and his aim was not to prophesy them but to caution against them. Trials will afflict people because of their different ways of thinking and their different personalities; trials will arise because worldly pleasures will attract people who will rival one another for them; and trials will afflict the Ummah after unbelief regains its strength. He cautioned his Companions about all of these in ḥadīths too numerous to quote here.
 
-The gravest of all these sufferings is the decay which will set into the Islāmic teachings themselves.
+The gravest of all these trials is the decay which will set into the Islāmic teachings themselves.
 
 *Ṣalāh will lose its spirit which is humility then its body will be eroded and it will become absurd.*
 
@@ -602,13 +602,13 @@ The gravest of all these sufferings is the decay which will set into the Islāmi
 
 *Government will change from being service to the people with their consent into making oneself their god by suppression and force. Then it will fall and both the ruler and the ruled will be destroyed.*
 
-*Even the Muslims' love for their Prophet will become, after his death, a market place around his grave, full of awe-inspiring clamouring and droning.*
+*Even the Muslims' love for their Prophet will become, after his death, a market place around his grave, full of reprehensible shouting and bewildered murmuring.*
 
 When I visited Madīnah I went to the Prophet's (ﷺ) grave. The feelings were flowing from my heart and ringing in my ears. As I caught sight of the grave I headed for it, feeling very humble as if I was a ball being rolled under the feet of some giant. I paid my respects in the prescribed manner and did not say anything else except one verse of poetry. I did not know how it came to me because of the emotional state I was in. My lips murmured it but my ears did not hear: *"O you, best of all creation, whose bones are buried in the earth, the fragrance of which has caused the hills and plains to be fragrant."* Then I went away.
 
 I saw, however, waves of people coming in and shouting long phrases. Someone was reading from a book, and another listening to someone who had memorized much; this one was disturbing that one, and everybody was disturbing the people at prayer. These waves were coming constantly and were never-ending.
 
-Was it not that which the Prophet (ﷺ) meant when he said: "O Allāh (ﷻ), do not make my grave after me an idol to be worshipped."²⁰
+Was it not that which the Prophet (ﷺ) meant when he said: "O Allāh (ﷻ), do not make my grave after me an idol to be worshipped."²¹
 
 As soon as I became aware of the condition of the visitors and residents in the Mosque, I almost stopped praying in it, for I detest most vehemently innovations, chaos and ignorance. I remembered the story of 'Urwah ibn Al Zubair:
 
@@ -628,39 +628,41 @@ We ask Allāh's pardon and refuge.
 
 ³ A sound Ḥadīth narrated by Muslim and Ibn Mājah from Abū Huraira (رضي الله عنه). They also narrated it from Ibn al Sharīd as the completion of the following Ḥadīth.
 
-⁴ This is how it is written in the book "Jāmi Bayān al 'Ilm.." It is a mistake either from the copier or the printer. Originally it should be "from 'Abdullāh ibn Yasār". This Jabir is Al Ja'fi and he is very weak. Al Jauzajani and others called him a liar.
+⁴ A sound Ḥadīth, transmitted by Muslim and Ibn Mājah.
 
-⁵ He is 'Urwa son of Al Zubayr. He never heard from 'Umar (رضي الله عنه) and in fact, never saw him. This quotation is therefore weak. It is reported in the same manner by Al-Khatīb with the exception of the version of Rāshid who reported it from Al Zuhri and connected it by mentioning 'Abdullāh ibn 'Umar ibn 'Urwa and 'Umar (رضي الله عنه). However, this report is rare, as Al-Khatīb himself explained.
+⁵ This is how it is written in the book "Jāmi Bayān al 'Ilm.." It is a mistake either from the copier or the printer. Originally it should be "from 'Abdullāh ibn Yasār". This Jabir is Al Ja'fi and he is very weak. Al Jauzajani and others called him a liar.
 
-⁶ Narrated by Bukhārī, Muslim and Ibn Abdul Barr.
+⁶ He is 'Urwa son of Al Zubayr. He never heard from 'Umar (رضي الله عنه) and in fact, never saw him. This report is therefore broken (munqaṭi') and weak. It is reported in the same manner by Al-Khaṭīb in Taqyīd al-'Ilm through several chains from 'Urwa, with the exception of the version of Rāshid, who reported it from Al-Zuhrī from 'Urwa and made it connected by mentioning 'Abdullāh ibn 'Umar between 'Urwa and 'Umar (رضي الله عنه). However, this version is anomalous (shādh), as Al-Khaṭīb himself indicated.
 
-⁷ This explanation is improbable even impossible, since the Ḥadīth itself as narrated by Muslim says that 'Umar (رضي الله عنه) was the first to meet Abū Huraira (رضي الله عنه) and hear it from him. May be the author should look at it again.
+⁷ Narrated by Bukhārī, Muslim and Ibn Abdul Barr.
 
-⁸ What I say is correct. Sheikh Nāṣiruddin has no reasonable objection to my explanation. (Author).
+⁸ This explanation is improbable even impossible, since the Ḥadīth itself as narrated by Muslim says that 'Umar (رضي الله عنه) was the first to meet Abū Huraira (رضي الله عنه) and hear it from him. May be the author should look at it again.
 
-⁹ A sound Ḥadīth narrated by Aḥmad and Al-Ṭaḥāwi in Sharḥ Ma'ānī al Āthār from Abdul Rahmān ibn Shibl.
+⁹ What I say is correct. Sheikh Nāṣiruddin has no reasonable objection to my explanation. (Author).
 
-¹⁰ A sound Ḥadīth narrated by Ibn 'Abdul Barr as well as other compilers.
+¹⁰ A sound Ḥadīth narrated by Aḥmad and Al-Ṭaḥāwi in Sharḥ Ma'ānī al Āthār from Abdul Rahmān ibn Shibl.
 
-¹¹ Narrated by Abū Dāwūd Al-Tirmidhī, Ibn Sa'd and Al Baihaqi through Al-Zuhri. The last said: "Nabhan, slave of Umm Salmah, reported from Umm Salāmah that she said: "I was with the Prophet (ﷺ) and so was Maimūna and Ibn Umm Maktūm approached. This was after ḥijab was instituted. The Prophet (ﷺ) said: Veil yourselves from him. So we said: "O Messenger of Allāh (ﷺ), isn't he blind and cannot see or recognize us? He replied: "Are you blind? Aren't you seeing him? Al-Tirmidhī said it is a good and sound Ḥadīth, and Ibn Ḥajar declared its chain of narrators to be strong in his Fatḥ al Bari. This is doubtful, however, since Nabhan is accepted as authentic only by Ibn Ḥibbān who is known for his negligence in authenticating the narrators. This fact is pointed out by Ibn Ḥajar himself in his introduction to Lisan al-Mizan. For this reason we see that he did not authenticate Nabhan in Al Taqrib but said of him: "Acceptable when scrutinized. But no scrutiny was done of him as regards this Ḥadīth. This statement can only mean that this Ḥadīth is unacceptable. Ibn 'Abdul Barr says: "He is not of those whose ḥadīths are authentic and this Ḥadīth of his is unknown", as quoted by Ibn al Turkmani in Al Jawhar Al Naqi.
+¹¹ A sound Ḥadīth narrated by Ibn 'Abdul Barr as well as other compilers.
 
-¹² See my book The Ideology of the Muslim.
+¹² Narrated by Abū Dāwūd Al-Tirmidhī, Ibn Sa'd and Al Baihaqi through Al-Zuhri. The last said: "Nabhān, freedman of Umm Salamah, reported from Umm Salamah that she said: "I was with the Prophet (ﷺ) and so was Maymūnah and Ibn Umm Maktūm approached. This was after ḥijab was instituted. The Prophet (ﷺ) said: Veil yourselves from him. So we said: "O Messenger of Allāh (ﷺ), isn't he blind and cannot see or recognize us? He replied: "Are you blind? Aren't you seeing him? Al-Tirmidhī said it is a good and sound Ḥadīth, and Ibn Ḥajar declared its chain of narrators to be strong in his Fatḥ al Bari. This is doubtful, however, since Nabhan is accepted as authentic only by Ibn Ḥibbān who is known for his negligence in authenticating the narrators. This fact is pointed out by Ibn Ḥajar himself in his introduction to Lisan al-Mizan. For this reason we see that he did not authenticate Nabhan in Al Taqrib but said of him: "Acceptable", i.e. when corroborated — but he has no corroborator for this Ḥadīth. This statement can only mean that this Ḥadīth is unacceptable. Ibn 'Abdul Barr says: "He is not of those whose ḥadīths are authentic and this Ḥadīth of his is munkar (rejected)", as quoted by Ibn al Turkmani in Al Jawhar Al Naqi.
 
-¹³ See my book The Ideology of the Muslim.
+¹³ See my book *'Aqīdat al-Muslim* (The Creed of the Muslim).
 
-¹⁴ A sound Ḥadīth narrated by Bukhārī and Muslim.
+¹⁴ See my book *'Aqīdat al-Muslim* (The Creed of the Muslim).
 
-¹⁵ A sound Ḥadīth narrated by Bukhārī and Muslim in the same chapter.
+¹⁵ A sound Ḥadīth narrated by Bukhārī and Muslim.
 
-¹⁶ A sound Ḥadīth narrated by Abū Dāwūd from Ka'b ibn Mālik (رضي الله عنه). Bukhārī and Muslim narrated something similar.
+¹⁶ A sound Ḥadīth narrated by Bukhārī and Muslim in the same chapter.
 
-¹⁷ The meaning of this is in a Ḥadīth of Ibn 'Abbās as narrated by Bukhārī in the chapter on Tafsīr.
+¹⁷ A sound Ḥadīth narrated by Abū Dāwūd from Ka'b ibn Mālik (رضي الله عنه). Bukhārī and Muslim narrated something similar.
 
-¹⁸ A sound Ḥadīth narrated by Bukhārī and others.
+¹⁸ The meaning of this is in a Ḥadīth of Ibn 'Abbās as narrated by Bukhārī in the chapter on Tafsīr.
 
-¹⁹ Indeed, they were information of the Unseen, by the knowledge that Allāh (ﷻ) gave him. The above-mentioned explanation has no support for it as long as the author, May Allāh (ﷻ) protect him, accepts the possibility of Allāh's informing him. The Ḥadīth itself contains the proof of this: the Prophet (ﷺ) said: "If your life is prolonged." Could this precise temporal definition be known by any "expert" if Allāh (ﷻ) did not grant him that information?
+¹⁹ A sound Ḥadīth narrated by Bukhārī and others.
 
-²⁰ A sound Ḥadīth narrated by Aḥmad and Ibn Sa'd in his Ṭabaqāt on the authority of Abū Hurairah (رضي الله عنه).
+²⁰ Indeed, they were information of the Unseen, by the knowledge that Allāh (ﷻ) gave him. The above-mentioned explanation has no support for it as long as the author, May Allāh (ﷻ) protect him, accepts the possibility of Allāh's informing him. The Ḥadīth itself contains the proof of this: the Prophet (ﷺ) said: "If your life is prolonged." Could this precise timing be known except through the informing of "the Expert" — the Subtle, the All-Aware (al-Laṭīf al-Khabīr), glorified and exalted is He?
+
+²¹ A sound Ḥadīth narrated by Aḥmad and Ibn Sa'd in his Ṭabaqāt on the authority of Abū Hurairah (رضي الله عنه).
 
 ---
 
@@ -686,7 +688,7 @@ Thereafter he said:
 
 In spite of his noble lineage, however, Muhammad (ﷺ) did not have great wealth. It was this lack of wealth combined with his nobility which enabled him to acquire the best traits of all classes of people. The sons of noble families are led by their wealth to become haughty. If they lose this weapon, though they will still have their noble traditions and status which they will sacrifice their utmost to maintain.
 
-One of them says: "Because of the vicissitudes of time which affect us, we resist any calamities for fear of being disgraced. Some of them may find nothing shameful in announcing their poverty or letting their circumstances be known. Nevertheless, there are others who keep their grief to themselves and show a determined face to the world. Such a one was 'Abdul Muttalib.
+One of them says: "In spite of the biting vicissitudes of time upon us, we grapple with calamities out of loathing for disgrace." Some people may find it embarrassing to announce their poverty or to let their circumstances be known. Nevertheless, there are others who keep their grief to themselves and show a determined face to the world. Such a one was 'Abdul Muttalib.
 
 'Abdul Muttalib was the chief of Makkah. However, this chiefdom which he inherited ended with him and was not passed on to his descendants. Their rivals for the leadership of Makkah vied fiercely with them and it seemed as if they would take it over entirely. In a few years 'Abd Shams came to power. Yet no sooner had another few years passed than the leadership fell into the hands of Abū Sufyān and remained out of the control of Banū Hāshim.
 
@@ -694,7 +696,7 @@ One of them says: "Because of the vicissitudes of time which affect us, we resis
 
 Al Zuhri reports that 'Abdul Muttalib sent his son 'Abdullāh to Yathrib to buy their ration of dates and he died there. Others say he was in Syria from where he travelled to Yathrib with the caravan of the Quraish. In Madīnah he fell sick and died and was buried in the precinct of al Nabigha Al Ja'di. He died at the age of 25 years and before the Messenger of Allah (ﷺ) was born.
 
-Muhammad's (ﷺ) birth at Makkah was ordinary. There was nothing in it to attract attention or cause astonishment. The historians have not been able to pinpoint precisely the day, month or year of his birth. However, most sources are inclined to the year when Makkah was attacked by the Abyssinians, which corresponded to 570 of the Christian Era. The date of his birth is set at 12 Rabi'i al Awwal 53 BH, that is, before the Hijra.
+Muhammad's (ﷺ) birth at Makkah was ordinary. There was nothing in it to attract attention or cause astonishment. The historians have not been able to pinpoint precisely the day, month or year of his birth. However, most sources are inclined to the year when Makkah was attacked by the Abyssinians, which corresponded to 570 of the Christian Era. The date of his birth is set at 12 Rabī' al-Awwal 53 BH, that is, before the Hijrah.
 
 The exact date of the Prophet's (ﷺ) birth has no religious significance in Islām, and the celebrations held on this occasion are a worldly tradition which has nothing to do with the Sharī'ah. Some sources report that premonitions of his prophethood occurred when he was born: fourteen balconies of Khosrau's palace collapsed; the fire worshipped by the Zoroastrians went out; and the churches around Lake Sawah crumbled after the lake dried up. Al Busiri says:³
 
@@ -720,11 +722,11 @@ The exact date of the Prophet's (ﷺ) birth has no religious significance in Isl
 
 These words are the wrong expression of a correct idea. The birth of Muhammad (ﷺ) was truly a proclamation of the fall of tyranny and the end of its reign. So also was the birth of Moses (عليه السلام). Do you not see that when Allah (ﷻ) described Pharaoh's tyranny over his people and announced His intention of freeing the slaves and the oppressed, He unfolded to us the story of the hero who would undertake this task? Allah (ﷻ) says:
 
-(And We inspired the mother of Moses.) (Qur'ān 28: 7)
+(And We inspired the mother of Moses, saying: Suckle him…) (Qur'ān 28: 7)
 
-Muhammad's (ﷺ) mission was the most momentous of all revolutions known to the world, which undertook a mental and physical liberation of mankind. The Qur'ān recruited the most upright of men ever known in history and directed their efforts towards disposing of all the dictators one by one. After this liberation from the yokes of dictatorship, when the people wished to outline what actually happened, they imagined the occurrence of these premonitions and invented tales to fit them. Muhammad (ﷺ) is not in need of any of this, the great role that he plays now in our present age makes us think little of such tales.
+Muhammad's (ﷺ) mission was the most momentous of all revolutions known to the world, which undertook a mental and physical liberation of mankind. The Qur'ān recruited the most upright of men ever known in history and directed their efforts towards disposing of all the dictators one by one. After this liberation from the yokes of dictatorship, when the people wished to outline what actually happened, they imagined the occurrence of these premonitions and invented tales to fit them. Muhammad (ﷺ) is not in need of any of this: his huge share of honourable reality makes us indifferent to such tales.
 
-'Abdul Muttalib received the news of his grandson's birth with exuberance and joy. Maybe it compensated him for his son who had died in the prime of life and so he turned his affection from the past to the newcomer and showed pride and concern in him. It was amazing that he should be inspired to name his grandson Muhammad (ﷺ),⁴ a name probably inspired by a noble angel! The Arabs heard this name for the first time and they asked the grandfather why he did not choose the name of one of his ancestors.
+'Abdul Muttalib received the news of his grandson's birth with exuberance and joy. Maybe it compensated him for his son who had died in the prime of life and so he turned his affection from the past to the newcomer and showed pride and concern in him. It was amazing that he should be inspired to name his grandson Muhammad (ﷺ),⁴ a naming in which a noble angel helped him! The Arabs heard this name for the first time and they asked the grandfather why he did not choose the name of one of his ancestors.
 
 He replied: "I wanted Allah (ﷻ) to praise him in the heavens and mankind to praise him on earth. This wish was a perception of the future, for no one of Allah's (ﷻ) creation is so deserving of the sentiments of thanks and praise for what he accomplished as much as that Arab Prophet, Muhammad (ﷺ).
 
@@ -734,7 +736,7 @@ Abū Hurairah (رضي الله عنه) narrated that the Prophet (ﷺ) said:
 
 However, the harsh reality still remained in spite of the loving grandfather's attention. Muhammad (ﷺ) was an orphan, born after his father had left this world. So be it! If we supposed that 'Abdullāh had remained alive, then what would he have done for his son? Could he have trained him to become a Prophet? Of course not: the father is only one of a number of factors which determine the future of a child. Even if prophethood could be acquired through effort, his father's being alive would not make it more achievable, so what about when it is in fact a selection [made by Allah (ﷻ)]?
 
-While Ya'qūb was alive he was provided for. He reached old age and acquired experience and wisdom. In fact, he was granted prophethood. One day he looked round and did not see Yūsuf (عليه السلام) next to him: he had lost him in the most crucial period of his life. Yūsuf (عليه السلام) was a young lad full of zeal and energy, and in spite of the corruption which prevailed in those societies through which he passed, his inner being still overflowed with piety and chastity. He was like a bright lamp on a dark night. When father and son met again, Ya'qub saw his son as a staunch prophet.
+Ya'qūb was alive and well; he had his old age, his experience and his wisdom — yet one day he looked round and did not see Yūsuf (عليه السلام) next to him: he had lost him in the most crucial period of his life. Yūsuf (عليه السلام) was a young lad full of zeal and energy, and in spite of the corruption which prevailed in those societies through which he passed, his inner being still overflowed with piety and chastity. He was like a bright lamp on a dark night. When father and son met again, Ya'qub saw his son as a staunch prophet.
 
 'Abdullāh passed away, leaving his son an orphan. Nevertheless, this orphan was being prepared from the first moment for a noble task. He was being prepared as the leader of all the righteous people chosen by Allah (ﷻ). Father and grandfather, relatives and friends, heavens and earth were nothing but means which Allah (ﷻ) utilized to accomplish His decree and to shower His bounty on the one whom He himself fashioned.
 
@@ -750,11 +752,11 @@ Muhammad (ﷺ) spent five years with the Banu Sa'd during which time he develope
 
 "Jibrīl (عليه السلام) came to Muhammad (ﷺ) while he was playing with other boys. Jibrīl (عليه السلام) held him, threw him down, opened his chest, took out his heart and removed a lump from it. He said: "This is Satan's portion of you."
 
-Then he washed him in a basin made of gold with the water of Zamzam. Then he sealed his chest and returned him to where he was. The boys ran to his mother (meaning his nurse) and shouted that Muhammad (ﷺ) had been killed. They came to him and found him pale.⁶
+Then he washed it (the heart) in a basin made of gold with the water of Zamzam, then returned it to its place. The boys ran to his mother (meaning his nurse) and shouted that Muhammad (ﷺ) had been killed. They came to him and found him pale.⁶
 
 This incident, which scared Halīmah and her husband, we find recurring when Muhammad (ﷺ) had become a Prophet and was over 50 years old. Mālik ibn Ṣa'ṣa'ah reports that the Prophet (ﷺ) told them about the night of the Isrā', saying:
 
-"While I was in Al Hatīm perhaps he said in Al Hajr reclining between sleep and wakefulness, someone came to me and split me from here to here (meaning from the hollow of his neck to his stomach) and extracted my heart. I was brought a basin of gold filled with faith, my heart was washed, then filled with it, then it was returned to its position."⁷
+"While I was in Al-Ḥaṭīm — perhaps he said in Al-Ḥijr — reclining between sleep and wakefulness, someone came to me and split me from here to here (meaning from the hollow of his neck to his stomach) and extracted my heart. I was brought a basin of gold filled with faith, my heart was washed, then filled with it, then it was returned to its position."⁷
 
 If evil were the secretions of a gland in the body and could be prevented by stopping the secretions, or if good were a substance which could be poured into the heart as fuel is poured into an aeroplane to make it fly, then I should say the literal sense of the words should be taken. Evil and good are beyond the physical, however, and in fact it is obvious that it has more to do with the spiritual side of people. If it is a matter concerning the limits within which the soul has to operate or, in other words, if the study takes us to the point where we must discover the means by which the soul motivates its outer covering of flesh and blood, then it is no use pursuing it since this is beyond our capacity of discovery.
 
@@ -794,11 +796,11 @@ The dilation of the chest to which these āyāt (verses) refer are not the resul
 
 O Messenger of Allah (ﷺ), which of us will be the quickest to catch up with you (that is, die after you)?"
 
-He replied: "That one among you who has the longest hand." So they took a reed to measure their hands and it was Saudah who had the longest hand. Afterwards we learnt that a long hand meant the charity which she gave out. She loved to give charity and she was the quickest of us to catch up with him.¹⁰
+He replied: "That one among you who has the longest hand." So they took a reed to measure their hands and it was Sawdah who had the longest hand. Afterwards we learnt that a long hand meant the charity which she gave out. She loved to give charity and she was the quickest of us to catch up with him.¹⁰
 
-Muhammad (ﷺ) returned to Makkah after spending some wonderful years in the desert. He returned to find a loving mother who dedicated herself to him and an aged grandfather who sought consolation in him for his son who had passed away in the prime of life. However, days refused to allow him tranquillity among these tender hearts and one by one deprived him of them. Āminah thought of visiting her husband's grave in Yathrib in faithfulness to his memory, and so she left Makkah on this journey of 500 kilometres, taking with her son Muhammad (ﷺ) and her maid Umm Aiman. 'Abdullāh did not die in a strange land but it was the land of his maternal uncles, the Banu Najjar. Ibn Athir reports.
+Muhammad (ﷺ) returned to Makkah after spending some wonderful years in the desert. He returned to find a loving mother who dedicated herself to him and an aged grandfather who sought consolation in him for his son who had passed away in the prime of life. However, days refused to allow him tranquillity among these tender hearts and one by one deprived him of them. Āminah thought of visiting her husband's grave in Yathrib in faithfulness to his memory, and so she left Makkah on this journey of 500 kilometres, taking with her son Muhammad (ﷺ) and her maid Umm Ayman. 'Abdullāh did not die in a strange land but it was the land of his maternal uncles, the Banu Najjar. Ibn Athir reports.
 
-Hāshim went on a trading trip to Syria. On his way he stopped in Madīnah and stayed with 'Amr ibn Lubaid of the Khazraj tribe. There he saw Salma, daughter of 'Amr and fell in love with her. He married her under a stipulation made by her father: that she should give birth to her children only in the home of her relatives. Hāshim went on his way, and on his return he consummated the marriage with her, then took her to Makkah where she conceived a child. When the time for her delivery approached, he took her back to her relatives and went to Syria. He died in Ghaza and Salma gave birth to 'Abdul Muttalib, who remained for seven years in Madīnah.
+Hāshim went on a trading trip to Syria. On his way he stopped in Madīnah and stayed with 'Amr ibn Lubaid of the Khazraj tribe. There he saw Salma, daughter of 'Amr and fell in love with her. He married her under a stipulation made by her father: that she should give birth to her children only in the home of her relatives. Hāshim went on his way, and on his return he consummated the marriage with her, then took her to Makkah where she conceived a child. When the time for her delivery approached, he took her back to her relatives and went to Syria. He died in Gaza and Salma gave birth to 'Abdul Muttalib, who remained for seven years in Madīnah.
 
 Muhammad (ﷺ) spent about one month among his mother's relatives near his father's grave, and then he set out to return to Makkah. From the start of the journey, however, his mother became seriously ill. She died at Abwā, leaving him alone with the bereaved maid. He was then 5 years of age. This new misfortune caused old scars to reopen and sharpened the feelings of tenderness which 'Abdul Muttalib had for the young boy. From then on he never left him alone, but took him along to all his public gatherings. When he sat on his mat beside the Kaba he held the boy close while all the elders sat around him. Abdul Muttalib lived a long time, and it is said that he died at the age of 120 years. Nevertheless, when he died, Muhammad (ﷺ) was only nearing his eighth year. Before he died, 'Abdul Muttalib thought it best to entrust the boy's uncle Abū Tālib with the care of the boy.
 
@@ -806,7 +808,7 @@ Abū Tālib carried out his duty toward his nephew to the best of his ability. H
 
 ## Baḥīra, the Monk
 
-There are no authentic accounts of the details of this journey. Travelling is one of the most fertile gateways to knowledge and has the deepest effects. The lessons would not have escaped a person like Muhammad (ﷺ) with his keen mind and pure heart in all that he saw at home or on his travels. It is certain, however, that he did not go out to study religion or philosophy nor did he meet anyone with whom he could discuss these matters. The history books relate some strange occurrences which happened to him, such as his encounter with the monk Baḥīra. This man saw in his face and on his back the signs of prophethood.
+There are no authentic accounts of the details of this journey. Travelling is one of the most fertile gateways to knowledge and has the deepest effects. The lessons would not have escaped a person like Muhammad (ﷺ) with his keen mind and pure heart in all that he saw at home or on his travels. It is certain, however, that he did not go out to study religion or philosophy nor did he meet anyone with whom he could discuss these matters. The history books relate some strange occurrences which happened to him, such as his encounter with the monk Baḥīra. This man saw in his face and between his shoulders the signs of prophethood.
 
 He asked Abū Tālib, "What is this boy to you?"
 
@@ -822,27 +824,7 @@ This story may be authentic since the news of a Prophet after Jesus is to be fou
 
 It is also reported that a party of Roman horsemen came to Baḥīra as if they were searching for something.
 
-When he asked them what they came for, they said, "We have come because a prophet will appear this month and men have been sent in all directions to arrest him. Baḥīra argued with them until he was able to convince them that their search was futile.
-
-The investigators! Who are these investigators? And where did the fabrication come from? This account is in the above-mentioned Hadīth narrated by Abū Mūsā (رضي الله عنه) and you have seen that this is authentic. What is wrong in this similarity to the Christians if it is proved to be authentic? Does not the story of Pharaoh's search for Moses in order to kill him, which comes in the Qur'ān, resemble what the Bible-writers say? Should we then reject this story because of this resemblance?
-
-No. Although I appreciate Sheikh Nāṣiruddīn's comments, I shall quote here what some of the scholars and investigators say about this story:
-
-Al Jazari states, as already quoted by Sheikh Nāṣiruddīn: "Its chain is sound and its narrators are those of the authentic tradition or one of them. But the mention of Abū Bakr (رضي الله عنه) and Bilāl (رضي الله عنه) in it is not authentic according to our imāms, and this is true. The Prophet's (ﷺ) age at that time was 12 years and Abū Bakr (رضي الله عنه) was younger than he by two years, and perhaps Bilāl (رضي الله عنه) was not born yet!"
-
-Al Dhahabi says in Mizanul I'tidal: "It is said that one of the proofs that this Hadīth is not authentic is the statement "And Abū Bakr (رضي الله عنه) sent Bilāl (رضي الله عنه) with him' Bilāl (رضي الله عنه) was not yet created and Abū Bakr (رضي الله عنه) was only a young boy."
-
-The author of Tuhfatul Ahwadhi says: "Al Dhahabi considered this Hadīth to be weak because of the statement: 'And Abū Bakr (رضي الله عنه) sent Bilāl (رضي الله عنه) with him,' since Abū Bakr (رضي الله عنه) had not at that time purchased Bilāl (رضي الله عنه).
-
-Ibn Hajar says in his Al Isabah: "Its narrators are trustworthy and it contains nothing questionable except this point. It is possible that this piece was taken from another Hadīth and inserted here by one of its narrators unintentionally."
-
-There is a similar statement to this in Al Mawahib Al Ladunniyah.
-
-Ibn al Qayyim says in Zādul Ma'ād: "In Al Tirmidhī's book as well as others it is stated that Abū Bakr (رضي الله عنه) sent Bilāl (رضي الله عنه) with him. This is clear mistake. Bilāl (رضي الله عنه) was probably not in existence and even if he was, he certainly was not with the Prophet's (ﷺ) uncle or with Abū Bakr (رضي الله عنه)." See Tuhfatul Ahwadhi.
-
-Now, Ibn Kathīr says in his sīrah: "This Hadīth is narrated by Al Tirmidhī, Al Hākim, Al Baihaqi and Ibn 'Asakir. I say, (i.e. Ibn Kathīr says) this Hadīth is unusual: it is mursal (i.e. the Ṣaḥābī who narrates it does not say it comes from the Prophet (ﷺ) but this may be understood). Abū Mūsā Al Asha'ari only came to Madīnah in the year when Khaybar was conquered (7 AH), so in any case it is mursal.
-
-Therefore the Hadīth is mu'allal (contains a weak point according to the principles of the Hadīth scholars) asserts that this Hadīth is fabricated, similar to what the gospel-writers say about some people who were looking for Jesus soon after his birth in order to kill him. The Christians took this from the Buddhists who say that the Buddha, when his virgin mother gave birth to him, was sought by his enemies who wanted to kill him!
+When he asked them what they came for, they said, "We have come because a prophet will appear this month and men have been sent out on every road to arrest him." (!) Baḥīra argued with them until he was able to convince them that their search was futile. The investigators (muḥaqqiqūn)¹² hold that this report is fabricated, in imitation of what the Gospel-writers say — that some people sought the Messiah soon after his birth in order to kill him — which, among the Christians, in turn imitates what the pagans say: that the Buddha, when his virgin (!) mother gave birth to him, was sought by his enemies who wanted to kill him.
 
 The scholars of the Sunnah investigate all statements from both the point of view of their meaning as well as their chain of narrators, and if they are unable to verify their authenticity they set them aside. Many myths have become attached to the biographies of the prophets and if they were to be scrutinized according to the rules laid down in the Hadīth sciences, they would be proved unauthentic and they could be justifiably discarded.
 
@@ -850,7 +832,7 @@ The scholars of the Sunnah investigate all statements from both the point of vie
 
 Muhammad (ﷺ) returned from this trip to resume his life of toil with his uncle, for it was not the habit of men to sit idle. The prophets before him used to eat from the labour of their own hands and they did different crafts to earn their living. It is correct that Muhammad (ﷺ) worked as a shepherd in his early life.
 
-Of this he said: "I used to graze sheep for the people of Makkah in return for a few carats. It is also true that a number of prophets used to graze sheep.¹² Perhaps this was what accustomed them to leadership of the people: gentleness to the weak and wakefulness for their protection.
+Of this he said: "I used to graze sheep for the people of Makkah in return for a few carats. It is also true that a number of prophets used to graze sheep.¹³ Perhaps this was what accustomed them to leadership of the people: gentleness to the weak and wakefulness for their protection.
 
 Perhaps this was what accustomed them to leadership of the people: gentleness to the weak and wakefulness for their protection.
 
@@ -862,9 +844,9 @@ You may find someone who learns and understands, argues and wins. Even so, knowl
 
 Those people who have knowledge but do not reform themselves by it are actually doing it an injustice. Thus it is good to withhold it from such people. A Hadīth says:
 
-"The one who gives knowledge to those who do not deserve it is like the person who adorns pigs with jewels, pearls and gold."¹³
+"The one who gives knowledge to those who do not deserve it is like the person who adorns pigs with jewels, pearls and gold."¹⁴
 
-Then there are those people who believe in fables and reject realities. Their brains are like a pair of scales, one side of which is heavy for no reason and thus cannot weigh correctly. They freely accept the impossibilities and attack the realities. I have seen people who have studied continually, but when they are confronted with problems they grope around blindly. On the other hand, when these same problems are presented to people in the street who remain unblemished in their nature and reasoning, they immediately hit the nail on the head. The significance of this is that there are people who spend twenty years trying to straighten their intellect, study and research, yet they are unable to reach the status of someone who was granted uprightness in thought by mother nature.
+Then there are those people who believe in fables and reject realities. Their brains are like a pair of scales, one side of which is heavy for no reason and thus cannot weigh correctly. They freely accept the impossibilities and attack the realities. I have seen people who have studied continually, but when they are confronted with problems they grope around blindly. On the other hand, when these same problems are presented to an unlettered man whose nature and reason remain unblemished, he immediately hits the nail on the head. The significance of this is that there are people who spend twenty years trying to straighten their intellect, study and research, yet they are unable to reach the status of someone who was granted uprightness in thought by mother nature.
 
 I am convinced, by my readings of the life of Muhammad (ﷺ), that he was of a special category of people who are clear-thinking and of keen perception. He was living with an open and wakeful heart in the depths of the desert; sober among drunkards and negligent people, before and after tending sheep, and before and after going into trade.
 
@@ -876,7 +858,7 @@ There is no doubt that Providence surrounded him with protection so that he migh
 
 He agreed and I went off. When I reached the first house in Makkah I heard some music, and I asked: "What is this?" They said, "So-and-so's wedding with so-and-so."
 
-I sat down to listen but Allah (ﷻ) sealed my hearing and I fell asleep. It was only the heat of the sun which woke me. I went to my companion and he asked me (about the night) and I told him. Another night I did the same and went into Makkah but the same thing happened to me as on the previous night. After that I never attempted to do anything wrong."¹⁴
+I sat down to listen but Allah (ﷻ) sealed my hearing and I fell asleep. It was only the heat of the sun which woke me. I went to my companion and he asked me (about the night) and I told him. Another night I did the same and went into Makkah but the same thing happened to me as on the previous night. After that I never attempted to do anything wrong."¹⁵
 
 The various levels of education are stages in a continual struggle to discipline one's mind and strengthen its faculties and to correct one's outlook on the universe, life and living things. Thus every educational system which fails to take its students to this peak is not worthy of attention in spite of its beautiful certificates. What is much more worthy of being honoured and much nearer to the ultimate goal is that people should attain a high level of intelligence, and the capacity to think deeply, and have a clear vision of means and ends. The Qur'ān referred to Prophet Ibrahīm's (Abraham) (عليه السلام) abundance of these qualities when it said:
 
@@ -898,7 +880,7 @@ This alliance is proof that no matter how dismal the pages of life become and ho
 
 "Thereafter some of the clans of the Quraish called for this alliance, and they all swore to it in the house of 'Abdullāh ibn Jad'an because of his virtue and age. They were: the Banū Hāshim, Banū Muttalib [the Arabic original prints the genealogically incoherent 'Banū 'Abd al-Muṭṭalib'; the translation follows the historically correct 'Banū al-Muṭṭalib' — translator's note], Banū Asad ibn 'Abdul 'Uzza, Zuhrah ibn Kilāb and Taym ibn Murrah. They formed the alliance and pledged to one another that if ever they found a wronged person in Makkah, whether from their own people or from any other tribe, they would stand by his side and defend him so that the wrong done to him might be redressed. This pact was called the Alliance of the Virtuous by the Quraish, and was witnessed by the Messenger of Allāh (ﷺ)."
 
-After Allāh (ﷻ) chose him as Prophet, he said: "I witnessed an alliance with my uncles in the home of 'Abdullāh ibn Jad'an and I should not like to exchange it for the choicest luxuries. If I were called in Islām to participate in it, I should respond.¹⁵
+After Allāh (ﷻ) chose him as Prophet, he said: "I witnessed an alliance with my uncles in the home of 'Abdullāh ibn Jad'an and I should not like to exchange it for the choicest luxuries. If I were called in Islām to participate in it, I should respond.¹⁶
 
 One can see clearly in these words of the Prophet (ﷺ) his approval of this alliance. Vehemence against any oppressor, no matter how powerful he or she may be, and sympathy for any oppressed person, no matter how insignificant he or she may be, are the spirit of Islām. Islām enjoins good and forbids evil, and confines itself to the limits set by Allāh (ﷻ). It is Islām's duty to fight injustice in the politics of nations and the relationships between human beings with the same fervour.
 
@@ -924,7 +906,7 @@ When the Sacrilegious War ended and the Alliance of the Virtuous was concluded, 
 
 "I never saw anybody more handsome than the Messenger of Allah (ﷺ). It was as if the sun was shining in his face! And I never saw anyone walk more quickly than the Messenger of Allah (ﷺ). It was as if the earth folded itself up for him!
 
-Whenever we walked with him, we would exert ourselves while he stayed cool."¹⁶
+Whenever we walked with him, we would exert ourselves while he stayed cool."¹⁷
 
 Such a man attracts life to himself even if he is not attracted to life. Beside him who should attract life? Should life be attracted to dreamers, introverts and pessimists? Muhammad (ﷺ), however, in spite of the means at his disposal to enjoy life, was not swayed by fleeting lusts or burning desires, and it was never recorded of him that he made any attempt to attain position or wealth. On the contrary, his life began by illuminating Makkah with the qualities which distinguished him over his contemporaries: a sweet disposition, a noble character, deep thought, sound reasoning and a trustworthy attitude.
 
@@ -954,13 +936,13 @@ Khadījah's uncle, 'Amr replied: "He is the stallion whose nose cannot be ringed
 
 It is said that this last statement was made by Abū Sufyān when Muhammad (ﷺ) married his daughter Umm Habibah. At that time the war between them was at its fiercest. Abū Sufyān made an excuse for that, saying that Muhammad's (ﷺ) status was such that to become his father-in-law was a great honour! The enmity between them did not detract in anyway from Muhammad's (ﷺ) status, and his marriage with Abū Sufyān's daughter did not disgrace Abū Sufyān at all, even though he was at that time his most ardent enemy!
 
-Muhammad (ﷺ) was 25 years old when he married Khadījah and her age was then about 40 years. This marriage lasted until Khadījah died at the age of 65 years. Throughout this time she was the source of honour and respect and she bore all the Prophet's children for him except Ibrāhīm. First she gave birth to Al Qāsim, and this is the Kunniya by which he was known in the era of prophethood. Then came Zaynab, Ruqayyah, Umm Kulthūm, Fātimah and Abdullāh, who is also known as Tāhir. Al Qāsim died when he was old enough to ride animals, 'Abdullāh died as a baby, and all daughters of Muhammad (ﷺ) died during his lifetime with the exception of Fātimah, who died six months after him. Muhammad's (ﷺ) union with Khadījah was a blessing for both of them, and there is no doubt that, that house was touched by the spirit of its master; the spirit of purification from the filth of Jahilīyah and contempt for the worship of idols.
+Muhammad (ﷺ) was 25 years old when he married Khadījah and her age was then about 40 years. This marriage lasted until Khadījah died at the age of 65 years. Throughout this time she was the source of honour and respect and she bore all the Prophet's children for him except Ibrāhīm. First she gave birth to Al Qāsim, after whom he was given his Kunyah (Abū al-Qāsim) after prophethood. Then came Zaynab, Ruqayyah, Umm Kulthūm, Fātimah and 'Abdullāh, who was also called al-Ṭayyib and al-Ṭāhir. Al Qāsim died when he was old enough to ride animals, 'Abdullāh died as a baby, and all daughters of Muhammad (ﷺ) died during his lifetime with the exception of Fātimah, who died six months after him. Muhammad's (ﷺ) union with Khadījah was a blessing for both of them, and there is no doubt that, that house was touched by the spirit of its master; the spirit of purification from the filth of Jahilīyah and contempt for the worship of idols.
 
 After marriage Muhammad (ﷺ) resumed the life of contemplation and seclusion which he had known before. He kept away from all that in which the Arabs indulged during their boisterous parties such as alcohol, showing off, gambling, rivalry etc. However, this did not prevent him from conducting his trade, earning his living, travelling in the land or walking in the market-places. An intelligent man living among a frivolous group of people is required to exercise great care and consideration, especially if he has the tendency to be softhearted and pleasant.
 
 There was nothing in this successful marriage to raise concern, except the fact that Khadījah was grieved at the death of all her sons in that society where sons were given a high status, and daughters were buried alive and the fathers' faces were dark with anger and gloomy on receiving news of the birth of a daughter. It was strange that the Arabs, after the Prophet's ministry, would jeer him for this and announce expectantly that his progeny would be cut off and he would have none to remember him. Ibn 'Abbās reported that the Quraish pledged among themselves to persist in disbelief.
 
-They said: 'What we are doing is more lasting than what the amputated Sunbūr is doing." The Sunbūr is a date palm whose roots are broken. By this they meant that when he died, Muhammad (ﷺ) would have no progeny to inherit him or carry on his mission.
+They said: "What we follow is more rightful than what this cut-off ṣunbūr follows." The ṣunbūr is a date palm whose root is broken. By this they meant that when he died, Muhammad (ﷺ) would have no progeny to inherit him or carry on his mission.
 
 (Or they say: is he a poet, [one] for whom we may expect the accident of time? Say [them]: "Expect [your fill]! Behold! I am with you among the expectant.) (Qur'ān 52: 30-31)
 
@@ -984,7 +966,7 @@ He said: "the Furthest Mosque" (that is, Al Masjid Al Aqsa).
 
 I asked: "How long was it between the two?"
 
-He said: "Forty years, and furthermore, the earth is a mosque for you. So wherever the time for prayers catches you, then offer prayers, for there is virtue in it."¹⁷
+He said: "Forty years, and furthermore, the earth is a mosque for you. So wherever the time for prayers catches you, then offer prayers, for there is virtue in it."¹⁸
 
 The Ka'bah, being an ancient monument, was exposed to the vicissitudes of time, which weakened its structure and cracked its walls. A few years before the Prophet's (ﷺ) ministry a heavy flood swept through Makkah and the Ka'bah was almost destroyed. The Quraish felt that they must renovate its structure to protect its sanctity. The leaders and great personalities of the Quraish all took part in the renovation. They pulled down the weak portions that remained and erected a new structure in their place.
 
@@ -996,11 +978,11 @@ A structure whose foundations were laid by Ibrāhīm (عليه السلام) and
 
 'Abbas (رضي الله عنه) said to the Prophet (ﷺ): "Lift your Izār (loin clothe) over your shoulder and it will protect you from the stones. He did so this was before prophethood and he fell to the ground in a faint.
 
-His eyes flashed towards the heavens and he said: "My izar! My izar!" It was fastened back in place and after that he was never again seen naked."¹⁸
+His eyes flashed towards the heavens and he said: "My izar! My izar!" It was fastened back in place and after that he was never again seen naked."¹⁹
 
 The clans vied with each other in rebuilding the Kab'ah, each of them wanting to be foremost and gain the prestige from it. This contest almost turned into a bloody war in the holy sanctuary. Enmity spread among the builders when they prepared to replace the black stone in the side of the Kab'ah. Abū Umayyah ibn Al Mughirah of the Makhzūmi clan saved the situation by suggesting that they should settle the matter by asking the first person to enter through the gate of Safā to decide between them. Allāh (ﷻ) willed that Muhammad (ﷺ) should be that person, and when they saw him they shouted: "Here is Al Amīn (the trustworthy)! We accept him as arbitrator!"
 
-Muhammad (ﷺ) called for a cloth and he placed the black stone in the middle of it. Then he called the heads of the disputing clans and all of them held on to an edge of the cloth. They lifted it and took it to the Ka'bah and Muhammad (ﷺ) himself put it in its rightful place.¹⁹
+Muhammad (ﷺ) called for a cloth and he placed the black stone in the middle of it. Then he called the heads of the disputing clans and all of them held on to an edge of the cloth. They lifted it and took it to the Ka'bah and Muhammad (ﷺ) himself put it in its rightful place.²⁰
 
 This was the solution offered by someone endowed with sound judgement, at whose sight the people were filled with optimism and ease and whom they willingly accepted as arbitrator. This shows the high status which he had attained in their eyes.
 
@@ -1012,7 +994,7 @@ In spite of the effort made by the Quraish to rebuild the Ka'bah, they fell shor
 
 She Said: Messenger of Allah (ﷺ), will you not have it extended to the foundations of Ibrāhīm (عليه السلام)?"
 
-He said: "If it were not for the fact that your people were recently unbelievers, I should have done so."²⁰
+He said: "If it were not for the fact that your people were recently unbelievers, I should have done so."²¹
 
 Ibn 'Umar (رضي الله عنه) said: "If 'Ā'ishah 'May Allah be pleased with her, heard this from the Messenger of Allah (ﷺ), then I do not think that he ignored greeting the two corners next to the black stone except for the reason that they were not completed on the foundations of Ibrāhīm (عليه السلام)."
 
@@ -1026,9 +1008,9 @@ We have said that paganism adorns its falsehood with veneer of truth to make it 
 
 Persistence in such nonsense, however, went beyond its limits and the masses became totally absorbed in what they had inherited. They lost the blessing of a free mind even a perceptive mind and lived in praise of that of which they had no knowledge. As for those who were endowed with the ability to think, their thinking collided with the boundaries of their inclinations and desires, and maybe they concealed what they knew or even fought it. Only a few people dared to oppose the traditions which had taken root in society and voice the truth, and even fewer lived for it or sacrificed themselves on its behalf.
 
-Before the Prophet's ministry there were those who looked at the paganism of the Arabs with scorn, and those who knew that their people were indulging in superstitious beliefs but could not find the means to prevent them. Bukhārī²¹ narrated from Ibn 'Umar (رضي الله عنه) that the Prophet (ﷺ) said, He met Zayd ibn 'Amr ibn Nufayl in lower Baldah before he became a prophet and offered him some food containing meat. Zayd (رضي الله عنه) refused to eat it. Saying:
+Before the Prophet's ministry there were those who looked at the paganism of the Arabs with scorn, and those who knew that their people were indulging in superstitious beliefs but could not find the means to prevent them. Bukhārī²² narrated from Ibn 'Umar (رضي الله عنه) that the Prophet (ﷺ) said, He met Zayd ibn 'Amr ibn Nufayl in lower Baldah before he became a prophet and offered him some food containing meat. Zayd (رضي الله عنه) refused to eat it. Saying:
 
-"I do not eat from what you sacrifice on your altars;²²
+"I do not eat from what you sacrifice on your altars;²³
 
 I eat only that one on which Allāh's (ﷻ) name has been mentioned." He used to condemn the way, the Quraish slaughtered their animals by saying: "The sheep was created by Allāh (ﷻ) and it is He who caused the water to descend for it from the sky and who caused the pasture to grow for it from the earth. But you slaughter in someone's name other than Allāh's!
 
@@ -1064,13 +1046,13 @@ These narrations show the great amount of confusion which had spread throughout 
 
 Bukhārī narrates from Asmā' bint Abū Bakr (رضي الله عنه):
 
-"I saw Zayd ibn 'Amr ibn Nufayl (رضي الله عنه) standing with his back leaning against the Ka'bah and he was saying: "O assembly of Quraish, by God, none of you is following the religion of Ibrahīm (عليه السلام) but myself." He used to rescue the buried baby girls and say to their fathers when they wanted to kill their baby daughters: "I shall take care of her for you." He would take the girl and when she was big enough he would say to her father: 'If you wish I shall give her back to you, or if not, I shall continue bringing her up.²³
+"I saw Zayd ibn 'Amr ibn Nufayl (رضي الله عنه) standing with his back leaning against the Ka'bah and he was saying: "O assembly of Quraish, by God, none of you is following the religion of Ibrahīm (عليه السلام) but myself." He used to rescue the buried baby girls and say to their fathers when they wanted to kill their baby daughters: "I shall take care of her for you." He would take the girl and when she was big enough he would say to her father: 'If you wish I shall give her back to you, or if not, I shall continue bringing her up.²⁴
 
-Zayd (رضي الله عنه) was one of those rare thinkers who despised the wrongs of jahilīyah, were thankful for their ability to see the truth and did not underestimate their value in their society. Fate, however, had selected a man who perceived the truth and possessed the ability to disseminate it throughout all parts of the globe in spite of the efforts to preserve falsehood at the cost of lives and possessions. Fate was in the process of preparing that towering personality to fulfil this tremendous role, and great tasks are equalled only by great personalities.
+Zayd (رضي الله عنه) was one of those rare thinkers who despised the wrongs of jahilīyah; he deserves thanks for his search for the truth, and neither he nor the others should be denied their standing among their people. Fate, however, had selected a man who perceived the truth and possessed the ability to disseminate it throughout all parts of the globe in spite of the efforts to preserve falsehood at the cost of lives and possessions. Fate was in the process of preparing that towering personality to fulfil this tremendous role, and great tasks are equalled only by great personalities.
 
 ## In the Cave of Ḥirā
 
-Muhammad (ﷺ) was nearing his forties. His previous dedication to contemplation had widened the mental gulf between himself and his people. His opinion of them had come to resemble the opinion of scientist of a modern world towards those who believe that the earth is balanced on the horns of a bull, or that of an atomicist towards those who pelt one another with stones when they fight and travel on horseback.
+Muhammad (ﷺ) was nearing his forties. His previous dedication to contemplation had widened the mental gulf between himself and his people. His opinion of them had come to resemble the opinion of an astronomer of our time towards those who believe that the earth is balanced on the horns of a bull, or that of an atomicist towards those who pelt one another with stones when they fight and travel on horseback.
 
 That was as far as the mental side was concerned. As for the spiritual side, scepticism had spread among the people of jahilīyah and it caused them to swear their utmost by God that He would not resurrect the dead. This deep-rooted and obtrusive scepticism had caused the best people to be confused and question the fate of this world. If existence was firstly and lastly of this fleeting life span on earth then extinction was far better! Was there no glimpse of light in this pervading darkness?
 
@@ -1078,7 +1060,7 @@ Every year Muhammad (ﷺ) used to leave Makkah to spend the month of Ramadān in
 
 In the cave of Hirā Muhammad (ﷺ) used to meditate and worship; his heart shone; his soul was purified; he approached the truth with all his energy and kept away from falsehood as much as he could. Finally he reached such a high state of purity that the rays of the Unseen began to reflect from his heart. There was no dream that he saw without it being realized like the dawn of the morn. In this cave Muhammad (ﷺ) met with the heavenly hosts.
 
-Before him the desert had witnessed a brother of his who came in flight from Egypt, and traversed the dry, barren lands, seeking peace, security and guidance for himself and his people. He was attracted by the sight of a burning bush on the right hand side of the valley, and when he went toward it, his hearing and senses were filled with the holy call:
+Before him the desert had witnessed a brother of his — Moses (عليه السلام) — who came in flight from Egypt, and traversed the dry, barren lands, seeking peace, security and guidance for himself and his people. A comforting fire flashed before him from the right bank of the valley, and when he went toward it, his hearing and senses were filled with the holy call:
 
 (Behold! I, even I, am Allah. There is no God save me. So worship Me and establish worship for My remembrance.) (Qur'ān 20: 14)
 
@@ -1088,7 +1070,7 @@ He replied in wonder: "I cannot read."
 
 The question and reply were repeated and thereafter flowed the first āyāt (verses) of the noble Qur'ān:
 
-(Read: In the name of your Lord Who creates, Creates man from a clot. Read: and your Rabb is the Most Bounteous, Who teaches by the pen, Teaches man that which he knew not.") (Qur'ān 96: 1-5)²⁴
+(Read: In the name of your Lord Who creates, Creates man from a clot. Read: and your Rabb is the Most Bounteous, Who teaches by the pen, Teaches man that which he knew not.") (Qur'ān 96: 1-5)²⁵
 
 ## Waraqah ibn Naufal
 
@@ -1102,13 +1084,25 @@ This crucial change is the reason for Allāh's reminding Muhammad (ﷺ) of the P
 
 (And thus have We inspired in you [Muhammad] a spirit of Our command. You did not know what the Scripture was, nor what the faith was. But We have made it a light with which We guide whom We wish of Our servants. And behold indeed you guide a right path. The path of Allah, Whom belongs whatsoever is in the heavens and whatsoever is in the earth.) (Qur'ān 42: 52-53)
 
-It was as if the previous forty years were only a day, and the morning of the next day began the Revelation. That searching, yearning mind could now expect the light of truth, and that troubled heart could now feel the coolness of certainty and the expanse of hope. That far-reaching change had occurred it was prophethood! How wonderful was the coming blessing and how great were the anxieties Muhammad (ﷺ) would have to face on its behalf.
+'Ā'ishah, the Mother of the Believers, said: "Revelation began for the Messenger of Allāh (ﷺ) with true dreams in his sleep: he never saw a dream but it came like the breaking of dawn. Then solitude was made dear to him, and he would seclude himself in the cave of Ḥirā', devoting himself there to taḥannuth — that is, worship — for a number of nights before returning to his family, taking provisions for it; then he would return to Khadījah and take provisions for a similar stay, until the Truth came upon him suddenly while he was in the cave of Ḥirā'. The angel came to him and said: 'Read!' He said: 'I cannot read.' He said: 'Then he seized me and pressed me until I could bear no more, then released me and said: "Read!" I said: "I cannot read." So he seized me and pressed me a second time until I could bear no more, then released me and said: "Read!" I said: "I cannot read." So he seized me and pressed me a third time until I could bear no more, then released me and said: (Read: In the name of your Lord Who creates, Creates man from a clot…) (Qur'ān 96: 1-2)'
 
-Thus he quickly regained his composure, and his wife's reaction to it was one of the noblest reactions to come from a woman past or present. She soothed him when he was perturbed, she made him rest when he was exhausted and she reminded him of the virtues of his character, emphasizing that righteous people like himself could never be humiliated, and that when Allāh (ﷻ) moulded a man with the most excellent traits of character it was to bestow honour and kindness on him. With this well-balanced opinion and purity of heart, Khadījah deserved the salutations sent to her by the Lord of the Worlds through the Faithful Spirit [Angel Jibrīl (عليه السلام)].²⁵
+The Messenger of Allāh (ﷺ) returned with it, trembling, until he came in to Khadījah bint Khuwaylid and said: 'Wrap me up! Wrap me up!' They wrapped him up until his fear left him. Then he said to Khadījah: 'O Khadījah, what is the matter with me?' He told her what had happened and said: 'I feared for myself…'
+
+Khadījah said to him: 'Never! Rejoice, for by Allāh (ﷻ), Allāh (ﷻ) will never disgrace you. You keep the ties of kinship, you speak the truth, you bear the burden of the weak, you provide for the destitute, you honour the guest and you help those afflicted by the calamities of truth.'
+
+Then Khadījah took him to Waraqah ibn Nawfal — Khadījah's cousin — who had become a Christian in the time of Jāhilīyah. He used to write in Hebrew script, and he would write from the Gospel in Hebrew as much as Allāh (ﷻ) willed him to write. He was a very old man who had become blind. Khadījah said to him: 'O cousin, listen to your brother's son!'
+
+Waraqah said to him: 'O son of my brother, what do you see?' The Messenger of Allāh (ﷺ) told him what he had seen, and Waraqah said to him: 'This is the Nāmūs [Jibrīl] whom Allāh (ﷻ) sent down to Moses (عليه السلام). Would that I were a young man then! Would that I might be alive when your people drive you out!'
+
+The Messenger of Allāh (ﷺ) said: 'Will they drive me out?' He said: 'Yes! No man has ever come with the like of what you have brought without being treated with enmity. If I live to see your day, I shall support you with all my strength.' Then before long Waraqah died, and the revelation paused for a while."²⁶
+
+It was as if the previous forty years were only a day, and the morning of the next day began the Revelation. That searching, yearning mind could now expect the light of truth, and that troubled heart could now feel the coolness of certainty and the expanse of hope. That far-reaching change had occurred it was prophethood! How sublime was this approaching grace, and how great were the tasks and anxieties Muhammad (ﷺ) would have to face in it!
+
+Thus he quickly regained his composure, and his wife's reaction to it was one of the noblest reactions to come from a woman past or present. She soothed him when he was perturbed, she made him rest when he was exhausted and she reminded him of the virtues of his character, emphasizing that righteous people like himself could never be humiliated, and that when Allāh (ﷻ) moulded a man with the most excellent traits of character it was to bestow honour and kindness on him. With this well-balanced opinion and purity of heart, Khadījah deserved the salutations sent to her by the Lord of the Worlds through the Faithful Spirit [Angel Jibrīl (عليه السلام)].²⁷
 
 ## Footnotes
 
-¹A sound Hadīth narrated by Muslim on the authority of Wa'ila ibn Al Asqa'. It is also declared sound by Al Tirmidhī.
+¹A sound Hadīth narrated by Muslim on the authority of Wāthilah ibn al-Asqa'. It is also declared sound by Al Tirmidhī.
 
 ²A sound Hadīth narrated by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه).
 
@@ -1130,33 +1124,55 @@ Thus he quickly regained his composure, and his wife's reaction to it was one of
 
 ¹¹It is indeed authentic because Al Tirmidhī narrated it on the authority of Abū Mūsā Al Ash'arī and he certified it as a good Hadīth. Furthermore, I say it has a sound chain as Al Jazari said. The latter also said "The mention of Abū Bakr (رضي الله عنه) and Bilāl (رضي الله عنه) in it is not recorded (i.e. not authentic)." I also add that Al Bazzār narrated it with the following words: "His uncle sent a man with him."
 
-¹²Bukhārī narrates on the authority of Abū Hurairah (رضي الله عنه) that the Prophet (ﷺ) said: "There is no Prophet sent by Allah (ﷻ) who did not tend sheep." His Companions asked: "And did you?" He replied: "Yes. I used to graze them for the people of Makkah in return for a few carats."
+¹²Who are these investigators? And where did the said fabrication come from? This account is in the above-mentioned Hadīth narrated by Abū Mūsā (رضي الله عنه), and you have seen that it is authentic. What harm does the resemblance do once it is established? Do you not see that what the Gospel-writers mention resembles what is established in the noble Qur'ān of Pharaoh's seeking Moses (عليه السلام) in order to kill him? Should we then reject this because of the said resemblance? By Allāh, no!
 
-¹³A very weak Hadīth. Ibn 'Abdul Barr left it suspended (mu'allaq) in his Jāmi' bayān al-'ilm; Ibn Majāh, however, gave it a connected chain (waṣalahu) in his Sunan. In its chain of narrators is Hafs ibn Sulaiman al Asadi, about whom Ibn Kharrash says: "He is a liar who invents Hadīth. Others declare him to be weak. Abū Hatim says he is rejected, and a similar statement is made in Al Taqrīb by Ibn Hajar.
+\* With all our appreciation of the words of the learned Sheikh Nāṣiruddīn, we quote here some of what the scholars and investigators have said about this story:
 
-¹⁴A weak Hadīth narrated by Al Hākim through Ibn Is-hāq.
+Al Jazari states, as already quoted by Sheikh Nāṣiruddīn: "Its chain is sound and its narrators are the narrators of the Ṣaḥīḥ. But the mention of Abū Bakr (رضي الله عنه) and Bilāl (رضي الله عنه) in it is not preserved; our imāms counted it an error (!), and so it is (!!). The Prophet's (ﷺ) age at that time was 12 years and Abū Bakr (رضي الله عنه) was younger than he by two years, and perhaps Bilāl (رضي الله عنه) was not born yet!"
 
-¹⁵Narrated by Ibn Is-hāq and Ibn Hishām in their biographies of the Prophet (ﷺ). Their chains of narrators are sound except that they are mursal [i.e. the Ṣaḥābī who reported it did not say he heard it from the Prophet (ﷺ)]. However, comes from other sources too which strengthen its authenticity. Ahmad narrated it from 'Abdul Rahmān ibn 'Auf, who said he heard it from the Prophet (ﷺ), although it does not contain the statement " If I were called in Islām to participate in it, I should respond". Its chain is authentic.
+Al Dhahabi says in Mizanul I'tidal: "It is said that one of the proofs that this Hadīth is not authentic is the statement "And Abū Bakr (رضي الله عنه) sent Bilāl (رضي الله عنه) with him' Bilāl (رضي الله عنه) was not yet created and Abū Bakr (رضي الله عنه) was only a young boy."
 
-¹⁶This Hadīth has a weak chain. It is narrated by Al Tirmidhī in his Sunan and Shamā'il. He declared it to be weak because one of its narrators was Ibn Luhai'ah, who is weak because his memory was bad and his books were burnt.
+The author of Tuhfatul Ahwadhi says: "Al Dhahabi considered this Hadīth to be weak because of the statement: 'And Abū Bakr (رضي الله عنه) sent Bilāl (رضي الله عنه) with him,' since Abū Bakr (رضي الله عنه) had not at that time purchased Bilāl (رضي الله عنه).
 
-¹⁷A sound Hadīth narrated by Bukhārī, Muslim, Al Nasā'ī, Ibn Mājah, Al Bayhaqī, Al Tayālisī and Ahmad.
+Ibn Hajar says in his Al Isabah: "Its narrators are trustworthy and it contains nothing questionable except this point. It is possible that this piece was taken from another Hadīth and inserted here by one of its narrators unintentionally."
 
-¹⁸A sound Hadīth narrated by Bukhārī, Muslim and others.
+There is a similar statement to this in Al Mawahib Al Ladunniyah.
 
-¹⁹A good Hadīth narrated by Ahmad. It would have been better for the author to quote the text of the Hadīth itself rather than use the words of the book of sīrah, which have no support.
+Ibn al Qayyim says in Zādul Ma'ād: "In Al Tirmidhī's book as well as others it is stated that Abū Bakr (رضي الله عنه) sent Bilāl (رضي الله عنه) with him. This is clear mistake. Bilāl (رضي الله عنه) was probably not in existence and even if he was, he certainly was not with the Prophet's (ﷺ) uncle or with Abū Bakr (رضي الله عنه)." See Tuhfatul Ahwadhi.
 
-²⁰A sound (ṣaḥīḥ) Ḥadīth narrated by Bukhārī and Muslim in the Ḥajj chapters of their two Ṣaḥīḥs.
+Now, Ibn Kathīr says in his sīrah: "This Hadīth is narrated by Al Tirmidhī, Al Hākim, Al Baihaqi and Ibn 'Asakir. I say, (i.e. Ibn Kathīr says) this Hadīth is unusual: it is mursal (i.e. the Ṣaḥābī who narrates it does not say it comes from the Prophet (ﷺ) but this may be understood). Abū Mūsā Al Asha'ari only came to Madīnah in the year when Khaybar was conquered (7 AH), so in any case it is mursal.
 
-²¹Also narrated by Ahmad on the authority of Ibn 'Umar (رضي الله عنه). The Hadīth comes from another source too with an addition that contradicts the author's explanation below. This addition is not authentic, however.
+Therefore the Hadīth is mu'allal (contains a hidden defect) according to the rules laid down by the scholars in the science of Ḥadīth terminology. (Author.)
 
-²²Zayd (رضي الله عنه) thought that the meat offered to him was of the kind prohibited by Allah (ﷻ). Nevertheless, it is certain that the Prophet's (ﷺ) house never ate the sacrifices made to idols. Zayd (رضي الله عنه) wanted to be sure of himself and so declared his religion. The Prophet (ﷺ) remembered this and was pleased with it.
+¹³Bukhārī narrates on the authority of Abū Hurairah (رضي الله عنه) that the Prophet (ﷺ) said: "There is no Prophet sent by Allah (ﷻ) who did not tend sheep." His Companions asked: "And did you?" He replied: "Yes. I used to graze them for the people of Makkah in return for a few carats."
 
-²³A sound Hadīth.
+¹⁴A very weak Hadīth. Ibn 'Abdul Barr left it suspended (mu'allaq) in his Jāmi' bayān al-'ilm; Ibn Majāh, however, gave it a connected chain (waṣalahu) in his Sunan. In its chain of narrators is Hafs ibn Sulaiman al Asadi, about whom Ibn Kharrash says: "He is a liar who invents Hadīth. Others declare him to be weak. Abū Hatim says he is rejected, and a similar statement is made in Al Taqrīb by Ibn Hajar.
 
-²⁴An authentic Hadīth.
+¹⁵A weak Hadīth narrated by Al Hākim through Ibn Is-hāq.
 
-²⁵The author is referring to an authentic Hadīth reported by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه), in which he said:
+¹⁶Narrated by Ibn Is-hāq and Ibn Hishām in their biographies of the Prophet (ﷺ). Their chains of narrators are sound except that they are mursal [i.e. the Ṣaḥābī who reported it did not say he heard it from the Prophet (ﷺ)]. However, comes from other sources too which strengthen its authenticity. Ahmad narrated it from 'Abdul Rahmān ibn 'Auf, who said he heard it from the Prophet (ﷺ), although it does not contain the statement " If I were called in Islām to participate in it, I should respond". Its chain is authentic.
+
+¹⁷This Hadīth has a weak chain. It is narrated by Al Tirmidhī in his Sunan and Shamā'il. He declared it to be weak because one of its narrators was Ibn Luhai'ah, who is weak because his memory was bad and his books were burnt.
+
+¹⁸A sound Hadīth narrated by Bukhārī, Muslim, Al Nasā'ī, Ibn Mājah, Al Bayhaqī, Al Tayālisī and Ahmad.
+
+¹⁹A sound Hadīth narrated by Bukhārī, Muslim and others.
+
+²⁰A good Hadīth narrated by Ahmad. It would have been better for the author to quote the text of the Hadīth itself rather than use the words of the book of sīrah, which have no support.
+
+²¹A sound (ṣaḥīḥ) Ḥadīth narrated by Bukhārī and Muslim in the Ḥajj chapters of their two Ṣaḥīḥs.
+
+²²Also narrated by Ahmad on the authority of Ibn 'Umar (رضي الله عنه). The Hadīth comes from another source too with an addition that contradicts the author's explanation below. This addition is not authentic, however.
+
+²³Zayd (رضي الله عنه) thought that the meat offered to him was of the kind prohibited by Allah (ﷻ). Nevertheless, it is certain that the Prophet's (ﷺ) house never ate the sacrifices made to idols. Zayd (رضي الله عنه) wanted to be sure of himself and so declared his religion. The Prophet (ﷺ) remembered this and was pleased with it.
+
+²⁴A sound Hadīth.
+
+²⁵An authentic Hadīth.
+
+²⁶An authentic Hadīth narrated by Bukhārī and Muslim.
+
+²⁷The author is referring to an authentic Hadīth reported by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه), in which he said:
 
 "Jibrīl (عليه السلام) came to the Prophet (ﷺ) and said: " O Messenger of Allah (ﷺ), here is Khadījah coming with a pot of soup or food or drink. When she reaches you, convey salām to her from her Lord and from myself, and give her the good tidings of a home in Paradise made of jewel, in which there shall be no Clamour or fatigue.
 
@@ -1173,13 +1189,13 @@ Jābir ibn 'Abdullāh (رضي الله عنه) reported that he heard the Prophe
 
 (O you enveloped in your cloak, Arise and warn! Your Rabb magnify, Your raiment purify, Pollution shun!) (Qur'ān 74: 1-5)¹
 
-These decisive, successive orders heralded for the Prophet (ﷺ) the end of the past with its dreams, peace and quiet, and that he was now on the threshold of a new occupation which required wakefulness and determination, warning and acquittal. Let him therefore bear the message, let him guide the people, and seek support in the Revelation, for it is the source of his message and the reinforcement of his call.
+These decisive, successive orders heralded for the Prophet (ﷺ) the end of the past with its dreams, peace and quiet, and that he was now on the threshold of a new occupation which required wakefulness and determination, warning and due notice. Let him therefore bear the message, let him guide the people, and seek support in the Revelation, for it is the source of his message and the reinforcement of his call.
 
 Revelation is the inspiration of the heart with what Allāh (ﷻ) wants in a clear manner which contains no possibility of doubt. It takes various forms, some of which are easier than others. 'Umar (رضي الله عنه) is reported to have said: Whenever Revelation descended on the Prophet (ﷺ), a sound like the buzzing of bees was heard near his face.² Sometime it would come like the ringing of a bell, and this was the hardest form for him. The angel would come upon him in such a way that his forehead would sweat profusely on a cold, wintry day,³ and his mount would lie down on the ground if he was riding it.⁴ Once Revelation came to him while his thigh was resting on the thigh of Zayd ibn Thābit (رضي الله عنه), and it became so heavy that Zayd's (رضي الله عنه) thigh almost broke.⁵ At other times it might come more easily and lightly than that.
 
 One might ask why did the first Revelations come with such intensity and why did the Qur'ān not begin to be Revealed as inspiration in a dream or inspiration in wakefulness as the incident described by the Prophet (ﷺ):
 
-"The Holy Spirit Jibrīl (عليه السلام) inspired my heart with the fact that no soul shall die until it has exhausted its sustenance; so fear Allāh (ﷻ) and be restrained in seeking.⁶ Is this not less likely to cause fright and exhaustion?"
+"The Holy Spirit Jibrīl (عليه السلام) inspired my heart with the fact that no soul shall die until it has exhausted its sustenance; so fear Allāh (ﷻ) and be restrained in seeking…"⁶ Would that not have been further removed from what causes fright and exhaustion?
 
 The answer is that the Qur'ān first began to be Revealed in this manner,⁷ so that there might be no doubt that the words and the meaning were from Allāh (ﷻ) and that Muhammad (ﷺ) was entrusted with it after having been singled out for it. Thus it is not the fabrication of a recluse who had certain visions, nor the invention of a philosopher who excelled in logic and beautiful speeches; it is the word of Allāh (ﷻ) who is Absolute Truth.
 
@@ -1211,7 +1227,7 @@ And He (ﷻ) commands you, saying:
 
 (This is My straight path, so follow it. Do not follow other ways, lest you be parted from His Way. This He has ordained for you, that you may ward off [evil]." ) (Qur'ān 6: 153)
 
-Aktam ibn Sayfī said: "Surely what the Prophet (ﷺ) brought, if it did not become a full fledged religion, it would have been good moral teachings for the people."
+Aktham ibn Ṣayfī said: "Surely what the Prophet (ﷺ) brought, if it did not become a full fledged religion, it would have been good moral teachings for the people."
 
 **4. Protection of the well-being of the Muslim community.**
 
@@ -1229,11 +1245,11 @@ The propagation of Islām began to increase in Makkah. It took effect in those b
 
 The believers in this ideology gathered around their leader with determination, and in love and admiration they listened to him explaining the principles of their ideology. Faith is a magical force: once it has taken root in someone's heart it can make the impossible possible. We have seen old men and youths meeting over a particular thought and giving it the position of firm faith in their hearts. Although it is only a materialistic thought, it makes their lives the fuel for its spreading and it urges them to bear the worst kinds of suffering on its behalf.
 
-In the prisons now are men who graduated from the universities of the West. They spend a large part of their lives with murderers and drug traffickers. This is because they see it as part of the necessary effort they must make to achieve success for their principles. How much more effective it would have been if the faith which appeared at that time was faith in Allāh (ﷻ), Lord of all the worlds, and faith in the Hereafter, where people encounter their Lord after they leave this world, and where they find lush gardens and exquisite palaces under which rivers flow? The first group was in the process of formation and it was increasing daily.
+In the prisons now are men who graduated from the universities of the West. They spend a large part of their lives with murderers and drug traffickers. This is because they see it as part of the necessary effort they must make to achieve success for their principles. How much more so, then, when the faith which appeared at the dawn of Islām was faith in Allāh (ﷻ), Lord of all the worlds, and faith in the Hereafter, where people encounter their Lord after they leave this world, and where they find lush gardens and exquisite palaces under which rivers flow? The first group was in the process of formation and it was increasing daily.
 
-It was natural that the Prophet (ﷺ) should present Islām first to those who were closest to him among his household and friends. These people had never had any doubts about the greatness of Muhammad (ﷺ) or his truthfulness, so it is no wonder, therefore, that they were the first to support and follow him. His wife, Khadījah, believed in him and so did his slave freed, Zayd ibn Ḥārithah, and his cousin, 'Alī ibn Abī Ṭālib, who was a young boy living under the care of the Prophet (ﷺ). His bosom friend, Abū Bakr (رضي الله عنه), also accepted Islām and was very active in propagating it and he persuaded those whom he loved and trusted to accept it too. These were 'Uthmān ibn 'Affān (رضي الله عنه), Ṭalha ibn 'Ubaidullāh and Sa'd ibn Abi Waqqas. The Christian scholar, Waraqah ibn Naufal, also believed in him, and it is reported,⁸ that the Prophet (ﷺ) saw him in a dream after his death in a state of bliss, which meant that he had found favour with Allāh (ﷻ). Al Zubayr ibn al 'Awwām, Abū Dharr al Ghifāri, Umar ibn 'Anbasa and Sa'īd ibn al 'As accepted Islām, and Islām spread in Makkah among those whose hearts Allāh (ﷻ) enlightened. The propagation of Islām going on in secret without any open show of zealousness or provocation.
+It was natural that the Prophet (ﷺ) should present Islām first to those who were closest to him among his household and friends. These people had never had any doubts about the greatness of Muhammad (ﷺ) or his truthfulness, so it is no wonder, therefore, that they were the first to support and follow him. His wife, Khadījah, believed in him and so did his freed slave, Zayd ibn Ḥārithah [the Arabic original has 'Zayd ibn Thābit' — translator's note], and his cousin, 'Alī ibn Abī Ṭālib, who was a young boy living under the care of the Prophet (ﷺ). His bosom friend, Abū Bakr (رضي الله عنه), also accepted Islām and was very active in propagating it and he persuaded those whom he loved and trusted to accept it too. These were 'Uthmān ibn 'Affān (رضي الله عنه), Ṭalha ibn 'Ubaidullāh and Sa'd ibn Abi Waqqas. The Christian scholar, Waraqah ibn Naufal, also believed in him, and it is reported,⁸ that the Prophet (ﷺ) saw him in a dream after his death in a state of bliss, which meant that he had found favour with Allāh (ﷻ). Al Zubayr ibn al 'Awwām, Abū Dharr al Ghifāri, 'Umar ibn 'Anbasa [thus in the Arabic original; the early convert's name is 'Amr ibn 'Abasah — translator's note] and Sa'īd ibn al-'Āṣ [thus in the Arabic original; the early convert was Khālid ibn Sa'īd ibn al-'Āṣ — translator's note] accepted Islām, and Islām spread in Makkah among those whose hearts Allāh (ﷻ) enlightened. The propagation of Islām going on in secret without any open show of zealousness or provocation.
 
-The news filtered down to the Quraish, although they paid no attention to it. Perhaps they thought that Muhammad (ﷺ) was one of those religious fanatics who would speak of Divinity and its rights as Umayyah ibn Al Ṣalt used to do, or the Christian scholar Ibn Sa'idah or 'Amr ibn Nufayl and others like them. Nevertheless, their fear grew when his fame started to spread and so they began to observe him and his call. The secret propagation of the Da'wah continued for three years, then the order was revealed to the Prophet (ﷺ) to announce it to his people and openly confront their falsehood and denounce their idols.
+The news filtered down to the Quraish, although they paid no attention to it. Perhaps they thought that Muhammad (ﷺ) was one of those religious-minded men who would speak of Divinity and its rights as Umayyah ibn Al Ṣalt used to do, or Quss ibn Sā'idah or 'Amr ibn Nufayl and others like them. Nevertheless, their fear grew when his fame started to spread and so they began to observe him and his call. The secret propagation of the Da'wah continued for three years, then the order was revealed to the Prophet (ﷺ) to announce it to his people and openly confront their falsehood and denounce their idols.
 
 ## Announcement of the Call
 
@@ -1251,11 +1267,11 @@ Abū Lahab then shouted: "May you be in misery all day long! Is this what you ca
 
 According to Abū Hurairah (رضي الله عنه), when this āyah was revealed, the Prophet (ﷺ) stood up and said:
 
-"O assembly of Quraish! Purchase your own (freedom), I shall not avail you in any way before Allāh (ﷻ); O Banu 'Abdul Muṭṭalib, I will not avail you in any way before Allāh (ﷻ); O 'Abbās ibn 'Abdul Muṭṭalib, I will not avail you in any way before Allāh (ﷻ); O Ṣafiyyah, aunt of Allāh's Messenger (ﷺ), I will not avail you in any way before Allāh (ﷻ)."¹⁰
+"O assembly of Quraish! Purchase your own (freedom), I shall not avail you in any way before Allāh (ﷻ); O Banu 'Abdul Muṭṭalib, I will not avail you in any way before Allāh (ﷻ); O 'Abbās ibn 'Abdul Muṭṭalib, I will not avail you in any way before Allāh (ﷻ); O Ṣafiyyah, aunt of Allāh's Messenger (ﷺ), I will not avail you in any way before Allāh (ﷻ); O Fāṭimah, daughter of Allāh's Messenger (ﷺ), ask me for whatever you wish of my wealth, but I will not avail you in any way before Allāh (ﷻ)."¹⁰
 
-This loud call was the final degree of communication. The Prophet (ﷺ) severed relations with his people on account of his call. He explained to those who were closest to himself that belief in this message is what would keep alive the relationship between him and them and that the blood kinship which the Arabs upheld had melted in the heat of this warning coming from Allāh (ﷻ).
+This loud call was the final degree of communication. The Prophet (ﷺ) made his call the criterion of his relations with his people. He explained to those who were closest to himself that belief in this message is what would keep alive the relationship between him and them and that the blood kinship which the Arabs upheld had melted in the heat of this warning coming from Allāh (ﷻ).
 
-Muhammad (ﷺ) had enjoyed a high status in his town and was the object of confidence and love. Nevertheless, here he was confronting Makkah with what it disliked and exposing himself to opposition from the foolish people and the men of high rank. The first group whose affection he risked losing was his nearest of kin, although such pain was insignificant compared with the truth with which Allāh (ﷻ) had enlightened his heart. It was not for him, therefore, to find rest at night while Makkah was shaking with astonishment and condemnation, and was preparing to put an end to this revolution which had suddenly descended upon it and was about to sweep away its custom and inherited traditions.
+Muhammad (ﷺ) had enjoyed a high status in his town and was the object of confidence and love. Nevertheless, here he was confronting Makkah with what it disliked and exposing himself to opposition from the foolish people and the men of high rank. The first group whose affection he risked losing was his nearest of kin, although such pain was insignificant compared with the truth with which Allāh (ﷻ) had enlightened his heart. It did not trouble him, therefore, to spend the night after this warning while Makkah surged with astonishment and condemnation and prepared to put an end to this revolution which had suddenly broken out and which it feared would sweep away its customs and inherited traditions.
 
 The Quraish continued moving along their path: the path of obstinacy and avoidance of truth. Likewise Muhammad (ﷺ) continued moving along his path, calling them to Allāh (ﷻ), being gentle in his presentation of Islām, exposing the disgraces of paganism, listening and answering, attacking and defending. His keenness to bring guidance to his close relative, however, spurred him on to have another try at presenting Islām to them. Winning them over would have far-reaching benefits since they held a position of honour among the Arabs. Moreover, they were his close relatives for whom he wished good and whom he hated to have Allāh's anger descend.
 
@@ -1265,7 +1281,7 @@ His aunts came to visit him and he said to them: "I do not have any complaint of
 
 They said, "Well, call them, but do not invite Abū Lahab, for he will not respond to you."
 
-He called them together and they all came, and along with them came some from the clan of the Banu Muṭṭalib ibn 'Abd Manāf. They totalled forty-five men. Abū Lahab was the first to speak. He said: "Here are your uncles and cousins, so speak and do not act childishly, and know that your people do not have any power against the entire Arab nation, and I am the most fitting person to stop you. So let your father's children be enough for you, and if you remain steadfast in what you are doing, then it is easier for them than to have the clans of the Quraish ambush with the help of the Arabs. I have never seen any man bringing so much evil on his father's children as you have brought."¹¹
+He called them together and they all came, and along with them came some from the clan of the Banu Muṭṭalib ibn 'Abd Manāf. They totalled forty-five men. Abū Lahab was the first to speak. He said: "Here are your uncles and cousins, so speak, but leave the apostates (ṣubāt) alone, and know that your people do not have any power against the entire Arab nation, and I am the most fitting person to stop you. So let your father's children be enough for you, and if you remain steadfast in what you are doing, then it is easier for them than to have the clans of the Quraish ambush with the help of the Arabs. I have never seen any man bringing so much evil on his father's children as you have brought."¹¹
 
 The Prophet (ﷺ) kept quiet and did not speak in that gathering. Then he called them on another occasion and said: "Praise be to Allāh (ﷻ): I praise Him and seek His help, and I believe in Him and place my Trust in Him. And I bear witness that there is no god but Allāh (ﷻ), Who is Alone and has no partner." Then he continued, "A leader does not lie to his family. By Allāh (ﷻ), besides Whom there is no other god, I am Allāh's Messenger (ﷺ) to you in particular and to the mankind in general. By Allāh (ﷻ), you shall die even as you fall asleep; you shall be resurrected even as you wake up; you shall be called to account for what you are doing; and then it will be paradise forever or hell forever."
 
@@ -1301,19 +1317,23 @@ Or fools who tried to outdo one another in making the loudest noise when the Rev
 
 (Those who disbelieve say: do not heed this Qur'ān and drown its recitation; perhaps you will be victorious.) (Qur'ān 41: 26)
 
-If the people Makkah had hesitated in accepting Muhammad (ﷺ) until they could study the matter and scrutinize his message weighing it carefully with what they possessed, no intelligent person could have done better than they. Instead, however, they fled from Islām as a criminal flees from the courtroom after his crimes have been exposed and his guilt proved.
+If the people Makkah had hesitated in accepting Muhammad (ﷺ) until they could study the matter and scrutinize his message weighing it carefully with what they possessed, no sensible person would have blamed them for it. Instead, however, they fled from Islām as a criminal flees from the courtroom after his crimes have been exposed and his guilt proved.
 
 The Prophet (ﷺ) was grieved by this rejection coupled with disbelief and provocation, and it is the right of any noble, truthful man to feel sadness and pain when he finds himself disbelieved and shun. However, Allāh (ﷻ) consoled him and showed him the real nature of those who disbelieved and joined forces against him:
 
 (We know well how their talk grieves you, though in truth they do not deny you [Muhammad], but evil-doers flout the Revelations of Allāh.) (Qur'ān 6: 33)
 
+If a madman blocks your way and assails your honour with a sharp tongue, you hear someone say to you: 'He does not mean to attack you; he is only responding to the urges of madness in his blood.' So it was with those idolaters. Their harshness and denial sprang from the urges of disbelief in their nature rather than from any wish to belittle the man who was speaking to them or to impugn his character:
+
+(…though in truth they do not deny you [Muhammad], but evil-doers flout the Revelations of Allāh.) (Qur'ān 6: 33)
+
 Thus Muhammad (ﷺ) had to continue preaching and overcoming all the obstacles that were placed in his way, and those who believed in his Message had to be firm and steadfast. Their steadfastness was not to be in their own interests alone, nor even in fulfilment of the duties of faith, but also in the interests of the future generations. A skyscraper does not rest on the surface of the earth but on foundations which go deep into the earth, and these bear its weight and pillars. The early Companions of the Prophet (ﷺ) with their strength of conviction and sincere loyalty were the pillars of his call and the roots which extended in later days in all directions of the globe.
 
 ## Persecution
 
-The idolaters decided that they would spare no efforts to fight Islām and persecute those who entered it. Ever since the Prophet (ﷺ) had proclaimed his mission openly and condemned his people's deviation, which they had inherited from their forefather, Makkah erupted in a storm of anger. For years it remained like that, regarding the Muslims as outlaws and rebels. The earth shook under their feet and the security of the holy sanctuary was violated with the spilling of their blood and the looting of their wealth and honour. No-one in their position could expect anything but oppression and persecution.
+The idolaters decided that they would spare no efforts to fight Islām and persecute those who entered it. Ever since the Prophet (ﷺ) had proclaimed his mission openly and condemned his people's deviation, which they had inherited from their forefather, Makkah erupted in a storm of anger. For ten years it remained like that, regarding the Muslims as outlaws and rebels. The earth shook under their feet and the security of the holy sanctuary was violated with the spilling of their blood and the looting of their wealth and honour. No-one in their position could expect anything but oppression and persecution.
 
-This atmosphere filled with hatred was accompanied by a war of ridicule and humiliation, the intent behind it being to demoralize the Muslims. The Prophet (ﷺ) and his Companions were accused and abused, and a group was formed to carry out these campaigns against Islām and its followers. It is a similar strategy to that used by the newspapers when they publish satirical reports about their rivals and amusing pictures to lower the public confidence in them. With this two-pronged attack the Muslims were caught in a tight spot their Prophet was being accused of madness:
+This atmosphere filled with hatred was accompanied by a war of ridicule and humiliation, the intent behind it being to demoralize the Muslims. The Prophet (ﷺ) and his Companions were accused and abused, and a group was formed to carry out these campaigns against Islām and its followers. It is a similar strategy to that used by the opposition press when it publishes satirical reports about its rivals and amusing pictures to lower the public confidence in them. With this two-pronged attack the Muslims were caught in a tight spot their Prophet was being accused of madness:
 
 (And they say: O you whom the Reminder is revealed, Look! You are indeed a madman.) (Qur'ān 15: 6)
 
@@ -1321,7 +1341,7 @@ And accused of indulging in magic and telling lies:
 
 (And they marvel that a warner from among themselves has come them, and the disbelievers say: this is a wizard, a charlatan.) (Qur'ān 38: 4)
 
-This spreads and he is met with hostile stares and feelings of rage:
+He was seen off and received with devouring, resentful stares and agitated, raging feelings:
 
 (And Behold! Those who disbelieve would like to upset you with their stares when they hear the Reminder, and they say: Look! he is indeed mad.) (Qur'ān 68: 51)
 
@@ -1373,13 +1393,13 @@ Muhammad (ﷺ) did not gather his Companions on the basis of any immediate or fu
 
 It was enough glory for Muhammad (ﷺ) that he should be the one to offer this limitless good, and it was enough glory for his Companions that they should be the ones towards whom Providence directed it. So if they were molested, they were to be patient and if the worshippers of the filthy idols waged war on them, they were to stick to what they knew. One day the war between unbelief and faith would come to an end and disclose the martyrs and the believers who stood firm to the command of Allāh (ﷻ), and the idolaters who were routed by the permission of Allāh (ﷻ).
 
-(And say those who do not believe: Act according to your power. Look! We [too] are acting. And wait! Look! We [too] are waiting. And Allāh's is the Invisible of the heavens and the earth, and to Him will the whole matter be returned. So worship Him and put your trust unto Him. Look your Rabb is not unaware of what you [Mortals] do.) (Qur'ān 11: 121-123)
+(And say unto those who do not believe: Act according to your power. Look! We [too] are acting. And wait! Look! We [too] are waiting. And Allāh's is the Invisible of the heavens and the earth, and to Him will the whole matter be returned. So worship Him and put your trust unto Him. Look your Rabb is not unaware of what you [Mortals] do.) (Qur'ān 11: 121-123)
 
 The Messenger of Allāh (ﷺ) gradually inculcated the elements of trust in the hearts of his men and instilled in them what Allāh (ﷻ) had instilled in his heart; the deep confidence in the fact that Islām would be victorious; its principles would spread far and wide; and that the domination of the tyrannical rulers would crumble at the onslaught of its army at the east and the west. The scoffers, however, took this confidence as material for their taunts and jeering. Al Aswad ibn al Muṭṭalib and his associates would, whenever they saw the Prophet's (ﷺ) Companions, wink at each other and say: "Here come the kings of the earth who will tomorrow conquer the kingdoms of Khosrau and Caesar." Then they would whistle and applaud.
 
 Besides throwing obstacles in front of the da'wah in this manner, the idolaters urged one another to prevent any visitor in Makkah from listening to it. Al Walīd ibn al Mughīrah said to the men of the Quraish:
 
-"The people will come to you during the days of pilgrimage and ask you about Muhammad (ﷺ), and then you will all say different things. One will say 'a poet', and another will say 'possessed by a Jinn' However, he does not resemble any of those things, you say. The best that could be said of him is that he is a sorcerer because he causes division between a man and his brother and his wife."
+"The people will come to you during the days of pilgrimage and ask you about Muhammad (ﷺ), and then you will all say different things. One will say 'a sorcerer', another 'a soothsayer', another 'a poet', and another 'possessed by a Jinn'. However, he does not resemble any of those things, you say. The best that could be said of him is that he is a sorcerer because he causes division between a man and his brother and his wife."
 
 These conspirators stood at the gates of Makkah during the Ḥajj season and cautioned the people against that propagandist who rebelled against his tribe. They accused him of indulging in sorcery to separate brothers and couples, as they had agreed. The Messenger of Allāh (ﷺ), nevertheless, went to the pilgrims in their gatherings and spoke to them of Islām and requested their support. Jābir ibn 'Abdullāh reported that the Messenger of Allāh (ﷺ) would stand at the Ḥajj station and say: "Isn't there any man who will take me to his people? The Quraish have prevented me from conveying the words of my Lord."¹⁴
 
@@ -1451,25 +1471,29 @@ Can such words come from an intelligent person? Not to speak of it being Revelat
 
 (And if he had invented false sayings concerning Us, We assuredly had taken him by the right hand And then severed his life-artery, and not one of you could have held Us off from him.) (Qur'ān 69: 44-47)
 
-Nevertheless, the books of history and tafsīr which allowed the copyists and freethinkers to stuff them with falsities, also opened their pages to record this ugly calumny. Had the scholars been fully aware of its spuriousness it never should have been recorded at all. If you open the tafsīr of Al Khāzin at Sūrah Hūd, you read the following:
+Nevertheless, the books of history and tafsīr which allowed the copyists and freethinkers to stuff them with falsities, also opened their pages to record this ugly calumny. Although its spuriousness and corruption were hidden from no scholar, it never should have been recorded at all. If you open the tafsīr of Al Khāzin at Sūrah Hūd, you read the following:
 
-"When the droppings of the animals became too much in Nooh's (Noah) (عليه السلام) Ark, Allāh (ﷻ) inspired him to squeeze the elephant's tail. He did so and a boar and a rat fell from it and they rushed to the droppings and devoured them. When the rat started causing confusion in the ark by gnawing at its boards and rope, Allāh (ﷻ) inspired him to strike between the lion's eyes. He did so and a tom-cat and a she-cat came out of its nostrils; and they rushed to the rat and devoured it."
+"When the droppings of the animals became too much in Nooh's (Noah) (عليه السلام) Ark, Allāh (ﷻ) inspired him to squeeze the elephant's tail. He did so and a male and a female pig fell from it; then he stroked the pig, and the rat fell from it. The pigs rushed to the droppings and devoured them. When the rat started causing confusion in the ark by gnawing at its boards and rope, Allāh (ﷻ) inspired him to strike between the lion's eyes. He did so and a tom-cat and a she-cat came out of its nostrils; and they rushed to the rat and devoured it."
 
 What do you think of such trash? What do you think of the story of the cranes? Quite a few short of these fairy tales exist in a variety of our literature and I do not know when our literary heritage will be purified of them. No doubt they were thrown in during the days of the Muslims' negligence and Jewish conspiracies against their thoughts and writings.
 
-The authentic version of this story is that the Prophet (ﷺ) recited Sūrah Al Najm in a gathering of both Muslims and idolaters, and the final part of this Sūrah (chapter) was so striking that it stirred their hearts. So when the Prophet's (ﷺ) resounding voice reached the end of the Sūrah, the awesomeness of the truth had crushed the stubbornness in the hearts of the haughty and mocking idolaters and they could not hope but fall in prostration together with the Muslims. When they checked themselves, however, and found that they had been overcome by faith, they felt ashamed of themselves and wanted to make an excuse for what they did. They felt ashamed of themselves and wanted to make an excuse for what they did. They claimed that they prostrated with Muhammad (ﷺ) only because he had spoken kindly of their idols. This is not strange, coming from a people who were always composing satires to ridicule the Muslims, and one of them was not ashamed to say to the Prophet (ﷺ) and he was the Prophet's (ﷺ) cousin on his mother's side: "Today you have indeed spoken from heaven, Muhammad (ﷺ)."
+The authentic version of this story is that the Prophet (ﷺ) recited Sūrah Al Najm in a gathering of both Muslims and idolaters, and the final part of this Sūrah (chapter) was so striking that it stirred their hearts. When the Prophet's (ﷺ) voice, thundering with its warnings, reached the words of Allāh:
+
+(And the Overthrown Cities He destroyed, So that there covered them that which did cover. Concerning which then, of the bounties of your Lord, can you dispute? This is a warner of the warners of old. The threatened Hour is nigh. None beside Allāh can disclose it. Marvel you then at this statement, And laugh and not weep, While you amuse yourselves?) (Qur'ān 53: 53-61)
+
+— the awesomeness of the truth crushed the stubbornness in the hearts of the haughty and mocking idolaters and they could not hope but fall in prostration together with the Muslims. When they checked themselves, however, and found that they had been overcome by faith, they felt ashamed of themselves and wanted to make an excuse for what they did. They claimed that they prostrated with Muhammad (ﷺ) only because he had spoken kindly of their idols. This is not strange, coming from a people who were always composing satires to ridicule the Muslims, and one of them was not ashamed to say to the Prophet (ﷺ) and he was the Prophet's (ﷺ) cousin on his mother's side: "Were you spoken to from heaven today, Muhammad (ﷺ)?"
 
 There is nothing more disgusting than this excuse offered by the idolaters for their prostration except the acceptance of this excuse. The idolaters attempted to spread this calumny of theirs¹⁷ to confuse the Prophet (ﷺ), confound Revelation and insinuate that the Prophet (ﷺ) sometimes had leanings towards them. However, this was far beyond their reach, since the war which the Prophet (ﷺ) waged against paganism only increased in strength as the days went by.
 
 Those who had migrated to Abyssinia returned to Makkah to find that the persecution of the Muslims was fiercer and more cruel than ever. Some therefore entered under the protection of those whom they knew, while others hid themselves. But the Quraish insisted on persecuting them and incited other tribes to redouble their persecution of the Muslims. Thus the Prophet (ﷺ) saw no alternative but to advise his Companions to migrate to Abyssinia once more. The second migration was more difficult than the first since the Quraish had become aware of it and were determined to foil it. The Muslims were quicker, however, and on this occasion eighty-three men and nineteen women left. Allāh (ﷻ) made the journey a safe one for them and they reached the Negus of Abyssinia, where they found the security, protection and welcome they were seeking. It is apparent that the Negus was an upright man with a sound mind and good knowledge of Allāh (ﷻ), and correctly believed in Jesus being a servant and Prophet of Allāh (ﷻ). The flexibility of his thought was the secret of the good treatment which he accorded these Muslims seeking refuge in his kingdom to preserve their faith from persecution.
 
-The idolaters felt terrible at the thought that the emigrants should find a place of refuge for themselves and their faith. They were incited by their hatred of Islām to send a delegation to the Negus, bearing gifts to dissuade him from extending his protection and kindness to the refugees. The delegation consisted of 'Amr ibn ul 'Ās and 'Abdullāh ibn Abi Rabi'ah before they accepted Islām and they sought the assistance of the Negus's men to approach him. They offered them gifts and supplied them with reasons for rejecting these refugees. They said: "Some of our foolish people left the religion of their people and did not embrace the King's religion. Instead, they invented a new religion with which neither we nor you are acquainted."
+The idolaters felt terrible at the thought that the emigrants should find a place of refuge for themselves and their faith. They were incited by their hatred of Islām to send a delegation to the Negus, bearing gifts to dissuade him from extending his protection and kindness to the refugees. The delegation consisted of 'Amr ibn al-'Āṣ and 'Abdullāh ibn Abi Rabi'ah before they accepted Islām and they sought the assistance of the Negus's men to approach him. They offered them gifts and supplied them with reasons for rejecting these refugees. They said: "Some of our foolish people left the religion of their people and did not embrace the King's religion. Instead, they invented a new religion with which neither we nor you are acquainted."
 
 They agreed to advise the Negus to expel the refugees. When he was confronted with this matter, the Negus thought it best to examine the case from all angles and listen to both parties concerned. He sent for the Prophet's (ﷺ) Companions and they came, having agreed to speak the truth to him in everything, whether it pleased him or not, and they selected Ja'far ibn Abi Ṭālib (رضي الله عنه) to be their spokesman.
 
 The Negus asked them: "What is this religion because of which you separated from your people and did not convert to my religion or anybody else's religion?"
 
-Ja'far (رضي الله عنه) replied: "O King, we were a people living in ignorance: we worshipped idols, ate carrion, committed all manner of indecencies, treated our relatives and neighbours badly, and the strong among us oppressed the weak. Then Allāh (ﷻ) sent to us a Messenger from among us, whose lineage, truthfulness, trustworthiness and chastity we knew well. He invited us to believe in Allāh's unity and not to associate partners with him, and to give up the worship of idols. He ordered us to be truthful in our speech, to fulfil our trust, to be kind to our kith and kin, to love our neighbours and keep away from the forbidden things and bloodshed. He forbade us immorality, lying and embezzling the orphan's wealth. He ordered us to establish prayer and fast. He enumerated all the principles of Islām, then continued: "So we believed in him and put our trust in him: we forbade what he forbade and we permitted what he permitted. However our people were aggressive towards us: They tormented and persecuted us so that we might relinquish our faith and go back to the worship of idols. So when their oppression became unbearable and they hindered us from practising our religion, we came to your country, choosing you above others and hoping that we should not be wronged in your presence."
+Ja'far (رضي الله عنه) replied: "O King, we were a people living in ignorance: we worshipped idols, ate carrion, committed all manner of indecencies, treated our relatives and neighbours badly, and the strong among us oppressed the weak. Then Allāh (ﷻ) sent to us a Messenger from among us, whose lineage, truthfulness, trustworthiness and chastity we knew well. He invited us to believe in Allāh's unity and not to associate partners with him, and to give up the worship of idols. He ordered us to be truthful in our speech, to fulfil our trust, to be kind to our kith and kin, to love our neighbours and keep away from the forbidden things and bloodshed. He forbade us immorality, lying and embezzling the orphan's wealth. He ordered us to establish prayer, to fast and to pay zakāh. He enumerated all the principles of Islām, then continued: "So we believed in him and put our trust in him: we forbade what he forbade and we permitted what he permitted. However our people were aggressive towards us: They tormented and persecuted us so that we might relinquish our faith and go back to the worship of idols. So when their oppression became unbearable and they hindered us from practising our religion, we came to your country, choosing you above others and hoping that we should not be wronged in your presence."
 
 The Negus said: "Do you remember any of the Revelations which he has brought from Allāh (ﷻ)?" Ja'far (رضي الله عنه) replied in the affirmative and recited to him a portion of Sūrah Maryam. The Negus and his bishops wept upon hearing it, and the Negus, speaking to 'Amr and 'Abdullāh ibn Abi Rabī'ah said: "Surely this and what Jesus brought came from the same niche. Go. By Allāh (ﷻ), I shall never hand them over to you."
 
@@ -1477,7 +1501,7 @@ So they left the palace and 'Amr said to 'Abdullāh: "By God, tomorrow I'll retu
 
 So the Negus again sent for the Muslims, asking them for their opinion of the Messiah, and Ja'far replied: "We say about him what our Prophet (ﷺ) told us: he is Allāh's (ﷻ) servant, messenger and spirit, and His word which He inspired into the Virgin Mary."
 
-The Negus then took up a stick from the ground¹⁸ and said: "Jesus does not exceed what you have said more than the width of this stick." At this his bishops objected, and he said, "Your objection doesn't make any difference." Then he said to the Muslims: "Go in peace. I should not like to have a mountain of gold in return for harming a single man among you!" He returned the Qurayshʼs gift to them and said: "Allāh (ﷻ) did not take any bribe from me so that I might take it from you, and the people did not submit to me so that I might obey them concerning Him."¹⁹
+The Negus then took up a stick from the ground¹⁸ and said: "Jesus does not exceed what you have said more than the width of this stick." At this his bishops objected, and he said, "Your objection doesn't make any difference." Then he said to the Muslims: "Go, you are safe. I should not like to have a mountain of gold in return for harming a single man among you!" He returned the Qurayshʼs gift to them and said: "Allāh (ﷻ) did not take any bribe from me so that I might take it from you, nor did He obey the people concerning me, that I should obey them concerning Him."¹⁹
 
 The Muslims remained in his country, enjoying the best reception. 'Amr's plan fell through and the delegation returned to Makkah in disappointment and failure. The Quraish realized that they could never appease their spite against Islām and the Muslims except within the borders of their jurisdiction. Thus they resolved to vengeance on any of the Muslims who fell into their hands.
 
@@ -1487,7 +1511,7 @@ It is possible that in the dark, heavily clouded sky lightning is produced which
 
 Ḥamzah, son of 'Abdul Muṭṭalib and uncle of the Prophet (ﷺ) as well as his foster brother, was a strong and energetic man. He accepted Islām because of the anger he felt upon hearing that Abū Jahl had abused and attacked the Prophet (ﷺ).
 
-A slave woman belonging to 'Abdullāh ibn Jud'ān, saw the incident and reported it to him, saying: "O Abū 'Amarah! You should have seen what Abul Ḥakam ibn Hishām did to your nephew Muhammad (ﷺ)! He abused him and insulted him, and then left, but Muhammad (ﷺ) never uttered a word."
+A slave woman belonging to 'Abdullāh ibn Jud'ān, saw the incident and reported it to him, saying: "O Abū 'Umārah! You should have seen what Abul Ḥakam ibn Hishām did to your nephew Muhammad (ﷺ)! He abused him and insulted him, and then left, but Muhammad (ﷺ) never uttered a word."
 
 Ḥamzah became infuriated and he hurried to meet Abū Jahl, who was sitting with other members of his clan. He stuck him on the head with his bow, which left a deep gash, and then he said: "Are you abusing him while I belong to his faith?" as the saying goes: "We sought knowledge for worldly life but God insisted that it should be for His faith."
 
@@ -1533,7 +1557,7 @@ Revelation would, however, descend and demand of the Muslims that they should re
 
 (Whether We show you [Muhammad] something of that which We promise them or [whether We] cause you to die, still to Us is their return, and Allāh, moreover, is witness over what they do. And for every nation there is a messenger. When their messenger comes [on the Day of Judgement] it will be judged between them fairly, and they will not be wronged.) (Qur'ān 10: 46-47)
 
-The idolaters too were in hurry to end the struggle between themselves and the Muslims. They were in a hurry because they thought it was an easy victory, and because they did not believe in a resurrection after death or a reward and punishment. It never occurred to them that one day, sooner or later, a dawn would break over Makkah emptied of Idols, when the call of unity would resound in every corner, and when those imprisoned in the valley would be in control while the rulers would be prisoners seeking amnesty! Their conviction that today and tomorrow belonged to them make it easy for them to poke fun at such threats.
+The idolaters too were in hurry to end the struggle between themselves and the Muslims. They were in a hurry because they laughed at it, having no belief in a resurrection after death or in reward and punishment. It never occurred to them that one day, sooner or later, a dawn would break over Makkah emptied of Idols, when the call of unity would resound in every corner, and when those imprisoned in the valley would be in control while the rulers would be prisoners seeking amnesty! Their conviction that today and tomorrow belonged to them make it easy for them to poke fun at such threats.
 
 (And they say: "When will this promise be fulfilled, if you are truthful?" Say: "I have no power to hurt or benefit myself save that which Allāh wishes. For every nation there is an appointed time: When their time comes, then they cannot put it off an hour, nor hasten it." Say: "Have you thought: when His doom comes to you as a raid by night, or in the [busy] day; what is there of it that the guilty ones desire to hasten? "Is it [only] then when it has happened to you, that you will believe? What! [Believe] now when [until now] you have been hastening it on [through disbelief]?) (Qur'ān 10: 48-51)
 
@@ -1545,7 +1569,7 @@ The Ṣaḥābah benefited tremendously from this training and perfected their c
 
 During the days of the blockade the Muslims continued to meet the pilgrims during the season of pilgrimage, and they did not allow their straitened conditions to stop them from conveying the message to every delegation. Suppression does not kill a movement; on the contrary it increases its roots in depth and its branches in length. The Islāmic movement gained many supporters during this period, and gained, besides that, from the fact that the idolaters had started to disgrace among themselves, and were questioning the correctness of what they were doing. In addition, a group of them had begun working to frustrate the boycott and cancel the pact written on the parchment.
 
-The first person to make a successful attempt was Hishām ibn 'Amr, who was very upset about the terrible plight of the Muslims. He went to Zuhayr ibn Abi Umayyah, whose mother was 'Athikah bint 'Abdul Muṭṭalib, and who was very concerned about the Prophet (ﷺ) and the Muslims. He said to Zuhayr: O Zuhayr, are you content to eat food, wear clothes and marry women while your (maternal) uncles are in such a state? I swear by God that if they were the uncles of Abū Hakam (That is, Abū Jahl) and you invited him to do what he invited you to do, he would never respond to you!"
+The first person to make a successful attempt was Hishām ibn 'Amr, who was very upset about the terrible plight of the Muslims. He went to Zuhayr ibn Abi Umayyah, whose mother was 'Ātikah bint 'Abdul Muṭṭalib, and who was very concerned about the Prophet (ﷺ) and the Muslims. He said to Zuhayr: O Zuhayr, are you content to eat food, wear clothes and marry women while your (maternal) uncles are in such a state? I swear by God that if they were the uncles of Abū al-Ḥakam (that is, Abū Jahl) and you invited him to do what he invited you to do, he would never respond to you!"
 
 "What can I do? I am one man. By God, if there was another man with me I should break the pact!"
 
@@ -1593,7 +1617,7 @@ So he went to Zam'ah ibn ul Aswad and spoke to him, mentioning their blood relat
 
 Zam'ah asked: "Is there any helper in this cause?"
 
-'Yes." And he named the others. They climbed to Khatm al Hajum, in upper Makkah, where they assembled and pledged to do their best to destroy the parchment. Zuhayr volunteered to make the first move.
+'Yes." And he named the others. They climbed to Khaṭm al-Ḥajūn, in upper Makkah, where they assembled and pledged to do their best to destroy the parchment. Zuhayr volunteered to make the first move.
 
 So the next morning, when the clans had assembled in their various meeting-places, Zuhayr arrived at the Kab'ah, circumambulated it, and then turned to the people and shouted: "People of Makkah! Shall we eat food and wear clothes while Banū Hāshim are left to perish no-one buying from them or selling to them? By God, I shall not sit down until that cruel pact is destroyed!"
 
@@ -1617,7 +1641,7 @@ Khadījah was one of Allāh's greatest blessings on Muhammad (ﷺ). She supporte
 
 On the other hand, Khadījah was the truthful among women. She showered her love on her husband in the hours of distress; she was the breath of peace and righteousness; she wiped his sweating forehead during the after-effects of Revelation; she remained with him for a quarter of a century; she respected his contemplation, withdrawal and natural characteristics long before Revelation came; she suffered the conspiracies of his enemies, the miseries of the blockade and the pains of the da'wah after Revelation came; and she died while he was in his fiftieth year and she was over 65 years of age. He was faithful to her memory for the rest of his life.
 
-As for Abū Ṭālib, he was of a confusing character. In the same measure as one admires his nobility in bringing up Muhammad (ﷺ), and his courage in defending him as a Prophet after he had proclaimed his Lord's Message and warned his closest relatives, one is perplexed at the way his life ended, and how he insisted with his last breath that he belonged to the faith of his ancestors. The Prophet (ﷺ) was extremely sad at Abū Ṭālib's death: was he not the fortress which protected the daw'ah from the attacks of the arrogant and the foolish? Here he lay dead, the man who had exploited his position and authority to defend his nephew and protect him from any calamity. Now the Quraish did not need to fear anyone any-more in their confrontation with Muhammad (ﷺ). It is reported that the Messenger of Allāh (ﷺ) said: "The Quraish were unable to make me do anything which I disliked until the death of Abū Ṭālib."²⁰
+As for Abū Ṭālib, he was of a confusing character. In the same measure as one admires his nobility in bringing up Muhammad (ﷺ), and his courage in defending him as a Prophet after he had proclaimed his Lord's Message and warned his closest relatives, one is perplexed at the way his life ended, and how he insisted with his last breath that he belonged to the faith of his ancestors. The Prophet (ﷺ) was extremely sad at Abū Ṭālib's death: was he not the fortress which protected the daw'ah from the attacks of the arrogant and the foolish? Here he lay dead, the man who had exploited his position and authority to defend his nephew and protect him from any calamity. Now the Quraish did not need to fear anyone any-more in their confrontation with Muhammad (ﷺ). It is reported that the Messenger of Allāh (ﷺ) said: "The Quraish did not inflict on me anything I disliked until Abū Ṭālib died."²⁰
 
 They became bold in insulting him and they even threw dust on his head. Ibn Mas'ūd reported.
 
@@ -1625,7 +1649,7 @@ They became bold in insulting him and they even threw dust on his head. Ibn Mas'
 
 Abū Jahl said: "Which one of you will take the stomach of so and so's camel and throw it between Muhammad's (ﷺ) shoulders (on his back) when he prostrates?" The most unfortunate of them got up, and when the Prophet (ﷺ) prostrated he threw it on his back, and they all laughed, leaning on one another. I was standing there, looking, and if I had had the protection I should have taken it off his back. However, the Prophet (ﷺ) remained in prostration, not raising his head until someone went and told Fāṭimah. Although she was still a little girl, she came and removed it. Then she turned to them and started abusing them. When the Prophet (ﷺ) finished praying he raised his voice and supplicated against them. It was his habit, whenever he supplicated, to supplicate three times, and whenever he asked, to ask three times.
 
-"Three times he said: "O Allāh (ﷻ), seize the Quraish." When they heard this they stopped laughing, fearful of his supplication. Then he said: "O Allāh (ﷻ), seize Abū Jahl ibn Hishām; 'Utbah ibn Rabi'ah, Shaybah ibn Rabi'ah, Al Walīd ibn 'Utbah, Umayyah ibn Khalaf, 'Uqbah ibn Abi Mu'iṭ," and he mentioned the seventh whom I do not remember. By Him Who sent Muhammad (ﷺ) with the truth, I indeed saw those whom he called killed on the day of Badr and thrown into the trench (which was dug for the dead after the battle)."²¹
+"Three times he said: "O Allāh (ﷻ), seize the Quraish." When they heard this they stopped laughing, fearful of his supplication. Then he said: "O Allāh (ﷻ), seize Abū Jahl ibn Hishām; 'Utbah ibn Rabi'ah, Shaybah ibn Rabi'ah, Al Walīd ibn 'Utbah, Umayyah ibn Khalaf, 'Uqbah ibn Abi Mu'iṭ," and he mentioned the seventh whom I do not remember. By Him Who sent Muhammad (ﷺ) with the truth, I indeed saw those whom he called killed on the day of Badr; then they were dragged to the well, the well of Badr."²¹
 
 Makkah had proceeded along the path of unbelief until she had penetrated deeply into it and reached its limits. Now she was delighting in polluting the prostraters with filth, and was bent double with laughter at the sight of its sliding down their shoulders. There was no space left in these hearts for a speck of goodness. In Arabian society, a daughter lived of her father, proud of his strength and enjoying his protection. What feelings would pass through a man's heart to see himself in a position where he had to be defended by his daughter while he himself was helpless? Muhammad (ﷺ) suppressed his hurt and suffered all the pains for Allāh's sake. Soon he began to think of redirecting his message to another town, which perhaps might respond more quickly and favourably. He consequently took Zayd ibn Ḥāritha along with him and headed toward the tribe of Thaqīf, seeking their support.
 
@@ -1677,7 +1701,7 @@ Al-Mut'im, like Abū Ṭālib, remained in the religion of his ancestors. He was
 
 When the Prophet (ﷺ) was informed of Abū Jahl's question and 'Utbah's reply, he said: "As for you, 'Utbah, you did not get angry for Allāh's sake; you got angry for yourself."
 
-This was because he said it out of clannishness and not out of faith. The Prophet (ﷺ) continued: "And as for you, Abū Jahl, by Allāh (ﷻ), it will not be long before you shall laugh little and cry much. And as for you, people of the Quraish, by Allāh (ﷻ), it will not be long before you enter into that which you are denying." In this comment there is enough evidence of the Prophet's (ﷺ) confidence in a bright future, even though the present might have been heavy with sufferings.
+This was because he said it out of clannishness and not out of faith. The Prophet (ﷺ) continued: "And as for you, Abū Jahl, by Allāh (ﷻ), it will not be long before you shall laugh little and cry much. And as for you, people of the Quraish, by Allāh (ﷻ), it will not be long before you enter into that which you are denying."²⁴ In this comment there is enough evidence of the Prophet's (ﷺ) confidence in a bright future, even though the present might have been heavy with sufferings.
 
 The Prophet (ﷺ) returned to Makkah to resume his previous methods of presenting Islām and conveying the message of Allāh, and while he was in pursuit of his struggle the events of the Isrā' and Mi'rāj took place.
 
@@ -1689,7 +1713,7 @@ By the word Isrā' is meant that strange journey which started from the Sacred M
 
 The Mir'āj and its fruits are mentioned as follows:
 
-(Indeed he saw him [that is, the Angel Gabriel] yet another time, By the lote-tree of the utmost boundary, is the Garden of Abode. When that which shrouds did enshroud the lote-tree, They turned not aside nor yet was overbold. Indeed, he saw one of the greater revelations of his Lord.) (Qur'ān 53: 13-18)
+(Indeed he saw him [that is, the Angel Jibrīl] yet another time, By the lote-tree of the utmost boundary, is the Garden of Abode. When that which shrouds did enshroud the lote-tree, They turned not aside nor yet was overbold. Indeed, he saw one of the greater revelations of his Lord.) (Qur'ān 53: 13-18)
 
 Thus the reason for the Isrā', as the āyah (verse) states, is that Allāh (ﷻ) wanted to show His servant some of His (ﷻ) signs; and the other āyāt explain that the Prophet (ﷺ) did actually see some of these greater signs.
 
@@ -1719,21 +1743,21 @@ It is therefore natural that all should be united in a single reality by Islām'
 
 (When Allāh made [His] covenant with the Prophets, [He said]: behold that which I have given you of the Scripture and knowledge. And afterward there will come to you a messenger, confirming that which you possess. You will believe in him and you will help him. He said: do you agree, and will you take up My burden [which I lay you] in this [matter]? They answered: we agree. He said: then bear witness. I shall be a witness with you.) (Qur'ān 3: 81)
 
-In the authentic sources it is recorded that the Messenger led his brother prophets in two rak'ahs of prayer in the Mosque. This leadership was a plain acknowledgement that Islām was Allāh's last message to the mankind and had taken its final form in the hands of Muhammad (ﷺ) after the noble prophets of Allāh (ﷻ) had prepared the ground for it.
+In the authentic sources it is recorded that the Messenger led his brother prophets in two rak'ahs of prayer in the Farthest Mosque (al-Aqṣā). This leadership was a plain acknowledgement that Islām was Allāh's last message to the mankind and had taken its final form in the hands of Muhammad (ﷺ) after the noble prophets of Allāh (ﷻ) had prepared the ground for it.
 
-To reveal the status of Muhammad (ﷺ) and the faith he preached is not to eulogize him at celebrations organized in his honour. It is to explain the undeniable truth, which was established from the moment heaven undertook the responsibility to guide earth. He came at the time which was ordained for him and which was the most suitable.
+To reveal the status of Muhammad (ﷺ) and the faith he preached is not to eulogize him at celebrations organized in his honour. It is to explain the undeniable truth, which was established from the moment heaven undertook the responsibility to guide earth. This disclosure, however, came at its fitting time.
 
 The struggle which Muhammad (ﷺ) bore on his shoulders on behalf of the da'wah had exposed him to a violent storm of hatred and calumnies and shattered the calm of his followers. Since they had begun to believe in him they had never been able to taste the sweet comfort of family and wealth. The latest of these problems encountered by the da'wah was the Thaqīf's expulsion of the Prophet (ﷺ) and his re-entry into Makkah under the protection of an idolater. The contempt with which the people had looked at him since he had begun his preaching made him seek refuge in the Lord of the mankind with complaint and hope.
 
-Thus as a consolation to the Prophet (ﷺ) and as a blessing, Allāh (ﷻ) prepared this heavenly journey to comfort his heart and make him aware that He had been watching him ever since the day he professed His unity and worship of Him and started to teach the mankind of His unity and worship. He would say: "If you are not angry with me, then I do not care."²⁴
+Thus as a consolation to the Prophet (ﷺ) and as a blessing, Allāh (ﷻ) prepared this heavenly journey to comfort his heart and make him aware that He had been watching him ever since the day he professed His unity and worship of Him and started to teach the mankind of His unity and worship. He would say: "If you are not angry with me, then I do not care."²⁵
 
 Thus that night he knew for certain that Allāh's pleasure with him was boundless and that his position among the best of those whom Allāh (ﷻ) had selected was first and foremost.
 
 The Isrā' and Mi'rāj took place almost midway in the span of prophethood, which lasted for twenty-three years, and so they were a balm for the hardships of the past and a planting of the seeds of success for the future. The sight of some of Allāh's greatest signs in the kingdom of the heavens and the earth must have had a decisive effect in belittling the plots of the unbelievers and their numbers while telling of their ultimate fate.
 
-On this journey Muhammad (ﷺ) knew that his message would spread throughout the earth and settle in the fertile valleys of the Nile and the Euphrates, and that these regions would be wrested from the hands of the Persian fire-worshippers and Trinitarian Romans. In fact, the residents of these places would become the torch-bearers of Islām from generation to generation. This is the meaning of his seeing the Nile and the Euphrates in the heavens. It does not mean that the waters of these two rivers spring from Heaven, as simple-minded and foolish people believe.
+On this journey Muhammad (ﷺ) knew that his message would spread throughout the earth and settle in the fertile valleys of the Nile and the Euphrates, and that these regions would be wrested from the hands of the Persian fire-worshippers and Trinitarian Romans. In fact, the residents of these places would become the torch-bearers of Islām from generation to generation. This is the meaning of his seeing the Nile and the Euphrates in Paradise. It does not mean that the waters of these two rivers spring from Paradise, as simple-minded and foolish people believe.
 
-Al Tirmidhī reported, for example, that the Messenger of Allāh (ﷺ) said: "When one of you is given the rayḥān sweet basil, he should not refuse it for it has come from heaven."²⁵
+Al Tirmidhī reported, for example, that the Messenger of Allāh (ﷺ) said: "When one of you is given the rayḥān sweet basil, he should not refuse it for it has come from heaven."²⁶
 
 Does this prove that the rayḥān is from Heaven, while we are able to pick its flowers in the fields and gardens?
 
@@ -1749,7 +1773,7 @@ When his heart was filled with wonder at the sight of these great signs, Allāh 
 
 You are aware that the fruit of the Isrā' and Mir'āj was that Allāh (ﷻ) showed the Prophet (ﷺ) these great signs, and you may say: "This happened almost twelve years after prophethood, contrary to the case of Moosa (Moses) (عليه السلام)." This is true, and the secret of it is what we have already explained; that miracles in the lives of the previous prophets were meant to subdue their people into belief in their truthfulness. Miracles are thus a support for them, when forced with the wild accusations of their enemies. However, The life of Prophet Muhammad (ﷺ) was above this level.
 
-The Qur'ān took responsibility from the first day for convincing those who had understanding, and miracles came into the Prophet's (ﷺ) life as a form of distinction to his personality and consolation to himself. This did not disturb or paralyse the normal rational method that the Qur'ān employed.²⁶ The idolaters themselves had challenged the Prophet (ﷺ) to ascend into the sky and the reply came from Allāh (ﷻ).
+The Qur'ān took responsibility from the first day for convincing those who had understanding, and miracles came into the Prophet's (ﷺ) life as a form of distinction to his personality and consolation to himself. This did not disturb or paralyse the normal rational method that the Qur'ān employed.²⁷ The idolaters themselves had challenged the Prophet (ﷺ) to ascend into the sky and the reply came from Allāh (ﷻ).
 
 (Say [O Muhammad]: My Lord be glorified! Am I nothing but a mortal messenger?) (Qur'ān 17: 93)
 
@@ -1765,31 +1789,31 @@ The greeting that were exchanged between the Prophet (ﷺ) and his fellow Messen
 
 Any difference between the prophets is a falsehood concocted by those nations who deviated from the straight path, or, more correctly, by the priests and tricksters who trade in religion. In response to that, Muhammad (ﷺ) openly declared that he was a Prophet sent to complete the building which was started by those who preceded him. He said:
 
-"The likeness of me and the prophets before me is the likeness of a man who built a house and perfected and beautified it except for the placing of one brick in one of its corners. The people began circumambulating it with pleasure and wonder! And they were saying: "Will this brick not be set in place?" I am that brick and I am the seal of the prophets."²⁷
+"The likeness of me and the prophets before me is the likeness of a man who built a house and perfected and beautified it except for the placing of one brick in one of its corners. The people began circumambulating it with pleasure and wonder! And they were saying: "Will this brick not be set in place?" I am that brick and I am the seal of the prophets."²⁸
 
 The religions derived from divine revelation are well-known. Not included among them, naturally, are those which the people invented for themselves of idol worship and religious rites such as Hinduism, Budhism, etc. Neither are those cults which have arisen in recent times under the patronage of Western imperialism and which have acquired many supporters in order to strangulate the East and prevent the Muslims from breaking their bondage and rescuing from the slavery of the imperialist. Examples of these are Qadianism and Baha'ism.
 
-It is possible if intentions are sincere and truth is sought that just foundations for religious unity could be set up, and these should be based on respect for common principles and prevention of biased exploitation of the differences until such time as they are eliminated or reduced. Islām, which considers its teachings as a continuation of the early prophecies and as a final brick in its ancient building, will be the first to welcome such a move and support it.
+It is possible if intentions are sincere and truth is sought that just foundations for religious unity could be set up, and these should be based on respect for common principles and prevention of biased exploitation of the differences until such time as they are eliminated or reduced. Islām, which considers its teachings as a continuation of the earlier prophethoods and as a final brick in its ancient building, will be the first to welcome such a move and support it.
 
 ## The Pure Nature
 
 On the night of the Isrā' and Mir'āj the primary characteristic of this faith was highlighted, that it is the religion of nature. The Ḥadīth is as follows:
 
-"Then I was brought a vessel containing wine and another containing milk. I took the milk and he (that is, the angel) said: "It is the true nature which you and your followers stand for."²⁸
+"Then I was brought a vessel containing wine and another containing milk. I took the milk and he (that is, the angel) said: "It is the true nature which you and your followers stand for."²⁹
 
-The purity of nature is the essence of Islām, and it is impossible for the gates of heaven to be opened for a person whose inner nature is corrupt and whose mind is sick. A corrupt nature is like an eye infected with conjunctivitis which discharges impurities as pus. Although these impurities may be hidden under a brightly coloured covering and people may be deceived by it, the Lord of men will never be deceived.
+The purity of nature is the essence of Islām, and it is impossible for the gates of heaven to be opened for a person whose inner nature is corrupt and whose mind is sick. A corrupt nature is like a spring of black mud from which nothing flows but filth and blackness. This loathsome blackness may at times be hidden behind bright colours and embellished appearances.
 
-The day when the acts of worship themselves become a screen for an impure nature, they will be considered the lowest grade of wicked sins. The more the mankind advances in civilization the more it indulges in show and hypocrisy and the more it binds itself to strenuous acts of worship and traditions. Most of these affected airs are nothing but curtains which conceal the bright glare of nature²⁹ and suppress its freshness and purity. There is nothing more hated by Allāh (ﷻ) than that these fetters should be fabricated in the name of religion and that souls should be left imprisoned and miserable in them.
+The day when the acts of worship themselves become a screen for an impure nature, they are considered even lower in rank than flagrant, wicked sins. The more the mankind advances in civilization the more it indulges in show and hypocrisy and the more it binds itself to strenuous acts of worship and traditions. Most of these affected airs are nothing but curtains which conceal the bright glare of nature³⁰ and suppress its freshness and purity. There is nothing more hated by Allāh (ﷻ) than that these fetters should be fabricated in the name of religion and that souls should be left imprisoned and miserable in them.
 
 ## The Institution of Prayer
 
-In the Mi'rāj the five daily prayers were instituted. They were prescribed in heaven so that they might be a Mir'āj which elevated the mankind just as its lusts pulled it down to earth. However, the prayers which Allāh (ﷻ) prescribed are not the prayers performed today by many people. The sign of true prayers is that the performers keep away from despicable things and are ashamed to repeat them. Thus if prayers, which are so often repeated, do not raise those who pray to this level, then they are false prayers. "Prayer is a cleanser,"³⁰ as the Sunnah says. However it is a cleanser for a living person, not for a putrid corpse. Purification removes the accidental dust which accumulates on the living heart. Those things which frequently affect people in their lives and corrode their minds have even more means to remove them. A Ḥadīth of the Prophet (ﷺ) is as follows:
+In the Mi'rāj the five daily prayers were instituted. They were prescribed in heaven so that they might be a Mir'āj which elevated the mankind just as its lusts pulled it down to earth. However, the prayers which Allāh (ﷻ) prescribed are not the prayers performed today by many people. The sign of true prayers is that the performers keep away from despicable things and are ashamed to repeat them. Thus if prayers, which are so often repeated, do not raise those who pray to this level, then they are false prayers. "Prayer is a cleanser,"³¹ as the Sunnah says. However it is a cleanser for a living person, not for a putrid corpse. Purification removes the accidental dust which accumulates on the living heart. Those things which frequently affect people in their lives and corrode their minds have even more means to remove them. A Ḥadīth of the Prophet (ﷺ) is as follows:
 
-"A man's deviations as regards his family, wealth, children, self and neighbours are expiated by fasting, prayers, charity, enjoining good and forbidding evil."³¹
+"A man's deviations as regards his family, wealth, children, self and neighbours are expiated by fasting, prayers, charity, enjoining good and forbidding evil."³²
 
-Prayer will help people whose hearts are dead, although they will always remain in existence until their hearts are revived or they are buried in the earth.
+As for those whose hearts are dead, prayer avails them nothing at all — and so they will remain until their hearts are revived or the earth covers them.
 
-Many ḥadīths have been reported which state that the Messenger of Allāh (ﷺ) saw on this journey a variety of scenes depicting the rewards of the righteous and the punishments of the wicked. The biographies of the Prophet (ﷺ) convey these wonderful scenes as if they took place during the night of the Isrā' and Mir'āj. The truth is however, that they were seen in a dream on another night which was normal like all the others, as is confirmed in the authentic sources.³²
+Many ḥadīths have been reported which state that the Messenger of Allāh (ﷺ) saw on this journey a variety of scenes depicting the rewards of the righteous and the punishments of the wicked. The biographies of the Prophet (ﷺ) convey these wonderful scenes as if they took place during the night of the Isrā' and Mir'āj. The truth is however, that they were seen in a dream on another night which was normal like all the others, as is confirmed in the authentic sources.³³
 
 ## The Quraish and the Isrā'
 
@@ -1797,11 +1821,13 @@ On the morning after this famous incident the Messenger of Allāh (ﷺ) spoke to
 
 Jābir (رضي الله عنه) reported that the Messenger of Allāh (ﷺ) said:
 
-"When the Quraish denounced me, I began describing it as I had watched it!"³³
+"When the Quraish denied me, I stood in the Ḥijr, and Allāh (ﷻ) displayed Jerusalem (Bayt al-Maqdis) before me, so I began describing its features to them while I was looking at it!"³⁴
+
+Dr. Haykal says: "I think that if you asked those who hold that the Isrā' was by the spirit alone about this, they would see nothing marvellous in it, after what science has learnt in our time of the possibility of hypnosis enabling one to speak of things located in distant places. How much more so a spirit which unites in itself the whole spiritual life of the universe, and which can — by the power Allāh has granted it — make contact with the secret of life from the beginning of the universe to its end!"
 
 We do not attach much importance to the way in which the Isrā' and Mir'āj took place. The two incidents were realities and they left their impressions on the mind of the Prophet (ﷺ). He became contented with the praises of his Creator and paid less attention to the ravings of the unbelievers and ignorant people. He stepped up his da'wah activities with the conviction that every day which passed brought him a step closer to certain victory.
 
-Some writers claim that a group of Muslims apostated after the Isrā' and Mir'āj because they disbelieved it. Dr Haikal even adds that the Muslims weakened when this tale was spread on everyones lips and the idolaters dismissed its authenticity. This is all a mistake since neither does the historical evidence prove it³⁴ nor does objective reasoning lead to such a conclusion.
+Some writers claim that a group of Muslims apostated after the Isrā' and Mir'āj because they disbelieved it. Dr. Haykal even adds that the Muslims weakened when this tale was spread on everyones lips and the idolaters dismissed its authenticity. This is all a mistake since neither does the historical evidence prove it³⁵ nor does objective reasoning lead to such a conclusion.
 
 The Prophet (ﷺ) continued along his old path, warning by Revelation everyone whom he met, joining gatherings with his call, attending the seasonal gatherings, following the pilgrims into their homes, walking to the market squares of 'Ukkāz, Majnah and Dhul Majāz, all the time inviting the people to discard the idols and listen to the guidance of the Qur'ān. He asked about the homes of every tribe and visited them. Soliciting them to believe in him, follow him and shield him.
 
@@ -1809,7 +1835,7 @@ However, his uncle, Abū Lahab, would walk behind him, shouting; "Do not obey hi
 
 The reply of the tribes would invariably be: "Your family and relatives know you best! And they would cruelly reject him.
 
-Among the tribes visited by the Prophet (ﷺ) and which rejected him were the following: Fazārah, Ghassān, Murrah, Ḥanīfah, Sulaym, 'Abs, Ba nu al Naḍr, Kindah, Kalb, 'Adhrah, Ḥadarimah, Banū Āmir ibn Ṣa'ṣa'ah, Muḥārib ibn Ḥafṣah, etc. He never found an open heart or a broad mind in any of them. On the contrary, all travellers and residents were advising one another to keep away from him, and they would point him out. A man would return to his tribe from afar and be received by them with these words: "Beware of the man from the Quraish lest he misguide you."
+Among the tribes visited by the Prophet (ﷺ) and which rejected him were the following: Fazārah, Ghassān, Murrah, Ḥanīfah, Sulaym, 'Abs, Banu al Naḍr, Kindah, Kalb, 'Adhrah, Ḥadarimah, Banū Āmir ibn Ṣa'ṣa'ah, Muḥārib ibn Ḥafṣah, etc. He never found an open heart or a broad mind in any of them. On the contrary, all travellers and residents were advising one another to keep away from him, and they would point him out. A man coming from distant parts would be sent off by his people with this advice: "Beware of the youth of Quraish lest he seduce you!"
 
 In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never allowed frustration to befog his mind. He continued patiently in his struggle for the da'wah until finally providence announced the coming of relief.
 
@@ -1835,7 +1861,7 @@ In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never all
 
 ¹⁰ A sound Ḥadīth narrated by Bukhārī and Muslim with two chains of narrators through Abū Hurairah (رضي الله عنه).
 
-¹¹ I did not find this narrator in the list of narrators. There is Ja'far ibn 'Abdullāh ibn Ḥakam, who is a Tabi'i of the tribe of Dus. He narrated from Anas (رضي الله عنه) and the Tabi'in. if he is this person, then the chain is mursal and therefore weak. I did not encounter this ascription being made to him. However, if it is someone else, then I have no knowledge of him.
+¹¹ I did not find this narrator in the list of narrators. There is only Ja'far ibn 'Abdullāh ibn al-Ḥakam, an Anṣārī of the Aws and a younger Tābi'ī, who narrated from Anas (رضي الله عنه) and the Tābi'ūn. If he is this person, then the chain is mursal and therefore weak; I have not found the chain leading to him. However, if it is someone else, then I have no knowledge of him.
 
 ¹² A good and sound Ḥadīth. It is narrated from various authentic sources, which strengthen one another.
 
@@ -1851,37 +1877,39 @@ In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never all
 
 ¹⁸ The Christians of old differed over the nature of Issā (Jesus) (عليه السلام) and split into several sects as a result. There was one sect which considered him to be a human Prophet and not a god or partner of God. In the Christian West there still remain some people who profess this monotheistic faith although the church hierarchy totally disagreed with him.
 
-¹⁹ This story was narrated by Ibn Is-ḥāq in his Al Maghāzī and Aḥmad from him. The chain is good and it was Umm Salmah, wife of the Prophet (ﷺ), who reported it.
+¹⁹ This story was narrated by Ibn Is-ḥāq in his Al Maghāzī and Aḥmad from him. The chain is good and it was Umm Salamah, wife of the Prophet (ﷺ), who reported it.
 
-²⁰ A weak Ḥadīth narrated by Isḥāq as mursal with a sound chain on the authority of 'Urwah ibn Al Zubayr.
+²⁰ A weak Ḥadīth narrated by Ibn Isḥāq as mursal with a sound chain on the authority of 'Urwah ibn Al Zubayr.
 
 ²¹ A sound Ḥadīth narrated by Bukhārī, Muslim, Al Nasā'ī and Aḥmad. It is Abū Is-ḥāq who said he mentioned "the seventh whom I do not remember." He was Al Sabai', as Muslim's narration clarifies. In a version of Bukhārī and Aḥmad, however, the seventh was 'Amarah ibn Al-Walid.
 
-²² This story is narrated by Ibn Isḥāq with a sound chain from Muhammad ibn Ka'b of the Banu Qurayzah as a mursal Ḥadīth. However, the statement "If you refuse, then keep it a secret", and the whole of the du'ā starting "O Allāh (ﷻ) to You I complain…." He quotes without reference. Likewise Ibn Jarīr narrated it through Ibn Is-ḥāq. Al Ṭabarāni also narrated the story from the Ḥadīth of 'Abdullāh Ibn Ja'far (رضي الله عنه) in a shortened form and the du'ā is mentioned in a similar manner. Al Haythami said: "In the chain is Ibn Ishāq and he is a fraud, but the rest of them in the chain are reliable. Thus the Ḥadīth is weak.
+²² This story is narrated by Ibn Isḥāq with a sound chain from Muhammad ibn Ka'b of the Banū Quraydhah as a mursal Ḥadīth. However, the statement "If you refuse, then keep it a secret", and the whole of the du'ā starting "O Allāh (ﷻ) to You I complain…." He quotes without reference. Likewise Ibn Jarīr narrated it through Ibn Is-ḥāq. Al Ṭabarāni also narrated the story from the Ḥadīth of 'Abdullāh Ibn Ja'far (رضي الله عنه) in a shortened form and the du'ā is mentioned in a similar manner. Al Haythami said: "In the chain is Ibn Isḥāq and he is a mudallis (practises tadlīs), but the rest of them in the chain are reliable." Thus the Ḥadīth is weak.
 
 ²³ I did not find any claim for this narration. Ibn Jarīr also mentioned something similar without a chain. He said: "Someone mentioned.." and perhaps this someone is Al Amawi in his Maghāzī since Ibn Kathīr also ascribed it to him without a chain.
 
-²⁴ This Ḥadīth has already been proved weak in the story of Ṭā'if.
+²⁴ Ibn Jarīr (2/82–83), without a chain, as mentioned in the sources of the previous Ḥadīth.
 
-²⁵ A weak Ḥadīth narrated by Al Tirmidhī through Ḥanan, who reported form 'Abū 'Uthmān Al-Nahdi as a mursal Ḥadīth. Apart from it being mursal, Ḥanan is unknown and only Ibn Ḥibbān authenticated him. If the Ḥadīth was sound, it would be more fitting to take its surface meaning, which is that the rayḥān is originally from heaven. This does not mean that whatever we pick in the fields is from heaven also, as the author thinks. Do you not see that when a man says about water in a glass, "this is from Heaven, "he is telling the truth and this meaning is clear? Similar to this is the authentic saying of the Prophet (ﷺ) that four rivers are from heaven. This means that they were originally from heaven, not that they now spring from there.
+²⁵ This Ḥadīth has already been proved weak in the story of Ṭā'if.
 
-²⁶ See my book 'Aqīdat al-Muslim.
+²⁶ A weak Ḥadīth narrated by Al Tirmidhī through Ḥanan, who reported form 'Abū 'Uthmān Al-Nahdi as a mursal Ḥadīth. Apart from it being mursal, Ḥanan is unknown and only Ibn Ḥibbān authenticated him. If the Ḥadīth was sound, it would be more fitting to take its surface meaning, which is that the rayḥān is originally from heaven. This does not mean that whatever we pick in the fields is from heaven also, as the author thinks. Do you not see that when a man says about water in a glass, "this is from the sky", he is telling the truth and this meaning is clear? Similar to this is the authentic saying of the Prophet (ﷺ) that four rivers are from Paradise. This means that they were originally from Paradise, not that they now spring from there.
 
-²⁷ A sound Ḥadīth narrated by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه).
+²⁷ See my book 'Aqīdat al-Muslim.
 
-²⁸ A sound Ḥadīth. It is part of the Ḥadīth reported by Sa'sa ibn Mālik on the Isrā'.
+²⁸ A sound Ḥadīth narrated by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه).
 
-²⁹ See the author's Khuluq al-Muslim and Al-Islām wal-Manāhij al-Ishtirākiyyah.
+²⁹ A sound Ḥadīth. It is part of the Ḥadīth reported by Ṣa'ṣa'ah ibn Mālik [thus in the Arabic original; the narrator is Mālik ibn Ṣa'ṣa'ah — translator's note] on the Isrā'.
 
-³⁰ I am not aware of this wording. Perhaps the author mentioned the meaning. One of the Prophet's (ﷺ) saying in this connection is the following: "What do you think, if there were a stream at the door of one of you and he bathed in it five times a day, would there be any dirt left on him? That is like the five prayers: Allāh (ﷻ) wiped away sins with them." Narrated by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه), and also by the two of them in the chapter "The actions of Allāh's slaves" on the authority of Jābir (رضي الله عنه).
+³⁰ See the author's Khuluq al-Muslim and Al-Islām wal-Manāhij al-Ishtirākiyyah.
 
-³¹ A sound Ḥadīth narrated by Bukhārī and Muslim on the authority of Hudhayfah ibn al-Yaman.
+³¹ I am not aware of this wording. Perhaps the author mentioned the meaning. One of the Prophet's (ﷺ) saying in this connection is the following: "What do you think, if there were a stream at the door of one of you and he bathed in it five times a day, would there be any dirt left on him? That is like the five prayers: Allāh (ﷻ) wiped away sins with them." Narrated by Bukhārī and Muslim on the authority of Abū Hurairah (رضي الله عنه), and, as a ḥadīth of Jābir (رضي الله عنه), by Muslim, and by Bukhārī in his book *Af'āl al-'Ibād* ("The Actions of the Servants").
 
-³² This is a reference to the Ḥadīth of Samurah ibn Jundub (رضي الله عنه), narrated by Bukhārī in several places of his compilation, and by Aḥmad also in his Musnad. However this does not negate the possibility of his having seen some rewards and punishments on the night of the Isrā'. In fact, this is as Anas (رضي الله عنه) reports in a Ḥadīth from the Prophet (ﷺ): "When my Lord took me up to the heavens I passed by a people with long claws of tin with which they were scratching their faces and chests. I asked: Who are these, Jibrīl (عليه السلام)?' He replied:" These are the ones who used to eat the flesh of men and attack their honour." This is narrated by Aḥmad and Abū Dāwūd with a sound chain. It is also narrated as mursal but musnad is more sound. Anas (رضي الله عنه) reports another Ḥadīth about his seeing on the night of the Isrā' the orators who do not practice what they preach. Ibn Ḥibbān narrated it in his authentic collection. On this matter there are a number of other Ḥadīths reported by various Ṣaḥābah, some of which are mentioned by Ibn Kathīr in his Tafsīr of Sūrat al Isrā', and may be used for further reference.
+³² A sound Ḥadīth narrated by Bukhārī and Muslim on the authority of Hudhayfah ibn al-Yaman.
 
-³³ A sound Ḥadīth narrated by Bukhārī, Muslim, Ibn Ḥibbān and others. It is supported by a long Ḥadīth narrated by Aḥmad on the authority of Ibn 'Abbās and its chain is sound.
+³³ This is a reference to the Ḥadīth of Samurah ibn Jundub (رضي الله عنه), narrated by Bukhārī in several places of his compilation, and by Aḥmad also in his Musnad. However this does not negate the possibility of his having seen some rewards and punishments on the night of the Isrā'. In fact, this is as Anas (رضي الله عنه) reports in a Ḥadīth from the Prophet (ﷺ): "When my Lord took me up to the heavens I passed by a people with long claws of tin with which they were scratching their faces and chests. I asked: Who are these, Jibrīl (عليه السلام)?' He replied:" These are the ones who used to eat the flesh of men and attack their honour." This is narrated by Aḥmad and Abū Dāwūd with a sound chain. It is also narrated as mursal but musnad is more sound. Anas (رضي الله عنه) reports another Ḥadīth about his seeing on the night of the Isrā' the orators who do not practice what they preach. Ibn Ḥibbān narrated it in his authentic collection. On this matter there are a number of other Ḥadīths reported by various Ṣaḥābah, some of which are mentioned by Ibn Kathīr in his Tafsīr of Sūrat al Isrā', and may be used for further reference.
 
-³⁴ This is refuted by the Ḥadīth of Ibn 'Abbās in the Musnad: "The Prophet (ﷺ) was taken to Jerusalem by night and he was returned the same night. He spoke to them of his journey to Jerusalem and of their caravan. Upon this some people said: 'Shall we believe what Muhammad (ﷺ) says?' They apostated and became unbelievers, and Allāh (ﷻ) struck their necks off with Abū Jahl…, Its chain is good. Also Ibn Kathīr says in his Tafsīr: "It is narrated by Al Nasā'ī and its chain is sound. I say: this is only one of the many proofs of one fact that the Isrā was in body and soul, a fact to which the respected author does not attach much importance.
+³⁴ A sound Ḥadīth narrated by Bukhārī, Muslim, Ibn Ḥibbān and others. It is supported by a long Ḥadīth narrated by Aḥmad on the authority of Ibn 'Abbās and its chain is sound.
+
+³⁵ This is refuted by the Ḥadīth of Ibn 'Abbās in the Musnad: "The Prophet (ﷺ) was taken to Jerusalem by night and he was returned the same night. He spoke to them of his journey to Jerusalem and of their caravan. Upon this some people said: 'Shall we believe what Muhammad (ﷺ) says?' They apostated and became unbelievers, and Allāh (ﷻ) struck their necks off with Abū Jahl…, Its chain is good. Also Ibn Kathīr says in his Tafsīr: "It is narrated by Al Nasā'ī and its chain is sound. I say: this is only one of the many proofs of one fact that the Isrā was in body and soul, a fact to which the respected author does not attach much importance.
 
 ---
 
@@ -1913,7 +1941,7 @@ Henceforth the leaders of Makkah were at war with Islām, and they considered it
 
 (And how many a town [population] have We destroyed, which was thankless for its means of livelihood [disobeyed Allah, and His Messengers, by doing evil deeds and crimes]! And those are their dwellings, which have not been inhabited after them except a little. And verily! We have been the inheritors.) (Qur'ān 28: 58)
 
-As for the conditions in Yathrib, they were the opposite. Deep rooted enmity between its people had drained their blood, destroyed their unity and made them preoccupied with one another. The perpetual wars had brought them down to such depths that the intelligent were grieved and longed for salvation. The Aus and the Khazraj, who were originally of one stock, were suffering under the yoke of this deadly rivalry, so much, so that, their children inherited it from the cradle and grew up to be enemies of one another. The germ of this antagonism was laid by no other than the Jews.
+As for the conditions in Yathrib, they were the opposite. Deep rooted enmity between its people had drained their blood, destroyed their unity and made them preoccupied with one another. The perpetual wars had brought them down to such depths that the intelligent were grieved and longed for salvation. The Aws and the Khazraj, who were originally of one stock, were suffering under the yoke of this deadly rivalry, so much, so that, their children inherited it from the cradle and grew up to be enemies of one another. The germ of this antagonism was laid by no other than the Jews.
 
 ## The Jews' Handiwork
 
@@ -1921,11 +1949,11 @@ The Jews who had settled in Madīnah and its environs had fled to the Arabian pe
 
 There is no doubt that the Jews are the active people, and wherever they settle, they make great efforts to control the financial sector. Some of them do not mind using cunning and deception to attain their goals. In the Arabian Peninsula they found themselves a minority, and were afraid that if they clashed openly with the Arabs they would be annihilated. They thus resorted to the sowing of enmity between kith and kin. Soon their efforts bore fruit and the Arabs began to destroy one another in a series of wars which had no justification whatsoever. In the meantime the Jews grew stronger, their wealth increased, their fortresses were secured and their influence began to be feared.
 
-A few years before the *Hijra* there occurred a ferocious battle, the battle of Buāth, between the Aus and the Khazraj. The Khazraj had the upper-hand, then the tables were turned and victory favoured the Aus. Both parties were on the verge of annihilating each other when sensible people intervened and advised them to live and let live, for it was better to be the neighbours of their brothers rather than neighbours of the foxes, that is, the Jews.
+A few years before the *Hijra* there occurred a ferocious battle, the battle of Buāth, between the Aws and the Khazraj. The Khazraj had the upper-hand, then the tables were turned and victory favoured the Aws. Both parties were on the verge of annihilating each other when sensible people intervened and advised them to live and let live, for it was better to be the neighbours of their brothers rather than neighbours of the foxes, that is, the Jews.
 
 These tribulations made the people of Madīnah look to Islām with hope when the news of it reached them. Who knew? Perhaps it would give their life new meaning, restore peace among them and raise them spiritually above the Jews.
 
-Ibn Isḥāq reported: When Allāh (ﷻ) wished to make His religion victorious, strengthen His Prophet (ﷺ), and fulfil his promise to him, the Messenger of Allāh (ﷺ) went forth in the pilgrimage season, where he met the group of people from Madīnah. He introduced himself to the Arab tribes, as he would do on every pilgrimage, and while he was at *Al-Aqabah*, he met a group of pilgrims from the Khazraj tribe whom Allāh (ﷻ) wished to benefit. 'Āṣim ibn 'Umar ibn Qatāda (رضي الله عنه) spoke to me of what the elders of his tribe said.
+Ibn Isḥāq reported: When Allāh (ﷻ) wished to make His religion victorious, strengthen His Prophet (ﷺ), and fulfil his promise to him, the Messenger of Allāh (ﷺ) went forth in the pilgrimage season, where he met the group of people from Madīnah. He introduced himself to the Arab tribes, as he would do on every pilgrimage, and while he was at *al-'Aqabah*, he met a group of pilgrims from the Khazraj tribe whom Allāh (ﷻ) wished to benefit. 'Āṣim ibn 'Umar ibn Qatādah spoke to me of what the elders of his tribe said.
 
 "When the Messenger of Allāh (ﷺ) met them, he said: 'Who are you?'
 
@@ -1939,7 +1967,7 @@ He said: 'Won't you sit down and let me talk to you?' They agreed and sat down w
 
 'Āṣim continued: "They responded to his call by believing in him, and they accepted what he offered to them of Islām.
 
-They said: "We have left our people behind with so much enmity and evil among them. Perhaps Allāh (ﷻ) will unite them through you. We shall return to them and invite them to your affair, and we shall explain to them this faith which we have accepted from you. If Allāh (ﷻ) unites them under you, then there will be no man dearer to us than you!" Then they returned to their country, having believed and trusted.²
+They said: "We have left our people behind with so much enmity and evil among them. Perhaps Allāh (ﷻ) will unite them through you. We shall return to them and invite them to your affair, and we shall explain to them this faith which we have accepted from you. If Allāh (ﷻ) unites them under you, then there will be no man mightier than you!" Then they returned to their country, having believed and trusted.²
 
 This small group was the vanguard of a successful campaign for Islām in Yathrib. Their efforts bore fruit rapidly, and there remained not a single home which Islām did not enter. When the year elapsed and the season of pilgrimage came around again, twelve men who had accepted Islām left Madīnah with the intention of meeting the Prophet (ﷺ), and strengthening their faith with him. Among them were the six to whom the Prophet (ﷺ) had spoken in the previous season.
 
@@ -1953,7 +1981,7 @@ The Prophet (ﷺ) met them at 'Aqabah and took from them a pledge to believe in 
 
 This is what Muhammad (ﷺ) was demanding and what *jahilīyah* was objecting to. Would anyone detest these pacts except a criminal who wished evil upon the mankind and corruption upon the earth?
 
-The delegation from Madīnah completed this pledge, and then headed for home. The Prophet (ﷺ) thought it best to send along with it one of his trusted men, who would oversee the growth of Islām in Madīnah, teach its inhabitants the Qur'ān, and give them an insight into their religion. His choice fell on Mus'ab Ibn 'Umayr, who was to be their faithful teacher. Mus'ab met with great success in the propagation of Islām among the people. He was able to overcome the difficulties which always confront someone away from home, and at the same time he strove to encourage the people to change from their familiar traditions to a new system, which encompassed the present and the future, and included both faith and action, behaviour and morals.
+The delegation from Madīnah completed this pledge, and then headed for home. The Prophet (ﷺ) thought it best to send along with it one of his trusted men, who would oversee the growth of Islām in Madīnah, teach its inhabitants the Qur'ān, and give them an insight into their religion. His choice fell on Muṣ'ab ibn 'Umayr, who was to be their faithful teacher. Mus'ab met with great success in the propagation of Islām among the people. He was able to overcome the difficulties which always confront someone away from home, and at the same time he strove to encourage the people to change from their familiar traditions to a new system, which encompassed the present and the future, and included both faith and action, behaviour and morals.
 
 Do not suppose that Mus'ab was like those mercenary missionaries whom Western imperialism thrusts before itself as it marches on the East. You may see one of them crouching beside the bed of a sick man, saying to him: "This glass the Virgin is offering you and this loaf Christ is presenting to you." Or perhaps one of them will open a school with education as its apparent aim, or a refuge with the sole purpose of charity, then he will direct the entrants to the goal he has in mind. This is a form of spiritual dishonesty which hides behind the title of missionary work, and those who represent this mockery find the courage to do their work from the states which send them. So if you see them determined and persevering, do not forget the powers that support them on land and sea and in the air.
 
@@ -1977,11 +2005,11 @@ They said: As'ad, take your hand away. By Allāh (ﷻ), we shall not abandon thi
 
 Ka'b Ibn Mālik (رضي الله عنه) reported:
 
-We slept that night (the night of 'Aqabah) with our people in our camp. When a third of the night had passed, we left the camp for the rendez-vous with the Prophet (ﷺ), slipping away like cats and hiding until we were all assembled in the valley near 'Aqabah. We were seventy-three men and with us were two of our women Naseeba bint Ka'b (رضي الله عنه) and Asma' bint 'Amr ibn 'Adi.
+We slept that night (the night of 'Aqabah) with our people in our camp. When a third of the night had passed, we left the camp for the rendez-vous with the Prophet (ﷺ), slipping away like sandgrouse and hiding until we were all assembled in the valley near 'Aqabah. We were seventy-three men and with us were two of our women Nusaybah bint Ka'b (رضي الله عنها) and Asma' bint 'Amr ibn 'Adi.
 
 We assembled and waited for the Prophet (ﷺ), and he came accompanied by 'Abbās ibn 'Abdul Muṭṭalib, who was still in the religion of the Quraish. Despite this, he had wanted to be present with his nephew and vouch for his integrity. When he sat down, he was the first to speak.
 
-He said: "O people of Yathrib: Muhammad's (ﷺ) status among us is as you know. We have protected him from our people who hold the same opinion about him as we do. He is thus respected among his people and protected in his country. Now he insists on aligning with you and going over to you. If you think that you will be able to fulfil your promise to him and protect him from whoever opposes him, then that is your responsibility! But if you think you are going to betray him and withdraw your support after he has gone over to you, then leave him alone from now on for he is safe in his country."
+He said: "O assembly of the Khazraj⁵: Muhammad's (ﷺ) status among us is as you know. We have protected him from our people who hold the same opinion about him as we do. He is thus respected among his people and protected in his country. Now he insists on aligning with you and going over to you. If you think that you will be able to fulfil your promise to him and protect him from whoever opposes him, then that is your responsibility! But if you think you are going to betray him and withdraw your support after he has gone over to you, then leave him alone from now on for he is safe in his country."
 
 Ka'b (رضي الله عنه) continued:
 
@@ -1989,13 +2017,13 @@ We said to him: "We have heard what you said, so speak, O Messenger of Allāh (�
 
 The Prophet (ﷺ) spoke and recited from the Qur'ān, called to Allāh (ﷻ) and invited us to Islām. Then he said, "I take your pledge that you will protect me from that, which you protect your women and children from."
 
-Then al-Barrā' Ibn Ma'rūr took him by the hand and said: "Yes. By Him who sent you with the truth, we shall protect you from that which we protect our families from. We have made a pledge to you, O Messenger of Allāh (ﷺ), and, by Allāh (ﷻ), we are sons of war, having inherited it from our fathers and grandfathers."
+Then al-Barā' ibn Ma'rūr took him by the hand and said: "Yes. By Him who sent you with the truth, we shall protect you from that which we protect our families from. We have made a pledge to you, O Messenger of Allāh (ﷺ), and, by Allāh (ﷻ), we are sons of war, having inherited it from our fathers and grandfathers."
 
-Abul Haytham ibn al Tahān then interjected and said: "O Messenger of Allāh (ﷺ), we have treaties with the Jews and we are going to annul them. Is it possible that if we do so and then Allāh (ﷻ) grants you victory, then perhaps you will return to your people and leave us?"
+Abū al-Haytham ibn al-Tayyihān then interjected and said: "O Messenger of Allāh (ﷺ), we have treaties with the Jews and we are going to annul them. Is it possible that if we do so and then Allāh (ﷻ) grants you victory, then perhaps you will return to your people and leave us?"
 
-The Prophet (ﷺ) smiled, and then said: "No, blood is blood and destruction is destruction. I am one of you and you of me. I fight whom you fight and make peace with whom you make peace with."
+The Prophet (ﷺ) smiled, and then said: "No: your blood is my blood, and your ruin is my ruin. I am one of you and you of me. I fight whom you fight and make peace with whom you make peace with."
 
-The Prophet (ﷺ) asked them to select twelve chiefs (*naqīb*) from among themselves, and they chose nine from the Khazraj and three from the Aus.⁵ Then he said to them: "You are the guardians of your people just as the disciples were guardians on behalf of Jesus, son of Mary, and I am a guardian over my people."
+The Prophet (ﷺ) asked them to select twelve chiefs (*naqīb*) from among themselves, and they chose nine from the Khazraj and three from the Aws.⁶ Then he said to them: "You are the guardians of your people just as the disciples were guardians on behalf of Jesus, son of Mary, and I am a guardian over my people."
 
 That was the pledge of 'Aqabah with the agreements that were concluded and the discussions that took place.
 
@@ -2007,6 +2035,8 @@ Almost half of the Qur'ān was Revealed in Makkah, and it flowed from the lips o
 
 The Qur'ān also recounted the history of the early believers: how they were sincere to Allāh (ﷻ) and were saved with their Prophets from destruction. It spoke of the unbelievers of the past: how they transgressed and became complacent when Allāh's punishment did not overtake them. They rebelled further until finally Allāh (ﷻ) meted out justice and swept the oppressors away, leaving behind them a trail of destroyed houses and cities.
 
+*They turned and fled, and the face of the earth cursed them, like falsehood routed by the majesty of the truth!!*
+
 This faith in the truth was made by the Prophet (ﷺ) into a catalyst which automatically brought the believers together from all parts of the globe into a strong bond of mutual love and support. Thus the Muslim in Madīnah, although he had not seen his oppressed brother in Makkah, was overflowing with sympathy for him and anger towards his oppressor, and was willing to fight on his behalf. This is what brought the Anṣār from Yathrib, the feelings of love and devotion surging in their hearts, towards the out of sight brothers of faith whom they loved for Allāh's sake.
 
 Abū Mālik al-Ash'ari reported that the Messenger of Allāh (ﷺ) said:
@@ -2015,27 +2045,33 @@ Abū Mālik al-Ash'ari reported that the Messenger of Allāh (ﷺ) said:
 
 Thereupon a bedouin, who was at a little distance, rose on his knees, to the Prophet (ﷺ) and said: "O Messenger of Allāh (ﷺ), a group of people, neither prophets nor martyrs but envied by the prophets and the martyrs for their status and closeness to Allāh (ﷻ)? Describe them to us."
 
-"They are the people from far-off tribes, who are not connected by any close blood relationship, love one another, and have bonded themselves into one rank for Allāh's pleasure. On the Day of Judgement Allāh (ﷻ) will erect pulpits of light for them and they will sit on them. He will make their faces and their clothes shine. The people on the Day of Judgement will be frightened, but not they. They are the friends of Allāh (ﷻ) upon whom no fear shall come nor shall they grieve.⁶
+The Prophet's (ﷺ) face lit up at the bedouin's question, and he said: "They are the people from far-off tribes, who are not connected by any close blood relationship; they love one another for Allāh's sake and are sincere towards one another. On the Day of Judgement Allāh (ﷻ) will erect pulpits of light for them and they will sit on them. He will make their faces and their clothes shine. The people on the Day of Judgement will be frightened, but not they. They are the friends of Allāh (ﷻ) upon whom no fear shall come nor shall they grieve.⁷
 
 Faith in Allāh (ﷻ), and love for His pleasure, brotherhood in His religion and mutual support in His name. All of this was surging through the minds of those who were gathered there in the darkness of that night near Makkah, still in her reckless rejection of faith. The announcement was about to be made that the Helpers (Anṣār) of Allāh (ﷻ) would defend His Prophet (ﷺ) just as they would defend their honour: they would protect him with their lives and no harm could befall him while they were alive.
 
-The idolaters of Makkah thought that they had enclosed Islām within narrow confines, and had harassed the Muslims so much that they were now preoccupied with themselves. So they went to sleep like a criminal who has committed a crime and feels sure that no one saw him. Indeed, during this night the army of truth swore to one another that they would break the back of paganism once and for all and would wipe *jahilīyah* and its supporters off the face of the earth.
+The idolaters of Makkah thought that they had enclosed Islām within narrow confines, and had harassed the Muslims so much that they were now preoccupied with themselves. So they went to sleep like a criminal who has committed a crime and feels safe from retribution.
+
+*You thought well of the days when they treated you well, and did not fear the evil that fate might bring;*
+
+*the nights left you in peace and you were deceived by them — yet it is in the clear nights that trouble arises.*
+
+Yes, during this night the army of truth swore to one another that they would break the back of paganism once and for all and would wipe *jahilīyah* and its supporters off the face of the earth.
 
 A devil from the idolaters was walking among the pilgrims' tents, and on hearing the noise coming from *Al-Aqabah* close by, he was able to guess what was happening. He shouted a warning to the people of Makkah "Muhammad (ﷺ), and his converts have gathered together to wage war on you!" His voice was loud enough to wake the sleepers. The Muslims realized that their plans for the idolaters had been uncovered, but they showed no concern for the consequences.
 
-Sa'd Ibn 'Ubāda (رضي الله عنه) said: "O Messenger of Allāh (ﷺ), by Him Who sent you with the truth, if you wish we shall attack the people of Mina tomorrow with our swords." However, the Prophet (ﷺ) said: "We were not ordered to do that. Return to your camps."
+Sa'd ibn 'Ubādah [thus in the Arabic original; according to Ibn Isḥāq it was al-'Abbās ibn 'Ubādah ibn Naḍlah who said this — translator's note] said: "O Messenger of Allāh (ﷺ), by Him Who sent you with the truth, if you wish we shall attack the people of Mina tomorrow with our swords." However, the Prophet (ﷺ) said: "We were not ordered to do that. Return to your camps."
 
 Ka'b (رضي الله عنه) continued his report, saying:
 
 "When the morning came, some of the leaders of the Quraish approached our camps and said: "O Assembly of Khazraj! we were informed that you have come to our man to take him away from our presence and you have pledged with him to wage war on us. By God, there is no Arab settlement with which we should hate to be at war with more than yourselves."
 
-At this some of the idolaters among us got up and swore that, there was nothing of the sort and that they had no knowledge of such a thing. And they were right: they had no knowledge of it. Ka'b (رضي الله عنه) added: We exchanged glances with one another.⁷
+At this some of the idolaters among us got up and swore that, there was nothing of the sort and that they had no knowledge of such a thing. And they were right: they had no knowledge of it. Ka'b (رضي الله عنه) added: We exchanged glances with one another.⁸
 
-However, circumstances proved the rumour to be true, and so the Quraish went after the people from Madīnah but were unable to catch up with them. The only one they caught was Sa'd Ibn 'Ubada, and they brought him back to Makkah in chains, dragging him by the hair and kicking him. However, Jubayr Ibn Mut'im and Al-Ḥaris Ibn Ḥarb rescued him from them, since Sa'd always used to extend to them his protection in Madīnah.
+However, circumstances proved the rumour to be true, and so the Quraish went after the people from Madīnah but were unable to catch up with them. The only one they caught was Sa'd Ibn 'Ubada, and they brought him back to Makkah in chains, dragging him by the hair and kicking him. However, Jubayr ibn Muṭ'im and al-Ḥārith ibn Ḥarb rescued him from them, since Sa'd always used to extend to them his protection in Madīnah.
 
 ## The Beginning of the Hijrah
 
-The success of Islām in founding a homeland of its own in the middle of a desert surging with disbelief and ignorance was its greatest gain since it began to be propagated. The Muslims called to one another from every corner: Come to Yathrib! The Hijrah was not only an escape from persecution and ridicule, it was in fact a movement to establish a new society in a safe country. It became the duty of all able Muslims to assist in the building of this new homeland and to put their utmost efforts into fortifying it and raising its status among other nations. Leaving Madīnah after migration to it became a shirking of responsibility and a betrayal of Allāh (ﷻ) and His Messenger (ﷺ) for life. In it was part of faith, since the establishment of the faith depended upon the development of Madīnah.
+The success of Islām in founding a homeland of its own in the middle of a desert surging with disbelief and ignorance was its greatest gain since it began to be propagated. The Muslims called to one another from every corner: Come to Yathrib! The Hijrah was not only an escape from persecution and ridicule, it was in fact a movement to establish a new society in a safe country. It became the duty of all able Muslims to assist in the building of this new homeland and to put their utmost efforts into fortifying it and raising its status among other nations. Leaving Madīnah after migration to it became a shirking of the duties of the truth and a withholding of support from Allāh (ﷻ) and His Messenger (ﷺ): living there was itself religion, since the establishment of the religion depended upon the strengthening of Madīnah.
 
 In the twentieth century the Jews have been proud of themselves and have congratulated one another on being able to find a national homeland of their own after having lived for centuries in exile. We deny not the efforts made by the Jews to establish this state, nor the zeal of the immigrants who came from everywhere to live there and revive and develop the place. Nevertheless, how great is the difference between what the Jews have done in the twentieth century, or, to be more precise, what has been done for the Jews in the twentieth century and what was done by Islām and its children for themselves on the day they migrated to Yathrib, saving their *da'wah* and establishing their state.
 
@@ -2047,29 +2083,29 @@ How can we compare this decadence with those personalities whose hearts were ded
 
 Surely the Utopia which the philosophers dream of and as described in books is beneath what these early immigrants accomplished. They proved that a mature faith could transform the mankind into a creation competing with the angels in resplendence and purity. The Muslims with the Prophet's (ﷺ) permission hurried from Makkah and other places to Yathrib, motivated by certainty and guided by confidence.
 
-The Hijrah was not an employee's transfer from a nearby town to a distant one, nor was it the wanderings of a person in search of food from a barren land to a fertile one. It was the coercion of a man with deep roots in his native place to give up his personal interests, sacrifice his wealth and flee empty-handed. It was to make him feel that he was a hounded man, whose life and property were not safe, who might be destroyed at the beginning of the path or at the end of it, and that he was moving toward an obscure future not knowing what trials and tribulations were in-store for him. If it was the adventure of a single individual one might have said he was reckless adventurer. On the contrary, however, it affected the length and breadth of the country; men took their wives and children, and at the same time they were content at heart and their faces were bright. It is nothing but faith which moves mountains and is not aimless. But faith in whom? Faith in Allāh (ﷻ), to whom belong the heavens and the earth, and to whom belongs all praise in this world and the Hereafter, and who is the Wise, the Aware. It is only believers who can bear these difficulties. As for the noisy, confused cowards they are unable to withstand any of that, for they are of those about whom Allāh (ﷻ) says:
+The Hijrah was not an employee's transfer from a nearby town to a distant one, nor was it the wanderings of a person in search of food from a barren land to a fertile one. It was the coercion of a man with deep roots in his native place to give up his personal interests, sacrifice his wealth and flee empty-handed. It was to make him feel that he was a hounded man, whose life and property were not safe, who might be destroyed at the beginning of the path or at the end of it, and that he was moving toward an obscure future not knowing what trials and tribulations were in-store for him. If it was the adventure of a single individual one might have said he was reckless adventurer. On the contrary, however, it affected the length and breadth of the country; men took their wives and children, and at the same time they were content at heart and their faces were bright. It is the faith which outweighs mountains and does not waver! But faith in whom? Faith in Allāh (ﷻ), to whom belong the heavens and the earth, and to whom belongs all praise in this world and the Hereafter, and who is the Wise, the Aware. It is only believers who can bear these difficulties. As for the timid, faint-hearted and anxious they are unable to withstand any of that, for they are of those about whom Allāh (ﷻ) says:
 
 (And if We had decreed for them: Lay down your lives or go forth from your dwellings, few of them would have done it.) (Qur'ān 4: 66)
 
 As for those men who rallied around the Prophet (ﷺ) in Makkah, acquired the rays of a guiding light from him and exhorted one another to the truth and perseverance, they hastened, travelling light, as soon as they were told to migrate to where they would strengthen Islām and be assured of its future.
 
-The idolaters looked around, and suddenly in Makkah there were houses once populated with families but now deserted. 'Utba, 'Abbās and Abū Jahl passed by the house of 'Umar Ibn Rabī'ah (رضي الله عنه) after it was shut up and the owner had migrated with his wife and brother, Aḥmad, who was a blind man. When 'Utba noticed the wind blowing through the window of this desolate house, he recited: "Every home even though it may remain safe for a long time, will one day be afflicted by disaster and outrage."
+The idolaters looked around, and suddenly in Makkah there were houses once populated with families but now deserted. 'Utba, 'Abbās and Abū Jahl passed by the house of 'Umar ibn Rabī'ah (رضي الله عنه) [thus in the Arabic original; according to Ibn Isḥāq it was the house of the Banū Jaḥsh, and the blind brother was Abū Aḥmad ibn Jaḥsh — translator's note] after it was shut up and the owner had migrated with his wife and brother, Aḥmad, who was a blind man. When 'Utba noticed the wind blowing through the window of this desolate house, he recited: "Every home even though it may remain safe for a long time, will one day be afflicted by disaster and outrage."
 
 Then he said: "This home is now deserted by its owners."
 
 Abū Jahl then said to 'Abbās: "This is your nephew's handiwork: he has divided our people, destroyed our unity and separated us." With this statement Abū Jahl displayed perfectly in himself the attitude of tyrants. They are the ones who commit the crime and put the blame on others: they are the ones who oppress the weak, who if they refuse to be subjected, are then the cause of all the problems!
 
-Among the earliest *muhajirīn* (emigrants) were Abū Salma, his wife and his son.
+Among the earliest *muhajirīn* (emigrants) were Abū Salamah, his wife and his son.
 
 When they decided on leaving, his in-laws said to him: "So you are determined to go inspite of us? But we shall not let you take our daughter to wherever you want," and they took his wife away from him.
 
 Upon this his relatives became angry and said: "We shall not leave our son with her since you took her away from our brother."
 
-There ensued a tug-of-war for the boy and his arm came out. They took him away and Abū Salma went alone to Madīnah. For a year 'Umm Salma (Abū Salma's wife) wept over her husband and child in Abṭaḥ, a place where she would go in the morning and stay till evening, Eventually one of her relatives felt sorry for her and urged her parents to release her. They did so, and she retrieved her son from her in-law and migrated to Madīnah.
+There ensued a tug-of-war for the boy and his arm came out. They took him away and Abū Salamah went alone to Madīnah. For a year Umm Salamah (Abū Salamah's wife) wept over her husband and child in Abṭaḥ, a place where she would go in the morning and stay till evening, Eventually one of her relatives felt sorry for her and urged her parents to release her. They did so, and she retrieved her son from her in-law and migrated to Madīnah.
 
 When Ṣuhayb wanted to make the Hijrah, the Quraish said to him: "You came to us as a despised pauper, then your wealth grew with us and you attained your present status. Now you wish to go away with all your wealth. By God, that will not be!"
 
-Ṣuhayb replied: "What do you say, if I give you my wealth, will you let me go?" They said yes, and Ṣuhayb showed them where he kept his wealth. When this news reached the Prophet (ﷺ), he said: "Ṣuhayb has profited!"⁸
+Ṣuhayb replied: "What do you say, if I give you my wealth, will you let me go?" They said yes, and Ṣuhayb showed them where he kept his wealth. When this news reached the Prophet (ﷺ), he said: "Ṣuhayb has profited!"⁹
 
 Thus the *muhajirīn* continued to leave Makkah singly or in small groups until the city was almost emptied of Muslims. The Quraish began to feel that Islām had now acquired a home and a protective fortress, and they became apprehensive of the consequences of this dangerous stage in Muhammad's (ﷺ) *da'wah*. In their vein flowed the instincts of a beast of prey when it is cornered. Although Muhammad (ﷺ) was still in Makkah, he would no doubt soon join his Companions that day or the next, so they had to hurry and catch him before he slipped out of reach.
 
@@ -2081,21 +2117,21 @@ Both of these views were rejected, because they were not feasible. The decision 
 
 (And when those who disbelieve plot against you [Muhammad] to put you infatally, or to kill you or to drive you out; they plot, but Allah [also] plots; Allah is the best of plotters.) (Qur'ān 8: 30)
 
-This decision was not taken in a secret meeting but in a general assembly so it was natural that the Messenger of Allāh (ﷺ) should hear about it and know the reality of his position in Makkah. They were only waiting for the appointed time to execute their plot, and there would be food beforehand as an offering to the idols! In any case the Prophet (ﷺ) would not suggest to his Companions to migrate and not do so himself. He had planned his journey to Yathrib ever since he had urged the Muslims to migrate there. Al Zuhri narrated from 'Urwa who narrated from 'Ā'ishah, May Allāh be pleased with her, that the Messenger of Allāh (ﷺ) said to the Muslims while still in Makkah: "I was shown the home of your migration: I was shown a marshy-land and full of date palms between two mountains."⁹
+This decision was not taken in a secret meeting but in a general assembly so it was natural that the Messenger of Allāh (ﷺ) should hear about it and know the reality of his position in Makkah. They were only waiting for the appointed time to execute their plot, and there would be food beforehand as an offering to the idols! In any case the Prophet (ﷺ) would not suggest to his Companions to migrate and not do so himself. He had planned his journey to Yathrib ever since he had urged the Muslims to migrate there. Al Zuhri narrated from 'Urwa who narrated from 'Ā'ishah, May Allāh be pleased with her, that the Messenger of Allāh (ﷺ) said to the Muslims while still in Makkah: "I was shown the home of your migration: I was shown a marshy-land and full of date palms between two mountains."¹⁰
 
-Thus began the Hijrah of the Muslims to Madīnah, and those, who had migrated to Abyssinia returned and migrated to Madīnah.¹⁰
+Thus began the Hijrah of the Muslims to Madīnah, and those, who had migrated to Abyssinia returned and migrated to Madīnah.¹¹
 
 ## The Hijrah of the Prophet (ﷺ)
 
 When the Prophet (ﷺ) decided to leave Makkah for Madīnah, the following prayer was Revealed to him:
 
-(And say: My Lord! Cause me to come in with a firm entrance and to go out with a firm exit. And give me from your Presence a sustaining power.) (Qur'ān 17: 80)¹¹
+(And say: My Lord! Cause me to come in with a firm entrance and to go out with a firm exit. And give me from your Presence a sustaining power.) (Qur'ān 17: 80)¹²
 
 No-other human being is known, who is more deserving of Allāh's (ﷻ) help than the Prophet (ﷺ), who met with all sorts of afflictions in His (ﷻ) cause. Nevertheless, his deserving of Allāh's aid does not mean that, he was negligent in the slightest of cause and effect. The Messenger of Allāh (ﷺ), accordingly made secure the route of his migration and prepared a plan for every contingency. In his calculations he did not leave anything to chance. It is the nature of believers to take all the normal causes and effects into considerations if there were everything needed for success. Then they place themselves in Allāh's hands, because nothing can take place except by His will.
 
 Thus if people make all possible effort and fulfils their duties, but fail after that, then Allāh (ﷻ) will not blame them. For a defeat over which they had no control. However, this rarely happens unless it is totally beyond their capacity. It often happens that a person does all that is necessary for success and help comes from above, making this success produce double the expected fruit. It is like a ship steered by an experienced captain and also assisted by favourable winds and current, thereby reaching its destination in less than the appointed time.
 
-The migration of the Prophet (ﷺ) from Makkah to Madīnah was of this nature. He asked Abū Bakr (رضي الله عنه) and 'Alī (رضي الله عنه) to remain with him, and gave permission to all the other Muslims to precede him to Madīnah. Abū Bakr (رضي الله عنه) had come to him, asking for permission to leave, and the Prophet (ﷺ) had replied: "Do not hurry. Perhaps Allāh (ﷻ) give you a Companion."¹²
+The migration of the Prophet (ﷺ) from Makkah to Madīnah was of this nature. He asked Abū Bakr (رضي الله عنه) and 'Alī (رضي الله عنه) to remain with him, and gave permission to all the other Muslims to precede him to Madīnah. Abū Bakr (رضي الله عنه) had come to him, asking for permission to leave, and the Prophet (ﷺ) had replied: "Do not hurry. Perhaps Allāh (ﷻ) give you a Companion."¹³
 
 Abū Bakr (رضي الله عنه) felt as if the Prophet meant himself by this statement. He therefore bought two mounts and kept them at home, feeding them in preparation for this event.
 
@@ -2109,7 +2145,7 @@ The Messenger of Allāh (ﷺ) said:
 
 Abū Bakr (رضي الله عنه) replied: "Messenger of Allāh (ﷺ), they are my daughters. What is it? May my father and mother be your ransom."
 
-He Said: "Allāh (ﷻ) has ordered me to leave and migrate."
+He Said: "Allāh (ﷻ) has permitted me to leave and migrate."
 
 Abū Bakr (رضي الله عنه) said: "Companionship, Messenger of Allāh (ﷺ)?"
 
@@ -2119,7 +2155,7 @@ He said: "Companionship."
 
 Abū Bakr (رضي الله عنه) then said: "Prophet of Allāh (ﷺ), I have groomed these two mounts for this."
 
-So they hired 'Abdullāh Ibn Urayqit who was still an idolater to be their guide to Madīnah. They entrusted him with the two mounts and he kept them and groomed them until the appointed time.¹³
+So they hired 'Abdullāh Ibn Urayqit who was still an idolater to be their guide to Madīnah. They entrusted him with the two mounts and he kept them and groomed them until the appointed time.¹⁴
 
 Ibn Isḥāq continued:
 
@@ -2141,9 +2177,9 @@ The events unrolled as they planned. Abū Bakr (رضي الله عنه) had orde
 
 This was the utmost precaution that could be taken, as necessity imposes on any one. The idolaters of Makkah followed the emigrants, keeping a careful eye on all the roads and investigating every refuge. They searched the hills of Makkah and its caves until they arrived quite close to the cave of Thawr. The Prophet (ﷺ) and Abū Bakr (رضي الله عنه) listened to their footsteps near the mouth of the cave. Abū Bakr (رضي الله عنه) felt a tremor and he whispered to the Prophet (ﷺ): "If one of them looked down under his feet he would see us."
 
-The Prophet (ﷺ) replied: "Abū Bakr (رضي الله عنه), what is this thought of two. The third among us is Allāh (ﷻ)."¹⁴
+The Prophet (ﷺ) replied: "Abū Bakr (رضي الله عنه), what do you think of two whose third is Allāh (ﷻ)?"¹⁵
 
-The pursuers apparently became frustrated at not finding them in the vicinity, and they mounted their horses to return home. Aḥmad narrated:
+The pursuers apparently became frustrated at not finding them in the vicinity, and they mounted their horses to return home. Aḥmad narrated:¹⁶
 
 "The idolaters followed the trail until they arrived at the mountain, Mount Thawr; then they were thrown into confusion. They climbed the mountain and passed by the cave. Over its mouth they saw a spider's web, so they said: "If anyone had had entered here, there would be no web over the entrance."
 
@@ -2167,9 +2203,11 @@ It was Allāh's action on behalf of His Prophet (ﷺ) that the enemies' eyes sho
 
 Three nights had passed since the Prophet (ﷺ) had taken shelter in the cave. The idolaters had lost their zeal to look further, so the two emigrants prepared to resume their hard journey. 'Abdullāh Ibn Urayqit came at the appointed time with the mounts which he had groomed for long journey. The travellers loaded up with provisions and set out in the name of Allāh (ﷻ). However, the Quraish were angry at their failure to bring back Muhammad (ﷺ) and his Companion, and so they set the blood money for each of the two as a prize for anyone who brought them back dead or alive. Two hundred or even one hundred camels in the desert were tempting enough for anyone to undergo difficulties and take risks.
 
-The Prophet (ﷺ) estimated that the pursuers would spare no effort to catch him, so he kept on the safe side throughout the journey. He was helped in this by the skill of the guide, who was able to take them along routes which the caravans did not normally use. Then they let the mounts go at full speed.
+The Prophet (ﷺ) estimated that the pursuers would spare no effort to catch him, so he kept on the safe side throughout the journey. He was helped in this by the skill of the guide, who was able to take them along routes which the caravans did not normally use. Then they let the mounts go at full speed, joining day to night.
 
-When they (the Makkans) passed by the district of Madhlaj a man saw them and said: "I have just seen some silhouettes on the coast and I think they are no other than Muhammad (ﷺ) and his Companion." Upon this, the idea of gaining the prize all for himself flashed through the mind of Surāqa Ibn Mālik and he said: "No, they are so and so who have gone out on some errand of their own."
+*The rent of the east wind [the far distance] swallowed the breasts of the camels, and after that no one knew where they were heading.*
+
+When they passed by the encampment of the Banū Mudlij a man saw them and said: "I have just seen some silhouettes on the coast and I think they are no other than Muhammad (ﷺ) and his Companion." Upon this, the idea of gaining the prize all for himself flashed through the mind of Surāqa Ibn Mālik and he said: "No, they are so and so who have gone out on some errand of their own."
 
 He waited a little, then he got up and entered his tent, saying to his servant: "Lead the mare out from behind the tent and I'll meet you behind the hillock."
 
@@ -2181,21 +2219,21 @@ Surāqa mounted his mare once again and spurred her on until he came close to th
 
 He said to the Prophet (ﷺ), both of them bent on reaching their destination: "That is Surāqa Ibn Mālik chasing us!" He had hardly finished this statement when the mare stumbled again, throwing Surāqa off her back. He got up covered with dust and calling for an amnesty! It occurred to Surāqa that the Messenger (ﷺ) was genuine, so he apologized to him and asked him to pray to Allāh (ﷻ) for him.
 
-He offered them his provisions, but they said: "We do not need them. However, you can cover our tracks for us."¹⁵
+He offered them his provisions, but they said: "We do not need them. However, you can cover our tracks for us."¹⁷
 
 He agreed to this and turned back. Along the way he found the people still intent on their search, so whenever he met anyone he tried to dissuade him from pursuit, saying: "This road has already been checked." In the morning he was keen to seek them out, and in the evening he was covering up their tracks!
 
 ## Supplication
 
-Desert travel wears out the strongest people who have no fear for their safety, so what about those who are being pursued and are fearful for their lives? Only one who has experienced it, can understand their circumstances. One day we went out into the heat of the noonday sun and were almost blinded by its white rays reflecting off the sand. So we hurried back, shielding our eyes for fear of being blinded. However, when you spend all day long among never-ending hills and valleys, you begin to see the world covered with dust and dark. Travellers have developed the habit of taking a siesta under any shade, and in low lying lands where everything casts a shadow on them when the sun is in deadline, the languid travellers stir themselves to face the dehydration and sleepiness.
+Desert travel wears out the strongest people who have no fear for their safety, so what about those who are being pursued and are fearful for their lives? Only one who has experienced it, can understand their circumstances. One day we went out into the heat of the noonday sun and were almost blinded by its white rays reflecting off the sand. So we hurried back, shielding our eyes for fear of being blinded. However, when you spend all day long among never-ending hills and valleys, you begin to see the world covered with dust and dark. Travellers have developed the habit of taking their midday rest in any shade, in low-lying lands where at noon everything stands on its own shadow; then, when the sun declines towards setting, the weary mounts move on again, battling dehydration and sleepiness.
 
-The Arabs had the strength to these hardships inspite of the lack of provisions and water. You have already seen that the Prophet (ﷺ), while still a child, had undertaken the same journey with his mother to visit his father's grave and had returned alone. Now he was undertaking it again at the age of 53, not for the purpose of visiting the graves of his parents, who had died in Madīnah, but for the preservation of his message, whose roots had taken a firm hold on the soil of Yathrib after having been rejected by Makkah.
+The Arabs had the strength to these hardships inspite of the lack of provisions and water. You have already seen that the Prophet (ﷺ), while still a child, had undertaken the same journey with his mother to visit his father's grave and had returned alone. Now he was undertaking it again at the age of 53, not for the purpose of visiting the graves of his parents, who had died in Madīnah [thus in the Arabic original; his mother Āminah in fact died at al-Abwā' — translator's note], but for the preservation of his message, whose roots had taken a firm hold on the soil of Yathrib after having been rejected by Makkah.
 
 He was the staunchest of all people in certainty that Allāh (ﷻ) would help him and cause His faith to triumph. Nevertheless, he was still grieved at the harsh reception given to the faith and the stubbornness which he had encountered from the beginning of his mission until he was forced to migrate under these trying circumstances. Here he was, being chased out of Makkah, and its leaders announcing generous rewards for anyone who could kill him.
 
-Abū Na'im narrates that the Messenger of Allāh (ﷺ) made the following supplication when he left Makkah and migrated to Madīnah:
+Abū Nu'aym narrates¹⁸ that the Messenger of Allāh (ﷺ) made the following supplication when he left Makkah and migrated to Madīnah:
 
-"Praise be to Allāh (ﷻ), who created me, though I was nothing. O Allāh (ﷻ), help me bear the might of the word, the vicissitudes of time and the calamities of the nights and days. O Allāh (ﷻ), accompany me on my journey, and replace me in my family, and bless me in what you have provided me. To you I am humble, and in my good character keep me steadfast. Make me, O Lord, beloved to Yourself, and do not leave me to the people. You are the Lord of the oppressed and my Lord. I seek refuge in Your noble countenance by which the heavens and the earth were illuminated, by which the darkness was dispelled, and on which the affairs of the first and the last (of the mankind) were put in order. I seek refuge from Your anger befalling me and Your displeasure overtaking me. I seek refuge in you from the withdrawal of Your bounty and the suddenness of Your vengeance, from the removal of Your blessings and the coming of Your wrath. And there is no power or might save in you."
+"Praise be to Allāh (ﷻ), who created me, though I was nothing. O Allāh (ﷻ), help me bear the might of the word, the vicissitudes of time and the calamities of the nights and days. O Allāh (ﷻ), accompany me on my journey, and replace me in my family, and bless me in what you have provided me. To you I am humble, and in my good character keep me steadfast. Make me, O Lord, beloved to Yourself, and do not leave me to the people. You are the Lord of the oppressed and my Lord. I seek refuge in Your noble countenance by which the heavens and the earth were illuminated, by which the darkness was dispelled, and on which the affairs of the first and the last (of the mankind) were put in order. I seek refuge from Your anger befalling me and Your displeasure overtaking me. I seek refuge in you from the withdrawal of Your bounty and the suddenness of Your vengeance, from the removal of Your blessings and the coming of Your wrath. To You I turn, seeking Your pleasure, as best I can. And there is no power or might save in You."
 
 It is noteworthy that the news of the Prophet's (ﷺ) departure from Makkah spread to every part of the desert. It was, as if, the telegraph wires had taken the news to the farthest corners, and both bedouin and town-dwellers all along the way as far as Yathrib had come to hear it. In fact, Makkah heard about the places through which the Prophet (ﷺ) passed, soon after he departed from them. Men usually enjoy stories of heroism and are excited by all sorts of challenges. They quickly pass on hot news by word of mouth and clothe it with an aura of legend. Many hearts were outstrip with Muhammad (ﷺ) in his bid to his pursuers, and their sentiments were translated into a piece of poetry which was sung everywhere yet its composer was not known!
 
@@ -2203,21 +2241,23 @@ Such was the case as described by Asmā' bint Abi Bakr. She said: "We spent thre
 
 *"May Allāh (ﷻ), the Lord of mankind, shower His choicest blessings on two Companions who visited the tents of Umm Ma'bad.*
 
-*They stayed in the area and then travelled on. And successful is he who becomes Muhammad's (ﷺ) Companion."*
+*They alighted there in righteousness and then travelled on. And successful is he who becomes Muhammad's (ﷺ) Companion.*
 
-Asmā continued: "When we heard this we realized which direction the Messenger of Allāh (ﷺ) had taken: he was heading for Madīna."¹⁶
+*Let the sons of Ka'b rejoice in their maiden's abode, whose seat is a watchpost for the believers!"*
 
-Who was the reciter? The narration says that he was a jinn, and that was the custom of the Arabs in ascribing their poetry: in their eyes every poet had a devil.¹⁷ It is probable that these couplets were composed by a secret believer at Makkah, who was on the lookout for news of the emigrants. He thus declared his joy at the success they were making and found a way to express his hidden feelings by means of this fluent poetry. These couplets refer to an event that took place during the Prophet's (ﷺ) journey. He had passed by the dwellings of Khuza'ah where he had entered the tent of Umm Ma'bad, rested for a while and drunk milk from her goat.
+Asmā continued: "When we heard this we realized which direction the Messenger of Allāh (ﷺ) had taken: he was heading for Madīna."¹⁹
+
+Who was the reciter? The narration says that he was a jinn, and that was the custom of the Arabs in ascribing their poetry: in their eyes every poet had a devil.²⁰ It is probable that these couplets were composed by a secret believer at Makkah, who was on the lookout for news of the emigrants. He thus declared his joy at the success they were making and found a way to express his hidden feelings by means of this fluent poetry. These couplets refer to an event that took place during the Prophet's (ﷺ) journey. He had passed by the dwellings of Khuza'ah where he had entered the tent of Umm Ma'bad, rested for a while and drunk milk from her goat.
 
 ## Arrival at Madīnah
 
-Similarly the news of the great traveller and his Companion had reached Madīnah. Its inhabitants would come out every morning and scan the horizon for signs of his approach and when the sun became too hot they would return to their houses with hopes and fear for the morrow. On 12 Rabi'i in the thirteenth year of the call, the Anṣār, as usual, went outside Madīnah to look for the Prophet (ﷺ). As noon approached and the heat became intense, they began to despair and were about to return to their homes when one of the Jews, who had climbed up a hillock for his own reasons, saw a cloud of dust approaching the city.
+Similarly the news of the great traveller and his Companion had reached Madīnah. Its inhabitants would come out every morning and scan the horizon for signs of his approach and when the sun became too hot they would return to their houses with hopes and fear for the morrow. On 12 Rabī' al-Awwal in the thirteenth year of the call, the Anṣār, as usual, went outside Madīnah to look for the Prophet (ﷺ). As noon approached and the heat became intense, they began to despair and were about to return to their homes when one of the Jews, who had climbed one of their fortified towers for his own reasons, saw a cloud of dust approaching the city.
 
-He shouted at the top of his voice, saying: "O Banū Qaylah! There is your man now arriving! There is your grandfather whom you are awaiting!" The Anṣār hurried to take up arms and greet their Prophet (ﷺ) with the sound of "*Allahu Akbar*" echoing in every corner of Madīnah. Yathrib took on the appearance of a festival with all its exuberance.
+He shouted at the top of his voice, saying: "O Banū Qaylah! There is your man now arriving! Here is your good fortune which you have been awaiting!" The Anṣār hurried to take up arms and greet their Prophet (ﷺ) with the sound of "*Allahu Akbar*" echoing in every corner of Madīnah. Yathrib took on the appearance of a festival with all its exuberance.
 
-Al-Barra' (رضي الله عنه) said:
+Al-Barā' (رضي الله عنه) said:
 
-"The first Companions of the Prophet (ﷺ) to reach us were Mus'ab Ibn 'Umayr (رضي الله عنه) and the son of Umm Maktūm, they began to teach the people the Qur'ān. Next came 'Ammar (رضي الله عنه), Bilāl (رضي الله عنه) and Sa'd (رضي الله عنه), then 'Umar ibn-ul Khaṭṭāb (رضي الله عنه) in a group of twenty riders. Then came the Messenger of Allāh (ﷺ), and I have never seen the people more overjoyed with anything than they were overjoyed with his coming. I even saw the women, children and slave girls saying: "Here is the Messenger of Allāh (ﷺ) who has arrived."¹⁸
+"The first Companions of the Prophet (ﷺ) to reach us were Muṣ'ab ibn 'Umayr (رضي الله عنه) and the son of Umm Maktūm, they began to teach the people the Qur'ān. Next came 'Ammar (رضي الله عنه), Bilāl (رضي الله عنه) and Sa'd (رضي الله عنه), then 'Umar ibn-ul Khaṭṭāb (رضي الله عنه) in a group of twenty riders. Then came the Messenger of Allāh (ﷺ), and I have never seen the people more overjoyed with anything than they were overjoyed with his coming. I even saw the women, children and slave girls saying: "Here is the Messenger of Allāh (ﷺ) who has arrived."²¹
 
 How strange are the contrasts in life and the difference among people! The one whom Makkah sought but failed to kill is warmly received by Madīnah, and its citizens offer him protection, arms and numerous supporters. One noteworthy point was that most of the people of Madīnah had never seen the Prophet (ﷺ) before. So when he arrived they could not at first distinguish him from Abū Bakr (رضي الله عنه), and the women who were watching him from the rooftops were saying: "Which one of them is he?"
 
@@ -2229,7 +2269,7 @@ The Prophet (ﷺ) stayed as the guest of Banu 'Amr Ibn 'Auf for fourteen nights,
 
 A man of faith acts in accordance with it and finds tranquillity wherever it resolves that there should be reception and wider scope for the *dāwah*. People seek happiness in those things to which their minds cling and for which they yearn. They look at the world and they share in it the light of the feelings and thoughts deep down inside them. Thus a seeker after leadership will be content or displeased, will be active or idle in proportion to his closeness to or distance from his beloved target.
 
-Look at Al-Mutanabbi: how much he eulogized and satirized; how he travelled from Syria to Egyt and from Egypt to other places; and look at what he said of others talking about him and his desires: "They ask me, what are you? In every town, and what do you want? What I want is too great to be named." What was too great to name he did mention clearly everywhere else: he asked to be given charge of an estate or a province! In other words, some of that which luck had placed in the hands of kings and masters. And he even sought to fulfil his desire quickly by asking *Kafūr*: "Abul Misk, is there anything left in the cup that I can have? I shall become rich in a short while, and then you will drink."
+Look at Al-Mutanabbi: how much he eulogized and satirized; how he travelled from Syria to Egypt and from Egypt to other places; and look at what he said of others talking about him and his desires: "They ask me, what are you? In every town, and what do you want? What I want is too great to be named." What was too great to name he did mention clearly everywhere else: he asked to be given charge of an estate or a province! In other words, some of that which luck had placed in the hands of kings and masters. And he even sought to fulfil his desire quickly by asking *Kāfūr*: "Abū al-Misk, is there anything left in the cup that I can have? For I have long been singing [your praises] while you drink!"
 
 Al Mutanabbi, in my opinion, was quite capable of being in a high post because of his qualifications. Nevertheless, aspiration for worldly things with such haste and insistence is indicated by Allāh's (ﷻ) will as mentioned in the following āyah (verse):
 
@@ -2245,13 +2285,27 @@ The man who had the greatest mission to fulfil, Muhammad (ﷺ) Ibn 'Abdullāh, m
 
 He had spent 53 years of his life in Makkah until it knew him well, but that day he left it for a new land in which he saw the fulfilment of his heart's desire and the fruits of what he had sown. People whose happiness springs from their hearts, and who are conscientiously committed to their principles, do not revere an environment for itself but for the principles which they see reflected in it. It is small wonder, therefore, that Muhammad (ﷺ) should enter Madīnah with emotion and pride, happy at the victory that Allāh (ﷻ) had granted him and seeing the signs of further victory and prosperity.
 
-A poet from Madīnah said: He had lived with the Quraish for about ten years, wondering if he would ever meet a friend or a pleasant man. He spoke to the pilgrims from afar, yet saw no-one to give him shelter or understand. So when he came to us and his mind was made up, being joyful and pleased at Taybah (Madīnah), and the tyrant far away no longer fearing his will, and he not fearing a rebel from the mankind, we sacrificed our lawful wealth for him and ourselves in times of war and peace. We became foes of his enemies, all of them, even though they had been our bosom friends, and we knew that there was no Lord save Allāh (ﷻ), and the Book of Allāh (ﷻ) was our only guide.
+A poet from Madīnah said:
+
+*He stayed among the Quraish some ten-odd years, reminding them, hoping to meet a friend and helper;*
+
+*he offered himself to the pilgrims at the fairs, but saw none to shelter him and none to heed.*
+
+*Then when he came to us and his journeying came to rest, he became happy and content in Ṭaybah,*
+
+*no longer fearing the oppression of a distant tyrant, nor fearing any aggressor among men.*
+
+*We gave him the best of our wealth, and ourselves too, in battle and in mutual support;*
+
+*we are the enemies of whoever among all men is his enemy, even if he be a sincere, dear friend,*
+
+*and we know that there is no Lord but Allāh (ﷻ), and that the Book of Allāh (ﷻ) has become our guide.*
 
 The organizing of a Hijrah and the reception of the refugees fleeing with their faith from various directions are not easy tasks. In our times such a condition is considered an emergency which needs an immediate solution.
 
 When is the life of a great man ever free from emergencies? It so happened that at the time of the Hijrah Madīnah was suffering from an epidemic of malaria. In just a few days Abū Bakr (رضي الله عنه) and Bilāl (رضي الله عنه) fell ill, and the Ṣaḥaba began to feel upset by the atmosphere of the place which had given them refuge. Soon the feelings of homesickness began to stir in them.
 
-The Prophet (ﷺ) had always urged his Companions to bear hardships and make a greater effort and sacrifice for the cause of Islām. On this occasion he said: "Anyone of my *Ummah* who endures the harshness of Madīnah will have me as his intercessor and witness on the Day of Resurrection, for it will be replaced in it by someone who is better than he."¹⁹
+The Prophet (ﷺ) had always urged his Companions to bear hardships and make a greater effort and sacrifice for the cause of Islām. On this occasion he said: "Anyone of my *Ummah* who endures the harshness of Madīnah will have me as his intercessor and witness on the Day of Resurrection, for it will be replaced in it by someone who is better than he."²²
 
 This was his method of uniting the hearts towards Madīnah so that they might feel love for it, and hate to leave it.
 
@@ -2267,11 +2321,11 @@ And Bilāl (رضي الله عنه), too, would recite these verses when the fev
 
 *and whether I shall one day come down to the waters of Majannah, and whether Shāmah and Ṭafīl (two mountains of Makkah) shall appear to me?*
 
-'Ā'ishah said: "I informed the Messenger of Allāh (ﷺ) of this, and he said: "O Allāh (ﷻ), make Madīnah as beloved to us as Makkah or even more so. O Allāh (ﷻ), make it healthy and bless us in its weights and measures, and remove its fever and place it in Al-Juḥfah.""²⁰
+'Ā'ishah said: "I informed the Messenger of Allāh (ﷺ) of this, and he said: "O Allāh (ﷻ), make Madīnah as beloved to us as Makkah or even more so. O Allāh (ﷻ), make it healthy and bless us in its weights and measures, and remove its fever and place it in Al-Juḥfah.""²³
 
-Anas (رضي الله عنه) reported that the Messenger of Allāh (ﷺ) said: "O Allāh (ﷻ), put in Madīnah double the blessings you put in Makkah."²¹
+Anas (رضي الله عنه) reported that the Messenger of Allāh (ﷺ) said: "O Allāh (ﷻ), put in Madīnah double the blessings you put in Makkah."²⁴
 
-Abū Hurairah (رضي الله عنه) reported: "Whenever the Prophet (ﷺ) was brought the first crop of fruit, he would say: 'O Allāh (ﷻ) bless us in our Madīnah and our fruits, in our weights and our measures, blessings upon blessings. O Allāh (ﷻ), Ibrahim (عليه السلام) was Your servant, prophet and friend, and I am your servant and prophet. He called you to Makkah, and I am calling you to Madīnah with the like of what he called you to Makkah and double that." Then he would give it to the youngest of the children present.²²
+Abū Hurairah (رضي الله عنه) reported: "Whenever the Prophet (ﷺ) was brought the first crop of fruit, he would say: 'O Allāh (ﷻ) bless us in our Madīnah and our fruits, in our weights and our measures, blessings upon blessings. O Allāh (ﷻ), Ibrahim (عليه السلام) was Your servant, prophet and friend, and I am your servant and prophet. He called you to Makkah, and I am calling you to Madīnah with the like of what he called you to Makkah and double that." Then he would give it to the youngest of the children present.²⁵
 
 With this encouragement and concern, the morale of the Muslims rose high, youthful energies were directed into building and the past was forgotten. A pure Hijrah does not take back its gift or recall its sacrifice or cry over what is already done. Instead, it is as the poet says: "When my mind is removed from a thing, I hardly ever look at it again until the end of time."
 
@@ -2279,7 +2333,7 @@ With this encouragement and concern, the morale of the Muslims rose high, youthf
 
 ¹ I see that the author uses the word Yathrib instead of Al-Madīnah or Ṭibah. Beside this word being of *Jahili* origin, there is a disregard here of Allāh's naming of it as ṭibah, as the Ḥadīth of Jābir ibn Samurah states: "They used to call Madīna, Yathrib, then the Messenger of Allāh (ﷺ) named it Ṭibah", narrated by Muslim and Al Tayalisi and the wording belongs to the latter. Muslim's wording is: "Allāh (ﷻ) indeed named Al-Madīnah Ṭabah. "Aḥmad narrated it also in both forms. In this connection Bukhārī also narrated ḥadīths from Abū Ḥumayd, Muslim narrated from Zayd ibn Thabit and Aḥmad narrated from Fāṭimah bint Qays, and their chains are all sound.
 
-The best that we can derive from these ḥadīths is that this usage is disliked (*makrūh*) and that the use of Ṭabah or Ṭibah is advisable (*mustaḥabb*). In fact Aḥmad narrated on the authority of Al-Barra ibn 'Azib that the Prophet (ﷺ) said: "Whoever calls Madīna, Yathrib, should ask Allāh (ﷻ) forgiveness: It is Ṭabah, it is Ṭabah," Al Haythami also narrates it on the authority of Abū Y'ala and says that its chain is strong. However, in Aḥmad's chain there is Yazīd ibn Abi Ziyāda, who is weak. If this Ḥadīth is weak, the previous ones are sufficient evidence. The etiquette (of calling Madīnah by its correct name) was abused by most people so I wanted to draw attention to it.
+The best that we can derive from these ḥadīths is that this usage is disliked (*makrūh*) and that the use of Ṭabah or Ṭibah is advisable (*mustaḥabb*). In fact Aḥmad narrated on the authority of Al-Barā' ibn 'Āzib that the Prophet (ﷺ) said: "Whoever calls Madīna, Yathrib, should ask Allāh (ﷻ) forgiveness: It is Ṭabah, it is Ṭabah," Al-Haythamī also attributes it to [the collection of] Abū Ya'lā and says that its chain is strong. However, in Aḥmad's chain there is Yazīd ibn Abī Ziyād, who is weak. If this Ḥadīth is weak, the previous ones are sufficient evidence. The etiquette (of calling Madīnah by its correct name) was abused by most people so I wanted to draw attention to it.
 
 ² Its chain is good.
 
@@ -2287,47 +2341,53 @@ The best that we can derive from these ḥadīths is that this usage is disliked
 
 ⁴ Aḥmad, Al Ḥakim and Al-Bayhaqi narrated it by way of Ibn Khaytham from Abū Zubayr from Jābir. Al Ḥakim says its chain is sound and Dhahabi agrees with him. Ibn Kathīr says that its chain is good according to Muslim's stipulations. Again, Ibn Ḥajar says: "Aḥmad narrated it with a good chain, and Al Ḥakim and Ibn Hibbān consider it sound." However, I say there is a weakness in it since the chain has Abū Zubayr in it and he was known for *tadlīs*. Nevertheless, perhaps his narration is considered good or sound because there are other sound narration to the same effect. In any case Allāh (ﷻ) knows best.
 
-⁵ A sound Ḥadīth narrated by Ibn Isḥāq in his *Maghāzī*. However, the last part "You are the guardians…" is mursal and therefore weak.
+⁵ He means all the people of Yathrib, both the Aws and the Khazraj.
 
-⁶ A good Ḥadīth narrated by Aḥmad.
+⁶ A sound Ḥadīth narrated by Ibn Isḥāq in his *Maghāzī*. However, the last part "You are the guardians…" is mursal and therefore weak.
 
-⁷ This is from the Ḥadīth of Ka'b Ibn Mālik (رضي الله عنه) mentioned above. An observation here is that the author related the meaning of the first part of the Ḥadīth and not the words, which are as follows: "And when we took the pledge with the Messenger of Allāh (ﷺ), the devil shouted from the head of 'Aqabah in the most piercing tone I had ever heard, and the Prophet (ﷺ) said: 'This is the devil of 'Aqabah this is the son of the devil. Listen, enemy of Allāh (ﷻ), by Allāh (ﷻ), I shall soon apply myself to you.' It cannot be understood from this text that "the devil" refers to one of the idolaters nor is it likely that the Prophet (ﷺ) would say to one of them, "Enemy of Allāh (ﷻ), I shall soon apply myself to you."
+⁷ A good Ḥadīth narrated by Aḥmad.
+
+⁸ This is from the Ḥadīth of Ka'b Ibn Mālik (رضي الله عنه) mentioned above. An observation here is that the author related the meaning of the first part of the Ḥadīth and not the words, which are as follows: "And when we took the pledge with the Messenger of Allāh (ﷺ), the devil shouted from the head of 'Aqabah in the most piercing tone I had ever heard, and the Prophet (ﷺ) said: 'This is the devil of 'Aqabah this is the son of the devil. Listen, enemy of Allāh (ﷻ), by Allāh (ﷻ), I shall soon apply myself to you.' It cannot be understood from this text that "the devil" refers to one of the idolaters nor is it likely that the Prophet (ﷺ) would say to one of them, "Enemy of Allāh (ﷻ), I shall soon apply myself to you."
 
 Our view is supported by the *mursal* Ḥadīth narrated by Al Ṭabarāni on the authority of 'Urwa. In it is this statement: "And the Messenger of Allāh (ﷺ) said: 'Let not this voice scare you. It is the enemy of Allāh (ﷻ), *Iblis*. No-one whom you fear has heard him.'…"
 
-⁸ A sound Ḥadīth narrated by Ibn Hishām as mursal. Al-Ḥākim supplied the links and said it was sound according to the requirements of Muslim. It is supported by a similar Ḥadīth from Ṣuhayb himself.
+⁹ A sound Ḥadīth narrated by Ibn Hishām as mursal. Al-Ḥākim supplied the links and said it was sound according to the requirements of Muslim. It is supported by a similar Ḥadīth from Ṣuhayb himself.
 
-⁹ A sound Ḥadīth narrated by Bukhārī, Al-Ḥākim and Al-Bayhaqī on the authority of 'Ā'ishah, and by Bukhārī, Muslim and Ibn Mājah on the authority of Abū Mūsā.
+¹⁰ A sound Ḥadīth narrated by Bukhārī, Al-Ḥākim and Al-Bayhaqī on the authority of 'Ā'ishah, and by Bukhārī, Muslim and Ibn Mājah on the authority of Abū Mūsā.
 
-¹⁰ They began to return, and this continued until the sixth year of the Hijrah.
+¹¹ They began to return, and this continued until the sixth year of the Hijrah.
 
-¹¹ This is from the Ḥadīth of Ibn 'Abbās, who said "The Messenger of Allāh (ﷺ) was in Makkah, then he was ordered to migrate and this *ayah* was Revealed to him." It is narrated by Al Tirmidhī. Al'Ḥakim, Al Bayhaqi and Aḥmad by way of Qābūs ibn Abū Zibyan from his father from Ibn Abbas. However, Aḥmad's and Al-Bayhaqī's chain does not contain "from his father." Al Tirmidhī said it was a good, sound Ḥadīth, and Al-Ḥakim said, "Its chain is sound and Al Dhahabi has authenticated it."
+¹² This is from the Ḥadīth of Ibn 'Abbās, who said "The Messenger of Allāh (ﷺ) was in Makkah, then he was ordered to migrate and this *ayah* was Revealed to him." It is narrated by Al Tirmidhī. Al'Ḥakim, Al Bayhaqi and Aḥmad by way of Qābūs ibn Abī Ẓabyān from his father from Ibn Abbas. However, Aḥmad's and Al-Bayhaqī's chain does not contain "from his father." Al Tirmidhī said it was a good, sound Ḥadīth, and Al-Ḥakim said, "Its chain is sound and Al Dhahabi has authenticated it."
 
-There is doubt in this statement since Al-Dhahabi has mentioned Abū Zibyan in his *Al Mizan*, and has reported that Ibn Ḥibbān, says about him: He has a bad memory. He reports things from his father which have no basis. Sometimes he would report as *marfū'* what is mursal and as musnad what is *mauqūf*.
+There is doubt about this, since Al-Dhahabī included Qābūs ibn Abī Ẓabyān in his *Al-Mīzān* and reported that Ibn Ḥibbān says about him: He has a bad memory; he alone reports things from his father which have no basis; sometimes he would report as *marfū'* what is mursal and as musnad what is *mauqūf*. For this reason Al-Ḥāfiẓ [Ibn Ḥajar] says of him in the *Taqrīb*: "There is weakness in him."
 
-¹² Narrated by Ibn Isḥāq without a chain. However, its meaning is to be found in the long Ḥadīth of 'Ā'ishah on the Hijrah narrated by Bukhārī. The words are: "And Abū Bakr (رضي الله عنه) prepared himself to go to Madīnah and the Messenger of Allāh (ﷺ) said, 'Take your time for I hope that I shall be given permission.' Abū Bakr said: shall we hope for that? May my father be sacrificed for you? He said yes, so Abū Bakr (رضي الله عنه) stayed behind so as to accompany the Messenger of Allāh (ﷺ), and he groomed two mounts for four months with the leaves of *Samr*." This is also narrated by Aḥmad.
+¹³ Narrated by Ibn Isḥāq without a chain. However, its meaning is to be found in the long Ḥadīth of 'Ā'ishah on the Hijrah narrated by Bukhārī. The words are: "And Abū Bakr (رضي الله عنه) prepared himself to go to Madīnah and the Messenger of Allāh (ﷺ) said, 'Take your time for I hope that I shall be given permission.' Abū Bakr said: shall we hope for that? May my father be sacrificed for you? He said yes, so Abū Bakr (رضي الله عنه) stayed behind so as to accompany the Messenger of Allāh (ﷺ), and he groomed two mounts for four months with the leaves of *Samr*." This is also narrated by Aḥmad.
 
-¹³ Ibn Isḥāq narrated it from his Sheikh, whom he did not name. However, Ibn Ḥarir named him in a report from Ibn Isḥāq as Muhammad Ibn Abdul Rahmān Al-Tamīmī. This Sheikh is not well-known others also narrated this Ḥadīth, e.g. Ibn Jarīr with a sound chain, Bukhārī and Aḥmad.
+¹⁴ Ibn Isḥāq narrated it from his Sheikh, whom he did not name. However, Ibn Jarīr named him in a report from Ibn Isḥāq as Muhammad Ibn Abdul Rahmān Al-Tamīmī. This Sheikh is not well-known others also narrated this Ḥadīth, e.g. Ibn Jarīr with a sound chain, Bukhārī and Aḥmad.
 
-¹⁴ The chain contains 'Uthmān Al-Jazari which the author said is good. Apparently he has followed Ibn Kathīr in this just as Ibn Ḥajar did in his book *Fath al Bāri*. But there is doubt about this since 'Uthmān al-Jazari "is not to be followed in his Ḥadīth," as Al-Aqili says. For this reason Ibn Ḥajar says in his book *Al Taqrīb*, "There is a weakness in him. It is not strengthened either by the Ḥadīth mentioned by Ibn Kathīr and Ibn Ḥajar on the authority of Ḥasan Al-Baṣri, because this Ḥadīth, apart from being mursal, contains Bishār al Khaffāf Ibn Mūsā, who is not trustworthy, as Ibn Mu'in, Al Nasā'ī and others say.
+¹⁵ Ṣaḥīḥ: transmitted by Bukhārī (7/207), Muslim (7/109) and others as a Ḥadīth of Abū Bakr al-Ṣiddīq (رضي الله عنه).
 
-¹⁵ Up to here is narrated by Bukhārī and Al Ḥakim. The rest of the incident apart from the last line is narrated by Muslim. The last but one line is narrated by Muslim. The last line is narrated by both Bukhārī and Aḥmad.
+¹⁶ The chain contains 'Uthmān Al-Jazarī; the author graded this chain as good (ḥasan). Apparently he has followed Ibn Kathīr in this just as Ibn Ḥajar did in his book *Fath al Bāri*. But there is doubt about this since 'Uthmān al-Jazari "is not to be followed in his Ḥadīth," as Al-Aqili says. For this reason Ibn Ḥajar says in his book *Al Taqrīb*, "There is a weakness in him. It is not strengthened either by the Ḥadīth mentioned by Ibn Kathīr and Ibn Ḥajar on the authority of Ḥasan Al-Baṣri, because this Ḥadīth, apart from being mursal, contains Bishār al Khaffāf Ibn Mūsā, who is not trustworthy, as Ibn Mu'in, Al Nasā'ī and others say.
 
-¹⁶ Its isnād is mixed up. Ibn Isḥāq says in his *Sīrah*: "Asmā' bint Abū Bakr said: Three nights passed and we did not know in which direction the Prophet (ﷺ) was heading until a jinn came from lower Makkah, singing verses from the poetry of Arab songs. The people followed him, hearing his voice but not seeing him, until he left from upper Makkah He was saying …" and she mentioned the verses.
+¹⁷ Up to here is narrated by Bukhārī and Al Ḥakim. The rest of the incident apart from the last line is narrated by Muslim. The last but one line is narrated by Muslim. The last line is narrated by both Bukhārī and Aḥmad.
 
-¹⁷ Let me (i.e Nāṣiruddīn) say: If the Arabs had permitted themselves to say this in *Jahilīyah*, was it permissible to them as Muslims? Allāh (ﷻ) had rid their hearts of fancies. Is it permissible to say of Asmā' that she called a believer "*Jinn*" or "*Shaytan*"? What is the need for the author to resort to such farfetched interpretations? Do you not see in the narration of the previous note that the people were following his voice but could not see him? Is this the case of a human being? It would be better for the author to ignore this narration entirely rather than interpret it in this manner. Especially since it is weak.
+¹⁸ Ibn Kathīr (3/187) attributes it to him by way of Muhammad ibn Isḥāq, who said: "I have been told that when the Messenger of Allāh (ﷺ) left Makkah as an emigrant to Allāh, heading for Madīnah, he said…" and he mentions the supplication. I say: this is a weak, *mu'ḍal* chain.
 
-I found this Ḥadīth narrated as *Mursal* by Al-Ḥākim on the authority of Hishām Ibn Habīsh, and he said it had a sound chain. However, there is doubt about this. Al Haythami said: Al Ṭabarāni narrated it but his chain contained a number of men whom I do not know." The Ḥadīth has two other sources which are mentioned by Ibn Kathīr in his *Al Bidāyah*. Thus with its various sources the Ḥadīth is no less than *ḥasan* (Good).
+¹⁹ Its isnād is mu'ḍal (two or more consecutive links are missing). Ibn Isḥāq says in his *Sīrah*: "Asmā' bint Abū Bakr said: Three nights passed and we did not know in which direction the Prophet (ﷺ) was heading until a jinn came from lower Makkah, singing verses from the poetry of Arab songs. The people followed him, hearing his voice but not seeing him, until he left from upper Makkah He was saying …" and she mentioned the verses.
 
-¹⁸ A Ṣaḥīḥ Ḥadīth narrated by Bukhārī and Al Tayālisi.
+²⁰ Let me (i.e Nāṣiruddīn) say: If the Arabs had permitted themselves to say this in *Jahilīyah*, was it permissible to them as Muslims? Allāh (ﷻ) had rid their hearts of fancies. Is it permissible to say of Asmā' that she called a believer "*Jinn*" or "*Shaytan*"? What is the need for the author to resort to such farfetched interpretations? Do you not see in the narration of the previous note that the people were following his voice but could not see him? Is this the case of a human being? It would be better for the author to ignore this narration entirely rather than interpret it in this manner. Especially since it is weak.
 
-¹⁹ Ṣaḥīḥ: narrated by Muslim and Aḥmad on the authority of Sa'd Ibn Abi Waqqās with an inversion of the sentences. Al Bazzār narrated it on the authority of 'Umar (رضي الله عنه) as quoted above, and Al Haythami said its chain was Ṣaḥīḥ.
+Later I found this Ḥadīth narrated with a connected chain (*mawṣūl*) by Al-Ḥākim from the Ḥadīth of Hishām ibn Ḥubaysh; he said it had a sound chain, and Al-Dhahabī agreed. However, there is doubt about what they said. Al Haythami said: Al Ṭabarāni narrated it but his chain contained a number of men whom I do not know." The Ḥadīth has two other sources which are mentioned by Ibn Kathīr in his *Al Bidāyah*. Thus with its various sources the Ḥadīth is no less than *ḥasan* (Good).
 
-²⁰ A sound (ṣaḥīḥ) Ḥadīth narrated by Bukhārī (7/99–219) and Aḥmad (6/65, 221–222, 239–360). Muslim (4/119) narrated it in an abridged form without the verses, as does one narration of Aḥmad (6/56).
+²¹ A Ṣaḥīḥ Ḥadīth narrated by Bukhārī and Al Tayālisi.
 
-²¹ A sound (ṣaḥīḥ) Ḥadīth narrated by Bukhārī (5/78), Muslim (4/115) and Aḥmad (2/142).
+²² Ṣaḥīḥ: narrated by Muslim and Aḥmad on the authority of Sa'd Ibn Abi Waqqās with an inversion of the sentences. Al Bazzār narrated it on the authority of 'Umar (رضي الله عنه) as quoted above, and Al Haythami said its chain was Ṣaḥīḥ.
 
-²² Ṣaḥīḥ: narrated by Muslim.
+²³ A sound (ṣaḥīḥ) Ḥadīth narrated by Bukhārī (7/99–219) and Aḥmad (6/65, 221–222, 239–360). Muslim (4/119) narrated it in an abridged form without the verses, as does one narration of Aḥmad (6/56).
+
+²⁴ A sound (ṣaḥīḥ) Ḥadīth narrated by Bukhārī (5/78), Muslim (4/115) and Aḥmad (2/142).
+
+²⁵ Ṣaḥīḥ: narrated by Muslim.
 
 ---
 
@@ -2349,13 +2409,23 @@ From this point of view the Messenger of Allah (ﷺ), immediately after settling
 
 Concerning the first item, the Messenger of Allah (ﷺ) hastened to build the mosque in which the rites of Islām, which had long been suppressed, could be practised, and in which the prayers could be established, drawing people closer to their Lord and purifying hearts from the filth of the earth and the schemes of worldly life.
 
-According to the report the Prophet (ﷺ) built his mosque where his camel knelt down, in an empty lot belonging to two orphans under the care of As'ad Ibn Zurārah. Although the two boys wished to donate the land for the cause of Allah (ﷻ), the Prophet (ﷺ) insisted on paying the full price for it. This land, before being developed for a mosque like the mosques which abound in our countryside, was once covered with date palms and seeding trees, and had a few tombs belonging to idolaters.
+According to the report the Prophet (ﷺ) built his mosque where his camel knelt down, in an empty lot belonging to two orphans under the care of As'ad Ibn Zurārah. Although the two boys wished to donate the land for the cause of Allah (ﷻ), the Prophet (ﷺ) insisted on paying the full price for it. This land, before being developed for a mosque like the mosques which abound in our countryside, was once covered with date palms and gharqad (boxthorn) trees, and had a few tombs belonging to idolaters.
 
-The Prophet (ﷺ) ordered the palms to be cut down and the tombs to be levelled.¹ The palms were arranged to mark out the qibla of the mosque,² which was Jerusalem in those days. The length of the mosque from the qibla to the back wall was 100 dhirā'³ and the two sides were approximately of the same length. The sides were made of stones and the foundations were dug 3 dhirā' deep and built of bricks. The Prophet (ﷺ) and his Companions joined together in fetching the bricks and stones on their shoulders and they would cheer themselves up by singing: "O Allah (ﷻ), there is no life except the life of the Hereafter, So forgive the Anṣār and the muhajirīn!" The Companions (Ṣahaba) became more enthused with the spirit to work when they saw the Prophet (ﷺ) himself toiling like any of them and disliking to show himself superior to any of them. One of them sang this couplet: "If we sat down while the Messenger was working, that would be a misguided deed on our part."
+The Prophet (ﷺ) ordered the palms to be cut down, the graves¹ to be dug up and the ruins to be levelled. The palms were arranged to mark out the qibla of the mosque,² which was Jerusalem in those days. The length of the mosque from the qibla to the back wall was 100 dhirā'³ and the two sides were approximately of the same length. The sides were made of stones and the foundations were dug 3 dhirā' deep and built of bricks. The Prophet (ﷺ) and his Companions joined together in fetching the bricks and stones on their shoulders and they would cheer themselves up by singing:
+
+*"O Allah (ﷻ), there is no life except the life of the Hereafter,*
+
+*So forgive the Anṣār and the muhajirīn!"*
+
+The Companions (Ṣahaba) became more enthused with the spirit to work when they saw the Prophet (ﷺ) himself toiling like any of them and disliking to show himself superior to any of them. One of them sang this verse:
+
+*"If we sat down while the Messenger was working,*
+
+*that would be a misguided deed on our part!"*
 
 The mosque was completed in all simplicity: its flooring was sand and pebbles, its ceiling palm branches and its pillars the trunks of trees. Perhaps when rain fell the ground would become muddy, and perhaps the dogs were able to pass in and out of the walls.
 
-This simple, humble building nurtured the angels from among people, the educators of mighty personalities and the monarchs of the Hereafter. In this mosque Allah (ﷻ) gave permission to his Prophet (ﷺ) to train the choicest of those who believed in him, and mould them with the discipline of heaven from early morning until the darkness of the night. The status of the mosque in Islāmic society is unique. It is an institution. It is the source of spiritual and material guidance, it is the hall for worship, the school for knowledge and the centre for literary pursuits. Strongly attached to the duty of prayers and the rows of worshippers are moral attitudes and traditions which form the essence of Islām. Now, however, the people, who are incapable of building personalities on the basis of strong morals, have sought consolation in the building of huge mosques containing dwarfish worshippers! In contrast to that were the early generations of believers. They avoided adorning their mosques but purified and disciplined themselves and were a true reflection of Islām.
+This simple, humble building nurtured the angels from among people, the disciplinarians of tyrants and the kings of the Hereafter. In this mosque Allah (ﷻ) gave permission to his Prophet (ﷺ) to train the choicest of those who believed in him, and mould them with the discipline of heaven from early morning until the darkness of the night. The status of the mosque in Islāmic society is unique. It is the source of spiritual and material guidance, it is the hall for worship, the school for knowledge and the centre for literary pursuits. Strongly attached to the duty of prayers and the rows of worshippers are moral attitudes and traditions which form the essence of Islām. Now, however, the people, who are incapable of building personalities on the basis of strong morals, have sought consolation in the building of huge mosques containing dwarfish worshippers! In contrast to that were the early generations of believers. They avoided adorning their mosques but purified and disciplined themselves and were a true reflection of Islām.
 
 The mosque which the Prophet (ﷺ) dedicated his efforts towards building before any other task was not just a piece of land on which prayers alone were offered. In fact, the whole earth is a mosque, and Muslims need not confine themselves to a specific place for the purpose of worship. It was in fact a symbol of that to which Islām attached the utmost importance. It was a symbol of the deep connection between the worshippers and their Lord, which is constantly renewed with the passage of time and recurs throughout the night and day. There can be no value in a civilization which is negligent of the One God, is ignorant of the Last Day and mixes the good with the bad. The civilization which Islām brought constantly reminds people of Allah (ﷻ), and the meeting with Him urges adherence to the good and repudiation of the bad and stays within the limits set by Allah (ﷻ).
 
@@ -2367,7 +2437,7 @@ Al Bayhaqī reported on the authority of 'Abdul Rahmān ibn 'Auf,⁴ who said:
 
 ## The Brotherhood
 
-As regards the second item the relationship of the members of the Ummah with one another the Messenger of Allah (ﷺ) based it on perfect brotherhood. It was brotherhood in which the word "I" was non existent, and individuals moved with the spirit, interests and hopes of the group, unable to see themselves as separate entities detached from it. This brotherhood meant that the racial prejudices of jahilīyah should dissolve; that only for Islām should one show enthusiasm; that all differences of lineage, colour and country should disappear; and that no-one should be placed in front or behind except his/her bravery and piety. The Prophet (ﷺ) made this brotherhood into a contract to be executed, not a mere word and deed linked to blood and wealth, nor a mere greeting muttered by the tongue and having no effect.
+As regards the second item the relationship of the members of the Ummah with one another the Messenger of Allah (ﷺ) based it on perfect brotherhood. It was brotherhood in which the word "I" was non existent, and individuals moved with the spirit, interests and hopes of the group, unable to see themselves as separate entities detached from it. This brotherhood meant that the racial prejudices of jahilīyah should dissolve; that only for Islām should one show enthusiasm; that all differences of lineage, colour and country should disappear; and that no-one should be placed in front or behind except his/her bravery and piety. The Prophet (ﷺ) made this brotherhood into a binding contract, not an empty word; a deed bound up with blood and wealth, not a greeting babbled by tongues and leaving no effect.
 
 The feelings of altruism, beneficence and love were an integral part of this brotherhood and they filled the new society with the most wonderful examples. The Anṣār were so eager to welcome their brothers, the Muhajirīn, that lots had to be drawn for a muhājir to live with an Anṣārī. The Muhajirīn respected this sincere sacrifice and never exploited it nor took from it more than that which enabled them to establish themselves in free, dignified business.
 
@@ -2405,7 +2475,7 @@ Thus inheritance through the contract of brotherhood was abrogated and it remain
 
 (And each we have appointed heirs of that which parents and close relatives leave; and as for those with whom your right hands have made a covenant, give them their due.) (Qur'ān 4: 33)
 
-He said: When the Muhajirīn arrived in Madīnah, a Muhajir would inherit from an Anṣārī to the exclusion of his relatives. This was because of the bond of brotherhood with which the Prophet (ﷺ) had united them. So when the āyah (And unto each We have...) was revealed, this was abrogated then the rest of the āyah was revealed: "and as for those with whom your right hands have made a covenant, give them their due."
+He said: When the Muhajirīn arrived in Madīnah, a Muhajir would inherit from an Anṣārī to the exclusion of his relatives. This was because of the bond of brotherhood with which the Prophet (ﷺ) had united them. So when the āyah (And unto each We have...) was revealed, this was abrogated. Then [Ibn 'Abbās] went on: "and as for those with whom your right hands have made a covenant, give them their due" — that is, support, aid and sincere counsel; inheritance was abolished, but a bequest may be made to them.
 
 In other words, give them their due of support, kindness and advice since they can no longer inherit, although they can still receive something through your will.
 
@@ -2429,7 +2499,7 @@ That the Jews shall spend with the believers as long as they are at war.
 
 That the Jews of the Banū 'Auf are a group of believers, and the Jews shall have the right to keep their religion just as those of the Muslims are entitled to theirs.
 
-That the Jews of the Banū al Najjār, Al-Ḥārith, Sā'idah, Banū Jasham, Banū Aus, etc, shall have the same rights as the Banū 'Auf.
+That the Jews of the Banū al Najjār, Al-Ḥārith, Sā'idah, Banū Jasham, Banū al-Aws, etc., shall have the same rights as the Banū 'Auf.
 
 That the Jews shall bear their own financial burdens and that Muslims shall bear their own, and that they (the Jews and the Muslims) shall assist each other against anyone who wages war on the signatories to this agreement.
 
@@ -2541,7 +2611,7 @@ The Prophet (ﷺ) said:
 
 In another version it says: "The Messenger of Allāh (ﷺ) ordered Bilal (رضي الله عنه) and he proclaimed it.⁹
 
-Az Zuhri says: "Bilal (رضي الله عنه) added to the adhān of the morning prayers: Al salatu khairum minan naum" (twice) and the Prophet (ﷺ) approved it.¹⁰
+Al-Zuhrī says: "Bilal (رضي الله عنه) added to the adhān of the morning prayers: Al salatu khairum minan naum" (twice) and the Prophet (ﷺ) approved it.¹⁰
 
 In another Ḥadīth 'Umar (رضي الله عنه) is said to have seen in his dream someone saying:
 
@@ -2569,7 +2639,7 @@ Then he said: "That's enough now."
 
 'Abdullāh turned to him and saw that his eyes were filled with tears.¹²
 
-In one version there is the addition, said by the Prophet (ﷺ): "A witness as long as I am with them."
+In one version there is the addition, said by the Prophet (ﷺ): "(…a witness over them while I dwelt amongst them…) (Qur'ān 5: 117)".
 
 If people can be guided to the words of the adhān (call for Prayer) by their pure hearts, devoted to the worship of the truth, then there were those Companions of Muhammad (ﷺ) also who had totally imbibed the meaning of faith and dedicated themselves sincerely to the fountain of prophethood to such an extent that Allāh (ﷻ) ordered His Prophet (ﷺ) to recite some of the Sūrahs of the Qur'ān to them as an acclamation of their status with Allāh (ﷻ) and their steadfastness in faith.
 
@@ -2599,7 +2669,7 @@ Muhammad (ﷺ) indeed united the people with their Lord on the basis of acknowle
 
 The government may issue an order to control prices and merchants accept it unwillingly, or an order to lower wages and the employees accept it angrily. You may be able to control a dumb animal and lead it, although it does not know whether it is to food or death. All these are kinds of obedience far removed from the meaning of worship which Allāh (ﷻ) prescribed for mankind.
 
-The words of worship which Allāh (ﷻ) caused us to repeat often in the āyah: (You alone we worship and from you alone we seek help,) and which He (ﷻ) made the purpose of creation in the āyah: (I have not created jinn or men except to worship me,) mean submission coupled with knowledge and love. In other words, it stems for admiration of greatness and appreciation of favour. There are numerous Qur'ānic āyāt which build the believers' attitude on these firm pillars. While acquainting them with Allāh (ﷻ), it shows them shining examples of His wonderful creation and His boundless favours, and it tears away the veils of ignorance and ingratitude from their eyes.
+The words of worship which Allāh (ﷻ) caused us to repeat often in the āyah: (You alone we worship and from you alone we seek help) (Qur'ān 1: 5), and which He (ﷻ) made the purpose of creation in the āyah: (I have not created jinn or men except to worship me) (Qur'ān 51: 56), mean submission coupled with knowledge and love. In other words, it stems for admiration of greatness and appreciation of favour. There are numerous Qur'ānic āyāt which build the believers' attitude on these firm pillars. While acquainting them with Allāh (ﷻ), it shows them shining examples of His wonderful creation and His boundless favours, and it tears away the veils of ignorance and ingratitude from their eyes.
 
 (Allāh is He Who created the heavens and the earth and causes water to descend from the sky, thereby producing fruits as food for you; and makes the ships to be of service to you that they may sail upon the sea at His command, and has made the rivers of service to you. And he makes the sun and the moon, constant in their courses, to be of service to you, and has made the night and the day of service to you. And He gives you all that you ask of Him, and if you counted the bounty of Allāh, you could not reckon it. Indeed, Man is verily a wrongdoer, an ungrateful creature.) (Qur'ān 14: 32-34)
 
@@ -2609,7 +2679,11 @@ One's feelings must play a great role in the matters of faith. They are not Musl
 
 Do you think that when the Prophet (ﷺ) stood at night, praying until his feet became swollen, he used to fight off the pain in his body like the truant pupil who is made to stand for long hours by way of punishment? Of course not. The sweetness of his private talk with Allāh (ﷻ) and his engrossment in humility made him unaware of any pains that might occur owing to the long hours of standing.
 
-An enthusiastic man overflowing with zeal may continue working to such an extent that the less enthusiastic would find it impossible to keep up with him. The weight of affairs in the eyes of those who possess faith and determination is unlike that in the eyes of those who are skeptical or weak-minded. Look at Ḥudhayfah ibn al Yamān when he went off to spy on the idolaters in the Battle of the Trench during a cold wintry night filled with howling winds. He said later about himself: "It was as if I were wading into the jaws of death."
+An enthusiastic man overflowing with zeal may continue working to such an extent that the less enthusiastic would find it impossible to keep up with him. The weight of affairs in the eyes of those who possess faith and determination is unlike that in the eyes of those who are skeptical or weak-minded. Look at Ḥudhayfah ibn al Yamān when he went off to spy on the idolaters in the Battle of the Trench during a cold wintry night filled with howling winds —
+
+*a night on which the dog barks but once, then curls up with its tail wrapped over its nose!!*
+
+He said later about himself: "It was as if I were walking in a warm bath." The warmth of faith had flooded the man, and it carried him into the depths of the cold night.
 
 The strength of his faith made him go into the darkness of the night as if he was an arrow shot accurately at its target.
 
@@ -2659,7 +2733,7 @@ The Prophet (ﷺ) replied:
 
 This Ḥadīth needs explanation. It is not right for virtues to be subjected to differing criteria. The people respected the virtue of faithfulness in al-Samaw'al when he let his son be sacrificed, preferring that he should fulfil his trust and return it safely to the person who trusted him. When people sacrifice themselves to protect their honour, they have carried out their duty.
 
-Muhammad (ﷺ) did not demand of the people that they should sanctify his physical form of flesh and blood, or that they should kill themselves for him to live, or that they should debase themselves for him to attain honours, or that he should be made a god above them as Pharaoh and his family made themselves gods. Muhammad (ﷺ) wished the believers to sanctify the status of prophethood, follow its lofty ideals exemplified in himself, and protect, by way of his person, the landmarks of Revealed truth and the signs of universal mercy.
+Muhammad (ﷺ) did not demand of the people that they should sanctify his physical form of flesh and blood, or that they should kill themselves for him to live, or that they should debase themselves for him to attain honours, or that he should be made a god above them as Pharaoh and tyrants like him made themselves gods. Muhammad (ﷺ) wished the believers to sanctify the status of prophethood, follow its lofty ideals exemplified in himself, and protect, by way of his person, the landmarks of Revealed truth and the signs of universal mercy.
 
 The Prophets do not live for themselves alone and misfortune does not befall them or their families alone. They live for the entire universe. Are they not the center of its complete guidance and general happiness? It is not surprising, therefore, that sacrificing oneself for them should be an integral part of faith and a rung in the ladder of perfection. Muhammad (ﷺ) was indeed a man worthy of love. The world does not know of another man who was so much esteemed by people that they totally dedicated themselves to protecting and surrounding him as was recorded of the bearer of this great message of Islām, Muhammad (ﷺ), son of 'Abdullāh.
 
@@ -2679,7 +2753,7 @@ Those who lived with Muhammad (ﷺ), however, loved him to the point of insanity
 
 Their love for him was only because the perfection which he had attained, and which is usually only a dream, was not seen in any other human being.
 
-Thaubān, the close associate of the Prophet (ﷺ), loved him exceedingly and could not bear to part company with him. One day when he approached him, his face was pale and he looked sad. The Prophet (ﷺ) asked him what was the matter, and he replied:
+Thawbān, the close associate of the Prophet (ﷺ), loved him exceedingly and could not bear to part company with him. One day when he approached him, his face was pale and he looked sad. The Prophet (ﷺ) asked him what was the matter, and he replied:
 
 O Messenger of Allāh (ﷺ), I have no pain or sickness except that whenever I do not see you I feel extremely miserable until I am able to meet you. Moreover, whenever I remember the Hereafter, I become afraid that I shall not see you because you will be raised to the lofty mansions (illiyīn) with the Prophets, and if I enter heaven I shall be at a lower level than you, and if I do not enter it I shall never have the chance of seeing you again.
 
@@ -2691,7 +2765,7 @@ In one Ḥadīth, the Prophet (ﷺ) said: "A person shall be with whom he loves.
 
 This refers to the love of an ideal example, not the love of lust. When people love someone who has similar or higher qualities than themselves, then the basis of such a love is that their hearts are receptive towards the noble qualities and innate abilities with which nature has endowed him or her.
 
-The marks of bravery and generosity are not welcomed by those who are cowardly or miserly. They are welcomed only by those who possess them to some extent and are on their way to perfecting what they lack. It is a bounty of Allāh, therefore, that He has caused the great people to be surrounded by those who love them, the beauty of greatness. Thus Allāh (ﷻ) says after the previously quoted āyah:
+The marks of bravery and generosity are not welcomed by those who are cowardly or miserly. They are welcomed only by those who possess them to some extent and are on their way to perfecting what they lack. It is a bounty of Allāh, therefore, that He joins to the great those who love in them the beauty of greatness. Thus Allāh (ﷻ) says after the previously quoted āyah:
 
 (Such is the bounty of Allāh, and Allāh suffices as knower.) (Qur'ān 4: 70)
 
@@ -2705,13 +2779,13 @@ Look at the cheerfulness of overpowering emotions, how it paints the horizons in
 
 Ḥasan, son of 'Alī (رضي الله عنه), asked Hind ibn Abi Hālah to describe the Messenger of Allāh (ﷺ) and he described his physical features as follows:
 
-He walked modestly but briskly, with long strides. When he walked it was as if he was descending a slope that is, descending with force, and when he turned he turned with his whole body. His gaze was lowered, and he looked at the earth much more than he looked at the sky. His gaze was not noticeable, that is, he did not stare. He led his Companions and he first greeted anyone he meets with a salām.
+He walked modestly but briskly, with long strides. When he walked it was as if he was descending a slope that is, descending with force, and when he turned he turned with his whole body. His gaze was lowered, and he looked at the earth much more than he looked at the sky. His gaze was not noticeable, that is, he did not stare. He let his Companions walk ahead of him and he was the first to greet anyone he meets with a salām.
 
 Hassan said: "Describe to me his way of talking."
 
 Hind replied:
 
-The Messenger of Allāh (ﷺ) was continually sad, always preoccupied. He was never at rest and he never spoke without need. He remained silent for long periods. He began and finished his speech with clear pronunciation without mumbling. He spoke few but comprehensive words and to the point. He said nothing superfluous nor did he say too little. His tone was mild neither harsh nor deriding. He magnified a blessing even though it might be small. He never criticized anything, and he never criticized nor praised a man of taste for what he ate. His anger was great if an attack was made on the truth, and could not be suppressed until he defended the truth. He would not, however, get angry if he was attacked, nor would he defend himself, out of forbearance. When he pointed with his whole arm and when he was surprised he would raise his arms. When he became angry he would turn away and when he became joyful he would lower his head. His laugh was less than a smile and he would become listless in a hailstorm or the like.
+The Messenger of Allāh (ﷺ) was continually sad, always preoccupied. He was never at rest and he never spoke without need. He remained silent for long periods. He began and finished his speech with clear pronunciation without mumbling. He spoke few but comprehensive words and to the point. He said nothing superfluous nor did he say too little. His tone was mild neither harsh nor deriding. He magnified a blessing even though it might be small. He never criticized anything, and he never criticized nor praised any food he tasted. His anger was great if an attack was made on the truth, and could not be suppressed until he defended the truth. He would not, however, get angry if he was attacked, nor would he defend himself, out of forbearance. When he pointed with his whole arm and when he was surprised he would raise his arms. When he became angry he would turn away and when he became joyful he would lower his head. His laughter was mostly a smile, revealing teeth like hailstones.
 
 Hind described his relationship with the people in this way:
 
@@ -2723,11 +2797,13 @@ The Messenger of Allāh (ﷺ) never sat down or stood up without mentioning All�
 
 As regards his character, he said:
 
-He was always pleasant and easygoing. He was neither hard nor rude nor foul-mouthed. He neither scolded too much nor praised too much. He ignored what he did not like but did not become disheartened at it. He kept himself from three things: showing off, excessiveness and what did not concern him; and he kept three things from the people: he did not find fault with anyone, nor abuse anyone, nor seek out the weaknesses of anyone. He spoke only of those things from which he hoped to gain blessings. When he spoke, his audience would bow their heads as if there were birds sitting upon them. When he kept quiet, then they would speak, and they did not rival one another to speak in front of him. I was one of them who spoke in his audience. They would all listen until he had finished. Their statement was the statement of the first person to speak. He laughed at what they laughed at and wondered at what they wondered at. He would be patient with a stranger's uncouth manner of speaking, and he would say: "If you see a needy person seeking help, then assist him," and he would not seek appreciation except from someone capable."²¹
+He was always pleasant and easygoing. He was neither hard nor rude nor foul-mouthed. He neither scolded too much nor praised too much. He ignored what he did not like but did not become disheartened at it. He kept himself from three things: showing off, excessiveness and what did not concern him; and he kept three things from the people: he did not find fault with anyone, nor abuse anyone, nor seek out the weaknesses of anyone. He spoke only of those things from which he hoped to gain blessings. When he spoke, his audience would bow their heads as if there were birds sitting upon them. When he kept quiet, then they would speak, and they did not rival one another to speak in front of him. I was one of them who spoke in his audience. They would all listen until he had finished. Their statement was the statement of the first person to speak. He laughed at what they laughed at and wondered at what they wondered at. He would be patient with a stranger's uncouth manner of speaking, and he would say: "If you see a needy person seeking help, then assist him," and he would accept praise only from one who was repaying a favour."²¹
 
 This is a rough outline of how the people saw the marks of perfection in the lifestyle of the "Praised" Prophet (ﷺ). However, It is not possible to fathom the depths of the qualities and attributes possessed by him. Detailed knowledge of great people cannot be possessed by every person, not to speak of that great man whose entire character was the Qur'ān. The community which he produced for the mankind in Madīnah had reached the pinnacle. They worked and strove only for Allāh (ﷻ), and pushed ahead to the aspired goal with joy and confidence. They flocked around their Prophet (ﷺ) as students would flock around their teacher, or as soldiers would flock around their general, or as children would flock around their loving father. They stood together shoulder to shoulder in strong bonds of brotherhood, and they were a single soul in many bodies and cemented bricks in a well-constructed building. They wished to establish relation with others on the basis of justice and righteousness: thus no innocent person would be wronged in their presence, and no-one in distress would be deprived of their kind concern.
 
-They considered those who accepted Islām to be free of their past, in spite of the attacks they might have previously made on their community. So there would be no examination of the past of those who cleansed themselves of their jahilīyah and repented to their Lord. On the contrary, they would join the Muslim community as noble and respected members of it, their past sins forgiven, so that they might turn over a new leaf and start his new life with good deeds. As for those who remained disbelievers and strove to impede the progress of Islām, it was essential to equip oneself to fight them until the earth was purified of their disbelief and enmity.
+They considered those who accepted Islām to be free of their past, in spite of the attacks they might have previously made on their community. So there would be no examination of the past of those who cleansed themselves of their jahilīyah and repented to their Lord. On the contrary, they would join the Muslim community as noble and respected members of it, their past sins forgiven, so that they might turn over a new leaf and start his new life with good deeds. As for those who remained disbelievers and strove to impede the progress of Islām, it was essential to equip oneself to fight them until the earth was purified of their disbelief and enmity:
+
+(Lo! those who disbelieve and deal in wrong, Allāh will never forgive them, neither will He guide them unto a road, Except the road of hell, wherein they will abide for ever. And that is ever easy for Allāh.) (Qur'ān 4: 168-169)
 
 That group of believers toiled for Allāh's pleasure and spent their days and nights in worshipping Him. They had resigned themselves to one of two alternatives: either to live for Allāh (ﷻ) or to die in His cause. If you made an attempt to balance the Muslims of those times against the rest of the mankind, you would find that all the factors of preference were in their favour, while on the other hand, other nations were constantly shaken by tribulations. It was no wonder, therefore, that within a few years they had become a youthful state executing the commands of Allāh (ﷻ) without interference.
 
@@ -2743,29 +2819,29 @@ It is worth mentioning here that 'Ā'ishah started living with the Prophet (ﷺ)
 
 ³ A dhirā' is equivalent to a cubit, an ancient linear measure equal to the length of a forearm.
 
-⁴ This is a mistake. Al-Bayhaqī reported it from Abū Salāmah ibn 'Abdul-Rahmān ibn 'Auf. This is how Ibn Kathīr quoted it in Al-Bidāyah, then he declared it to be mursal (therefore weak). Ibn Jarīr narrated with a sound chain another version of the first khutba which is totally different from this. This Ḥadīth is also weak owing to some complications.
+⁴ This is a mistake. Al-Bayhaqī reported it from Abū Salamah ibn 'Abdul-Rahmān ibn 'Auf. This is how Ibn Kathīr quoted it in Al-Bidāyah, then he declared it to be mursal (therefore weak). Ibn Jarīr narrated with a sound chain from Sa'd ibn 'Abd al-Raḥmān al-Jumaḥī that the text of the Prophet's (ﷺ) sermon at his first Friday prayer in Madīnah had reached him — and it is totally different from Abū Salamah's version. This al-Jumaḥī narrates from the Followers of the Tābi'ūn (such as Hishām ibn 'Urwah), so this version too is weak, because it is mu'ḍal.
 
 ⁵ A sound Ḥadīth narrated by Bukhārī on the authority of Ibn 'Abbās.
 
 ⁶ I say that there is no support here since the brotherhood referred to is more specific than that relationship [between Mūsā (عليه السلام) and Hārūn (عليه السلام)], and what is more specific cannot be proved by what is more general. Thus the brotherhood must be proved by a specific reference to it. I have studied the Ḥadīth on this issue and have found that they all contain a liar in their chains.
 
-The most famous of them is the Ḥadīth narrated by Al Tirmidhī and Al-Ḥākim by way of Ḥākim ibn Jubayr from Jami'i bn 'Umayr from 'Umar. This narration says that the Prophet (ﷺ) united his Companions in brotherhood, and 'Alī (رضي الله عنه) came to him, his eyes wet with tears, and said, "O Messenger of Allah (ﷺ), you have united your Companions in brotherhood and you have not united me with anyone.
+The most famous of them is the Ḥadīth narrated by Al Tirmidhī and Al-Ḥākim by way of Ḥakīm ibn Jubayr from Jumay' ibn 'Umayr from Ibn 'Umar. This narration says that the Prophet (ﷺ) united his Companions in brotherhood, and 'Alī (رضي الله عنه) came to him, his eyes wet with tears, and said, "O Messenger of Allah (ﷺ), you have united your Companions in brotherhood and you have not united me with anyone.
 
 The Prophet (ﷺ) replied: "You are my brother in this world and the Hereafter.
 
-Al Tirmidhī says: "This is a good and strong Ḥadīth."
+Al Tirmidhī says: "This is a ḥasan gharīb Ḥadīth."
 
-Al-Mubarakpuri commented on this Ḥadīth and said that Ḥākim ibn Jubayr was weak and suspected of being a Shi'ah. I say that both he and Al Tirmidhī missed the real weakness of the Ḥadīth, which is that Jam'ī bin 'Amir was a rāfiḍa (belonging to an extremist group) who fabricated. He also said: 'Amir was one of the worst liars."
+Al-Mubarakpuri commented on this Ḥadīth and said that Ḥakīm ibn Jubayr was weak and accused of Shī'ite leanings. I say that both he and Al Tirmidhī missed the real weakness of the Ḥadīth, which is this Jumay' ibn 'Umayr. Al-Dhahabī says in *Al-Mīzān*: "Ibn Ḥibbān said: a Rāfiḍī who fabricated ḥadīth; and he said that 'Umayr [sic] was one of the most mendacious of people."
 
 Al Dhahabi then quoted this Ḥadīth.
 
-The Ḥadīth in question is also reported by Sālim ibn Abū Ḥanīfah al Kahili, and Al-Kāhili has been declared a liar by Ibn Abi Shaybah and Mūsā ibn Hārūn. Also Dārquṭnī says: "He is one who fabricates Ḥadīth."
+The Ḥadīth in question is also reported by Sālim ibn Abī Ḥanīfah al-Kāhilī — Al-Ḥākim cited it as a corroboration of Ḥakīm ibn Jubayr — and Al-Dhahabī remarked in the *Talkhīṣ*: "Jumay' is accused [of lying], and al-Kāhilī is ruined." I say: Al-Kāhilī has been declared a liar by Ibn Abī Shaybah and Mūsā ibn Hārūn. Also Dārquṭnī says: "He is one who fabricates Ḥadīth."
 
 Whoever wishes to study the remaining Ḥadīth and their weaknesses can refer to Al-Majm'a and Al-La'lī Maṣnū'ah.
 
 ⁷ Ibn Isḥāq narrated this document without ascription (chain of narrators).
 
-⁸ Narrated by Ibn Is-ḥāq in his Al-Maghāzī He said: 'Muhammad ibn Ibrāhīm Al Harith reported to me from Muhammad ibn 'Abdullāh ibn Zayd ibn Tha'labah from his father..." and this is a good chain. It was also narrated by Abū Dawūd, Darimi, Ibn Majah, Al-Dārquṭnī, Bayhaqī and Ahmad, all by Ibn Ishāq. Al Tirmidhī narrated it in a shortened form and he said it was a good and sound Ḥadīth. A number of other scholars consider it a sound Ḥadīth and I have mentioned their names in my book Ṣaḥīḥ Sunan Abi Dāw'ūd.
+⁸ Narrated by Ibn Is-ḥāq in his Al-Maghāzī He said: 'Muhammad ibn Ibrāhīm Al Harith reported to me from Muhammad ibn 'Abdullāh ibn Zayd ibn Tha'labah from his father..." and this is a good chain. It was also narrated by Abū Dawūd, Darimi, Ibn Majah, Al-Dārquṭnī, Bayhaqī and Ahmad, all by Ibn Ishāq. Al Tirmidhī narrated it in a shortened form and he said it was a good and sound Ḥadīth. A number of other scholars consider it a sound Ḥadīth and I have mentioned their names in my book Ṣaḥīḥ Sunan Abī Dāwūd.
 
 ⁹ There is no need for this version since it already corresponds with the first.
 
@@ -2785,15 +2861,15 @@ Whoever wishes to study the remaining Ḥadīth and their weaknesses can refer t
 
 ¹⁷ An authentic Ḥadīth narrated by Al Tirmidhī, Ibn Mājah, Al-Ḥākim and Aḥmad. Al Tirmidhī said it was an authentic Ḥadīth, Al Ḥakim said it was according to the stipulations of Bukhārī and Muslim, and Al Dhahabī agreed with him.
 
-¹⁸ Narrated by Al Wāhidī in Asbab al Nuzūl on the authority of Al Kalbī. Apart from the fact that there is a disturbance in its chain, Al Kalbī is a noted liar. However, the same Ḥadīth is also narrated by Al Ṭabarānī in Al Mu'jam al Saghīr, by Abū Na'im in Al-Ḥulyah from the same chain, and Al-Wāhidī from him. Also ibn Mardawaih and Al-Muqaddisī narrated on the authority of 'Ā'ishah without the question "What is the matter?" Al-Muqaddisi says of it: "I do not see anything wrong in its chain." It is also supported by a Ḥadīth reported by Ibn 'Abbās and other versions reported by Sa'id ibn Jubayr and others. They are all quoted by Ibn Kathīr in Al Bidayah.
+¹⁸ Narrated by Al Wāhidī in Asbab al Nuzūl on the authority of Al Kalbī. Apart from its being mu'ḍal, Al Kalbī is a noted liar. However, the same Ḥadīth is also narrated by Al Ṭabarānī in Al Mu'jam al Saghīr, by Abū Nu'aym in Al-Ḥilyah from the same chain, and Al-Wāhidī from him. Also ibn Mardawaih and Al-Muqaddisī narrated on the authority of 'Ā'ishah without the question "What is the matter?" Al-Muqaddisi says of it: "I do not see anything wrong in its chain." It is also supported by a Ḥadīth reported by Ibn 'Abbās and other versions reported by Sa'id ibn Jubayr and others. They are all quoted by Ibn Kathīr in Al Bidayah.
 
 ¹⁹ A sound Ḥadīth narrated by Bukhārī and Muslim on the authority of Anas (رضي الله عنه), Ibn Mas'ūd and Abū Mūsā. It is a mutawatir Ḥadīth, as affirmed by Ibn Kathīr and others, that is, it is reported through numerous authentic chains.
 
 ²⁰ An authentic Ḥadīth narrated by Al Tirmidhī, Al-Ḥākim and Aḥmad. Tirmidhī said it was a sound Ḥadīth, and Al-Ḥākim said it was sound according to the conditions of Muslim. Al Dhahabī agreed with this classification, and it is indeed as they say. Al Dārimi also narrated it in a similar manner and his chain is also sound according to the conditions of Muslim. This version is also narrated by Al-Ḥākim and Aḥmad.
 
-²¹ A weak Ḥadīth narrated at length by Al Tirmidhī in Al Shamā'il on the authority of Jamī' ibn 'Amr, who said: "It was reported to me by a man from the Banū Tamīm, of the children of Abū Hālah, and he is called Abū 'Abdullāh Ibn Abi Hālah, and he heard it from Hasan, son of 'Alī (رضي الله عنه)." This is a weak chain since Jami is weak, and about him Abū Dawūd says: "I fear he may be liar."
+²¹ A weak Ḥadīth narrated at length by Al Tirmidhī in Al Shamā'il on the authority of Jamī' ibn 'Amr, who said: "It was reported to me by a man from the Banū Tamīm, of the descendants of Abū Hālah, the husband of Khadījah, who is called Abū 'Abdullāh, from a son of Abū Hālah, from Al-Ḥasan ibn 'Alī (رضي الله عنه)." This is a weak chain since Jami is weak, and about him Abū Dawūd says: "I fear he may be liar."
 
-Also Abū 'Abdullāh is unknown, while Hind ibn Abi Hālah has not been assessed as authentic or not. Abū Dawūd says about this Ḥadīth. "I fear it may have been fabricated," and Bukhārī indicated that It was not authentic.
+Also Abū 'Abdullāh is unknown, while the son of Abū Hālah, Hind ibn Abī Hālah, is mastūr (neither criticized nor declared reliable). Abū Dawūd says about this Ḥadīth. "I fear it may have been fabricated," and Bukhārī indicated that It was not authentic.
 
 ²² An authentic Ḥadīth narrated by Bukhārī and Muslim on the authority of 'Ā'ishah. In one of Bukhārī's versions she is reported to have said: "Ṣalāh was made compulsory as two rak'at. Then the Prophet (ﷺ) migrated and four were prescribed, while the prayers when travelling were left as before."
 
@@ -2823,7 +2899,7 @@ In accordance with the dictates of Revelation and the politics of the times, and
 
 This Ḥadīth emphasizes the forceful effect that accurate aim has on winning a battle, and shooting is broad enough to cover arrows, bullets or bombs.
 
-Faqīm Al-Lahmi said:
+Fuqaym al-Lakhmī said:
 
 "I said to 'Uqbah ibn 'Āmir: "You still go between these two targets although you are an old man and it is hard on you!"
 
@@ -2843,7 +2919,7 @@ I heard the Messenger of Allāh (ﷺ) saying:
 
 'Uqbah ibn 'Āmir (رضي الله عنه) again reported that he heard the Messenger of Allāh (ﷺ) saying:
 
-"Indeed God Almighty brings three people into paradise on account of one arrow:
+"Indeed Allāh (ﷻ) brings three people into Paradise on account of one arrow:
 
 1. The maker, who expects a good reward for his deed;
 2. The one who shoots it; and
@@ -2869,10 +2945,10 @@ When the Muslims had settled in, they began sending out armed flying columns whi
 
 1. In Ramaḍān of the first year, Ḥamzah, leading a party of thirty Muslims, encountered Abū Jahl, who was leading a caravan of the Quraish consisting of three hundred horsemen. However, Majdi ibn 'Amr al Juhani came between them and there was no fighting.
 2. In Shawwāl of the same year, 'Ubaydah ibn Al-Ḥārith led sixty horsemen to the valley of Rābigh, and there he encountered two hundred idolaters led by Abū Sufyān. The two parties exchanged fire with arrows but there were no clashes.
-3. In Dhul Q'ada, S'ad ibn Abī Waqqāṣ led a party of about twenty men to intercept a caravan of the Quraish but he failed to catch it.
-4. In Safar of the second year, the Prophet (ﷺ) himself went out on a mission after appointing S'ad ibn 'Ubādah as his deputy in Madīnah. He travelled until he reached Wadan, where he hoped to encounter the Quraish and the Banū Damrah, although he did not meet the Quraish, and he concluded an alliance with the Banū Damrah.
-5. In Rabi'-1 of the same year, the Prophet (ﷺ) led two hundred of the muhajirīn and Anṣār to Buwat to intercept a caravan of the Quraish led by Umayyah ibn Khalaf consisting of one hundred men, but it escaped him.
-6. In Jumāda he went to Al-'Ashīrah where he spent one month and concluded a peace treaty with the Banū Madlaj.
+3. In Dhul Q'ada, Sa'd ibn Abī Waqqāṣ led a party of about twenty men to intercept a caravan of the Quraish but he failed to catch it.
+4. In Safar of the second year, the Prophet (ﷺ) himself went out on a mission after appointing Sa'd ibn 'Ubādah as his deputy in Madīnah. He travelled until he reached Waddān, where he hoped to encounter the Quraish and the Banū Ḍamrah, although he did not meet the Quraish, and he concluded an alliance with the Banū Ḍamrah.
+5. In Rabī' al-Awwal of the same year, the Prophet (ﷺ) led two hundred of the muhajirīn and Anṣār to Buwat to intercept a caravan of the Quraish led by Umayyah ibn Khalaf consisting of one hundred men, but it escaped him.
+6. In Jumāda he went to al-'Ushayrah in the valley of Yanbu', where he spent one month and concluded a peace treaty with the Banū Mudlij.
 7. Then Karz ibn Jābir Al-Fihrī attacked Madīnah and carried away its cattle. Although the Prophet (ﷺ) followed him until he reached the valley of Safwān near Badr, he did not catch him. Historians call this "the first battle of Badr."
 
 The wisdom behind sending out these expeditions in succession can be summarized into two points.
@@ -2887,7 +2963,7 @@ Secondly, those expeditions were a warning to the Quraish of the consequences of
 
 The European orientalists look upon these flying columns as if they were a kind of highway brigandry. This stand is a reflection of their malice, which blinds them to the realities and gives free rein to their emotions to speak and pass judgement in whatever way they like. This sort of one-track orientalism reminds me of an incident said to have taken place when the British suppressed the rebellion of the peoples in East Africa, the colony of Kenya, who were seeking freedom for their country and were trying to expel the foreigners.
 
-One British soldier said to another, describing these Africans: "They are wild beasts. Imagine: one of them bit me while I was killing him!" This story truly reflects how the orientalists think in their approval of the Makkans and lamentations at Islām and its origin.
+One British soldier said to another, describing these Africans: "They are wild beasts. Imagine: one of them bit me while I was killing him!" This story truly reflects how the orientalists think in their approval of the Makkans and their censure of Islām and its origin.
 
 ## The Expedition of 'Abdullāh ibn Jaḥsh
 
@@ -2903,7 +2979,7 @@ No-one stayed behind. However, the camel which Sa'd ibn Abī Waqqāṣ and 'Utba
 
 The incident apparently took place in the latter part of Rajab, that is, in the sacred month. When the party reported to the Prophet (ﷺ), he said: "I did not order you to fight during the sacred month."
 
-And there was indecision over what to do with the caravan and prisoners.
+And [the Prophet (ﷺ)] suspended any decision on the caravan and the two captives.
 
 The idolaters found in this incident an opportunity to accuse the Muslims of disregarding what Allāh (ﷻ) had prohibited. There was much talk until Revelation descended, putting an end to the talk and supporting the action of 'Abdullāh toward the idolaters.
 
@@ -2939,17 +3015,17 @@ The Prophet (ﷺ) tried hard to contain this waning of determination, and warned
 
 Those who disliked facing the Quraish were not afraid of death, but they did not understand the wisdom behind waging a battle unawares without prior preparation. The Prophet (ﷺ), however, weighed all the circumstances of the affair, and found that it would be better to proceed than to retreat. Therefore, he was determined to forge ahead, since the reason for mobilizing these armed parties would have been lost in vain if they had returned in such a manner.
 
-The feelings of uncertainty disappeared all of a sudden and they all proceeded lightly to their destination. Travelling along the caravan route to Badr was not at all easy. The distance between Madīnah and Badr was over 100 miles, and the Prophet (ﷺ) and his Companions had only seventy camels, which they took turns at riding. Aḥmad narrated on the authority of 'Abdullāh ibn Mas'ūd (رضي الله عنه) who said:
+The feelings of uncertainty disappeared all of a sudden and they all proceeded lightly to their destination. Travelling along the caravan route to Badr was not at all easy. The distance between Madīnah and Badr was over 100 miles, and the Prophet (ﷺ) and his Companions had only seventy camels, which they took turns at riding. Aḥmad narrated on the authority of 'Abdullāh ibn Mas'ūd (رضي الله عنه) who said:¹⁰
 
-"On the day of Badr, we were three to a camel, that is, taking turns. Abū Lababah and 'Alī ibn Abī Ṭālib (رضي الله عنه) were sharing a camel with the Messenger of Allāh (ﷺ).
+"On the day of Badr, we were three to a camel, that is, taking turns. Abū Lubābah and 'Alī ibn Abī Ṭālib (رضي الله عنه) were sharing a camel with the Messenger of Allāh (ﷺ).
 
 When it was the Prophet's (ﷺ) turn, they said: "We shall walk instead of you.
 
 However, he replied: "You two are no stronger than I am to walk, and I am no less in need of the reward than you."
 
-The Muslims sent their spies to ascertain the position of the caravan and the men who had come out to defend it. Abū Sufyān, when he was aware of the dangers to his caravan, sent Damdam ibn 'Amr al-Ghifari to Makkah to urge the people to defend their wealth.
+The Muslims sent their spies to ascertain the position of the caravan and the men who had come out to defend it. Abū Sufyān, when he was aware of the dangers to his caravan, sent Ḍamḍam ibn 'Amr al-Ghifārī to Makkah to urge the people to defend their wealth.
 
-Damdam was able to arouse the entire town: he stood upon his camel after cutting off its nose, reversed his saddle and rent his shirt. Then he cried: "O people of the Quraish! The caravan! The caravan! Your wealth with Abū Sufyān has been attacked by Muhammad (ﷺ) and his Companions! I don't think you'll reach it in time! Help! Help!" Everyone hurriedly made preparations and either went himself or sent someone in his place. Nine hundred and fifty fighters in all departed, and with them were two hundred horses, which they rode. Female singers also came along, beating drums and singing satires about the Muslims. They turned to the north in search of the caravan which was to pass by Yathrib on its way home.
+Ḍamḍam was able to arouse the entire town: he stood upon his camel after cutting off its nose, reversed his saddle and rent his shirt. Then he cried: "O people of the Quraish! The caravan! The caravan! Your wealth with Abū Sufyān has been attacked by Muhammad (ﷺ) and his Companions! I don't think you'll reach it in time! Help! Help!" Everyone hurriedly made preparations and either went himself or sent someone in his place. Nine hundred and fifty fighters in all departed, and with them were two hundred horses, which they rode. Female singers also came along, beating drums and singing satires about the Muslims. They turned to the north in search of the caravan which was to pass by Yathrib on its way home.
 
 However, Abū Sufyān did not delay in waiting for the expected help. He exerted his utmost caution and skill in resisting the Muslims and escaping from their reach. He had almost fallen headlong with his caravan into their hands as they were proceeding towards Badr, but luck was with him.
 
@@ -2959,7 +3035,7 @@ Majdi replied: "I have not seen any strangers, except two riders who dismounted 
 
 Abū Sufyān came to the spot where they had dismounted, and, taking the camels' dung in his hand, he split it and found that it contained a date seed. Then he said: "By God, this is the fodder of Yathrib." He immediately realized that the two men were Companions of Muhammad (ﷺ) and that his army was close by. He therefore returned to the caravan and changed its route to the coast, leaving Badr on his left and thus he escaped. Seeing that the caravan was now safe, he sent to the Quraish, saying: "You have come out to defend your caravan, your men and your wealth. Now God has saved them, so go back."
 
-However, Abū Jahl said: "We shall surely not return home until we reach Badr, camp three days there, slaughter camels, feast and drink wine and have the girls sing and dance for us. The Arabs must hear of us and our march and continue to fear us forever."
+However, Abū Jahl said: "We shall surely not return home until we reach Badr, camp three days there, slaughter camels, feast and drink wine and have the singing-girls play for us. The Arabs must hear of us and our march and continue to fear us forever."
 
 This announcement made by Abū Jahl was the very thing which the Prophet (ﷺ) was trying to prevent. The Quraish consolidation of its position and the spread of its influence in these parts, after what it had done to the Muslims, could be considered a catastrophe for Islām and might contain its growth. In fact, was there any other reason for the sending of expeditions and reconnoitering parties from Madīnah except to raise high the banner of Allāh (ﷻ), disgrace the banner of idolatry, and to expose the idolaters as incapable of inflicting any harm or benefit? For this reason the Prophet (ﷺ) did not pay attention to the escaping caravan as much as he did to the need for scouring the region with arms and instilling the awe of the Muslims into the hearts of the people nearby.
 
@@ -2987,9 +3063,9 @@ Then replied: "Nine or ten a day."
 
 He said: "The people number between 900 and 1000." Then he asked the boys again: "Which of the Quraish notables are among them?"
 
-They replied: "Utbah and Shaybah, the sons of Rabi'ah, Abul Bukhturi ibn Hishām, Ḥakim ibn Ḥizām, Naufal ibn Khuwailid, Al-Ḥārith ibn 'Āmir, Ta'imah ibn 'Adi, Al Nadr ibn Al-Ḥārith, Zam'ah ibn al-Aswad, Amr ibn Hishām, Umayyah ibn Khalaf. Etc."
+They replied: "Utbah and Shaybah, the sons of Rabi'ah, Abul Bukhturi ibn Hishām, Ḥakim ibn Ḥizām, Naufal ibn Khuwailid, Al-Ḥārith ibn 'Āmir, Ṭu'aymah ibn 'Adī, Al Nadr ibn Al-Ḥārith, Zam'ah ibn al-Aswad, Amr ibn Hishām, Umayyah ibn Khalaf. Etc."
 
-The Prophet (ﷺ) then turned to the Muslims and said: "Here is Makkah confronting you with its choicest sons."¹⁰
+The Prophet (ﷺ) then turned to the Muslims and said: "Here is Makkah confronting you with its choicest sons."¹¹
 
 The seriousness of the situation was now revealed. The long-awaited confrontation was going to taste bitter. The Quraish had come in their full pride, intent on doing that action which - the odes narrated and which riders spread to all corners. They wanted to conclude the fifteen-year struggle with Islām so that afterwards paganism might reign supreme.
 
@@ -3001,25 +3077,25 @@ Then Al-Miqdād ibn 'Amr stood up and said: "O Messenger of Allāh (ﷺ)! Procee
 
 The Prophet (ﷺ) thanked him and made a supplication for him. Then he said: "Advice me, O people." By this he was referring to the Anṣār, since they were in the majority and at the Pledge of 'Aqabah they had said: "Messenger of Allāh (ﷺ)! We are not under obligation to you until you reach our land. When you reach us you will be under our protection - and we shall defend you from that, which we defend our wives and children." The Prophet (ﷺ) was thus afraid that the Anṣār might not think it necessary to fight on his behalf unless he was attacked at Madīnah.
 
-When he said that, however, Sa'd Ibn M'ādh replied: "By Allāh (ﷻ), perhaps you are referring to us, Messenger of Allāh (ﷺ)?" When the Prophet (ﷺ) replied in the affirmative, he continued: "We have believed in you and accepted what you say. We have testified that what you have brought is the truth, and on the basis of that we have given you our pledge and sworn to hear and obey you. So proceed, Messenger of Allāh (ﷺ), to do whatever you will, for we are with you. By Him (ﷻ) who sent you with the truth, if you approached the sea with us and dived into it, we should dive into it with you and not a single man would remain behind. We are not against your confronting the enemy with us tomorrow. We are steadfast in war, truthful in meeting. Perhaps Allāh (ﷻ) will show you something of us which will gladden your heart. So proceed with the blessings of Allāh (ﷻ)."
+When he said that, however, Sa'd ibn Mu'ādh replied: "By Allāh (ﷻ), perhaps you are referring to us, Messenger of Allāh (ﷺ)?" When the Prophet (ﷺ) replied in the affirmative, he continued: "We have believed in you and accepted what you say. We have testified that what you have brought is the truth, and on the basis of that we have given you our pledge and sworn to hear and obey you. So proceed, Messenger of Allāh (ﷺ), to do whatever you will, for we are with you. By Him (ﷻ) who sent you with the truth, if you approached the sea with us and dived into it, we should dive into it with you and not a single man would remain behind. We are not against your confronting the enemy with us tomorrow. We are steadfast in war, truthful in meeting. Perhaps Allāh (ﷻ) will show you something of us which will gladden your heart. So proceed with the blessings of Allāh (ﷻ)."
 
 In another version the words reported are: "Perhaps you went out for one purpose and Allāh (ﷻ) caused something else to happen. So look at that which Allāh (ﷻ) has caused to happen and proceed. Accept whom you will and reject whom you will; oppose whom you will and conclude peace with whom you will; take from our wealth what you will and give us what you will. What you take from us is more precious to us than what you leave."
 
 The Prophet (ﷺ) was pleased with Sa'd's (رضي الله عنه) reply, and so he said:
 
-"Go forward and be cheerful. Allāh (ﷻ) had promised me one of the two parties. By Allāh (ﷻ), it is as if I can already see the places where those people will die."¹¹
+"Go forward and be cheerful. Allāh (ﷻ) had promised me one of the two parties. By Allāh (ﷻ), it is as if I can already see the places where those people will die."¹²
 
 The Muslims prepared to go into battle, and they camped in front of the wells at Badr.
 
-Al-Habbāb ibn Al-Mundhir came up to the Prophet (ﷺ) and said: "Is this a place where Allāh (ﷻ) has put you and thus we are not permitted to move forwards or backwards? Or is it an opinion, war and strategy."
+Al-Ḥubāb ibn Al-Mundhir came up to the Prophet (ﷺ) and said: "Is this a place where Allāh (ﷻ) has put you and thus we are not permitted to move forwards or backwards? Or is it an opinion, war and strategy."
 
 The Prophet (ﷺ) said: "It is indeed opinion, war and strategy."
 
-Al Habbāb then said: "Well, Messenger of Allāh (ﷺ), this is no position. Lead the group onwards until you reach the wells closest to the enemy. Let us camp there and fill up all the wells behind us. Then let us build a cistern and fill it with water. So when we fight the enemy, we shall be able to drink and they will have no water."
+Al Ḥubāb then said: "Well, Messenger of Allāh (ﷺ), this is no position. Lead the group onwards until you reach the wells closest to the enemy. Let us camp there and fill up all the wells behind us. Then let us build a cistern and fill it with water. So when we fight the enemy, we shall be able to drink and they will have no water."
 
 The Prophet (ﷺ) said:
 
-"You have indeed given us good advice," and he ordered it to be executed. Before midnight they had acted upon Al-Habbāb's suggestion and occupied the wells.¹²
+"You have indeed given us good advice," and he ordered it to be executed. Before midnight they had acted upon Al-Ḥubāb's suggestion and occupied the wells.¹³
 
 The Muslims spent a night which was quiet and encouraging for them. Confidence filled their hearts and they were able to have a full night's rest. A light rain fell upon them and moistened the atmosphere, and the early morning breeze blew upon them, refreshing their hearts and renewing their spirits. Even the sand below their feet was made firm by the rain and it allowed them easy movement.
 
@@ -3027,39 +3103,39 @@ The Muslims spent a night which was quiet and encouraging for them. Confidence f
 
 The Prophet (ﷺ) was solicitous of his men: he arranged their ranks, gave advice and reminded them of Allāh (ﷻ) and the Hereafter. Then he returned to the hut which had been prepared for him and engrossed himself in humble supplication, seeking the help of the Almighty. Abū Bakr (رضي الله عنه) was standing by his side when he unceasingly implored Allāh (ﷻ), saying: "O Allāh (ﷻ), if this band of men are to die, there will be no-one left to worship you on earth." He continued imploring with the following words: "O Allāh (ﷻ), fulfill what You have promised me. O Allāh (ﷻ), grant us victory." While saying these words, he raised his hands to the heavens until his cloak fell from his shoulders.
 
-Abū Bakr (رضي الله عنه) stood behind him, setting his cloak aright and saying in concern: "O Messenger of Allāh (ﷺ), enough of imploring your Lord. He will surely fulfill His (ﷻ) promise to you."¹³
+Abū Bakr (رضي الله عنه) stood behind him, setting his cloak aright and saying in concern: "O Messenger of Allāh (ﷺ), enough of imploring your Lord. He will surely fulfill His (ﷻ) promise to you."¹⁴
 
-The two armies marched towards each other and the idolaters began the attack. Al-Aswad ibn 'Abdul Asad made a dash for the cistern which the Muslims had built, saying: "I pledge to God that I shall drink from their cistern or destroy it or die in the attempt." Ḥamzah ibn 'Abdul Muṭṭalib met him with his sword, taking one of his legs off. But he continued to hop toward the pool, followed by Ḥamzah. At this point 'Utbah and Shaybah, the sons of Rabi'ah, and Al-Walid ibn 'Utbah came forward from among the idolaters and they were challenged by three youths from the Anṣār.
+The two armies marched towards each other and the idolaters began the attack. Al-Aswad ibn 'Abdul Asad made a dash for the cistern which the Muslims had built, saying: "I pledge to God that I shall drink from their cistern or destroy it or die in the attempt." Ḥamzah ibn 'Abdul Muṭṭalib met him with his sword, taking one of his legs off. But he crawled toward the pool, seeking to plunge into it, and Ḥamzah followed him, fighting him until he killed him in it. At this point 'Utbah and Shaybah, the sons of Rabi'ah, and Al-Walid ibn 'Utbah came forward from among the idolaters and they were challenged by three youths from the Anṣār.
 
 They shouted: "Muhammad (ﷺ), send out our equals from our own people."
 
-Another version says that the Prophet (ﷺ) himself recalled the three youths since he wished that the enemy should be faced first by his own relatives on such an occasion. He thus said: "Arise, 'Ubaydah ibn-ul Ḥārith; arise, Ḥamzah; arise, 'Alī (رضي الله عنه)." 'Ubaydah fought with 'Utbah, Ḥamzah fought with Shaybah, and 'Alī (رضي الله عنه) fought with Al-Walīd. Ḥamzah and 'Alī (رضي الله عنه) killed their opponents, but 'Ubaydah and 'Utbah both wounded each other. Then Ḥamzah and 'Alī (رضي الله عنه) came to the help of 'Ubaydah, finished off his opponent and took him back behind the line. They laid him at the feet of the Prophet (ﷺ).
+Another version says that the Prophet (ﷺ) himself recalled the three youths since he wished that the enemy should be faced first by his own relatives on such an occasion. He thus said: "Arise, 'Ubaydah ibn al-Ḥārith; arise, Ḥamzah; arise, 'Alī (رضي الله عنه)." 'Ubaydah fought with 'Utbah, Ḥamzah fought with Shaybah, and 'Alī (رضي الله عنه) fought with Al-Walīd. Ḥamzah and 'Alī (رضي الله عنه) killed their opponents, but 'Ubaydah and 'Utbah both wounded each other. Then Ḥamzah and 'Alī (رضي الله عنه) came to the help of 'Ubaydah, finished off his opponent and took him back behind the line. They laid him at the feet of the Prophet (ﷺ).
 
-He put his cheek against the Prophet's (ﷺ) feet¹⁴ and said: "Messenger of Allāh (ﷺ), if Abū Ṭālib saw me, he would know that I am more worthy of his statement: 'We protect him till we die in the effort though we may neglect our children and wives.'" He then breathed his last.¹⁵
+He put his cheek against the Prophet's (ﷺ) feet¹⁵ and said: "Messenger of Allāh (ﷺ), if Abū Ṭālib saw me, he would know that I am more worthy of his statement: 'We protect him till we die in the effort though we may neglect our children and wives.'" He then breathed his last.¹⁶
 
-The unbelievers were so enraged at the sad beginning of their encounter that they bombarded the Muslims with a shower of arrows. Then the battle intensified and swords clashed. The Muslims shouted "Aḥad, Aḥad," and the Prophet (ﷺ) ordered them to break the attacks of the enemy. The Muslims were all fixed in their stations, and so he told them that if the enemy tried to charge them, they should repel them with arrows and not rush towards them unless the order was given.¹⁶
+The unbelievers were so enraged at the sad beginning of their encounter that they bombarded the Muslims with a shower of arrows. Then the battle intensified and swords clashed. The Muslims shouted "Aḥad, Aḥad," and the Prophet (ﷺ) ordered them to break the attacks of the enemy. The Muslims were all fixed in their stations, and so he told them that if the enemy tried to charge them, they should repel them with arrows and not rush towards them unless the order was given.¹⁷
 
 As the battle was nearing its peak, the Muslims had by that time exhausted the enemy's strength and dealt them some heavy losses. The Prophet (ﷺ), still in his hut, was supplicating to Allāh (ﷻ) and watching the heroic efforts of his men.
 
-Ibn Isḥāq said:¹⁷
+Ibn Isḥāq said:¹⁸
 
 "In his hut the Prophet's (ﷺ) head drooped, and after a short while he was alert again and saying: "Glad tidings, O Abū Bakr (رضي الله عنه). The help of Allāh (ﷻ) has come. Here is Jibrīl (عليه السلام) holding the reins of his horse and spurring it on into the midst of the battle!"
 
-Dust gathered over the heads of the fighters, who were in a state of attack and retreat: the army of truth displaying courage in support of Allāh's faith, and the army of falsehood possessed by the delusion that they could vanquish truth. No wonder, therefore, that the angels of goodness should descend, fill the hearts of the Muslims with the spirit of certainty and urge them to be steadfast and courageous.
+Dust gathered over the heads of the fighters, who were in a state of attack and retreat: the army of truth displaying courage in support of Allāh's faith, and the army of falsehood possessed by the delusion that they could wrestle with destiny. No wonder, therefore, that the angels of goodness should descend, fill the hearts of the Muslims with the spirit of certainty and urge them to be steadfast and courageous.
 
 The Prophet (ﷺ) came out of his hut to his men and urged them on with the following words:
 
 "By Him in Whose hands is Muhammad's (ﷺ) life, if any man fights them today and is killed while displaying steadfastness and hope in Allāh (ﷻ), advancing and not retreating, Allāh (ﷻ) will surely bring him into paradise."
 
-Contemplation of the Hereafter is the commodity which the Prophet (ﷺ) offered. However, is there any rest for the upholders of faith and the redeemers of truth except over there? This call had its effect on the believing hearts.
+Contemplation of the Hereafter is the merchandise of the prophets. And is there any rest for the upholders of faith and those who sacrifice themselves for the truth except over there? This call had its effect on the believing hearts.
 
-Aḥmad narrated¹⁸ that as the idolaters were approaching, the Prophet (ﷺ) said to his Companions: "Arise towards a paradise whose extent is that of the heavens and the earth."
+Aḥmad narrated¹⁹ that as the idolaters were approaching, the Prophet (ﷺ) said to his Companions: "Arise towards a paradise whose extent is that of the heavens and the earth."
 
-Upon hearing this, 'Umayr ibn-ul Hamām Al-Anṣārī declared: "O Messenger of Allāh (ﷺ), a paradise whose extent is that of the heavens and the earth?" When the Prophet (ﷺ) replied yes, he said, "Bakh, Bakh" (an expression of wonder and pleasure). The Prophet (ﷺ) asked him why he said "Bakh, Bakh," and he replied: "By Allāh (ﷻ), O Messenger of Allāh (ﷺ), it is only with the hope that I shall be one of its inmates."
+Upon hearing this, 'Umayr ibn al-Ḥumām al-Anṣārī declared: "O Messenger of Allāh (ﷺ), a paradise whose extent is that of the heavens and the earth?" When the Prophet (ﷺ) replied yes, he said, "Bakh, Bakh" (an expression of wonder and pleasure). The Prophet (ﷺ) asked him why he said "Bakh, Bakh," and he replied: "By Allāh (ﷻ), O Messenger of Allāh (ﷺ), it is only with the hope that I shall be one of its inmates."
 
 The Prophet (ﷺ) responded: "Then surely you shall be one of them."
 
-He then took out some dates which he had in his horn and began eating them. Then he said: "If I live to finish eating these dates of mine, it will be a long life." He flung his dates away and entered into the battle, saying these lines of poetry:
+He then took out some dates which he had in his quiver and began eating them. Then he said: "If I live to finish eating these dates of mine, it will be a long life." He flung his dates away and entered into the battle, saying these lines of poetry:
 
 *"We hastened to Allāh (ﷻ) without provision to piety and striving for the Hereafter*
 
@@ -3069,9 +3145,9 @@ He then took out some dates which he had in his horn and began eating them. Then
 
 *Save piety and righteousness and uprightness."*
 
-He fought until he was killed.¹⁹
+He fought until he was killed.
 
-The ranks of the idolaters weakened under the hammer-blows of this faith which showed no love for worldly glitter, and they were stunned by the Prophet (ﷺ) himself who descended into the thick of the battle and fought boldly. With him, his Companions pressed on towards the enemy, not fearing anything. The Quraish collapsed and were overcome by fright. And the Prophet (ﷺ), upon seeing the leaders of the Quraish wallowing in the dust, cried out: "May their faces be disfigured."
+The ranks of the idolaters weakened under the hammer-blows of this faith which showed no love for worldly glitter, and they were stunned by the Prophet (ﷺ) himself who descended into the thick of the battle and fought boldly. With him, his Companions pressed on towards the enemy, not fearing anything. The Quraish collapsed and were overcome by fright. And the Prophet (ﷺ), upon seeing the leaders of the Quraish wallowing in the dust, cried out: "May their faces be disfigured!"²⁰
 
 Thus were the Quraish defeated. Reference is made to this in the Qur'ān:
 
@@ -3079,13 +3155,13 @@ Thus were the Quraish defeated. Reference is made to this in the Qur'ān:
 
 Abū Jahl attempted to stop the flood of defeat which was descending on his people. He shouted to them, the blindfold of delusion still covering his eyes: "By Al-Lāt and Al-'Uzza, we shall not return until we scatter them on the mountains. Take them by force." However, what can cries of despair do in front of the sweeping realities? Nevertheless, the truth must be told: Abū Jahl was a pillar of stubbornness till his last breath. The blindness which blanketed his perception was an integral part of him. Thus he advanced, fighting with ferocity and anger, and saying:
 
-*"What revenge can a wild war take of me?*
+*"What can the raging war avenge on me?*
 
-*Exceeding two years is the talk of my age.*
+*I am a camel in full prime, though young in years;*
 
-*For such did my mother give birth to me."*
+*for the like of this did my mother bear me!"*
 
-The remnants of the Quraish gathered around him saying: "No-one will reach Abul Ḥakam." He was in the midst of a thick forest. Nevertheless, this forest soon lost tree after tree in face of the zeal of the believers, who were spurred on by the news of victory, and whose cries of "Aḥad, Aḥad!" filled the air.
+The remnants of the Quraish gathered around him saying: "No-one will reach Abul Ḥakam." He was among them as if in the midst of a thick forest. Nevertheless, this forest soon lost tree after tree in face of the zeal of the believers, who were spurred on by the news of victory, and whose cries of "Aḥad, Aḥad!" filled the air.
 
 'Abdul-Raḥmān ibn 'Auf said:
 
@@ -3099,49 +3175,49 @@ He said: "I have sworn to Allāh (ﷻ), that if I see him I shall kill him or di
 
 'Abdul-Raḥmān continued:
 
-"I could not have been more pleased if I was standing between two men other than them. So I pointed him (Abū Jahl) out to them and they darted at him like two hawks, hitting him until he was dead. They were the sons of 'Afrā.'"²⁰
+"I could not have been more pleased if I was standing between two men other than them. So I pointed him (Abū Jahl) out to them and they darted at him like two hawks, hitting him until he was dead. They were the sons of 'Afrā.'"²¹
 
-It seems that they left him on the verge of death. The two young heroes were martyred in this battle, and the Prophet (ﷺ) stood over their dead bodies, praying for them and recounting their action.²¹ As for Abū Jahl, he fell to the ground gasping for breath. Upon this, the idolaters scattered and took to their heels in the desert just as the wind will scatter a mound of sand.
+It seems that they left him on the verge of death. The two young heroes were martyred in this battle, and the Prophet (ﷺ) stood over their dead bodies, praying for them and recounting their action.²² As for Abū Jahl, he fell to the ground gasping for breath. Upon this, the idolaters scattered and took to their heels in the desert just as the wind will scatter a mound of sand.
 
 'Abdullāh ibn Mas'ūd passed by the dead and found Abū Jahl among them with still some breath of life in him. So he jumped upon him with the intention of finishing him off. Abū Jahl stirred and asked who was having the upper hand.
 
 'Abdullāh replied: "Allāh (ﷻ) and His Messenger (ﷺ)." Then he continued: "Have you tasted the humiliation from Allāh (ﷻ), enemy of Allāh (ﷻ)?"
 
-Abū Jahl replied: "And how did He humiliate me? Is there any man stronger than the one who is killed by his own people? Then he peered at 'Abdullāh and said: "Aren't you the little shepherd boy in Makkah?" 'Abdullāh dealt him some blows with his sword until he was cold.²² The same humiliating fate met seventy of the Makkan stalwarts of unbelief and seventy more fell captive into the hands of the Muslims. The remnants of the nine hundred and fifty fled to tell their countrymen that the consequences of evil were evil, and that pride resulted in shame and ignominy.
+Abū Jahl replied: "And how did He humiliate me? Am I anything more than a man killed by his own people?" Then he peered at 'Abdullāh and said: "Aren't you our little shepherd boy in Makkah?" 'Abdullāh dealt him some blows with his sword until he was cold.²³ The same humiliating fate met seventy of the Makkan stalwarts of unbelief and seventy more fell captive into the hands of the Muslims. The remnants of the nine hundred and fifty fled to tell their countrymen that the consequences of evil were evil, and that pride resulted in shame and ignominy.
 
 The Muslims opened their eyes to the welcome sight of victory smiling at them through the heavens and the earth. It had given back to them life, hope and dignity and rid them of heavy burdens.
 
 (Allāh had already given you the victory at Badr, when you were contemptible. So observe your duty to Allāh so that you may be thankful.) (Qur'ān 3: 123)
 
-The number of martyrs among them was fourteen. Allāh's mercy had selected them and taken them to 'Illiyyīn. Anas bin Mālik (رضي الله عنه) reported that Hāritha ibn Surāqah was killed on the day of Badr by a stray arrow while on guard.
+The number of martyrs among them was fourteen. Allāh's mercy had selected them and taken them to 'Illiyyīn. Anas bin Mālik (رضي الله عنه) reported that Hāritha ibn Surāqah was killed on the day of Badr by a stray arrow while among the onlookers.
 
-His mother came to the Prophet (ﷺ) and said: "O Messenger of Allāh (ﷺ), tell me about Hāritha. If he is in Jannah I shall be patient, but if not, then Allāh (ﷻ) will see what I'll do" (That is, wailing). And she was not yet deprived.
+His mother came to the Prophet (ﷺ) and said: "O Messenger of Allāh (ﷺ), tell me about Hāritha. If he is in Jannah I shall be patient, but if not, then Allāh (ﷻ) will see what I'll do" (That is, wailing). For wailing had not yet been forbidden!!
 
-The Prophet (ﷺ) replied: "Woe you! Are you bereft of your son? Those are wonderful gardens and your son has attained the highest garden in paradise."²³
+The Prophet (ﷺ) replied: "Woe to you! Have you lost your mind? There are eight gardens, and your son has attained the highest garden in paradise."²⁴
 
-If this was the reward for the guards who were hit by stray arrows, then what about those who plunged into the thick of the battle and were killed?
+If this was the reward for an onlooker who was hit by a stray arrow, then what about those who plunged into the thick of the battle and were killed?
 
 In this battle fathers faced sons, and brothers faced brothers. They disagreed on principles and swords settled their differences. In our times the communists fought their fellow citizens and tore apart the closest of human bonds for the sake of their beliefs. It was therefore no surprise to see a believing son angry at his unbelieving father and disputing with him about Allāh (ﷻ). The battle at Badr recorded several instances of such happenings.
 
-Abū Bakr (رضي الله عنه) was with the Prophet (ﷺ) and his son with Abū Jahl was fighting against him. 'Utbah ibn Rabī'ah was the first to challenge the Muslims to a fight, while his son Abū Hudhayfah was one of the closest Companions to the Prophet (ﷺ). When the body of 'Utbah was lifted to be thrown into the pit (dug for the bodies), the Prophet (ﷺ) looked at Abū Hudhayfah and noticed he was pale and sad.
+Abū Bakr (رضي الله عنه) was with the Prophet (ﷺ) and his son 'Abd al-Raḥmān was with Abū Jahl, fighting against him. 'Utbah ibn Rabī'ah was the first to challenge the Muslims to a fight, while his son Abū Ḥudhayfah was one of the closest Companions to the Prophet (ﷺ). When the body of 'Utbah was lifted to be thrown into the well (qalīb), the Prophet (ﷺ) looked at Abū Ḥudhayfah and noticed he was pale and sad.
 
-He said to him: "Abū Hudhayfah, are you upset, perhaps, about the way your father died?"
+He said to him: "Abū Ḥudhayfah, are you upset, perhaps, about the way your father died?"
 
-He replied: "No, by Allāh (ﷻ). O Messenger of Allāh (ﷺ), I have no doubts about my father or his death. However, I had known my father to possess sound logic, forbearance and virtue, and I used to hope that, that would guide him to Islām. So I was sad when I saw what had happened to him and how he had died in the state of unbelief in spite of the hopes I had in him. Upon this the Prophet (ﷺ) prayed for Abū Hudhayfah and spoke kindly to him.²⁴
+He replied: "No, by Allāh (ﷻ). O Messenger of Allāh (ﷺ), I have no doubts about my father or his death. However, I had known my father to possess sound logic, forbearance and virtue, and I used to hope that, that would guide him to Islām. So I was sad when I saw what had happened to him and how he had died in the state of unbelief in spite of the hopes I had in him. Upon this the Prophet (ﷺ) prayed for Abū Hudhayfah and spoke kindly to him.²⁵
 
-The Prophet (ﷺ) ordered the bodies of the idolaters to be thrown into the pit, and it is narrated that upon seeing them he said: "What a bad lot you were to your Prophet, as relatives of a prophet. You disbelieved me whereas other people believed me, you expelled me whereas others gave me shelter, you fought against whereas other assisted me."²⁵
+The Prophet (ﷺ) ordered the bodies of the idolaters to be thrown into the well, and it is narrated that upon seeing them he said: "What a bad kinsfolk you were to your Prophet! You disbelieved me whereas other people believed me, you expelled me whereas others gave me shelter, you fought against whereas other assisted me."²⁶
 
-When the bodies were covered with earth, the people went away feeling that their religion and the rest of the world were now safe from the evils of the leaders of unbelief. The Prophet (ﷺ), however, reflected on the long history of his struggle with these people: how much he had endeavoured to open their minds and gave them guidance, and how much he had reminded them about Allāh (ﷻ), warned them of the consequences of disobeying Him and recited to them his Revelation. In spite of the detailed reminders, they remained stubborn, and even ridiculed Allāh (ﷻ), His signs and His Prophet (ﷺ). Thus the Prophet (ﷺ) went out into the darkness of the night and when he reached the pit, his Companions heard him saying:²⁶
+When the bodies were covered with earth, the people went away feeling that their religion and the rest of the world were now safe from the evils of the leaders of unbelief. The Prophet (ﷺ), however, reflected on the long history of his struggle with these people: how much he had endeavoured to open their minds and gave them guidance, and how much he had reminded them about Allāh (ﷻ), warned them of the consequences of disobeying Him and recited to them his Revelation. In spite of the detailed reminders, they remained stubborn, and even ridiculed Allāh (ﷻ), His signs and His Prophet (ﷺ). Thus the Prophet (ﷺ) went out into the darkness of the night and when he reached the well, his Companions heard him saying:²⁷
 
-"O people of the pit! O 'Utbah ibn Rabī'ah, O Shaybah ibn Rabi'ah, O Umayyah ibn Khalaf, O Abū Jahl ibn Hishām: have you found what your Lord promised you to be true? Surely I have found what my Lord promised me to be true."
+"O people of the well! O 'Utbah ibn Rabī'ah, O Shaybah ibn Rabi'ah, O Umayyah ibn Khalaf, O Abū Jahl ibn Hishām: have you found what your Lord promised you to be true? Surely I have found what my Lord promised me to be true."
 
 The Muslims asked: "O Messenger of Allāh (ﷺ), are you addressing people whose bones are rotting?"
 
-He replied: "You are no more capable than they of hearing what I say, except that they cannot answer."²⁷
+He replied: "You are no more capable than they of hearing what I say, except that they cannot answer."²⁸
 
 The incident of Badr took place on 17 Ramaḍān in the second year after the Hijrah. The Prophet (ﷺ) spent three days at Badr. Then he headed for Madīnah steering the prisoners and booty in front of him. He thought it advisable to send the good news in advance to the Muslims in Madīnah who were unaware of what had taken place. So he selected 'Abdullāh ibn Rawāḥah and Zayd ibn Ḥārithah as the bearers of the good tidings to the people.
 
-Usāmah ibn Zayd said: "The news reached us just as we finished levelling the earth over Ruqayyah, daughter of the Prophet (ﷺ)." Her husband, 'Uthmān ibn 'Affān (رضي الله عنه), had stayed behind to nurse her upon the Prophet's (ﷺ) orders, and the Prophet (ﷺ) gave him his full share of the reward and booty acquired at Badr.²⁸
+Usāmah ibn Zayd said: "The news reached us just as we finished levelling the earth over Ruqayyah, daughter of the Prophet (ﷺ)." Her husband, 'Uthmān ibn 'Affān (رضي الله عنه), had stayed behind to nurse her upon the Prophet's (ﷺ) orders, and the Prophet (ﷺ) gave him his full share of the reward and booty acquired at Badr.²⁹
 
 ## Assessment and Scolding
 
@@ -3165,11 +3241,11 @@ Upon that Allāh (ﷻ) Revealed:
 
 (They ask you [Muhammad] about war. Say: The spoils of war belong to Allāh and the Messenger, so keep your duty to Allāh, reconcile your differences, and obey Allāh and His Messenger, if you are [true] believers.) (Qur'ān 8: 1)
 
-And the Prophet (ﷺ) divided it among the Muslims."²⁹
+And the Prophet (ﷺ) divided it among the Muslims."³⁰
 
 This sad conflict came after the widespread calamity which befell the muhajirīn as well as the Anṣār. The Messenger of Allāh (ﷺ) noticed the symptoms of this calamity on his Companions as they were heading for Badr and took pity on their condition, and he petitioned Allāh (ﷻ) to remove their misfortune. 'Abdullāh ibn 'Amr (رضي الله عنه) reported:
 
-"The Messenger of Allāh (ﷺ) left for Badr with 315 of his Companions. When he reached it, he said: "O Allāh (ﷻ), they are hungry, so feed them; O Allāh (ﷻ), they are barefoot, so provide them with mounts; O Allāh (ﷻ), they are naked, so clothe them." Allāh (ﷻ) granted him victory on the day of Badr, and when they headed for home there was not a single man among them who did not return with a mount or two, having clothed himself and eaten.³⁰
+"The Messenger of Allāh (ﷺ) left for Badr with 315 of his Companions. When he reached it, he said: "O Allāh (ﷻ), they are hungry, so feed them; O Allāh (ﷻ), they are barefoot, so provide them with mounts; O Allāh (ﷻ), they are naked, so clothe them." Allāh (ﷻ) granted him victory on the day of Badr, and when they headed for home there was not a single man among them who did not return with a mount or two, having clothed himself and eaten.³¹
 
 When hunger and lack of warm clothing are prolonged, they leave evil scars on the heart and push one's thoughts into a dark, narrow channel. Nevertheless, it must be noted that if such crises overwhelm the masses, incite them to seek food and clothing for themselves and their children with eagerness and outspokenness, the staunch believers on the contrary ought to control themselves, contain the pressing hunger pangs and not allow themselves to quarrel over anything.
 
@@ -3191,7 +3267,7 @@ The Messenger of Allāh (ﷺ) felt inclined to Abū Bakr's (رضي الله عن
 
 The Messenger of Allāh (ﷺ) replied, "The suggestion of your companions to take a ransom was almost the cause of their being punished, and it came closer than this tree which is nearby." Upon that Allāh (ﷻ) revealed the following āyāt (verses):
 
-(It is not for any prophet to have captives until he has made slaughter in the land. You desire the lure of this world and Allāh desires [for you] the Hereafter, and Allāh is Mighty, Wise. Had it not been for an ordinance of Allāh which had gone before, a fearful doom would have come upon you on account of what you took.) (Qur'ān 8: 67-68)³¹
+(It is not for any prophet to have captives until he has made slaughter in the land. You desire the lure of this world and Allāh desires [for you] the Hereafter, and Allāh is Mighty, Wise. Had it not been for an ordinance of Allāh which had gone before, a fearful doom would have come upon you on account of what you took.) (Qur'ān 8: 67-68)³²
 
 Falling into captivity does not mean the issuing of a general amnesty for all the crimes perpetrated by the captives during their days of liberty. This band of Makkan notables had a terrible past of scoffing Allāh (ﷻ) and His Messenger. Their status had made them puffed up with pride and they had led the masses of Makkan people into a war which had no cause. So how could they be let loose after the Muslim hands had the opportunity to strangle them?
 
@@ -3215,15 +3291,15 @@ The attitudes of the various groups of unbelievers towards the Muslims differed 
 
 Usāmah ibn Zayd narrated: "The Messenger of Allāh (ﷺ) and his Companions used to excuse the idolaters and the People of the Book, as Allāh (ﷻ) had ordered them, and bore their insults patiently." Allāh (ﷻ) said:
 
-(Many of the People of the Book long to make you disbelievers after your belief, from envy on their own account, after the truth has become manifest to them. Forgive and be indulgent [towards them] until Allāh gives a command.) (Qur'ān 2: 109)
+(Many of the People of the Book long to make you disbelievers after your belief, from envy on their own account, after the truth has become manifest to them. Forgive and be indulgent [towards them] until Allāh gives a command. Lo! Allāh is Able to do all things.) (Qur'ān 2: 109)
 
-So the Prophet (ﷺ) used to follow the command of forgiveness and indulgence towards them until Allāh (ﷻ) gave the final decision concerning them.³²
+So the Prophet (ﷺ) used to follow the command of forgiveness and indulgence towards them until Allāh (ﷻ) gave the final decision concerning them.³³
 
-When he fought the battle of Badr, where Allāh (ﷻ) caused many of the Quraish nobles to be killed and the Prophet (ﷺ) and his Companions to return home victorious with their captives, 'Abdullāh ibn Ubayy and the idolaters who were with him said to one another: "This is a matter which has taken its course, so let us swear allegiance to the Prophet (ﷺ) and accept Islām."
+When he fought the battle of Badr, where Allāh (ﷻ) caused many of the Quraish nobles to be killed and the Prophet (ﷺ) and his Companions to return home victorious with their captives, 'Abdullāh ibn Ubayy and the idolaters who were with him said to one another: "This is a matter which has taken its course, so let us swear allegiance to the Prophet (ﷺ) and accept Islām." So they did, and embraced Islām.
 
 Nevertheless, although one group of nonbelievers had resorted to deception, at the same time another group of Jews openly expressed their anger with Muhammad (ﷺ) and their grief at the defeat of the Quraish at Badr. In fact, Ka'b Al-Ashraf, one of the Jewish chieftains, even sent odes to the Quraish, bemoaning their losses and urging them to seek revenge. After this distasteful incident the hostility between the Muslims and the Jews increased. The Jews thereafter tried to belittle the importance of the victory achieved by Islām, thus paving the way for the violent events which were to follow soon after and which the Jews paid for with their blood, individually as well as collectively.
 
-As regards the bedouin and others who lived outside Madīnah and near the caravan routes, they were people who kept mainly to themselves. They had no thought for the problems of faith and disbelief. Their only concern was the acquisition of food from any source and they did not mind if they had to steal it. Their recent history concerning the caravans of pilgrims being looted is a true witness of the fact that they neither respect any sanctuary nor fear anything but strength. If it were not for the Saudis' use of force against them, the Ḥajj road would not have been safe. They had even robbed Madīnah of its bounties, and the pre-Islāmic jahilīyah which they inherited made their hearts side with the idolaters of the peninsula. They were astounded at the victory of the Muslims in Badr. Although they began to gather their forces with the intention of raiding Madīnah at the earliest opportunity, the Prophet (ﷺ) confronted them with his forces and routed them without much resistance.
+As regards the bedouin and others who lived outside Madīnah and near the caravan routes, they were people who kept mainly to themselves. They had no thought for the problems of faith and disbelief. Their only concern was the acquisition of food from any source and they did not mind if they had to steal it. Their recent history concerning the caravans of pilgrims being looted is a true witness of the fact that they neither respect any sanctuary nor fear anything but strength. If it were not for the Saudis' use of force against them, the Ḥajj road would not have been safe. They had previously driven off Madīnah's livestock, and the pre-Islāmic jahilīyah which they inherited made their hearts side with the idolaters of the peninsula. They were alarmed at the victory of the Muslims in Badr. Although they began to gather their forces with the intention of raiding Madīnah at the earliest opportunity, the Prophet (ﷺ) confronted them with his forces and routed them without much resistance.
 
 ## The Beginning of the conflict Between the Jews and the Muslims
 
@@ -3233,31 +3309,31 @@ The Muslims had never contemplated breaking their treaty with the Jews nor did t
 
 (Those whom We gave the Scripture rejoice in that which is revealed to you. And of the clans there are those who deny some of it. Say: "I am commanded only that I serve Allāh and ascribe to Him no partner. To Him I call and to Him is my return.) (Qur'ān 13: 36)
 
-The Jews, however, lived up to the worst expectations. Not a few days had passed since their mixing with the Muslims in Madīnah before they started indulging in annoying the Muslims and inciting others against them. If they had disbelieved in Muhammad (ﷺ) as they had disbelieved in Jesus before, been convinced that anything besides their Torah was false, been content with offering their prayers in their synagogues, and restrained their tongues from slandering the Prophet of Allāh (ﷻ), the Muslims would have left them alone to disbelieve until the Final Hour without war conflict. However, as the Muslims were exerting themselves to their utmost to build their state whereas the Jews were doing their utmost to destroy it, as Islām was in conflict with idolatry whereas the Children of Israel were siding with their sentiment, tongues and propaganda against Muhammad (ﷺ) and his Companions, it was then a situation that could not be tolerated.
+The Jews, however, lived up to the worst expectations. Not a few days had passed since their mixing with the Muslims in Madīnah before they started indulging in annoying the Muslims and inciting others against them. If they had disbelieved in Muhammad (ﷺ) as they had disbelieved in Jesus before, been convinced that anything besides their Torah was false, been content with offering their prayers in their synagogues, and restrained their tongues from slandering the prophets of Allāh (ﷻ), the Muslims would have left them alone to disbelieve until the Final Hour without war conflict. However, as the Muslims were exerting themselves to their utmost to build their state whereas the Jews were doing their utmost to destroy it, as Islām was in conflict with idolatry whereas the Children of Israel were siding with their sentiment, tongues and propaganda against Muhammad (ﷺ) and his Companions, it was then a situation that could not be tolerated.
 
 During the Muslims' joy at their victory in Badr, those Jews were not ashamed to say to the Prophet (ﷺ): "Do not be deceived by the fact that you encountered a people who had no knowledge of warfare and thus you took advantage of them. By God, if we had fought you, you would have known who were the real men." Revelation had to come down to warn these people of their evil end:
 
 (Say [Muhammad] those who disbelieve: You will be overcome and gathered unto Hell, an evil resting-place. There was a token for you in two host which met; one army fighting in the way of Allāh, and another disbelieving, whom they saw as twice their number, clearly, with their very eyes. Thus Allāh strengthens with His help whom He will. Indeed! here is truly a lesson for those who have eyes.) (Qur'ān 3: 12-13)
 
-The second āyāh is a reminder of what happened at Badr.
+The second āyah is a reminder of what happened at Badr.
 
 The first people to expose their malice and scoff of Islām and the Muslims were the Jews of the Banū Qaynuqā, who were residing within Madīnah itself. The Muslims suppressed their anger and waited to see what Jewish plots would be Revealed as the days went by. The Jews in fact strove toward their own ignominous end. It happened that an Arab woman went into the market of the Banū Qaynuqā with her jewellery and sat down in the goldsmith's shop. Soon a group of Jews gathered around her, demanding that she uncover her face. She refused. The goldsmith then, without her knowing, pinned the hem of her garment to her back. When she got up, she was exposed, and the Jews were laughing at her. The woman cried out and a man among the Muslims pounced upon the goldsmith and killed him. The Jews fell upon him in turn and killed him, and the spark ignited into a war between the Muslims and the Banū Qaynuqā. This was in the middle of Shawwāl in the second year of the Hijrah.
 
 The Jews took to their fortresses, fighting from there. The Prophet (ﷺ) surrounded them and kept a constant siege for fifteen nights until they were forced to surrender and accept whatever the Prophet (ﷺ) decided to do with them, their womenfolk and their children.
 
-When Allāh (ﷻ) turned them over to the Muslims, 'Abdullāh ibn Ubayy came and said: "O Prophet (ﷺ), be kind to my clients." (They were allies of the Khazraj). The Prophet (ﷺ) did not reply immediately and 'Abdullāh repeated his statement. The Prophet (ﷺ) then turned away from him but he held on to the Prophet's (ﷺ) armour.
+When Allāh (ﷻ) turned them over to the Muslims, 'Abdullāh ibn Ubayy came and said: "O Muhammad (ﷺ), be kind to my clients." (They were allies of the Khazraj). The Prophet (ﷺ) did not reply immediately and 'Abdullāh repeated his statement. The Prophet (ﷺ) then turned away from him but he held on to the Prophet's (ﷺ) armour.
 
-The Prophet's (ﷺ) colour changed and he said: "Let me go!" He became so angry that the onlookers saw darken his face. He repeated his demand.
+The Prophet's (ﷺ) colour changed and he said: "Let me go, woe to you!" He became so angry that the onlookers saw darken his face. He repeated his demand.
 
 But Abdullāh replied: "No, I shall not let you go till you show kindness to my clients. Four hundred without armour and three hundred with armour: They have protected me from all and sundry. Now you are going to slaughter them in one morning? I am a man who fears the consequences, by God."
 
-The Messenger of Allāh (ﷺ) replied: "They are yours on condition that they leave Madīnah and do not settle near us."
+The Messenger of Allāh (ﷺ) replied: "They are yours³⁴ on condition that they leave Madīnah and do not settle near us."
 
 So they travelled to Adhra'at in Syria and it was not long before most of them perished there. Would it not have been better for them if they had respected the rights of neighbours, acknowledged the value of treaties, and remained in Madīnah in peace and contentment? They hastened the evil upon themselves by starting it.
 
 Regarding 'Abdullāh ibn Ubayy's conversation with the Prophet (ﷺ), the following āyah (verse) was revealed:
 
-(And you see those in whose hearts is a disease race towards them, saying: we fear lest a change of fortune befall us, and it may happen that Allāh will vouchsafe [you] the victory, or a commandment from His Presence. Then will they repent of their secret thoughts.) (Qur'ān 5: 52)
+(And you see those in whose hearts is a disease race towards them, saying: we fear lest a change of fortune befall us, and it may happen that Allāh will vouchsafe [you] the victory, or a commandment from His Presence. Then will they repent of their secret thoughts.) (Qur'ān 5: 52)³⁵
 
 It would be a good thing for us to ponder over the behaviour of these Jews, the secret of their strong grudge against Islām and its Prophet (ﷺ), and their shameful alignment with paganism in its struggle against Islām. Is it true that the conflict between Judaism and Islām was political, not religious? And that sole power in the Arabian peninsula was the cause of this heated rivalry?
 
@@ -3277,7 +3353,7 @@ Ka'b replied: "You are more guided to the path than they." Upon this Allāh (ﷻ
 
 (Have you not seen those to whom a portion of the Scripture has been given, how they believe in idols and false deities, and how they say of those [idolaters] who disbelieve: "These are more rightly guided than those who believe?) (Qur'ān 4: 51)
 
-Ka'b returned to Madīnah in open hostility and utmost boldness to the extent that he even composed odes about some of the Muslim women. This was beyond the limits of tolerance, so the Muslims spilled his blood. The Prophet (ﷺ) sent someone to bring him out of his fortress so that he might receive his just reward. Muhammad ibn Maslamah and Abū Na'ilah went to him after they had been given the Prophet's (ﷺ) permission to say about him whatever would convince the Jew that they had disavowed themselves of Islām.
+Ka'b returned to Madīnah in open hostility and utmost boldness to the extent that he even composed love odes about some of the Muslim women. This was beyond the limits of tolerance, so the Muslims declared his blood forfeit. The Prophet (ﷺ) sent someone to bring him out of his fortress so that he might receive his just reward. Muhammad ibn Maslamah and Abū Nā'ilah went to him after they had been given the Prophet's (ﷺ) permission to say about him whatever would convince the Jew that they had disavowed themselves of Islām.
 
 Muhammad ibn Maslamah went to him and said: "That man has demanded charity of us and put us in distress. So I have come to you to take a loan."
 
@@ -3297,7 +3373,7 @@ Ka'b replied: "By God, you must have had enough of him."
 
 "When the son of one of us grows up, it will be said he was pledged as security in return for a load or two of dates. Let us pledge you our arms."
 
-Abū Na'ilah acted similarly, and said to the Jew: "The advent of that man has proved a tribulation for us. The Arabs have opposed us and attacked us in unison. They have cut the way for us so that our children are lost and we ourselves are exhausted. Our children as well as ourselves are under severe pressure."
+Abū Nā'ilah acted similarly, and said to the Jew: "The advent of that man has proved a tribulation for us. The Arabs have opposed us and attacked us in unison. They have cut the way for us so that our children are lost and we ourselves are exhausted. Our children as well as ourselves are under severe pressure."
 
 The conversation continued along similar lines as with Ibn Maslamah and Ka'b finally agreed to give them a loan in return for their pledging of their arms. This is what they had wanted, for Ka'b would not object to their carrying arms since it was what he had asked of them.
 
@@ -3307,11 +3383,11 @@ Ka'b replied: "If the young man was invited to a duel, he would respond."
 
 He descended in full adornment, with perfume wafting from him. The men soon engaged him in conversation while they were walking along.
 
-Then Abū Na'ilah pretended to want to smell the perfume on his hair, and passed his hand through it, saying: "I have never any perfume sweeter than tonight's." Ka'b glowed with vanity at this.
+Then Abū Nā'ilah pretended to want to smell the perfume on his hair, and passed his hand through it, saying: "I have never any perfume sweeter than tonight's." Ka'b glowed with vanity at this.
 
-Abū Na'ilah put his hand again into the Jew's hair and, grasping his temples, said to his companions: "Here he is, the enemy of Allāh (ﷻ)"
+Abū Nā'ilah put his hand again into the Jew's hair and, grasping his temples, said to his companions: "Here he is, the enemy of Allāh (ﷻ)"
 
-They pounced upon him with their swords,³³ and stabbed his body with the arms which he had demanded as a pledge instead of the women and children. Ka'b gave such a cry that there was not a house which did not light up to see what was the matter. When morning came, the Jews learnt of the death of their tyrant. Fear crept into their stubborn hearts and the vipers slithered into their holes to hide.
+They pounced upon him with their swords,³⁶ and stabbed his body with the arms which he had demanded as a pledge instead of the women and children. Ka'b gave such a cry that there was not a house which did not light up to see what was the matter. When morning came, the Jews learnt of the death of their tyrant. Fear crept into their stubborn hearts and the vipers slithered into their holes to hide.
 
 The stick proved useful where advice and exhortation failed. The Jews kept to their limits and did not venture to tangle with the Muslims again. It seemed as though they would not again support an idolater against Allāh (ﷻ) and His Messenger (ﷺ) after that day, and thus the Prophet (ﷺ) was able to dedicate his efforts to the confrontation with the bedouin idolaters for a time.
 
@@ -3319,19 +3395,19 @@ The stick proved useful where advice and exhortation failed. The Jews kept to th
 
 The Muslims were not deluded by the victory which they had achieved nor did they cease to observe their enemies and prepare for them. They were absolutely certain that Makkah would not fail to seek revenge for itself and would not yield to the catastrophe which had befallen it. To safeguard the status of his people and show their strength, Abū Sufyān thought it wise to strike Madīnah in a swift attack and withdraw immediately, having regained some of the Quraish's reputation for themselves and causing some losses to the Muslims. Moreover, Abū Sufyān had sworn that his head would not touch water until he attacked Muhammad (ﷺ) and he had to fulfill his oath. He therefore led two hundred horsemen until they arrived under cover of night at the dwelling of the Banū al Naḍīr on the outskirts of Madīnah. He stayed with Salam ibn Mushkim, one of the Jewish leaders, and obtained information from him about the Muslims. Together they studied the best way of hurting them and escaping from their patrols. Abū Sufyān thought of a scheme which would satisfy his oath and achieve his aim. With his men he raided an area which was called Al 'Arid, burnt the fences of its date-palm groves, found one of the Anṣār and his ally in their plantation and killed them, and took off in the direction of Makkah.
 
-The Muslims heard about what had happened and they pursued Abū Sufyān and his men. As soon as the idolaters noticed the posse chasing them they quickened their pace. When Abū Sufyān felt they were in danger, he began shedding the provisions which they had brought with them until he was able to put a good distance between himself and the Muslims. On the way the Muslims came across these provisions, most of which were Sawīq (a mash made of sugar and dates) and so they called this skirmish the Sawīq Battle!
+The Muslims heard about what had happened and they pursued Abū Sufyān and his men. As soon as the idolaters noticed the posse chasing them they quickened their pace. When Abū Sufyān felt they were in danger, he began shedding the provisions which they had brought with them until he was able to put a good distance between himself and the Muslims. On the way the Muslims came across these provisions, most of which were Sawīq (parched barley or wheat meal) and so they called this skirmish the Sawīq Battle!
 
 The Quraish did not gain from this futile raid anything over which they could raise their heads so they thought that they should keep away from clashes with the Muslims until the most suitable opportunity presented itself. But how could such a thing happen while their trade was passing to and from near Madīnah?
 
-Safwān ibn Umayyah said to the Quraish: "Muhammad (ﷺ) and his Companions have spoiled our trade and we do not know what to do with his Companions as long as they remain by the coast. The people of the coast have made treaties with them and the majority have joined them, so we do not know which road to take. If we remain in homes, we shall eat up our capital and it will vanish. Our life in Makkah is dependent on trade with Syria in summer and with Abyssinia in winter."
+Ṣafwān ibn Umayyah said to the Quraish: "Muhammad (ﷺ) and his Companions have spoiled our trade and we do not know what to do with his Companions as long as they remain by the coast. The people of the coast have made treaties with them and the majority have joined them, so we do not know which road to take. If we remain in homes, we shall eat up our capital and it will vanish. Our life in Makkah is dependent on trade with Syria in summer and with Abyssinia in winter."
 
-Al-Aswad ibn 'Abdul Muttalib said in reply: "Avoid the coast road and take to Iraq." He introduced him to Furat ibn Huyyan of the tribe of the Banū Bakr ibn Wa'il who could be employed as their guide on that journey. Thus the caravan of the Quraish set off under the leadership of Safwān ibn Umayyah, taking the new route. However, Na'im ibn Mas'ūd came to Madīnah, bearing the news of this caravan and its planned course. He joined Salīt ibn al Nu'mān in a drinking spree before the prohibition of alcohol and confided its secret to him. Salīt hurried to the Prophet (ﷺ) and told him the story. The Prophet (ﷺ) immediately dispatched Zayd ibn Ḥārithah at the head of a hundred horsemen to intercept the caravan. Zayd met it at a well called Al-Qirdah and captured the entire caravan, which was carrying large amounts of silver. The idolaters all fled in panic and only Furat ibn Hayyn fell into the hands of the Muslims. When he was taken to Madīnah he accepted Islām.
+Al-Aswad ibn 'Abdul Muttalib said in reply: "Avoid the coast road and take to Iraq." He introduced him to Furāt ibn Ḥayyān of the tribe of the Banū Bakr ibn Wa'il who could be employed as their guide on that journey. Thus the caravan of the Quraish set off under the leadership of Ṣafwān ibn Umayyah, taking the new route. However, Nu'aym ibn Mas'ūd came to Madīnah, bearing the news of this caravan and its planned course. He joined Salīt ibn al Nu'mān in a drinking spree before the prohibition of alcohol and confided its secret to him. Salīt hurried to the Prophet (ﷺ) and told him the story. The Prophet (ﷺ) immediately dispatched Zayd ibn Ḥārithah at the head of a hundred horsemen to intercept the caravan. Zayd met it at a well called Al-Qirdah and captured the entire caravan, which was carrying large amounts of silver. The idolaters all fled in panic and only Furāt ibn Ḥayyān fell into the hands of the Muslims. When he was taken to Madīnah he accepted Islām.
 
 The Quraish were dismayed by this new disaster and it increased their fervour for revenge. They made preparations for a confrontation with the Muslims in a complete mobilization of all their forces. This and other surrounding events led up to the Battle of Uḥud in the third year of the Hijrah.
 
 In the course of our discussion on Islām's military activity during its first two years at Madīnah, we cannot omit to mention some other important events which took place at that time.
 
-Khanīs ibn Ḥudhāfah al Sahmi, who was the husband of Ḥafṣah bint 'Umar (رضي الله عنه), passed away. He was a good man and had taken part in Badr. When her waiting period was over, her father wanted to select a husband for her. 'Umar (رضي الله عنه) explained what took place.
+Khunays ibn Ḥudhāfah al-Sahmī, who was the husband of Ḥafṣah bint 'Umar (رضي الله عنه), passed away. He was a good man and had taken part in Badr. When her waiting period was over, her father wanted to select a husband for her. 'Umar (رضي الله عنه) explained what took place.
 
 "I met 'Uthmān ibn 'Affān (رضي الله عنه) and proposed marriage with Ḥafṣah. I said: If you wish I shall marry you to Ḥafṣah bint 'Umar (رضي الله عنه)."
 
@@ -3343,17 +3419,17 @@ Then I met Abū Bakr (رضي الله عنه) and said to him: "If you wish I sh
 
 He kept silent and did not give me any answer at all. I was more angry with him than with 'Uthmān (رضي الله عنه). I waited a few days, then the Messenger of Allāh (ﷺ) asked me for her hand in marriage and I married her to him.
 
-Later I met Abū Bakr (رضي الله عنه) and he said: "Perhaps you were angry with me when you offered Ḥafaṣh to me in marriage and I did not respond?" I said yes. He replied: "The only thing which prevented me from replying to you was that I knew the Messenger of Allāh (ﷺ) had mentioned her (that is, in connection with marriage) and I was not going to disclose the secret of the Messenger of Allāh (ﷺ). However, If he had not chosen her I should have accepted her."³⁴
+Later I met Abū Bakr (رضي الله عنه) and he said: "Perhaps you were angry with me when you offered Ḥafaṣh to me in marriage and I did not respond?" I said yes. He replied: "The only thing which prevented me from replying to you was that I knew the Messenger of Allāh (ﷺ) had mentioned her (that is, in connection with marriage) and I was not going to disclose the secret of the Messenger of Allāh (ﷺ). However, If he had not chosen her I should have accepted her."³⁷
 
 It is clear from the Prophet's (ﷺ) decision to marry 'Umar's (رضي الله عنه) daughter after Abū Bakr's (رضي الله عنه), then to marry his daughter Fāṭimah to 'Alī (رضي الله عنه), and Umm Kulthūm to 'Uthmān (رضي الله عنه) after the death of Ruqayyah that he was eager to strengthen his ties with these four men, whose sufferings and sacrifices for Islām were well-known during the crises which Islām underwent and from which it emerged safely.
 
-In the second year of the Hijrah the fast of Ramaḍān was made compulsory as well as the zakāt-al fitr, and minimum rate of other types of zakāh was explained. The qibla was changed from Jerusalem to the Ka'bah on account of what took place during this year, and this change aroused the anger and strong objections of the Jews. Prior to it they were hoping that the Prophet (ﷺ) would follow them, and perhaps the basis of their treaty with him was their hope of using him and exploiting his supporters. However, when Islām distinguished itself clearly with its new qibla their hearts were filled with frustration, and this led them to intensify the attack on Islām and hatch plots against it. The propaganda warfare which they launched against Islām after the changing of the qibla was frustrated by the Qur'ān:
+In the second year of the Hijrah the fast of Ramaḍān was made compulsory as well as the zakāt-al fitr, and minimum rate of other types of zakāh was explained. Among the most momentous events of this year was the change of the qibla from Jerusalem to the purified Ka'bah, and this change aroused the anger and strong objections of the Jews. Prior to it they were hoping that the Prophet (ﷺ) would follow them (!), and perhaps the basis of their treaty with him was their hope of using him and exploiting his supporters. However, when Islām distinguished itself clearly with its new qibla their hearts were filled with frustration, and this led them to intensify the attack on Islām and hatch plots against it. The propaganda warfare which they launched against Islām after the changing of the qibla was frustrated by the Qur'ān:
 
 (The foolish of the people will say: what has turned them from the qiblah which they formerly observed? Say: to Allāh belong the East and the West. He guides whom He will a straight path.) (Qur'ān 2: 142)
 
-(It is no righteousness that you turn your faces to the East and the West, but righteousness is he who believes in Allāh and the Last Day..") (Qur'ān 2: 177)
-
 (To Allāh belong the East and the West, and whichever way you turn, there is Allāh's Countenance.) (Qur'ān 2: 115)
+
+(It is no righteousness that you turn your faces to the East and the West, but righteousness is he who believes in Allāh and the Last Day…) (Qur'ān 2: 177)
 
 Allāh (ﷻ) is the Lord of all times and places and His (ﷻ) directing of a nation to a specific qibla does not mean that He is limited in space or defective in His divinity. The turning of the Muslims to the Ka'bah was a return to the original, which was built by the father of the prophets, Ibrahīm (Abraham) (عليه السلام). In returning to the original there is avoidance of the deviations which took place in later times at the hands of the erring progeny, especially the Children of Israel.
 
@@ -3365,9 +3441,9 @@ The Muslims gathered around the Prophet (ﷺ), thinking about their affair. Shou
 
 They said: "We were longing for this day and we supplicated to Allāh (ﷻ). Now He has realized it for us and the time for the march has arrived." The majority of them were youths who desired martyrdom and it appeared that most of the Muslims were in favour of going out to meet the enemy. Thus the Prophet (ﷺ) entered his house and came out wearing his armour in readiness for battle. The people then began to feel that they had forced the Prophet (ﷺ) to accept their opinion and they showed their desire to give way to his opinion.
 
-The Prophet (ﷺ), however, had taken no offence at the difference of opinion and said: "It is not fitting for a prophet who has put on his armour to take it off until Allāh (ﷻ) decides between him and his enemy."³⁵
+The Prophet (ﷺ), however, found it objectionable to waver between differing opinions and said: "It is not fitting for a prophet who has put on his armour to take it off until Allāh (ﷻ) decides between him and his enemy."³⁸
 
-"It is I who invited you to this discussion and you have insisted on going out. So be fearful of Allāh (ﷻ) and patient at misfortune. And look at what Allāh (ﷻ) has commanded you and do it."³⁶
+"It is I who invited you to this discussion and you have insisted on going out. So be fearful of Allāh (ﷻ) and patient at misfortune. And look at what Allāh (ﷻ) has commanded you and do it."³⁹
 
 Then, leading a thousand men, he proceeded until he reached Uḥud.
 
@@ -3379,19 +3455,29 @@ Along the way, however, 'Abdullāh ibn Ubayy turned back with one-third of the m
 
 The Muslims camped in the valley near Uḥud, with their backs to the mountain. The Prophet (ﷺ) drew up the plan to win the battle and it was a masterly one. He set the archers in their places and put 'Abdullāh ibn Jubayr in charge of them.
 
-They were fifty men and he advised them thus; Keep the cavalry away from us with your arrows and do not let them approach us from the rear. Whether the tide is with or against us, stay in your places. We should not be caught from your direction.³⁷
+They were fifty men and he advised them thus; Keep the cavalry away from us with your arrows and do not let them approach us from the rear. Whether the tide is with or against us, stay in your places. We should not be caught from your direction.⁴⁰
 
 In another narration he said: "Protect our rear. If you see us being killed do not come to our assistance, and if you see us winning do not join us."
 
-The Prophet (ﷺ) was confident that with these strict orders the rear of his army would be protected by the group of archers. So he proceeded to arrange the vanguard, giving the order that fighting should not begin without his permission. He himself was clad in a coat of mail,³⁸ and he began selecting the men of courage and strength to be in the vanguard of believers when the two armies clashed. The number of Muslims was a quarter of that of the idolaters, and nothing could compensate for this inequality except the men who number a few but outweigh thousands.
+The Prophet (ﷺ) was confident that with these strict orders the rear of his army would be protected by the group of archers. So he proceeded to arrange the vanguard, giving the order that fighting should not begin without his permission. He himself wore two coats of mail, one over the other,⁴¹ and he began selecting the men of courage and strength to be in the vanguard of believers when the two armies clashed. The number of Muslims was a quarter of that of the idolaters, and nothing could compensate for this inequality except the men who number a few but outweigh thousands.
 
-Thābit³⁹ narrated that the Prophet (ﷺ), on the day of Uḥud, held out a sword and said: "Who shall take this sword and do justice to it?"
+Thābit⁴² narrated that the Prophet (ﷺ), on the day of Uḥud, held out a sword and said: "Who shall take this sword and do justice to it?"
 
 Everyone held back except Abū Dujānah, who said: "I shall take it and do justice to it." He took it and split the heads of the idolaters with it. Ibn Isḥāq narrated:
 
-Abū Dujānah was a brave man who used to put on a conceited air in battle. He had a red band which he would tie around his head and this indicated that he would fight to the death.
+Abū Dujānah was a brave man who used to strut proudly in battle. He had a red band which he would tie around his head and this indicated that he would fight to the death.
 
-When he took the sword from the Prophet (ﷺ), he tied the band around his head and went out saying: "It is who have pledged to my friend while we were in the plain near the date palms that I shall never remain in the rear any more, but I'll strike with the sword of Allāh (ﷻ) and His Prophet (ﷺ)."
+When he took the sword from the Prophet (ﷺ), he tied the band around his head and went out saying:
+
+*"I am the one whom my friend bound by a pledge*
+
+*while we were at the foot of the hill, beside the palms:*
+
+*never to stand in the rear ranks,*
+
+*but to strike with the sword of Allāh (ﷻ) and the Messenger (ﷺ)!"*
+
+By "the rear ranks" he meant that he would never fight at the back of the lines, but would always remain in the front.
 
 The two armies joined battle and the Prophet (ﷺ) gave permission for his men to fight the enemy. The first stages of battle began by showing wonders, as if 3,000 idolaters were facing 30,000 Muslims, not a few hundred only. The Muslims appeared to be at their peak of bravery and confidence.
 
@@ -3401,17 +3487,33 @@ Abū Dujānah advanced fearlessly with his red band around his head, killing any
 
 "A man from the Muslims, who was wearing a helmet, lay in wait for him. I advanced until I was just behind him. Then I began to assess the Muslim and the unbeliever who was eyeing him, and I found the unbeliever to be better equipped. I waited until they clashed and I saw the Muslim strike unbeliever on his shoulder with his sword. It penetrated to his hip, splitting him in two! Then the Muslim uncovered his face and said: 'What do you think, Ka'b (رضي الله عنه) I am Abū Dujānah."
 
-Ḥamzah ibn 'Abdul Muṭṭalib fought like an enraged tiger. He attacked the standard-bearers of the Banū 'Abd Addār, killing them one after the other. Wahshi, the slave of Jubayr ibn Mut'im said:
+Ḥamzah ibn 'Abdul Muṭṭalib fought like enraged lions. He attacked the standard-bearers of the Banū 'Abd Addār, killing them one after the other. Waḥshī, the slave of Jubayr ibn Muṭ'im said:
 
 "Jubayr said to me: "If you kill Ḥamzah, Muhammad's (ﷺ) uncle, you are free."
 
-So I went with the army. I was an Abyssinian man who threw javelins as well as any Abyssinian, and I seldom missed my target. When the battle began, I went out looking for Ḥamzah. When I spied him he was like a runaway camel, wreaking havoc among the people with his sword. Nothing could stop him. By Allāh (ﷻ), I prepared myself for him, hiding behind every tree or rock so that he might come close.
+So I went with the army. I was an Abyssinian man who threw javelins as well as any Abyssinian, and I seldom missed my target. When the battle began, I went out looking for Ḥamzah. When I spied him he was like an ash-grey [dust-covered] camel, wreaking havoc among the people with his sword. Nothing could stop him. By Allāh (ﷻ), I prepared myself for him, hiding behind every tree or rock so that he might come close.
 
-Then Sibā' ibn 'Abdul 'Uzzā came in front of me, and when Ḥamzah saw him he called: "Come to me, you son of a wretch!" He struck him in such a way that it seemed as if his head was wrenched off. I steadied my javelin, and when I was satisfied I threw it at him. It pierced his stomach and went through his back. He came towards me but collapsed on the way. I left him until he died. Then I came back, removed my javelin and returned to the camp, where I sat down since I had no other need and had killed him only to be free."
+Then Sibā' ibn 'Abdul 'Uzzā came in front of me, and when Ḥamzah saw him he called: 'Come to me, you son of the woman who circumcises girls!' He struck him in such a way that it seemed as if his head was wrenched off. I steadied my javelin, and when I was satisfied I threw it at him. It struck his lower belly and came out between his legs. He came towards me but collapsed on the way. I left him until he died. Then I came back, removed my javelin and returned to the camp, where I sat down since I had no other need and had killed him only to be free."
 
-Despite the great loss which struck the Muslims at the death of Ḥamzah, their small army continued to control the situation. The banner of the Muslims was carried by Mus'ab ibn 'Umayr, the illustrious da'iyah. When he was martyred, his place was taken by 'Alī ibn Abi Ṭālib. The Muhajirūn vied with the Anṣār for the place of honour in this battle and the Islāmic banner advanced step by step. Their battle cry was "Amut, amut" (Let me die, let me die.)!
+Despite the great loss which struck the Muslims at the death of Ḥamzah, their small army continued to control the situation. The banner of the Muslims was carried by Muṣ'ab ibn 'Umayr, the illustrious da'iyah. When he was martyred, his place was taken by 'Alī ibn Abi Ṭālib. The Muhajirūn vied with the Anṣār for the place of honour in this battle and the Islāmic banner advanced step by step. Their battle cry was "Amit, amit!" (Kill, kill!)
 
-The women of the Quraish were doing their utmost to encourage their men. They beat drums and urged the men into battle. They were led by Hind bint 'Utbah, wife of Abū Sufyān, who recited couplets of poetry inciting the Banū 'Abd al Dar to keep the standard of Makkah high: "Stay with it, Banu al Dar, stay with it, O protectors of the rear! Strike with every sharp sword." Urging the men on, she recited: "If you advance we shall embrace and spread rugs. But retreat and we shall separate not as lovers separate." The Quraish exerted their utmost strength to crush the vigour of the Muslims. However, they were disappointed, and they felt frustrated at their steadfastness and bravery. Ibn Is-ḥāq said:
+The women of the Quraish were doing their utmost to encourage their men. They beat drums and urged the men into battle. They were led by Hind bint 'Utbah, wife of Abū Sufyān, who recited verses inciting the Banū 'Abd al-Dār to keep the standard of Makkah high:
+
+*"On, sons of 'Abd al-Dār!*
+
+*On, protectors of the rear!*
+
+*Strike with every sharp sword!"*
+
+Urging the men on, she recited:
+
+*"If you advance we shall embrace you,*
+
+*and spread the cushions;*
+
+*but if you retreat we shall part —*
+
+*not as lovers part!"* The Quraish exerted their utmost strength to crush the vigour of the Muslims. However, they were disappointed, and they felt frustrated at their steadfastness and bravery. Ibn Is-ḥāq said:
 
 Then Allāh (ﷻ) sent down His help, and fulfilled His promise. They swept upon them with their swords until then flushed them out of their encampment. There was no doubt that the enemy would be defeated.
 
@@ -3423,19 +3525,19 @@ One may be at a party where the whole place is hit up, when, suddenly, there is 
 
 You have seen how the Prophet (ﷺ) issued strict orders to the archers to stay in their places to protect the rear, and how he ordered them not to move at all even if they saw the army being defeated. However, a fleeting passion of worldly love scattered these orders to the wind. No sooner did the archers see the Quraish in retreat and their booty strewn about the valley than they left their stations and descended into the field to collect their share of the wealth!
 
-Before this, the enemy cavalry, under the leadership of Khālid ibn al Walīd, were kept in confined. They could find no breach to penetrate the midst of the Muslims. However, when Khālid saw that the rear of the Muslims was now exposed, he quickly seized the opportunity, led his men around the mountain and swept down upon his surprised enemy. The fleeing idolaters saw the effects of this sudden change and they turned around. A woman named 'Amrah bint Al-Qamah raised the standard of the Quraish from the ground and the idolaters rallied round her. Thus the Ṣaḥabah were caught in the van and the rear as if they were again caught between the mortar and pestle.
+Before this, the enemy cavalry, under the leadership of Khālid ibn al Walīd, were kept confined. They could find no breach to penetrate the midst of the Muslims. However, when Khālid saw that the rear of the Muslims was now exposed, he quickly seized the opportunity, led his men around the mountain and swept down upon his surprised enemy. The fleeing idolaters saw the effects of this sudden change and they turned around. A woman named 'Amrah bint 'Alqamah al-Ḥārithiyyah raised the standard of the Quraish from the ground and the idolaters rallied round her. Thus the Ṣaḥābah were surrounded in front and behind, caught between the two millstones.
 
-Free men, however, are not vanquished easily. They were confused at what happened, no doubt, but they began to fight with vigour, even though their aim this time was only to save themselves and find a way out of this tight squeeze. Many were martyred in their attempt to escape and the idolaters managed to come close to the Prophet (ﷺ). One of them pelted him with a stone which broke his nose and front teeth and gashed his face.⁴⁰ He fell to the ground, bleeding. The news spread that Muhammad (ﷺ) had been killed and the Muslims dispersed. Some of them entered Madīnah while others climbed on top of the mountain. The Ṣaḥabah were bewildered as to what to do.
+Free men, however, are not vanquished easily. They were confused at what happened, no doubt, but they began to fight with vigour, even though their aim this time was only to save themselves and find a way out of this tight squeeze. Many were martyred in their attempt to escape and the idolaters managed to come close to the Prophet (ﷺ). One of them pelted him with a stone which broke his nose and front teeth and gashed his face.⁴³ He fell to the ground, bleeding. The news spread that Muhammad (ﷺ) had been killed and the Muslims dispersed. Some of them entered Madīnah while others climbed on top of the mountain. The Ṣaḥabah were bewildered as to what to do.
 
 The Prophet (ﷺ) began shouting to the believers: "Come to me, servants of Allāh (ﷻ)! About thirty men gathered around him. However the idolaters saw them and attacked them. Ṭalḥa was hit in his arm with an arrow which paralyzed it.
 
 Ubayy ibn Khalaf, who had sworn to kill the Prophet (ﷺ) approached him and, thinking that this was the time, said: "Liar! Where will you run?"
 
-He pounced upon the Prophet (ﷺ) with his sword, and the Prophet (ﷺ) said: "I am the one to kill him," and stabbed him through his chest armour. This made him fall and moan like a bull. A day or two later he died.⁴¹
+He pounced upon the Prophet (ﷺ) with his sword, and the Prophet (ﷺ) said: "I am the one to kill him, if Allāh (ﷻ) wills," and stabbed him through the opening of his armour. This made him fall and moan like a bull. He died within a day or part of a day.⁴⁴
 
 The Prophet (ﷺ) continued calling the Muslims to him and he was able to climb the mountain with the few men who were with him. Those who had sought shelter on the mountain then rejoined him and he was greatly pleased to find the reminder of his men with whom he could put up some resistance. They in turn were relieved to find that he was alive and so they regained their composure.
 
-Apparently the rumour of the Prophet's (ﷺ) death had spread on many lips: Anas ibn al Nasr passed by a group of Muslims who had given up all hope. He asked them: "What are you waiting for?"
+Apparently the rumour of the Prophet's (ﷺ) death had spread on many lips: Anas ibn al-Naḍr passed by a group of Muslims who had given up all hope. He asked them: "What are you waiting for?"
 
 "The Messenger of Allāh (ﷺ) has been killed,"
 
@@ -3447,11 +3549,11 @@ He then faced the idolaters and fought till he was killed.
 
 The Quraish for their part did not tire of attacking the Prophet (ﷺ) and the Ṣaḥabah who had rallied with him, intent on finishing them all off. One of the most crucial and trying hours in the history of this world passed as the idolatrous cavalry and archers waged attack after attack to achieve their goal. A great number of men fell before the eyes of the Prophet (ﷺ) as they were defending him. Ṭalḥah resisted them until he could go on no more; then he fell, halfway between life and death. Abū Dujānah shielded him with his back, and as the arrows penetrated him he did not flinch.
 
-Muslim narrated that on the day of Uḥud the Prophet (ﷺ) was left alone with seven of the Anṣār and two of the Muhajirīn, and when the idolaters attacked him he said: "Who will ward them off me in return for paradise?" One of the Anṣār advanced and fought till he died. Then they attacked him again until he said the same as before, and this continued until all seven of them were killed. Then he said: "Our Companions were not just to us," referring to those who had fled and deserted them. This defiance had its effect: Quraish eagerness to kill the Prophet (ﷺ) waned and his Companions returned to his side from all directions and recovered their zeal. The Prophet (ﷺ) then ordered his men to flush the Quraish from the peak which they had occupied on the mountain, saying, "They should not be higher than we are." They therefore pelted them with stones until they all evacuated the peak.⁴²
+Muslim narrated that on the day of Uḥud the Prophet (ﷺ) was left alone with seven of the Anṣār and two of the Muhajirīn, and when the idolaters attacked him he said: "Who will ward them off me in return for paradise?" One of the Anṣār advanced and fought till he died. Then they attacked him again until he said the same as before, and this continued until all seven of them were killed. Then he said: "Our Companions were not just to us," referring to those who had fled and deserted them. This defiance had its effect: Quraish eagerness to kill the Prophet (ﷺ) waned and his Companions returned to his side from all directions and recovered their zeal. The Prophet (ﷺ) then ordered his men to flush the Quraish from the peak which they had occupied on the mountain, saying, "They should not be higher than we are." They therefore pelted them with stones until they all evacuated the peak.⁴⁵
 
 Extricating themselves from the consequences of this terrible disorder was no less momentous than the earlier victory. The Prophet (ﷺ) directed his full energies towards resisting the Quraish in his determination not to let them carry away any easy gain, and in fact to inflict on them such losses as would deter them from harassing the Muslims.
 
-He drew the arrows from his quiver one by one, and handing them to Sa'd ibn Abī Waqqas, he said: "Shoot. My father and mother be your ransom.⁴³ Abū Ṭalḥan al-Anṣārī was an expert archer, and he fought to protect the Prophet (ﷺ). Every-time he shot an arrow the Prophet (ﷺ) raised his head to see where it fell, and Abū Ṭalḥa would inflate his chest, saying: "You are as my father and mother. No arrow shall hit you. I shall give my neck in protection of yours. And he would say: "My father is strong, Messenger of Allāh (ﷺ), so tell me what you need and order me to do whatever you will."
+He drew the arrows from his quiver one by one, and handing them to Sa'd ibn Abī Waqqāṣ, he said: "Shoot! May my father and mother be your ransom!"⁴⁶ Abū Ṭalḥah al-Anṣārī was an expert archer, and he fought to protect the Prophet (ﷺ). Every-time he shot an arrow the Prophet (ﷺ) raised his head to see where it fell, and Abū Ṭalḥah would raise his chest [to shield him], saying: "Stay like this — may my father and mother be your ransom! No arrow shall hit you; my neck before your neck!"⁴⁷ And he would say: "I am sturdy, Messenger of Allāh (ﷺ); send me wherever you need and order me to do whatever you will."
 
 The archers around the Prophet (ﷺ) succeeded in repelling the idolaters who were trying to climb the mountain, and thus they enabled the scattered Muslims to rejoin the Prophet (ﷺ). Nevertheless, they came as if they had been blinded. Some of them, from excessive anger and perplexity fought anyone in front of them, not knowing who they were fighting. One of them fought Al-Yamān, father of the famous Ṣaḥabī, Hudhayfah. The latter shouted "my father, my father" but to no avail. By the time scattered remnants of the Muslims reassembled exhaustion had completely overtaken them. However, Allāh (ﷻ) instilled tranquillity into their hearts and restored their optimism and confidence to them. They rested near the Prophet (ﷺ), awaiting anything new. Although drowsiness overtook some of them, as soon as the swords fell from their hands they awoke and were ready again for battle. This was because of Allāh's bounty to them:
 
@@ -3461,13 +3563,13 @@ The Quraish suffered no less than the Muslims from the horrors of that dreadful 
 
 So the Prophet (ﷺ) said to 'Alī (رضي الله عنه): "Go after them and see what they are doing. If they leave the horses aside and ride the camels, then they are heading for Makkah. However, if they ride the horses and drive the camels, then their direction is Madīnah. By Him in Whose hands is my life, if they head for Madīnah I shall march upon them and fight them within its walls."
 
-'Alī (رضي الله عنه) narrated: "So I went after them and saw that they had left the horses aside and were riding the camels in the direction of Makkah.⁴⁴
+'Alī (رضي الله عنه) narrated: "So I went after them and saw that they had left the horses aside and were riding the camels in the direction of Makkah.⁴⁸
 
 Ibn Is-ḥāq said:
 
 "When Abū Sufyān was about to depart he approached to the mountain and shouted at the top of his voice. "I have been rewarded. War alternates. A day for the day of Badr. Exalted be Hubal!"
 
-The Prophet (ﷺ) told 'Umar (رضي الله عنه) to answer him. "Say: 'Allāh (ﷻ) is more exalted and sublime: your dead are in the Fire!"
+The Prophet (ﷺ) told 'Umar (رضي الله عنه) to answer him. "Say: 'Allāh (ﷻ) is more exalted and sublime! We are not equal: our dead are in Paradise and your dead are in the Fire!'"
 
 Abū Sufyān then said: "Come down to me, 'Umar (رضي الله عنه)."
 
@@ -3477,11 +3579,11 @@ He went and Abū Sufyān said to him: "I beseech you by God, 'Umar (رضي ال�
 
 'Umar (رضي الله عنه) replied: "By Allāh (ﷻ), no. He can hear what you say at this moment.
 
-Abū Sufyān said: "You are more truthful to me than Ibn Qamī'ah, who claimed that he killed Muhammad (ﷺ)." Then he shouted:
+Then Abū Sufyān shouted:
 
-"There has been some mutilation of your dead. By Allāh (ﷻ), I was neither pleased nor angry, and I neither forbade nor ordered it.⁴⁵ When Abū Sufyān turned to go away, he shouted: "Your rendez-vous is Badr next year."
+"There has been some mutilation of your dead. By Allāh (ﷻ), I was neither pleased nor angry, and I neither forbade nor ordered it.⁴⁹ When Abū Sufyān turned to go away, he shouted: "Your rendez-vous is Badr next year."
 
-The Prophet (ﷺ) told one of his men to reply: "Yes, it is date between you and us."⁴⁶
+The Prophet (ﷺ) told one of his men to reply: "Yes, it is date between you and us."⁵⁰
 
 ## Lessons from the Test
 
@@ -3491,7 +3593,7 @@ The battle began with the desertion by Ibn Ubayy, an action which contained spit
 
 (It is not [the purpose] of Allāh to leave you in your present state till he separates the wicked from the good. And it is not [the purpose] of Allāh to let you know the Unseen.) (Qur'ān 3: 179)
 
-Cowardice and retreat were the behaviour which exposed the true nature of the hypocrites and humiliated them to their own faces and in front of the people even before heaven announced their hypocrisy. If you pass over the surface upon which these hypocrites creep and turn your attention to the lofty peaks of pure, deep-rooted faith, you will see it represented in the phase of successful attack when the fighting began, then in the phase of noble, exhausted defence, whose burden the Muslims bore after the tide had turned in favour of the idolaters. The men who write history with their blood and fix its direction with their determination were the ones to fight this war and, by doing so, to safeguard the future of Islām on earth.
+Cowardice and retreat were the behaviour which exposed the true nature of the hypocrites and humiliated them to their own faces and in front of the people even before heaven announced their hypocrisy. If you pass beyond the lower slopes on which these hypocrites creep and turn your attention to the lofty peaks of pure, deep-rooted faith, you will see it represented in the phase of successful attack when the fighting began, then in the phase of noble, tremendous defence, whose burden the Muslims bore after the tide had turned in favour of the idolaters. The men who write history with their blood and fix its direction with their determination were the ones to fight this war and, by doing so, to safeguard the future of Islām on earth.
 
 It is narrated that Khaythamah, whose son was killed at Badr, came to the Prophet (ﷺ), saying:
 
@@ -3499,7 +3601,7 @@ I missed the Battle of Badr even though I was keen to be there, by Allāh (ﷻ).
 
 O Messenger of Allāh (ﷺ), I have become eager to join him. I am advanced in years, my bones are weak and I should love to meet my Lord. So pray to Allāh (ﷻ), Messenger of Allāh (ﷺ), that He may grant me martyrdom and closeness to my son in Paradise.
 
-The Prophet (ﷺ) prayed for him and he was martyred in the Battle of Uḥud.⁴⁷
+The Prophet (ﷺ) prayed for him and he was martyred in the Battle of Uḥud.⁵¹
 
 'Amr ibn al Jamūh was lame and disable, and he had four youthful sons who would go with the Prophet (ﷺ) on his battles. When preparations were being made for Uḥud, he wanted to go, but his sons said to him: "Allāh (ﷻ) has given you a concession, so stay at home and we shall go in your place. Allāh (ﷻ) has not made jihād compulsory for you.
 
@@ -3507,9 +3609,9 @@ The Prophet (ﷺ) prayed for him and he was martyred in the Battle of Uḥud.⁴
 
 The Prophet (ﷺ) replied: "In your case Allāh (ﷻ) has not made jihād compulsory." Then he turned to the sons and said: "What if you allow him? Maybe Allāh (ﷻ) will grant him martyrdom."
 
-They did, and he went with the Prophet (ﷺ) and was martyred on the day of Uḥud.⁴⁸
+They did, and he went with the Prophet (ﷺ) and was martyred on the day of Uḥud.⁵²
 
-Na'im ibn Mālik (رضي الله عنه)⁴⁹ said and this was before the outbreak of the war:
+Nu'aym ibn Mālik (رضي الله عنه)⁵³ said and this was before the outbreak of the war:
 
 "Prophet of Allāh (ﷺ), do not deprive us of paradise, for by Him in Whose hands is my life, I shall definitely enter it."
 
@@ -3523,15 +3625,15 @@ replied the Prophet (ﷺ), and he was martyred on that day.
 
 On that occasion 'Abdullāh ibn Jaḥsh said:
 
-O Allāh (ﷻ), I swear by you that I shall meet the enemy and they will kill me, cut open my stomach and cut off my nose and ears. Then you will ask me, "Why was that done to you? And I shall reply, "On account of my love for you.⁵⁰
+O Allāh (ﷻ), I adjure You: let me meet the enemy tomorrow and let them kill me, cut open my stomach and cut off my nose and ears. Then You will ask me, "Why was that done to you?" And I shall reply, "For You."⁵⁴
 
-These are some examples of the towering strength with which unbelief clashed at the beginning and at the end of the battle. Unbelief was shocked by the encounter and the earth shook beneath its feet. It gained nothing at the beginning of the battle and it was not able to benefit from what it gained at the end. This sort of heroism is buried under the walls of Islāmic history up to this day, and Islām will not have a strong force established for it nor will tyranny be removed from its back except by means of these stored-up powers in the hearts of the sincere people and the martyrs.
+These are some examples of the towering strength with which unbelief clashed at the beginning and at the end of the battle. Unbelief was shocked by the encounter and the earth shook beneath its feet. It gained nothing at the beginning of the battle and it was not able to benefit from what it gained at the end. This sort of heroism is buried under the walls of Islāmic history up to this day, and no edifice will rise for Islām, nor will tyranny be lifted from it, except by means of these stored-up powers in the hearts of the sincere people and the martyrs.
 
-Who was the secret of this inspiration? Who caused this enlightenment to burst forth? Who unleashed such powers? Muhammad (ﷺ). It was he who nurtured that unique generation. From his huge heart their hearts were filled with dedication to Allāh (ﷻ) and preference for what He had in store for them. This magnificent Prophet (ﷺ) was injured at Uḥud. The spikes of his helmet stuck in his face and Abū Ubādah leaned over him and pulled them out with his teeth. However, no sooner had they been removed than his front teeth fell out and blood flowed copiously from his wound. Every time water was poured on it, it bled more, and it did not stop until a piece of mat was burnt and applied to the wound.⁵¹ A tooth was broken and also his helmet was broken over his head yet he remained sharp-witted, directing his Companions to the best positions until the battle ended. Then he suffered the loss of his uncle, Ḥamzah, who was killed by a javelin thrown into his stomach and whose liver was pulled out by Hind, the wife of Abū Sufyān, she tasted it and spat it out because of its bitterness.
+Who was the secret of this inspiration? Who caused this enlightenment to burst forth? Who unleashed such powers? Muhammad (ﷺ). It was he who nurtured that unique generation. From his huge heart their hearts were filled with dedication to Allāh (ﷻ) and preference for what He had in store for them. This magnificent Prophet (ﷺ) was injured at Uḥud. The spikes of his helmet stuck in his face and Abū 'Ubādah [thus in the Arabic original; according to the reports it was Abū 'Ubaydah ibn al-Jarrāḥ — translator's note] leaned over him and pulled them out with his teeth. However, by the time they came free from the flesh, his own two front teeth had fallen out with them.⁵⁵ Blood flowed copiously from the wound. Every time water was poured on it, it bled more, and it did not stop until a piece of mat was burnt and applied to the wound.⁵⁶ A tooth was broken and also his helmet was broken over his head yet he remained sharp-witted, directing his Companions to the best positions until the battle ended. Then he suffered the loss of his uncle, Ḥamzah, who was killed by a javelin thrown into his stomach and whose liver was pulled out by Hind, the wife of Abū Sufyān, she tasted it and spat it out because of its bitterness.
 
-The Prophet (ﷺ) had loved and respected Ḥamzah greatly, so when he saw what had been done to his body he felt very hurt and said: "I shall never have anyone like you again. I have never felt more angry than now.⁵² However, submission to Allāh's will soon overcame his grief and he resumed his normal role of checking his Companions, comforting them, and filling their hearts with faith in Allāh (ﷻ) and acceptance of His decree.⁵³
+The Prophet (ﷺ) had loved and respected Ḥamzah greatly, so when he saw what had been done to his body he felt very hurt and said: "I shall never be struck by a loss like yours. I have never felt more angry than now.⁵⁷ However, submission to Allāh's will soon overcame his grief and he resumed his normal role of checking his Companions, comforting them, and filling their hearts with faith in Allāh (ﷻ) and acceptance of His decree.⁵⁸
 
-Imam Aḥmad narrated:⁵⁴
+Imam Aḥmad narrated:⁵⁹
 
 "On the day of Uḥud when the idolaters were repelled, the Messenger of Allāh (ﷺ) said: "Arrange yourselves in rows so that I can praise my Lord, glory be to Him."
 
@@ -3549,7 +3651,7 @@ However, after Uḥud He (ﷻ) said:
 
 (Some of you desired the world, and some of you desired the Hereafter. Therefore He made you flee from them, that He might try you. Yet now He has forgiven you. Allāh is Lord of kindness to believers.) (Qur'ān 3: 152)
 
-It was enough for those who had committed a mistake to taste the bitterness of defeat, and a quick reference to that contains a sufficient lesson to remind them of the consequences they had brought upon themselves. These āyāt mixed gentle scolding with useful lessons and purification of the believers so that their defeat in the field might not turn into despair or frustration which would paralyse them.
+It was enough for those who had committed a mistake to taste the bitterness of defeat, and the immediate retribution contains a sufficient lesson to remind them of the consequences they had brought upon themselves. These āyāt mixed gentle scolding with useful lessons and purification of the believers so that their defeat in the field might not turn into despair or frustration which would paralyse them.
 
 (Systems have passed away before you. Do but travel in the land and see the nature of the consequences for those who denied [the messengers]. This is a declaration for mankind, a guidance and an admonition to those who ward off [evil]. Neither faint nor grieve, for you will overcome them if you are [indeed] believers.) (Qur'ān 3: 137-139)
 
@@ -3559,17 +3661,17 @@ Then the Revelation proceeded to inform the Muslims of what they did not know re
 
 (Or did you think that you would enter paradise without Allāh knowing which of you really strive, or knowing those [of you] who are steadfast?) (Qur'ān 3: 142)
 
-People of feeling are ashamed to demand an expensive product at a low price, whereas they display readiness to sacrifice themselves to achieve their aims. However, the readiness exhibited in peacetime should not fade during the time of fear. Human beings, in peacetime, imagine things to be simple and easy, and this may lead them to random action and deception. However, believers must be wary of such a situation. Let them listen to Allāh's reproaching of one who wishes death, and then avoids it as it comes near:
+People of understanding are ashamed to demand an expensive product at a low price, whereas they display readiness to sacrifice themselves to achieve their aims. However, the readiness exhibited in peacetime should not fade during the time of fear. Human beings, in peacetime, imagine things to be simple and easy, and this may lead them to random action and deception. However, believers must be wary of such a situation. Let them listen to Allāh's reproaching of one who wishes death, and then avoids it as it comes near:
 
 (And indeed you used to wish for death before you met in [in the field]. Now you have seen it with your own eyes!) (Qur'ān 3: 143)
 
 Then Allāh (ﷻ) scolded those who lost their determination and zeal upon hearing the rumours of the Prophet's (ﷺ) death. This is not the behaviour of people of faith: they are followers of principles, not followers of personalities. If perchance the Prophet (ﷺ) died while defending the religion of Allāh (ﷻ), then it is expected of his Companions to stand firm in the jaws of death and meet the same fate as their leader did, not to waver and turn on their heels.
 
-The work of Muhammad (ﷺ) was to illuminate those dark corners of human thought and conscience. Thus, if he completes his role and leaves, is it right for those who had been enlightened to return to their former state of darkness? Muhammad (ﷺ) gathered the people around him as a servant and Messenger of Allāh (ﷺ), and those who joined him recognized him as their leader towards the truth and their link with Allāh (ﷻ). When he dies, their greater link with the One Who is living and never dies will remain and grow firmer.
+The work of Muhammad (ﷺ) was to illuminate those dark corners of human thought and conscience. Thus, if he completes his role and leaves, is it right for those who had been enlightened to return to their former state of darkness? Muhammad (ﷺ) gathered the people around him as a servant and Messenger of Allāh (ﷻ), and those who joined him recognized him as their leader towards the truth and their link with Allāh (ﷻ). When he dies, their greater link with the One Who is living and never dies will remain and grow firmer.
 
 (Muhammad is but a Messenger, Messengers [the like of whom] have passed away before him. Will it be that, when he dies or is slain, you will turn on your heels? He who turns back does no harm to Allāh, and Allāh will reward the thankful.) (Qur'ān 3: 144)
 
-The noble āyāt continued in its enlightenment of the believers of the lessons from the incident, teaching them how in future they could avoid such predicaments and seizing the opportunity to separate from the body of Muslims those who entered on the basis of hypocrisy. If the Battle of Badr caused the alienation of the unbelievers, then the Battle of Uḥud similarly exposed the hypocrites. Many a harmful thing may be beneficial, and one's body can be cured by sickness.
+The noble āyāt continued in its enlightenment of the believers of the lessons from the incident, teaching them how in future they could avoid such predicaments and seizing the opportunity to separate from the body of Muslims those who entered on the basis of hypocrisy. If the Battle of Badr served to humiliate the unbelievers, then the Battle of Uḥud similarly exposed the hypocrites. Many a harmful thing may be beneficial, and one's body can be cured by sickness.
 
 Perhaps as a result of the disobedience to the orders in this battle, the Muslims learnt a sound lesson on the value of obedience. Thus the group which is not ruled by one command or which is plagued by individualist tendencies can never be successful in an encounter, and, in fact, can never vindicate itself in war or peace. All nations, whether believers or non-believers, are aware of this reality, and for this reason the army is based on absolute obedience. Whenever a nation takes part in a war, all the various parties are combined into a single front, all their inclinations become a single desire, and any dissidence or disobedience in the ranks is quelled with an iron fist.
 
@@ -3585,7 +3687,7 @@ For any deed to be accepted, Islām stipulates that it must be based on one fait
 
 The Quraish made their way to Makkah in haste, as if they were unsure of the victory they had achieved after their defeat in the first half of the battle. The Muslim, on the other hand, nursed their wounded and prepared graves for their dead, who would rise from them on the Day of Judgement to meet their Lord.
 
-Ibn Isḥāq narrated that the Prophet (ﷺ) said:
+Ibn Isḥāq narrated that the Prophet (ﷺ) said:⁶⁰
 
 "Who will look for Sa'd ibn Rabī' for me? Is he among the living or the dead?"
 
@@ -3597,43 +3699,49 @@ The man reported: "Then he died before I could move, and I came back to the Prop
 
 The Prophet (ﷺ) ordered the martyrs to be buried where they had been killed, and he refused to allow them to be transferred to their family graves.
 
-Jābir ibn 'Abdullāh said: "On the day of Uḥud my aunt brought my father to be buried in our graves. However, the Prophet's (ﷺ) announced that the martyred should all be returned to their places of martyrdom.
+Jābir ibn 'Abdullāh said: "On the day of Uḥud my aunt brought my father to be buried in our graves. However, the Prophet's (ﷺ) crier announced that the martyred should all be returned to their places of martyrdom."⁶¹
 
 The Prophet (ﷺ) would wrap every two martyrs in one cloth and then say: "Which of the two memorized more of the Qur'ān?" If one of them was pointed out he would put him first in the grave, saying, "I am a witness over these."
 
-He ordered them to be buried with the blood on them and neither prayed (the funeral prayers) over them nor washed them. When he had finished burying them he said: "I am a witness over these. There is no-one who is injured on behalf of Allāh (ﷻ) but Allāh (ﷻ) will raise him on the Day of Judgment with the blood dripping from his wound. The colour will be the colour of blood and the scent that of musk."
+He ordered them to be buried with the blood on them and neither prayed (the funeral prayers) over them nor washed them.⁶² When he had finished burying them he said: "I am a witness over these. There is no-one who is injured on behalf of Allāh (ﷻ) but Allāh (ﷻ) will raise him on the Day of Judgment with the blood dripping from his wound. The colour will be the colour of blood and the scent that of musk."⁶³
 
-The Battle of Uḥud left traces on the heart of the Prophet (ﷺ) which stayed with him until his last days in the world. On this towering mountain around Yathrib he bade farewell to the dearest of men and those closest to his heart. The chosen, purified few who had carried the burden of the da'wah, opposed relatives and strangers for the pleasure of Allāh (ﷻ), been estranged on account of their beliefs before and after the Hijrah, spent their money, fought, persevered and helped others to persevere, now lay in their final resting-place on this mountain as fate had decreed for them. The Prophet (ﷺ) would remember the characters of these heroes and say: "Uḥud is a mountain which loves us and which we love." When the time for his death approached, he paid his last homage to those heroes by visiting their graves, praying for them and exhorting the people by their example.
+The Battle of Uḥud left traces on the heart of the Prophet (ﷺ) which stayed with him until his last days in the world. On this towering mountain around Yathrib he bade farewell to the dearest of men and those closest to his heart. The chosen, purified few who had carried the burden of the da'wah, opposed relatives and strangers for the pleasure of Allāh (ﷻ), been estranged on account of their beliefs before and after the Hijrah, spent their money, fought, persevered and helped others to persevere, now lay in their final resting-place on this mountain as fate had decreed for them. The Prophet (ﷺ) would remember the characters of these heroes and say: "Uḥud is a mountain which loves us and which we love."⁶⁴ When the time for his death approached, he paid his last homage to those heroes by visiting their graves, praying for them and exhorting the people by their example.
 
 'Uqbah ibn 'Āmir narrated:
 
-"The Messenger of Allāh (ﷺ) prayed over the martyrs in Uḥud after eight years as one who was bidding farewell to the living and the dead. Then he mounted the pulpit (mimbar) and said: "I shall soon be gone from you. I am over you. Your meeting-place will be the spring (of paradise) and I can see it from where I stand now. I am not afraid that you will revert to idolatry. However, I am afraid of the worldly life (dunya) for you that you will rival one another for it."⁵⁵
+"The Messenger of Allāh (ﷺ) prayed over the martyrs in Uḥud after eight years as one who was bidding farewell to the living and the dead. Then he mounted the pulpit (mimbar) and said: 'I go ahead of you as your forerunner, and I am a witness over you. Your meeting-place will be the Pool (al-Ḥawḍ), and I can see it from where I stand now. I am not afraid that you will revert to idolatry. However, I am afraid of the worldly life (dunya) for you that you will rival one another for it.'"⁶⁵
 
 'Uqbah continued: "It was the last look that I had of the Messenger of Allāh (ﷺ)."
 
-The Muslim buried their feelings of frustration in their hearts and did not yield to the sorrows of what had befallen them. The abundance, of their enemies surrounding them was a reason for them to fight off their fatigue and make a show of strength so as to deter any would-be attackers. The defeat at Uḥud was an opportunity seized by the hypocrites and Jews as well as all those who held some grudge against Muhammad (ﷺ), his religion and his Companions. Madīnah flared up: all those who had previously concealed their enmity now exposed it, and the nonbelievers began talking of Allāh's desertion of his Prophet (ﷺ).
+The Muslim buried their feelings of frustration in their hearts and did not yield to the sorrows of what had befallen them. The abundance, of their enemies surrounding them was a reason for them to fight off their fatigue and make a show of strength so as to deter any would-be attackers — as the poet says:
 
-The Prophet (ﷺ) saw that he should reorganize his men quickly and form a new force of the injured and uninjured to the Quraish and prevent them from attacking again. The Battle of Uḥud took place on Saturday, 15 Shawwāl, and the force was organized and dispatched on Sunday, 16 Shawwāl. The Prophet (ﷺ) and those with him travelled until they reached Ḥamra Al-Asad and approached Abū Sufyān's force.
+*I show the gloaters my fortitude, that they may see*
+
+*I do not crumble under the blows of fate.*
+
+The defeat at Uḥud was an opportunity seized by the hypocrites and Jews as well as all those who held some grudge against Muhammad (ﷺ), his religion and his Companions. Madīnah flared up: all those who had previously concealed their enmity now exposed it, and the unbelievers began talking of heaven's desertion of the Prophet (ﷺ) sent by Allāh.
+
+The Prophet (ﷺ) saw that he should reorganize his men quickly and form a new force of the injured and uninjured to the Quraish and prevent them from attacking again. The Battle of Uḥud took place on Saturday, 15 Shawwāl, and the force was organized and dispatched on Sunday, 16 Shawwāl. The Prophet (ﷺ) and those with him travelled until they reached Ḥamrā' al-Asad and approached Abū Sufyān's force.⁶⁶
 
 The men of the Quraish, having reached the open air, began reflecting on what had taken place. They blamed one another, saying: "You haven't achieved anything you had them in your grasp, then you let them go without slaughtering. Now they still have men to resist you! "However, this thought was swept away as soon as the Quraish learnt of the Muslims' mobilization of their forces. The idolaters were confused as to what to do. Should they turn back and fight a war, the result of which was uncertain, and which might cause them the loss of their victory? Or should they proceed at once to Makkah? In the latter case the position of the Muslims would improve and the bitterness of their defeat would be diluted.
 
 Abū Sufyān decided upon a safe return, while at the same time sending someone to the Muslims to scare them off by announcing that the Quraish were on their tail and ready to exterminate them after they had seen the mistake of leaving them alone! The Muslims camped at Ḥamrā Al-Asad, where the spy came and urged them to return to Madīnah and save themselves from the Makkans whom they had no hope of defeating. Nevertheless, the Muslims accepted the challenge, and remained in their camp with fires lit for three nights, waiting for the Quraish. The latter decided that it was best for them to return to Makkah in safety, and, upon hearing this, the Muslims returned to Madīnah to enter it once again. Heads high and confident in themselves.
 
-Concerning this incident the following āyah was revealed:
+Concerning this successful show of strength, and those who took part in it despite the pain of their wounds and their exhaustion, stood firm against discouragement and trusted in Allāh (ﷻ), the following āyāt were revealed:
 
-(Those to whom men said: Indeed, the people have gathered against you; therefore fear them. The threat of danger only increased the faith of them and they cried: Allāh is sufficient for us! Most Excellent is He in whom we trust! So they returned with grace and favour from Allāh, and no harm touched them. They followed the good pleasure of Allāh, and Allāh is of infinite bounty.) (Qur'ān 3: 173-174)
+(As for those who heard the call of Allāh and His messenger after the harm befell them; for such of them as do right and ward off [evil], there is great reward. Those to whom men said: Indeed, the people have gathered against you; therefore fear them. The threat of danger only increased the faith of them and they cried: Allāh is sufficient for us! Most Excellent is He in whom we trust! So they returned with grace and favour from Allāh, and no harm touched them. They followed the good pleasure of Allāh, and Allāh is of infinite bounty.) (Qur'ān 3: 172-174)
 
 ## The Effects of Uḥud
 
-Many of those who had concluded truces with Islām or sheltered under it rebelled. The defeat at Uḥud was of a greater effect than the Muslims realized, in spite of their show of strength at Ḥamra Al-Asad. The bedouin Arabs became bold and entertained hopes of raiding Madīnah and carrying off all its property. The Jew, too, mocked openly, and their attitude toward the Muslims quickly deteriorated. One of the hardest things to do is to lead a people after sustaining a great defeat or leading an ideology after a crucial loss, even though one may think light of hardships and persevere under the most trying conditions.
+Many of those who had concluded truces with Islām or sheltered under it rebelled. The defeat at Uḥud was of a greater effect than the Muslims realized, in spite of their show of strength at Ḥamrā' al-Asad. The bedouin Arabs became bold and entertained hopes of raiding Madīnah and carrying off all its property. The Jew, too, mocked openly, and their attitude toward the Muslims quickly deteriorated. One of the hardest things to do is to lead a people after sustaining a great defeat or leading an ideology after a crucial loss, even though one may think light of hardships and persevere under the most trying conditions.
 
-The fourth year of the Hijrah came and the Muslims had still not recovered from their wounds at Uḥud. Time does not wait for anyone; however: the bedouin began moving towards Madīnah, thinking that whatever was in it would be easy prey. The first to prepare to attack Madīnah were the Banū Asad, but the Prophet (ﷺ) lost no time in dispatching Abū Salāmah at the head of one hundred and fifty men to surprise the tribe in their homes before they could carry out any raids. Abū Salāmah managed to rout his enemies and carry off their goods without much trouble and he returned victorious to Madīnah. He was one of the best leaders of the Ṣaḥabah and one of the earliest to accept Islām and wage jihād. Nevertheless, he returned from this expedition in an exhausted state, for the wound he had received at Uḥud became inflamed and he died soon afterwards.
+The fourth year of the Hijrah came and the Muslims had still not recovered from their wounds at Uḥud. Time does not wait for anyone; however: the bedouin began moving towards Madīnah, thinking that whatever was in it would be easy prey. The first to prepare to attack Madīnah were the Banū Asad, but the Prophet (ﷺ) lost no time in dispatching Abū Salamah at the head of one hundred and fifty men to surprise the tribe in their homes before they could carry out any raids.⁶⁷ Abū Salamah managed to rout his enemies and carry off their goods without much trouble and he returned victorious to Madīnah. He was one of the best leaders of the Ṣaḥabah and one of the earliest to accept Islām and wage jihād. Nevertheless, he returned from this expedition in an exhausted state, for the wound he had received at Uḥud became inflamed and he died soon afterwards.
 
-Although Khālid ibn Sufyān al Hudhalī attempted to gather a force to attack the Muslims the Prophet (ﷺ) dispached 'Abdullāh ibn Anīs after him, and he was killed while still attempting to mobilize the bedouin tribes against Madīnah. The tribe of Hudhayl avenged their kinsmen by handing over the Muslim prisoners who were captured in the Battle of Raji' to the people of Makkah.
+Khālid ibn Sufyān al-Hudhalī attempted to gather a force to attack the Muslims, but the Prophet (ﷺ) dispatched 'Abdullāh ibn Unays after him, and he was killed while still attempting to mobilize the bedouin tribes against Madīnah.⁶⁸ The tribe of Hudhayl avenged their kinsmen by handing over the Muslim prisoners who were captured in the Battle of Raji' to the people of Makkah.
 
-The story of Rajī' began when a delegation from the tribes of 'Aḍal and Al-Qārah approached the Prophet (ﷺ) and asked for men to teach them the principles of Islām and the recitation of the Qur'ān, for the news of Islām had reached them. The Prophet (ﷺ) sent with them a number of du'at (missionaries) under the command of 'Āṣim ibn Thābit. When they were between 'Asafān and Makkah, near the waters of Hudhayl, the delegation acted treacherously and called to Hudhayl for support in killing missionaries. Although the latter took arms in self-defence, what could a small number of men who could be counted on one's fingers do in face of a hundred or so archers whose tribe was behind them ready to assist? Thus 'Āṣim and his men were soon killed and three of them taken prisoner: Khubayb, Zayd ibn al Dathnah and 'Abdullāh ibn Tāriq. The Hudaylis took them to Makkah to sell them there, and this meant handing them over to likely killers. The group of missionaries were with the Prophet (ﷺ) in the battle of Badr and Uḥud, and the people of Makkah were awaiting the opportunity to wreak vengeance on them. 'Abdullāh tried to escape from this fate and was killed. The other two were handed over to the Makkans.
+The story of Rajī' began when a delegation from the tribes of 'Aḍal and Al-Qārah approached the Prophet (ﷺ) and asked for men to teach them the principles of Islām and the recitation of the Qur'ān, for the news of Islām had reached them. The Prophet (ﷺ) sent with them a number of du'at (missionaries) under the command of 'Āṣim ibn Thābit. When they were between 'Usfān and Makkah, near the waters of Hudhayl, the delegation acted treacherously and called to Hudhayl for support in killing missionaries. Although the latter took arms in self-defence, what could a small number of men who could be counted on one's fingers do in face of a hundred or so archers whose tribe was behind them ready to assist? Thus 'Āṣim and his men were soon killed and three of them taken prisoner: Khubayb, Zayd ibn al Dathnah and 'Abdullāh ibn Tāriq. The Hudaylis took them to Makkah to sell them there, and this meant handing them over to likely killers. The group of missionaries were with the Prophet (ﷺ) in the battle of Badr and Uḥud, and the people of Makkah were awaiting the opportunity to wreak vengeance on them. 'Abdullāh tried to escape from this fate and was killed. The other two were handed over to the Makkans.
 
-Safwān ibn Umayyah bought Zayd to kill him in revenge for his father. They took him outside the sanctuary and a group of people gathered around him.
+Ṣafwān ibn Umayyah bought Zayd to kill him in revenge for his father. They took him outside the sanctuary and a group of people gathered around him.
 
 Among them was Abū Sufyān, who said: "I beseech you by God, Zayd. Would you prefer Muhammad (ﷺ) to be in your place here with us, about to be beheaded, while you are at home with your family?"
 
@@ -3649,7 +3757,7 @@ They said: "All right. You can pray."
 
 He prayed two raka't, which he performed well, then he turned to the people and said: "By Allāh (ﷻ), I should have prolonged my prayer if it were not for the fact that you might think that I am afraid of death." Khubayb was the first to start the Sunnah of praying two raka't before execution.
 
-They hoisted him onto the wooden frame, and when they had secured him, he said: "O Allāh (ﷻ) surely we have conveyed the message of your Messenger, so convey to him this morning what is being done to us. O Allāh (ﷻ), encircle their numbers, kill them all and do not let any of them escape.⁵⁶ Then he faced death, chanting:
+They hoisted him onto the wooden frame, and when they had secured him, he said: "O Allāh (ﷻ) surely we have conveyed the message of your Messenger, so convey to him this morning what is being done to us. O Allāh (ﷻ), encircle their numbers, kill them all and do not let any of them escape.⁶⁹ Then he faced death, chanting:
 
 *I do not care when I am killed as a Muslim*
 
@@ -3661,13 +3769,13 @@ They hoisted him onto the wooden frame, and when they had secured him, he said: 
 
 The Muslims were grieved by the loss of 'Āṣim and his group, and especially by the death of the captives in this treacherous manner. It meant the loss of a number of brave missionaries, of whom Islām was in dire need in that period of its history. Furthermore, the Muslims became even more apprehensive at the way in which these men were hunted down. It showed the degree of malice the Arabs had for the believers, their disdain for their lives and their temerity in attacking them without fear of revenge.
 
-Nevertheless, although this incident compelled the Muslims to check before sending any delegation to spread Islām among the far-off tribes and unknown places, yet it was absolutely necessary to send missionaries, however high the cost might be. This made the Prophet (ﷺ) look at these sacrifices as something inevitable, just as a merchant may prefer to bear his losses for a time in the hope of making greater profits, rather than withdrawing from the market and allowing his business to fail. This is the secret of the Prophet's (ﷺ) response to Abū Barā (رضي الله عنه) 'Āmir ibn Mālik (رضي الله عنه), known as the spear-thrower, when he asked the Prophet (ﷺ) to send a delegation of missionaries to spread Islām among the tribes of Najd. The Prophet (ﷺ) expressed his fear for the safety of his men amid wild tribes whose word could not be trusted. However, Abū Barā undertook to stand surety for them saying "I am protégé and (like) neighbour for them,⁵⁷ and so the missionaries left Madīnah and travelled until they reached Bi'r Ma'unah. They were seventy selected men known as reciters of the Qur'ān, who would gather firewood during the day and pray during the night. Their lives were dedicated to struggle and desire for the Hereafter. When the Prophet (ﷺ) ordered them to travel to covey the message of Allāh (ﷻ), they left, not knowing that they were all hurrying towards their deaths in a land whose valleys were teeming with the faithless.
+Nevertheless, although this incident compelled the Muslims to check before sending any delegation to spread Islām among the far-off tribes and unknown places, yet it was absolutely necessary to send missionaries, however high the cost might be. This made the Prophet (ﷺ) look at these sacrifices as something inevitable, just as a merchant may prefer to bear his losses for a time in the hope of making greater profits, rather than withdrawing from the market and allowing his business to fail. This is the secret of the Prophet's (ﷺ) response to Abū Barā' 'Āmir ibn Mālik, known as Mulā'ib al-Asinnah ("he who plays with spearheads"), when he asked the Prophet (ﷺ) to send a delegation of missionaries to spread Islām among the tribes of Najd. The Prophet (ﷺ) expressed his fear for the safety of his men amid wild tribes whose word could not be trusted. However, Abū Barā' undertook to stand surety for them saying "I am protégé and (like) neighbour for them,⁷⁰ and so the missionaries left Madīnah and travelled until they reached Bi'r Ma'ūnah. They were seventy selected men known as reciters of the Qur'ān, who would gather firewood during the day and pray during the night. Their lives were dedicated to struggle and desire for the Hereafter. When the Prophet (ﷺ) ordered them to travel to covey the message of Allāh (ﷻ), they left, not knowing that they were all hurrying towards their deaths in a land whose valleys were teeming with the faithless.
 
 When the reciters reached Bi'r Ma'ūnah, they sent one of them, Ḥarām ibn Milḥān, to 'Āmir ibn al Ṭufayl, the leader of unbelief in those parts. Ḥarām handed 'Āmir the Prophet's (ﷺ) letter in which he invited him to Islām. 'Āmir did not look at the letter but ordered a man to assassinate the bearer of the letter. Ḥarām became aware of it only when he felt a heavy blow piercing his back and entering his chest. His response to this sudden martydom was like that of a man who had the desire for martyrdom for a long time as he shouted: "I have succeeded, by the Lord of the Ka'bah!"
 
 'Āmir persisted in his tyranny and solicited the aid of allies to continue the aggression against the Muslims. He was joined by the tribes of Ri'l, Dhakwān and Al-Qārah, and together they attacked the peaceful reciters. The latter, seeing death approaching them from all sides, hurriedly drew their swords to defend themselves. But to no avail. The cruel bedouin swept down upon them in their camp and exterminated them to the last man.
 
-On the trail of the reciters were two men who did not witness this tragedy. One of them was 'Amr ibn Umayyah al Damri. They learnt of the sad news only from the flocks of wild birds flying towards the camp and circling over the corpses scattered on the sand. They went to look and saw the bodies covered with blood, and the horsemen who had attacked them standing around.
+With the reciters' grazing camels were two men who did not witness this tragedy. One of them was 'Amr ibn Umayyah al-Ḍamrī. They learnt of the sad news only from the flocks of wild birds flying towards the camp and circling over the corpses scattered on the sand. They went to look and saw the bodies covered with blood, and the horsemen who had attacked them standing around.
 
 "Āmir's comrade said to him: What do you think we should do?"
 
@@ -3679,27 +3787,27 @@ However, his comrade did not like this suggestion. Among the martyrs was a close
 
 'Amr returned to the Prophet (ﷺ), carrying with him the news of the terrible calamity: the murder of seventy selected Muslims. This calamity reminded them of Uḥud, except that those martyrs had succumbed in a clear fight whereas these had succumbed to treachery. This incident filled the hearts of the Muslims with anger. They were affected not only by the great loss of lives, but what injured their feeling even more was paganism's deep malice and enmity for Islām and the Muslims, who were now exposed by this incident. This was malice and enmity which could cast aside all principles of honour and loyalty, and allow those who had the means to harm the Muslims however and whenever they liked.
 
-On his way to Madīnah 'Amr met two men whom he thought to be the sons of 'Āmir, so he killed them in revenge for his Companions. Afterwards he found out that they were from the tribe of Kilāb, who had entered into a treaty with the Muslims. When he reached Madīnah and told the Prophet (ﷺ) what had happened, the Prophet (ﷺ) said to the assembly:⁵⁸ Your Companions have been killed, and they have made a request to their Lord, saying: Our Lord, inform our brothers that we are pleased with You and You with us.⁵⁹ Then he said to 'Amr: "You have killed two men, and I shall indeed pay their blood money." He then busied himself collecting the blood money from the Muslims and their Jewish allies.
+On his way to Madīnah 'Amr met two men whom he thought to be of the Banū 'Āmir, so he killed them in revenge for his Companions. Afterwards he found out that they were from the tribe of Kilāb, who had entered into a treaty with the Muslims. When he reached Madīnah and told the Prophet (ﷺ) what had happened, the Prophet (ﷺ) said to the assembly:⁷¹ Your Companions have been killed, and they have made a request to their Lord, saying: Our Lord, inform our brothers that we are pleased with You and You with us. Then he said to 'Amr: "You have killed two men, and I shall indeed pay their blood money."⁷² He then busied himself collecting the blood money from the Muslims and their Jewish allies.
 
 Islām's success in strengthening its foothold in the Arabian peninsula caused many hearts to burn, and there is no doubt that the Muslims' hope in the future and expectancy of more victories only kindled more malice in their enemies. The detractors would describe the Muslims as deluded:
 
 (When the hypocrites and those in whose hearts is a disease said: Their religion has deluded these people. He who puts his trust in Allāh [will find that] indeed, Allāh is Mighty, Wise.) (Qur'ān 8: 49)
 
-This hatred had lain dormant for a time after the victory of Badr. In fact this victory may have encouraged a fair number of the weak-hearted and uncertain elements to come under the banner of the new religion. However, when the tide turned against the Muslims and they suffered defeat after defeat, the suppressed hatred burst forth and the enemies of Islām began attacking it on all fronts. We have said that the Prophet (ﷺ) understood the situation after Uḥud, and he therefore made a great effort to regain the status of dominance for the Muslims. Thus the struggle between the two forces grew more intense than ever. On the one hand the idolaters were seizing every opportunity to direct a blow against the Muslims as in Uḥud or even harder, while on the other the Muslims were trying to wipe out its traces forever. Nevertheless, as already explained, the Muslims suffered enormous losses at Raji' and Bi'r Ma'unah, and the faith underwent one trial after another. In spite of these tragedies, however, the faithful people did not lose their contact with their Lord or their confidence in the future. They began returning a blow for a blow, and when the Jews began their moves in such a critical state to assassinate the Prophet (ﷺ), he lost no time in inflicting swift punishment on them.
+This hatred had lain dormant for a time after the victory of Badr. In fact this victory may have encouraged a fair number of the weak-hearted and uncertain elements to come under the banner of the new religion. However, when the tide turned against the Muslims and they suffered defeat after defeat, the suppressed hatred burst forth and the enemies of Islām began attacking it on all fronts. We have said that the Prophet (ﷺ) understood the situation after Uḥud, and he therefore made a great effort to regain the status of dominance for the Muslims. Thus the struggle between the two forces grew more intense than ever. On the one hand the idolaters were seizing every opportunity to direct a blow against the Muslims as in Uḥud or even harder, while on the other the Muslims were trying to wipe out its traces forever. Nevertheless, as already explained, the Muslims suffered enormous losses at Raji' and Bi'r Ma'ūnah, and the faith underwent one trial after another. In spite of these tragedies, however, the faithful people did not lose their contact with their Lord or their confidence in the future. They began returning a blow for a blow, and when the Jews began their moves in such a critical state to assassinate the Prophet (ﷺ), he lost no time in inflicting swift punishment on them.
 
 ## The Exile of the Banū al Naḍīr
 
 The story of their treachery was that the Prophet (ﷺ) went to the homes of the Banū al Naḍīr to ask them to assist in paying the blood money for the two men who were killed accidentally by 'Amr. When he negotiated with them, they showed willingness to assist, so he sat by the wall of their homes, waiting for them to fulfil their promise. However, the Jews conferred with one another secretly and the following proposal was made: "You will never again find the man in such a position, in comfort and at ease. So who will go up to the top of this house and throw a rock on him and rid us of him forever?"
 
-When the Jews were about to execute their plan, the Prophet (ﷺ) was warned by inspiration of the imminent danger, so he quickly got up and made his way back to Madīnah. His Companions, in the meantime, had noticed his absence and had gone in search of him. Then a man coming from Madīnah informed them that he saw him entering the city, so they hurried to meet him. When they reached him, he told them of the plot of the Jews to kill him. Later he learnt that the man who had volunteered to throw the stone on him was 'Amr ibn Jaḥash, and the Prophet (ﷺ) did not spare him or his people. He summoned Muhammad ibn Maslamah, ordered him to go to the Banū al Naḍīr and tell them to leave Madīnah never to return. He gave them ten days, and said that if after then he found any of them in Madīnah he would cut their heads off.⁶⁰
+When the Jews were about to execute their plan, the Prophet (ﷺ) was warned by inspiration of the imminent danger, so he quickly got up and made his way back to Madīnah. His Companions, in the meantime, had noticed his absence and had gone in search of him. Then a man coming from Madīnah informed them that he saw him entering the city, so they hurried to meet him. When they reached him, he told them of the plot of the Jews to kill him. Later he learnt that the man who had volunteered to throw the stone on him was 'Amr ibn Jaḥash, and the Prophet (ﷺ) did not spare him or his people. He summoned Muhammad ibn Maslamah, ordered him to go to the Banū al Naḍīr and tell them to leave Madīnah never to return. He gave them ten days, and said that if after then he found any of them in Madīnah he would cut their heads off.⁷³
 
 The Jews had no option but to leave and they began to prepare for the journey. However, the hypocrites in Madīnah, at the head of whom was 'Abdullāh ibn Ubayy, sent a message to them saying: "Stay where you are. We shall help you. We shall help you against Muhammad (ﷺ) and his Companions." The Jews regained their confidence and they decided upon resistance. They sent to the Prophet (ﷺ), saying: "We shall not leave, so do whatever you wish."
 
-Then they secured themselves in their fortresses and prepared for battle. Their will to resist was increased even further when they saw that Ibn Ubayy was preparing two thousand men to help them. However, the Prophet (ﷺ) at once put a stop to this by challenging anyone who wished to join them from the other Jewish tribes or the Arab idolaters. He laid siege to the houses of the Banū al Naḍīr, and ordered their date palms to be cut down.⁶¹
+Then they secured themselves in their fortresses and prepared for battle. Their will to resist was increased even further when they saw that Ibn Ubayy was preparing two thousand men to help them. However, the Prophet (ﷺ) at once put a stop to this by challenging anyone who wished to join them from the other Jewish tribes or the Arab idolaters. He laid siege to the houses of the Banū al Naḍīr, and ordered their date palms to be cut down.⁷⁴
 
-The situation became critical and the Jews began to see death staring them in the face. Their supporters were petrified with fear and no-one dared to send them relief or defend them. For the Muslims to enter into a direct confrontation with their enemies at this crucial time was a dangerous decision, the outcome of which was unknown. You have seen now the Arabs joined forces against the Muslims and tore their delegations to pieces. In addition to this, the Jews of Banū al Naḍīr were of reasonable strength, a fact which made it unlikely that they would surrender and which made fighting them an undesirable undertaking. However, the situation resulting from the tragedy of Bi'r Ma'unah and the previous one had made the Muslims more susceptible to the crimes of assassination and treachery, to which they were now exposed individually and collectively. Their hatred for the perpetrators of such acts was doubled, and therefore they were determined to fight the Banū al Naḍīr after learning of their attempt to assassinate the Prophet (ﷺ), no matter what the consequences. Fortunately, the result in their favour came sooner than they expected. The Jews succumbed and surrendered to the victors, who permitted them to go into exile from their homes taking as much wealth as their camels could carry except their weapons.⁶²
+The situation became critical and the Jews began to see death staring them in the face. Their supporters were petrified with fear and no-one dared to send them relief or defend them. For the Muslims to enter into a direct confrontation with their enemies at this crucial time was a dangerous decision, the outcome of which was unknown. You have seen now the Arabs joined forces against the Muslims and tore their delegations to pieces. In addition to this, the Jews of Banū al Naḍīr were of reasonable strength, a fact which made it unlikely that they would surrender and which made fighting them an undesirable undertaking. However, the situation resulting from the tragedy of Bi'r Ma'ūnah and the previous one had made the Muslims more sensitive to the crimes of assassination and treachery, to which they were now exposed in groups and as individuals. Their hatred for the perpetrators of such acts was doubled, and therefore they were determined to fight the Banū al Naḍīr after learning of their attempt to assassinate the Prophet (ﷺ), no matter what the consequences. Fortunately, the result in their favour came sooner than they expected. The Jews succumbed and surrendered to the victors, who permitted them to go into exile from their homes taking as much wealth as their camels could carry except their weapons.⁷⁵
 
-Concerning this battle the whole of Sūrat Al-Hashr was revealed, describing the expulsion of the Jews: the first part
+Concerning this battle the whole of Sūrat Al-Ḥashr was revealed, describing the expulsion of the Jews: the first part
 
 (He it is Who has caused those of the People of the Scripture who disbelieved leave their homes into the first exile. You deemed not that they would leave, you did not think while they thought that their strongholds would protect them from Allāh. But Allāh reached them from a place which they had not considered, and cast terror in their hearts so that they ruined their houses with their own hands and the hands of the believers. So learn a lesson, O you who have eyes!) (Qur'ān 59: 2)
 
@@ -3707,23 +3815,23 @@ Then the Qur'ān exposed the attitude of the hypocrites who tried to help the Je
 
 (Have you not observed those who are hypocrites [how] they tell their brethren who disbelieve among the People of the Scripture: if you are driven out we surely shall go out with you, and we shall never obey anyone against you, and if you are attacked we shall certainly help you. And Allāh bears witness that really they are liars. [For] indeed if they are driven out they do not leave with them, and indeed if they are attacked they do them not help and indeed if they would help them, would turn to their back and would not have been victorious.) (Qur'ān 59: 11-12)
 
-With this victory, which the Muslims achieved without sacrifice, their dominance in Madīnah was confirmed and the hypocrites desisted from declaring their hidden plots. The Prophet (ﷺ) was then able to turn his attention to suppressing the bedouin who had caused injury to the Muslims after Uḥud by pouncing upon the delegations of missionaries and killing them without compunction. In order to teach those treacherous tribes a lesson, the Prophet (ﷺ) marched from Madīnah through the deserts of Najd, seeking revenge for his Companions who were slain in Rajī' and Bi'r Ma'unah and to instil fear into the hearts of those ruthless bedouin so that they would not attempt to repeat their atrocities on the Muslims. In the realization of this aim he undertook a variety of military and punitive expeditions which were so successful that the bedouin who had terrorized the countryside with their pillaging and plundering, and who had put a stop to the da'wah for the time, would flee into the mountains at the very news of the Muslims approaching. The main culprits were the Banū Lihyan, Banū Muḥārib and Banū Tha'labah of the Ghaṭafān tribe.
+With this victory, which the Muslims achieved without sacrifice, their dominance in Madīnah was confirmed and the hypocrites desisted from declaring their hidden plots. The Prophet (ﷺ) was then able to turn his attention to suppressing the bedouin who had caused injury to the Muslims after Uḥud by pouncing upon the delegations of missionaries and killing them without compunction. In order to teach those treacherous tribes a lesson, the Prophet (ﷺ) marched from Madīnah through the deserts of Najd, seeking revenge for his Companions who were slain in Rajī' and Bi'r Ma'ūnah and to instil fear into the hearts of those ruthless bedouin so that they would not attempt to repeat their atrocities on the Muslims. In the realization of this aim he undertook a variety of military and punitive expeditions which were so successful that the bedouin who had terrorized the countryside with their pillaging and plundering, and who had put a stop to the da'wah for the time, would flee into the mountains at the very news of the Muslims approaching. The main culprits were the Banū Lihyan, Banū Muḥārib and Banū Tha'labah of the Ghaṭafān tribe.
 
-Having broken the power of these tribes and put an end to their menace, the Muslims once more began equipping themselves to confront their enemy, for a year had elapsed and the rendez-vous with the Quraish had come. Now was the test to see which of the two was more worth of survival.
+Having broken the power of these tribes and put an end to their menace, the Muslims once more began equipping themselves to confront their enemy, for a year had elapsed and the rendez-vous with the Quraish had come. Muhammad (ﷺ) and his Companions had every right to go out to face Abū Sufyān and his people and turn the millstone of war once more, until it was settled which of the two parties was better guided and more worthy of survival.
 
 ## The Second Badr
 
-Abū Sufyān was not eager to fulfil the promise he had made when leaving Uḥud. He left Makkah with a heavy heart, thinking of the consequences of fighting the Muslims, and, as yet, he had not made sufficient preparations as he would have liked. His people had been defeated at Badr in spite of their superior numbers and equipment, and they barely managed gain victory at Uḥud after almost being defeated. If it had not been for the error made by the army of Allāh (ﷻ), the Quraish would not have made any gains in the battle. Thus Abū Sufyān had hardly reached Dhahran when it occurred to him to make a retreat, and he shouted to his men: "O people of the Quraish, only a year of fertility will be beneficial for you. In which you grow trees and drink milk. However, this year is a barren year and I am going back, so you go back too." Thus did the Quraish withdraw from the expected battle.
+Abū Sufyān was not eager to fulfil the promise he had made when leaving Uḥud. He left Makkah with a heavy heart, thinking of the consequences of fighting the Muslims, and, as yet, he had not made sufficient preparations as he would have liked. His people had been defeated at Badr in spite of their superior numbers and equipment, and they barely managed gain victory at Uḥud after almost being defeated. If it had not been for the error made by the army of Allāh (ﷻ), the Quraish would not have made any gains in the battle. Thus Abū Sufyān had hardly reached al-Ẓahrān when it occurred to him to make a retreat, and he shouted to his men: "O people of the Quraish, only a fertile year will do for you, in which you graze [your herds] on the shrubs and drink milk. However, this year is a barren year and I am going back, so you go back too." Thus did the Quraish withdraw from the expected battle.
 
 The Muslims, however, mobilized themselves for the encounter with the Quraish with all fervour. They reached the wells of Badr and camped around them, announcing the fulfilment of their word and their readiness for the promised fight. For eight days they remained waiting for the approach of the Quraish, removing the last specks of mud which Uḥud had thrown at their reputation. That was in Sha'ban of the fourth year after the Hijrah.
 
-## Dumat al Jandal
+## Dūmat al-Jandal
 
 The reins of control were transferred into the hands of the Muslims after the Quraish backed down from the challenge of meeting them. Thus they turned their attention to the north, having subdued the south. The north of the peninsula bordered on the Roman empire, and the Arabs who lived there feared no-one after Caesar. Caesar himself would not have expected a power to arise in the Arabian peninsula which could challenge or ignore him.
 
-The news filtered into Madīnah that the tribes around Dūmat al Jandal near Syria were waylaying passers-by and plundering their belongings. They had become so arrogant that they began thinking of attacking Madīnah, and a great horde gathered to make this raid. The Prophet (ﷺ) thus marched with a thousand men, resting during the day and travelling during the night surprised the enemy. The distance between Yathrib and Dūmat al Jandal was fifteen days, which the Muslims traversed with the help of a skilled guide. When they reached the camp of their enemy, they swept down upon it in a surprise attack and the hordes fled helter-skelter. The Muslims took as booty all their livestock which they had left behind and which belonged to the Banū Tamīm. The Prophet (ﷺ) spent a number of days in the area, sending out detachments in various directions. No-one remained to challenge them and eventually the Muslims returned to Madīnah. This was in Rabi'I-1 of the fifth year after the Hijrah.
+The news filtered into Madīnah that the tribes around Dūmat al Jandal near Syria were waylaying passers-by and plundering their belongings. They had become so arrogant that they began thinking of attacking Madīnah, and a great horde gathered to make this raid. The Prophet (ﷺ) thus marched with a thousand men, resting during the day and travelling during the night surprised the enemy. The distance between Yathrib and Dūmat al Jandal was fifteen days, which the Muslims traversed with the help of a skilled guide. When they reached the camp of their enemy, they swept down upon it in a surprise attack and the hordes fled helter-skelter. The Muslims took as booty all their livestock which they had left behind and which belonged to the Banū Tamīm. The Prophet (ﷺ) spent a number of days in the area, sending out detachments in various directions. No-one remained to challenge them and eventually the Muslims returned to Madīnah. This was in Rabī' al-Awwal of the fifth year after the Hijrah.
 
-When Islām was just a call challenging the prevailing system, opposition to it took the form of overtness and provocation without fear of the consequences. However, when it gained power its enemies took the course followed by suppressed instincts. Schemes and plots became the order of the day along with the means about which the strong can boast. The conspiracies of the weak under cover of darkness are no less dangerous than the damage caused by the strong on the battlefield. On the contrary, a person may be hurt more seriously by malicious slander than by a physical blow. In wars without principles all sorts of means are used to hurt the enemy, some of which a noble-man would be ashamed to stoop to.
+When Islām was just a call challenging the prevailing system, opposition to it took the form of overtness and provocation without fear of the consequences. However, when it gained power its enemies took the course followed by suppressed instincts. Schemes and plots became the order of the day alongside the means which the strong use openly. The conspiracies of the weak under cover of darkness are no less dangerous than the damage caused by the strong on the battlefield. On the contrary, a person may be hurt more seriously by malicious slander than by a physical blow. In wars without principles all sorts of means are used to hurt the enemy, some of which a noble-man would be ashamed to stoop to.
 
 The hypocrites in Madīnah, in their hostility the Prophet (ﷺ) and his da'wah, resorted to a means in which is clearly reflected the depravity of the human soul when it is ruled by malice and overcome by weakness. It was the method of insinuations at certain times and accusations at other times. The stronger the position and influence of the Muslims became, the greater the enmity and spite of the hypocrites. They had tried to side with the Jews when the Prophet (ﷺ) announced his intention to exile them. However, when the tide of Islām continued to flow and defeat did not control it, and the hostile tribes began to disappear one by one, these hypocrites joined the ranks of the Muslims. Their evil intentions remained hidden except for slips of the tongue and lapses in their behaviour. This attitude of theirs was the cause of serious trouble from which the Prophet (ﷺ) and the believers suffered greatly.
 
@@ -3731,13 +3839,13 @@ This was very clear in the battle of Banū al Muṣṭaliq. News had reached the
 
 The Muslims arrived at the oasis called Al-Muraysi', around which were gathered the Banū al Muṣṭaliq, and the Prophet (ﷺ) ordered 'Umar (رضي الله عنه) to propose Islām to them.
 
-'Umar (رضي الله عنه) accordingly shouted: "Say 'there is no god but Allāh (ﷻ)', and by it protect yourselves and your wealth!" They refused, however, and the two sides exchanged showers of arrows. The Prophet (ﷺ) then ordered his men to attack and they did so in unison. Not a single idolater escaped: they were all taken prisoners after ten of them were killed and one Muslim martyred, the latter being the result of a mistake. Thus the whole tribe and all that they possessed fell into the hands of the Muslims.
+'Umar (رضي الله عنه) accordingly shouted: "Say 'there is no god but Allāh (ﷻ)', and by it protect yourselves and your wealth!" They refused, however, and the two sides exchanged showers of arrows. The Prophet (ﷺ) then ordered his men to attack and they did so in unison. Not a single idolater escaped: they were all taken prisoners after ten of them were killed and one Muslim martyred, the latter being the result of a mistake. Thus the whole tribe and all that they possessed fell into the hands of the Muslims.⁷⁶
 
-The Prophet (ﷺ) saw that he should treat them kindly. Thus when Al-Ḥārith, the leader of the tribe, came seeking his daughter who was among the prisoners, the Prophet (ﷺ) returned her to her father and then proposed to marry her.⁶³ When the marriage ceremony was completed, the Muslims felt ashamed that they should keep in captivity the in-laws of the Prophet (ﷺ) and so they freed them all. Thus Juwayriyah, daughter of Al-Ḥārith, was the cause of great good fortune for her people: one hundred households were set free on the occasion of her wedding.
+The Prophet (ﷺ) saw that he should treat them kindly. Thus when Al-Ḥārith, the leader of the tribe, came seeking his daughter who was among the prisoners, the Prophet (ﷺ) returned her to her father and then proposed to marry her.⁷⁷ When the marriage ceremony was completed, the Muslims felt ashamed that they should keep in captivity the in-laws of the Prophet (ﷺ) and so they freed them all. Thus Juwayriyah, daughter of Al-Ḥārith, was the cause of great good fortune for her people: one hundred households were set free on the occasion of her wedding.
 
 This easy victory was, however, sullied by the actions of the hypocrites, which made the Muslims forget its sweet taste. A servant of 'Umar (رضي الله عنه), who was drawing water for him from the water of Al-Muraysi', collided with a servant of the Banū 'Auf of the Khazraj tribe and they almost fought over the drawing of the water a usual thing with empty headed servants. The first shouted "O muhajirīn!" while the other shouted, "O Anṣār!"
 
-'Abdullāh ibn Ubayy, who was among a group from his tribe, listened to the uproar, and seeing the opportunity presenting itself to arouse their feelings and revive the flames of jahilīyah which Islām had smothered, said: "Now they have done it! They have vied with us and tried to out number us in our own country. No, by God, if we return to Madīnah, the mightier will soon drive out the weaker." Then he turned to his people, who still maintained some dignity criticizing them and urging them to repudiate the Prophet (ﷺ) and his Companions. Zayd ibn Arqam went to the Prophet (ﷺ) and told him what had happened, but Ibn Ubayy hurried to the Prophet (ﷺ) to clear himself by denying the charges.
+'Abdullāh ibn Ubayy, who was among a group from his tribe, listened to the uproar, and seeing the opportunity presenting itself to arouse their feelings and revive the flames of jahilīyah which Islām had smothered, said: "Now they have done it! They have vied with us and tried to out number us in our own country. No, by God, if we return to Madīnah, the mightier will soon drive out the weaker." Then he turned to his people — among whom he still had some standing — criticizing them and urging them to repudiate the Prophet (ﷺ) and his Companions. Zayd ibn Arqam went to the Prophet (ﷺ) and told him what had happened, but Ibn Ubayy hurried to the Prophet (ﷺ) to clear himself by denying the charges.
 
 Those present decided to accept the word of Ibn Ubayy in deference to his status, and they said: "The boy (that is, Zayd) made a mistake. He did not remember correctly what was said."
 
@@ -3745,7 +3853,7 @@ The reality of the situation, however, did not escape the Prophet (ﷺ), and he 
 
 Then came the revelation of Sūrat Al Munāfiqūn, the chapter entitled "The Hypocrites", in which was the confirmation of what Zayd ibn Arqam had reported:
 
-(They say: Surely, if we return to Al-Madīnah the stronger will soon drive out the weaker; when might belongs to Allah and to His messenger and the believers; but the hypocrites do not know.) (Qur'ān 63: 8)
+(They say: Surely, if we return to Al-Madīnah the stronger will soon drive out the weaker; when might belongs to Allah and to His messenger and the believers; but the hypocrites do not know.) (Qur'ān 63: 8)⁷⁸
 
 It never occurred to anyone that this hasty return would soon reveal a dastardly slander, which was hatched by Ibn Ubayy and spread among the people until it became cancerous. This man had made a false oath after denying his own words. If the coward had gone to seek help from its evil consequences, that would have been much better for him. Yet, in spite of the forbearance with which he was excused, it only increased his depravity and hostility. There was a great difference between the various kinds of men who opposed Islām and its Prophet (ﷺ). Abū Jahl was an inveterate enemy of all who entered this religion. He was a stubborn tyrant whose obstinacy was never-ending. However, he was like a marauding hyena which was no good at manoeuvring. He took to the sword in broad daylight and continued to fight with it until he was killed.
 
@@ -3761,7 +3869,7 @@ Here is an account of the fabricated accusation from the lips of the lady hersel
 
 Ā'ishah said:
 
-Whenever the Prophet (ﷺ) intended to travel he would draw lots between his wives, and whoever had her lot drawn would accompany him. When it was the expedition of the Banū al Muṣṭaliq my lot was drawn over theirs, so I travelled with him. In those days the wives would eat lightly; they did not like meat because they would put on weight. While the camel was being saddled I would sit in my litter. Then the men would come and pick me up by taking hold of the lower part of the litter, lifting it up and putting it on the back of the camel, where they would fasten it with a rope. Then they would set off.
+Whenever the Prophet (ﷺ) intended to travel he would draw lots between his wives, and whoever had her lot drawn would accompany him. When it was the expedition of the Banū al Muṣṭaliq my lot was drawn over theirs, so I travelled with him. In those days the women ate only a bare minimum; meat had not yet made them heavy. While the camel was being saddled I would sit in my litter. Then the men would come and pick me up by taking hold of the lower part of the litter, lifting it up and putting it on the back of the camel, where they would fasten it with a rope. Then they would set off.
 
 When the Prophet (ﷺ) had finished that journey he turned back, and when he was nearing Madīnah he halted and spent part of the night there. Then one of his men announced that they should be on their way. While they were getting ready, I went out for a certain purpose, wearing a necklace of mine around my neck. When I had finished it slipped from my neck without my knowing, and when I returned to the camel I felt my neck for it but could not find it. Meanwhile the group had already started off, and I returned to the place where I had been and looked for it until I found it. The men who had been saddling my camel for me came, and having already finished the preparation, picked up the litter, thinking that I was in it. Then they took the camel by its head and went off with it. I went back to the camp and not a soul was there: the men had gone. So I wrapped myself in my gown and lay down in my place. I knew that If I were missed the men would come back for me.
 
@@ -3773,7 +3881,7 @@ I found that whenever he came in to see me while my mother was nursing me, he wo
 
 I said: "O Messenger of Allāh (ﷺ), will you permit me to go over to my mother?"
 
-He replied: "As you please." So I was taken to my mother's house, knowing nothing of what had happened until I recovered from my illness some twenty days later. We were a simple people and our houses did not contain those closets which the foreigners had. We loathed and detested them. Instead, we used to go out into the open spaces of Madīnah and the women would go out every night. One night I went with Umm Mistah. By Allāh (ﷻ), she was walking with me when she tripped over her gown and exclaimed: "Wretched by Mistah!"
+He replied: "As you please." So I was taken to my mother's house, knowing nothing of what had happened until I recovered from my illness some twenty days later. We were Arabs and our houses did not contain those closets which the non-Arabs had. We loathed and detested them. Instead, we used to go out into the open spaces of Madīnah and the women would go out every night. One night I went with Umm Mistah. By Allāh (ﷻ), she was walking with me when she tripped over her gown and exclaimed: "Wretched by Mistah!"
 
 I said: "By Allāh (ﷻ), it is a bad thing to say of one of the muhajirīn who fought at Badr!"
 
@@ -3795,13 +3903,13 @@ O people, what is the matter with certain men that they worry me about my family
 
 Most of the gossip came from 'Abdullāh ibn Ubayy of the Khazraj tribe, besides what Miṣṭaḥ and Ḥamnah bint Jaḥsh said. That was because her sister Zaynab bint Jaḥsh was a wife of the Prophet (ﷺ), and only she among all the other wives rivalled me for his favour. As for Zaynab, Allāh (ﷻ) protected her with her religion and she spoke nothing but good. However, Ḥamnah gossiped all she could, opposing me for her sister's sake.
 
-When the Messenger of Allāh (ﷺ) made his speech, Usayd ibn Hudayr said: "Messenger of Allāh (ﷺ), if they are from the Aus, let us rid you of them; and if they are from our Khazraj brothers, then give us your orders, for, by Allāh (ﷻ), they deserve to have their heads cut off." Sa'd ibn 'Ubādah got up before that he had been thought a pious man and said:' You lie, by Allāh (ﷻ) they should not be beheaded. You have made this statement only because you know that they are of the Khazraj, and if they had been from your tribe you would not have said that."
+When the Messenger of Allāh (ﷺ) made his speech, Usayd ibn Ḥuḍayr said: "Messenger of Allāh (ﷺ), if they are from the Aws, let us rid you of them; and if they are from our Khazraj brothers, then give us your orders, for, by Allāh (ﷻ), they deserve to have their heads cut off." Sa'd ibn 'Ubādah got up before that he had been thought a pious man and said:' You lie, by Allāh (ﷻ) they should not be beheaded. You have made this statement only because you know that they are of the Khazraj, and if they had been from your tribe you would not have said that."
 
 Usayd replied, It is you who lie, by Allāh (ﷻ). You are a hypocrite arguing on behalf of the hypocrites.
 
 Feelings ran so high that fighting broke out almost between the two clans. The Prophet (ﷺ) stepped down from the pulpit and came in to see me. He called Alī ibn Abi Ṭālib (رضي الله عنه) and Usāmah ibn Zayd (رضي الله عنه) and asked their opinion.
 
-Usāmah spoke only good, saying, Messenger of Allāh (ﷺ), they are your family, and this is a lie and a falsehood." 'Alī (رضي الله عنه) said,
+Usāmah spoke only good, saying: "Messenger of Allāh (ﷺ), they are your family, and we know nothing of them but good; this is a lie and a falsehood!" 'Alī (رضي الله عنه) said,
 
 However, "Messenger of Allāh (ﷺ), women are plentiful, and you are capable of marrying another. Ask the slave-girl and she will tell you the truth." The Prophet (ﷺ) called Burayrah and questioned her, and 'Alī (رضي الله عنه) got up and gave her a severe beating, saying: "Tell the Messenger of Allāh (ﷺ) the truth!"
 
@@ -3819,7 +3927,7 @@ They said: "By Allāh (ﷻ), we do not know what to say to him."
 
 By Allāh (ﷻ), I do not know of a household which suffered as the family of Abū Bakr (رضي الله عنه) did in those days. When they kept silent I burst into tears again, then I said: "By Allāh (ﷻ), I shall never repent to Allāh (ﷻ) for what you mention. By Allāh (ﷻ), I know that if I admit to what the people say, although Allāh (ﷻ) knows that I am innocent, I should admit to what did not take place, and if I deny what they say, you would not believe me."
 
-Then I searched my memory for the name of Ya'qūb and could not remember it, so I said: "I say only what the father of Yūsuf said: '(My course is) comely patience. And it is Allāh (ﷻ) Whose help is to be sought in that which you describe'."
+Then I searched my memory for the name of Ya'qūb and could not remember it, so I said: "I say only what the father of Yūsuf said: '(My course is) comely patience. And it is Allāh (ﷻ) Whose help is to be sought in that which you describe' (Qur'ān 12: 18)."
 
 And by Allāh (ﷻ), the Messenger of Allāh (ﷺ) had not moved from where he was sitting when there came over him from Allāh (ﷻ) what used to come over him. So he was wrapped in his garment and a pillow was placed under his head. As for me, when I saw that, by Allāh (ﷻ), I was not afraid nor was I worried for I knew that I was innocent and that Allāh (ﷻ) would not wrong me. As for my parents, by Him (ﷻ) in Whose hands is 'Ā'ishah's soul, the Prophet (ﷺ) had hardly recovered when I thought that they would die from fear that confirmation of what the people said would come from Allāh (ﷻ). Then the Messenger of Allāh (ﷺ) recovered and sat up, and there rolled down from his face sweat like pearls on a wintry day.
 
@@ -3829,11 +3937,11 @@ I said: "Praise be to Allāh (ﷻ)."
 
 Then he went out to the people and addressed them, reciting to them these āyāt:
 
-(Indeed! They who spread the slander are a gang among you. Do not think it is a bad thing for you; no, it is good for you. To every man of them [will be paid] that which he has earned of the sin; and as for him among those, who had the greater share in it, his will be an awful doom.) (Qur'ān 24: 11)
+(Indeed! They who spread the slander are a gang among you. Do not think it is a bad thing for you; no, it is good for you. To every man of them [will be paid] that which he has earned of the sin; and as for him among those, who had the greater share in it, his will be an awful doom.) (Qur'ān 24: 11)⁷⁹
 
 What was strange was that the punishment was meted out to those who were proved guilty of the slander, and they were Ḥassān ibn Thābit, Miṣṭaḥ and Ḥamnah. As for 'Abdullāh ibn Ubayy, the one who plotted the attack, the sower of its secret germ, he was careful not to fall under the might of the law. He implicated others but kept himself out of it.
 
-The writers of the Prophet's (ﷺ) life have it that the slander and the expedition of the Banū al Muṣṭaliq took place after the Battle of the Ditch. However, we have followed Ibn al Qayyim in considering it to be in the fifth year before the attack of the Confederates on Madīnah. Investigation supports Ibn al Qayyim and those who hold his view. You will learn that S'ad ibn Mu'ādh was killed in the Battle of the Ditch whereas he played a significant part in the expedition of the Banū al Muṣṭaliq, for the Prophet (ﷺ) complained to him⁶⁴ about Ibn Ubayy's action, and this is not consistent with the record of his martyrdom in the Battle of the Ditch if the expedition took place in the sixth year after the Hijrah.
+The writers of the Prophet's (ﷺ) life have it that the slander and the expedition of the Banū al Muṣṭaliq took place after the Battle of the Ditch. However, we have followed Ibn al Qayyim in considering it to be in the fifth year before the attack of the Confederates on Madīnah. Investigation supports Ibn al Qayyim and those who hold his view. You will learn that Sa'd ibn Mu'ādh was killed in the Battle of the Ditch whereas he played a significant part in the expedition of the Banū al Muṣṭaliq, for the Prophet (ﷺ) complained to him⁸⁰ about Ibn Ubayy's action, and this is not consistent with the record of his martyrdom in the Battle of the Ditch if the expedition took place in the sixth year after the Hijrah.
 
 ## The Battle of the Ditch / Confederates
 
@@ -3845,21 +3953,23 @@ The strange thing was that the rabbis of the Torah assured the worshippers of id
 
 The Jewish leaders left the Quraish for the bedouin of Ghaṭafān to conclude with them an alliance similar to the one with Makkah, and a number of tribes who were envious of the new faith entered into it. Thus it was that the Jewish leaders were successful in rallying the forces of unbelief against the Prophet (ﷺ) and his call. When the Muslims realized the extent of the danger surrounding them, they hurriedly drew up a plan to defend their call and their state. It was a unique plan, the like of which the Arabs had not heard before, for they were accustomed only to fighting in the open fields. This time, however, the Muslims dug a deep ditch around Madīnah from the side of the plains to separate the attackers from the defenders.
 
-The allies approached in such large numbers which the Muslims could not match. The Quraish were leading ten thousand of their own men together with their followers from the clans of Kinānah, Tihamah and Ghaṭafān from among the leading tribes of Najd. The Muslims advanced after they had put their women and children on the secured hills of Yathrib. Then they spread out along the boundaries of their city with their backs to the hill of Sala, and stationed themselves on the bank of the ditch which they had dug with enormous effort. In this battle they numbered about three thousand fighters.
+The allies approached in such large numbers which the Muslims could not match. The Quraish were leading ten thousand of their own men together with their followers from the clans of Kinānah, Tihamah and Ghaṭafān from among the leading tribes of Najd. The Muslims advanced after they had put their women and children in the fortified towers of Yathrib. Then they spread out along the boundaries of their city with their backs to the hill of Sal', and stationed themselves on the bank of the ditch which they had dug with enormous effort. In this battle they numbered about three thousand fighters.
 
 The Prophet (ﷺ) knew that if he fought against this large army on an open plain he had little chance of victory, for what could a small group of believers do to repel such a vast tide? Thus he resorted to this strategy. It is narrated that the person who made the suggestion was Salmān al Fārisi; the Prophet (ﷺ) and his men executed and perfected it. He himself helped in the digging and the removal of soil and stones on his shoulders, and the men of status, who had never been accustomed to such labour, followed his example. Yathrib on that occasion witnessed a wonderful sight: bright faces formed into various groups, striking with axes and carrying large baskets, bare of clothing and ornaments and covered with layers accumulated dust, sweat and toil.
 
 Al-Barā ibn 'Āzib said:
 
-"The Messenger of Allāh (ﷺ) carried away soil on the day of the ditch until his belly was covered with dust, and he was chanting: "By Allāh (ﷻ), if it were not for Allāh (ﷻ) we should not be guided nor should we be charitable nor pray.
+"The Messenger of Allāh (ﷺ) carried away soil on the day of the ditch until his belly was covered with dust, and he was chanting:
+
+*"By Allāh (ﷻ), if it were not for Allāh (ﷻ) we should not be guided nor should we be charitable nor pray.*
 
 *So send down tranquillity upon us, and keep our feet steadfast if we clash.*
 
-*Surely the confederates have done us wrong: if they wish for trouble, we shall resist.*⁶⁵
+*Surely the confederates have done us wrong: if they wish for trouble, we shall resist.*⁸¹
 
-This is from the poetry of 'Abdullāh ibn Rawāḥah, with which the workers in the ditch would wipe away their fatigue by listening to its rythm and repeating the last words of its lines. The Prophet (ﷺ) would join in the refrain with them and say "Laqaynā, Abaynā" (that is, we clash, we shall resist),⁶⁶ which reminds us of the labourers who dug canals in the countryside or construct buildings in the city.
+This is from the poetry of 'Abdullāh ibn Rawāḥah, with which the workers in the ditch would wipe away their fatigue by listening to its rythm and repeating the last words of its lines. The Prophet (ﷺ) would join in the refrain with them and say "Laqaynā, Abaynā" (that is, we clash, we shall resist),⁸² which reminds us of the labourers who dug canals in the countryside or construct buildings in the city.
 
-The defence of Islām and the fear of chaos should the idolaters be victorious made the Prophet (ﷺ) and his Companions undertake this heavy task with heartfelt pleasure and satisfaction in spite of the toil and difficulty which they encountered in it. Do not for one moment think that the Prophet's (ﷺ) efforts to deepen the ditch and remove the soil was play-acting, at which some leaders in our time are adept. Toiling, serious manhood in its noblest form presented itself in the example shown by the Prophet (ﷺ) in this battle. Al-Barā said: "Dust hid from me the skin of his belly, though he had much hair."⁶⁷
+The defence of Islām and the fear of chaos should the idolaters be victorious made the Prophet (ﷺ) and his Companions undertake this heavy task with heartfelt pleasure and satisfaction in spite of the toil and difficulty which they encountered in it. Do not for one moment think that the Prophet's (ﷺ) efforts to deepen the ditch and remove the soil was play-acting, at which some leaders in our time are adept. Toiling, serious manhood in its noblest form presented itself in the example shown by the Prophet (ﷺ) in this battle. Al-Barā said: "Dust hid from me the skin of his belly, though he had much hair."⁸³
 
 Yes, he took part in the labour just as his Companions did, for true manhood knows no play-acting. It was winter, the air was cold and there was a food shortage in Madīnah, which was about to come under a brutal siege. There is nothing more deadly to the spirit of resistance than despair, for if the besieged were to be exposed to its violent bouts, then humiliating surrender would be the only alternative. For this reason, the Prophet (ﷺ) strove hard to stimulate the moral strength of his men to the highest pitch, so that they might feel certain that the trial facing them was just a passing cloud which would soon disperse. Thereafter Islām would resume its march, people would enter into it in large numbers, the strongholds of tyranny would crumble before it and no plots would be hatched by them nor would any evil be feared from them. It is a rule of politics that this all-embracing hope should accompany the stages of ceaseless effort.
 
@@ -3867,7 +3977,7 @@ Yes, he took part in the labour just as his Companions did, for true manhood kno
 
 "Along with myself were Salmān, Hudhayfah, Al Nu'mān ibn Muqrin and six of the Anṣār on piece of land forty cubits long, and we were responsible for digging it. We dug until we reached a white rock which broke our iron blades and presented us with a problem. Salmān went to the Messenger of Allāh (ﷺ) and told him of the rock which obstructed our work and made our picks useless. The Prophet (ﷺ) came, and took Salmān's pick. Then he struck the rock with such a blow that it cracked and sparks flew from it, lighting up the gloom of the atmosphere. The Prophet (ﷺ) shouted a victorious takbīr (Allahu Akbar) and the Muslims did the same. Then he struck a second and a third time, and on each occasion the same thing occurred. The rock crumbled under the blows of the strong, wonderful man who had deep contact with heaven and earth. The Prophet (ﷺ) looked at his Companions, his large soul shining with a ray of abundant confidence and sweet hope.
 
-Speaking to his Companions of the sparks which flew from the rock under his pick, he said: "It lit up for me in the first blow the palaces of Ḥirah and the city of Chosroes as if they were the fangs of dogs, and Jibrīl (عليه السلام) informed me that my nation would conquer them. In the second it lit up the red palaces of the Roman land as if they were the fangs of dogs, and Jibrīl (عليه السلام) informed me that my nation would conquer them. In the third it lit up for me the palaces of San'a' as if they were the fangs of dogs, and Jibrīl (عليه السلام) informed me that my nation would conquer them. So rejoice at the good news. The Muslims rallied and said: "Praise be to Allāh (ﷻ). A true promise."⁶⁸
+Speaking to his Companions of the sparks which flew from the rock under his pick, he said: "It lit up for me in the first blow the palaces of Ḥirah and the city of Chosroes as if they were the fangs of dogs, and Jibrīl (عليه السلام) informed me that my nation would conquer them. In the second it lit up the red palaces of the Roman land as if they were the fangs of dogs, and Jibrīl (عليه السلام) informed me that my nation would conquer them. In the third it lit up for me the palaces of San'a' as if they were the fangs of dogs, and Jibrīl (عليه السلام) informed me that my nation would conquer them. So rejoice at the good news!" The Muslims rejoiced at the good news and said: "Praise be to Allāh (ﷻ)! A true promise."⁸⁴
 
 So when the confederates swept down upon Madīnah and laid a tight siege around it, the Muslims did not give up in despair but faced the bitter reality with unshakeable hope in a noble future.
 
@@ -3877,31 +3987,31 @@ As for the weaklings, the doubters and the sick of heart, they made fun of the p
 
 (And when the hypocrites, and those in whose hearts is a disease, were saying: Allāh and His messenger promised us naught but delusion.) (Qur'ān 33: 12)
 
-The Battle of the Ditch was a battle of nerves more than a battle of losses, for those killed on both sides could be counted on one's fingers. Despite this, it was one of the most decisive battles in the history of Islām, since the fate of this great message in this battle could be compared to the fate of a man walking on the edge of a high precipice or on a tightrope. If his balance was lost for a second and he had no control over the situation, he would fall into the depths and be smashed to pieces. The Muslims found themselves overnight like an remote island in the middle of a hurricane which threatened to destroy it by day or night. From time to time the defenders would look out to see whether there had been a breach at any point of the defence zone. Meanwhile, the idolaters would be prowling angrily around the city looking for a weak point to break through and let loose their pent-up malice and strangulate this revolutionary religion. The Muslims knew what was awaiting them beyond this siege, so they decided to remain where they were, shooting arrows at anyone who approached and suffering the hardships of this vigil which stretched across hill and plain and whose dimensions increased as the days went by. They were as Allāh (ﷻ) described them:
+The Battle of the Ditch was a battle of nerves more than a battle of losses, for those killed on both sides could be counted on one's fingers. Despite this, it was one of the most decisive battles in the history of Islām, since the fate of this great message in this battle could be compared to the fate of a man walking on the edge of a high precipice or on a tightrope. If his balance was lost for a second and he had no control over the situation, he would fall into the depths and be smashed to pieces. The Muslims found themselves overnight like an isolated island in the middle of a flood which threatened to drown it by day or night. From time to time the defenders would look out to see whether there had been a breach at any point of the defence zone. Meanwhile, the idolaters would be prowling angrily around the city looking for a weak point to break through and let loose their pent-up malice and strangulate this revolutionary religion. The Muslims knew what was awaiting them beyond this siege, so they decided to remain where they were, shooting arrows at anyone who approached and suffering the hardships of this vigil which stretched across hill and plain and whose dimensions increased as the days went by. They were as Allāh (ﷻ) described them:
 
 (When they came upon you from above you and from below you, and when eyes grew wild and hearts reached to the throats, and you were imagining vain thoughts concerning Allāh. There were the believers sorely tried, and shaken with a mighty shock.) (Qur'ān 33: 10-11)
 
-Some of the cavalry of the Quraish hated to be stationed around Madīnah in this way, for it was not in their nature to lay siege and wait the results. Thus 'Amr ibn 'Abdul Wudd, 'Ikrimah ibn Abī Jahl and Ḍirar ibn al-Khaṭṭāb advanced on horseback until they were standing upon the edge of the ditch, When they saw it they said: "By God, surely this is a strategy which the Arabs never used." Then they looked for a shallow part of the ditch and whipped their horses to jump into it. The Muslims became aware of the impending danger so their cavalry, led by 'Alī ibn Abī Ṭālib (رضي الله عنه), hurried forward to block this opening.
+Some of the cavalry of the Quraish hated to be stationed around Madīnah in this way, for it was not in their nature to lay siege and wait the results. Thus 'Amr ibn 'Abdul Wudd, 'Ikrimah ibn Abī Jahl and Ḍirār ibn al-Khaṭṭāb advanced on horseback until they were standing upon the edge of the ditch, When they saw it they said: "By God, surely this is a strategy which the Arabs never used." Then they looked for a narrow part of the ditch and whipped their horses to jump into it. The Muslims became aware of the impending danger so their cavalry, led by 'Alī ibn Abī Ṭālib (رضي الله عنه), hurried forward to block this opening.
 
-'Alī (رضي الله عنه) said to 'Amr ibn 'Abdul Wudd, the brave horse trainer: "O 'Amr, you had pledged to Allāh (ﷻ) that if any man of Quraish called you to one of two alternatives you would accept it. So I am calling you to Allāh (ﷻ), his Messenger and Islām (ﷺ)."
+'Alī (رضي الله عنه) said to 'Amr ibn 'Abdul Wudd, the brave, renowned horseman: "O 'Amr, you had pledged to Allāh (ﷻ) that if any man of Quraish called you to one of two alternatives you would accept it. So I am calling you to Allāh (ﷻ), his Messenger and Islām (ﷺ)."
 
 'Amr replied: "I have no need of that."
 
 'Alī (رضي الله عنه) said: "Well I am calling you to a duel."
 
-'Amr replied: "And why, O cousin of mine, for by God I do not wish to kill you."
+'Amr replied: "And why, O son of my brother? For by God I do not wish to kill you" — making little of him.
 
 'Alī (رضي الله عنه) said: "But I by Allāh (ﷻ), should love to kill you."
 
-At this, 'Amr became enraged. Dismounting from his horse he faced 'Alī (رضي الله عنه), and the two of them fought a duel which ended with 'Alī (رضي الله عنه) killing him, and the cavalry of the Quraish left the ditch, defeated. The children in the houses were watching the jihād and quick manoeuvres of the defenders to repel the aggression, as 'Abdullāh ibn al Zubayr said:
+At this, 'Amr became enraged. He leapt from his horse, hamstrung it and struck its face, then faced 'Alī (رضي الله عنه), and the two of them fought a duel which ended with 'Alī (رضي الله عنه) killing him, and the cavalry of the Quraish left the ditch, defeated. The children in the houses were watching the jihād and quick manoeuvres of the defenders to repel the aggression, as 'Abdullāh ibn al Zubayr said:
 
-"I was put on the Day of Ditch with the women and children in the fortresses and with me was 'Umar ibn Abi Salāmah. He bent down towards me so that I could climb on his back and watch. I saw my father attacking, once here and again there. No sooner did something rise toward him than he went to it.
+"I was put on the Day of Ditch with the women and children in the fortresses and with me was 'Umar ibn Abī Salamah. He bent down towards me so that I could climb on his back and watch. I saw my father attacking, once here and again there. No sooner did something rise toward him than he went to it.
 
 In the evening, when he came to me in the fortress, I said: "Father, I saw you today and what you did."
 
 He replied: "Did you really see me? "When I said yes he caressed me, saying: "May my father and mother be your ransom."
 
-At this crucial moment came the news that the Banū Quraydhah had broken their pact with the Prophet (ﷺ) and joined the bands of confederates who had laid the siege around Madīnah. It happened in this way. Ḥuyayy ibn Akhtab, one of the men who had instigated the Quraish and all the Arabs to wage war on Islām, came to Ka'b ibn Asad, the leader of the Quraydhah and knocked on his door. Ka'b had locked his doors and secured his fortress when the allies attacked Madīnah, for he had decided to be faithful of his pact with the Muslims and not assist any enemy of theirs.
+At this crucial moment came the news that the Banū Quraydhah had broken their pact with the Prophet (ﷺ) and joined the bands of confederates who had laid the siege around Madīnah. It happened in this way. Ḥuyayy ibn Akhtab, one of the men who had instigated the Quraish and all the Arabs to wage war on Islām, came to Ka'b ibn Asad, the leader of the Quraydhah and knocked on his door. Ka'b had locked his doors and secured his fortress when the allies attacked Madīnah, for he had decided to be faithful of his pact with the Muslims and not assist any enemy of theirs — would that he had kept to this resolve!
 
 Nevertheless, Ḥuyayy knocked at the door and shouted to Ka'b: Shame on you, open up for me!"
 
@@ -3913,7 +4023,7 @@ I shall not,
 
 Ka'b replied.
 
-"By God, you have locked your door on me only because you are afraid that I shall eat your cornmeal with you!" This roused him and he opened the door. Ḥuyayy came in, saying: Shame on you, Ka'b! I have brought to you the honour of eternity and an overflowing sea."
+"By God, you have locked your door on me only because you are afraid that I shall eat your porridge of coarse-ground wheat with you!" This roused him and he opened the door. Ḥuyayy came in, saying: Shame on you, Ka'b! I have brought to you the honour of eternity and an overflowing sea."
 
 "What is that?"
 
@@ -3935,13 +4045,17 @@ The siege dragged on. Mūsā ibn 'Uqbah said:
 
 "The idolaters surrounded the Muslims and formed a sort of fortress around them. They laid siege to them for nearly twenty days, and they took hold of every corner until it could not be known whether they had occupied the city or not. And they directed a heavy contingent against the Prophet's (ﷺ) house, and the Muslims fought them for a whole day until nightfall. So when Salāt al 'Aṣr came, the contingent was close to the Prophet's (ﷺ) home and neither he nor any of his Companions were able to pray as they would have liked. At nightfall the idolatrous contingent dispersed, and it is claimed that the Prophet (ﷺ) said:
 
-"They drew us away from Salāt al 'Aṣr. May Allāh (ﷻ) fill their bellies and hearts with fire.⁶⁹
+"They drew us away from Salāt al 'Aṣr. May Allāh (ﷻ) fill their bellies and hearts with fire.⁸⁵
 
 When the trial became intense, many people resorted to hypocrisy and spoke ugly words. The Prophet (ﷺ), on seeing the degree of distress among the people, began giving them cheerful news, saying:
 
-"By Him in Whose hands is my soul, this distress which you see will soon be gone from you. I am hopeful that I shall soon circumambulate the ancient house (the Ka'bah) in safety, and that Allāh (ﷻ) will hand-over to me the keys of the Ka'bah. And Allāh (ﷻ) will surely destroy Khosrau and Caesar, and we shall spend their treasures in the way of Allāh (ﷻ).⁷⁰
+"By Him in Whose hands is my soul, this distress which you see will soon be gone from you. I am hopeful that I shall soon circumambulate the ancient house (the Ka'bah) in safety, and that Allāh (ﷻ) will hand-over to me the keys of the Ka'bah. And Allāh (ﷻ) will surely destroy Khosrau and Caesar, and we shall spend their treasures in the way of Allāh (ﷻ).⁸⁶
 
-The burden of resistance fell upon those who possessed unshakeable faith. They had to suppress the signs of distress which were becoming more and more visible in those with little patience, and they had to spread a wave of courage and bravery which could overcome or prevent the tendencies of cowardice and hesitation which were surfacing here and there. People's natures react differently in times of serious crises. Among them are the fragile, which are quickly absorbed into the stream as the waters carry away the scum and mire; and among them are the solid, against which the storm throws itself, breaking its force upon it and turning itself into foam. Yes among people are those who attack the hardships before they are attacked by them. As the poet says: "I kept back In order to preserve life, but I did not find for myself any life such as if I were to advance."
+The burden of resistance fell upon those who possessed unshakeable faith. They had to suppress the signs of distress which were becoming more and more visible in those with little patience, and they had to spread a wave of courage and bravery which could overcome or prevent the tendencies of cowardice and hesitation which were surfacing here and there. People's natures react differently in times of serious crises. Among them are the fragile, which are quickly absorbed into the stream as the waters carry away the scum and mire; and among them are the solid, against which the storm throws itself, breaking its force upon it and turning itself into foam. Yes among people are those who attack the hardships before they are attacked by them. As the poet says:
+
+*I held back to preserve my life, but I found*
+
+*no life for myself like that of pressing forward.*
 
 And among them are those who turn on their heels when fear touches them: the more they are prodded by the desire for life the more they resort to flight. The Qur'ān reproached this class of people for their attitude in the Battle of the Ditch. It says:
 
@@ -3951,13 +4065,13 @@ When the Quraish attempted to cross the ditch, when they attempted to occupy the
 
 Ibn Isḥāq narrated that 'Ā'ishah, the mother of the believers, was in the fortress of the Banū Ḥārithah on the Day of the Ditch. It was one of the most impregnable fortresses in Madīnah, and the mother of Sa'd Ibn Mu'ādh was there with her. 'Ā'ishah said: "That was before the veil was prescribed for us."
 
-Sa'd passed by, wearing a coat of mail so short that his whole arm protruded through it. He was carrying a lance in his hand as he hurried along, saying: "Hamal⁷¹ stayed a while looking at the confusion. No fear of death when one's turn arrives!"
+Sa'd passed by, wearing a coat of mail so short that his whole arm protruded through it. He was carrying a lance in his hand as he hurried along, saying: "Hamal⁸⁷ stayed a while looking at the confusion. No fear of death when one's turn arrives!"
 
 His mother then said to him: "Hurry, my son, you are way behind, by Allāh (ﷻ)!"
 
 'Ā'ishah said: "I told her: 'By Allāh (ﷻ), I wish Sa'd's armour were longer.' I feared for him exactly where the arrow struck him. Sa'd was hit by an arrow which cut the medial vein of his arm."
 
-It appears that Sa'd's wound was severe, for he was not a man to fear death. He was deeply desirous of pursuing the jihād until Islām prevailed and its enemy defeated. He therefore supplicated to Allāh (ﷻ), saying:
+It appears that Sa'd's wound was severe. Sa'd was not a man to fear death, but he was deeply desirous of pursuing the jihād until Islām prevailed and its enemy defeated. He therefore supplicated to Allāh (ﷻ), saying:
 
 "O Allāh (ﷻ), if You have reserved any more of the war with the Quraish, then preserve me for it, for there are no other people on whom I should love to wage jihād more than those who injured Your messenger, deceived him and expelled him. If You have ended the war between us and them, then let it be martyrdom for me. However, do not cause me to die until You have satisfied my desire as regards the Banū Quraydhah."
 
@@ -3966,10 +4080,10 @@ Sa'd's supplication expresses the extent to which the Muslims had been enraged b
 (Indeed! The worst of beasts in Allāh's sight are the ungrateful who will not believe: Those of them with whom you made a treaty, and then at every opportunity they break their treaty, and they do not keep their duty [to Allāh].) (Qur'ān 8: 55-56)
 
 Sa'd was taken to a tent in the Masjid, where a skilled Muslim woman nursed him. The Muslim came to the Prophet (ﷺ) and asked him if he had anything to say, for they were scared.
-He replied in the affirmative and said: "O Allāh (ﷻ), cover our faults and allay our fears."⁷²
+He replied in the affirmative and said: "O Allāh (ﷻ), cover our faults and allay our fears."⁸⁸
 
-Also, 'Abdullāh ibn Awfa narrated that the Messenger of Allāh (ﷺ) made an invocation on the allies by saying:
-"O Allāh (ﷻ), Who revealed the Book and is quick of reckoning, defeat the allies. O Allāh (ﷻ), defeat them and help us to overcome them.⁷³
+Also, 'Abdullāh ibn Awfā [thus in the Arabic original; correctly Ibn Abī Awfā — translator's note] narrated that the Messenger of Allāh (ﷺ) made an invocation on the allies by saying:
+"O Allāh (ﷻ), Who revealed the Book and is quick of reckoning, defeat the allies. O Allāh (ﷻ), defeat them and help us to overcome them.⁸⁹
 
 Allāh (ﷻ) does not accept the supplication of those who are lazy and negligent. He listens to nothing more intensely than the cry of those who exert themselves to bless them in their efforts, or those who are patient to reward them in the end. The Muslims exhausted their energies in defending their faith and their city until there was nothing left for them to do that was within human capacity. All that remained was that Providence should intervene to crush the haughtiness of the oppressor and relieve the burden of the oppressed. Thus the battle developed in such a manner that the people could not fathom its reality.
 
@@ -3981,9 +4095,9 @@ The relationship between these confederates did not encourage lasting confidence
 
 And what did the Quraydhah do? They broke their pact, and held back from attacking with the expectation that the Arabs would do so! A Jew came out and scouted around one of the fortresses of the Muslims. Ṣafiyah bint 'Abdul Muṭṭalib came down and killed him. And no wonder, for she was the sister of Ḥamzah! Abū Sufyān turned to the right and the left, seeking help for what he wanted to do, but he could find no helpers, and this left him and the ranks of the Quraish with him despondent.
 
-The Messenger of Allāh (ﷺ) was aware of this hidden breach in the ranks of the confederates, and he did his utmost to widen it and exploit it for his own ends. Thus when Na'im ibn Mas'ūd came to him with the acceptance of Islām, he advised him to keep his conversion a secret, and sent him back to the idolaters to cause disorder among them. He said to him: "You are just one man, but you can try on our behalf to make them to desert one another, for war is deception."
+The Messenger of Allāh (ﷺ) was aware of this hidden breach in the ranks of the confederates, and he did his utmost to widen it and exploit it for his own ends. Thus when Nu'aym ibn Mas'ūd came to him with the acceptance of Islām, he advised him to keep his conversion a secret, and sent him back to the idolaters to cause disorder among them. He said to him: "You are just one man, but you can try on our behalf to make them to desert one another, for war is deception."
 
-Na'im set off for the Quraydhah, to whom he had been an intimate friend in jahilīyah. He said: "Banū Quraydhah, you know how much I love you and the special relationship between me and you."
+Nu'aym set off for the Quraydhah, to whom he had been an intimate friend in jahilīyah. He said: "Banū Quraydhah, you know how much I love you and the special relationship between me and you."
 
 They said: "You are right. We have no grievance against you." So he continued: "The Quraish and the Ghaṭafān are not like you. This is your territory. In it are your properties, children and wives. You cannot move from it to another place. The Quraish and the Ghaṭafān have come to fight Muhammad (ﷺ) and his Companions, and you have supported them against him. However, their territory, properties and women are elsewhere, so they are not like you. If they see any opportunity they will seize it, but if not, they will return to their homes and leave you and that man in your territory. You have no power to deal with him if you have to confront him alone. So do not fight with these people unless you take some of their nobles into your custody as a guarantee that they will fight Muhammad (ﷺ) with you until you are victorious."
 
@@ -3999,11 +4113,11 @@ He continued: "Well, keep what I shall say a secret." When they agreed to do so,
 
 On Friday night of Shawwāl in the fifth year, Allāh (ﷻ) arranged it so for His Prophet (ﷺ) that Abū Sufyān and the leaders of the Ghaṭafān should send a delegation to the Banū Quraydhah, headed by 'Ikrimah ibn Abī Jahl.
 
-The delegation said: "We are not in our homes, Our cattle and sheep are being consumed. So in the morning come out for battle. Let us fight Muhammad (ﷺ) until we settle the score between him and us."
+The delegation said: "We are not in our homes, Our camels and horses are perishing. So in the morning come out for battle. Let us fight Muhammad (ﷺ) until we settle the score between him and us."
 
 The Jews replied: "Today is Saturday, a day on which we do no work. In the past some of us had violated this day and they were afflicted by what is not unknown to you. Besides, we shall not fight Muhammad (ﷺ) with you until you give us a surety of your men, who will be in our hands as a guarantee while we fight Muhammad (ﷺ). We are afraid that if the war becomes too critical for you, you will retreat to your country and leave us with that man on our hands, and we should have no power to resist him."
 
-When the delegation returned with this message from the Banū Quraydhah, the Quraish and the Ghaṭafān said that, it was true what Na'im had told them. They sent back to the Banū Quraydhah, saying that they would not give them a single man, and that if they wanted war they should go out and fight. Upon hearing this, the Jews said to one another that it was true what Na'im had told them. The people had no urge to fight; if they saw the opportunity they would seize it, otherwise they would retreat to their country.⁷⁴
+When the delegation returned with this message from the Banū Quraydhah, the Quraish and the Ghaṭafān said that, it was true what Nu'aym had told them. They sent back to the Banū Quraydhah, saying that they would not give them a single man, and that if they wanted war they should go out and fight. Upon hearing this, the Jews said to one another that it was true what Nu'aym had told them. The people had no urge to fight; if they saw the opportunity they would seize it, otherwise they would retreat to their country.⁹⁰
 
 In this way the Muslims were successful in undoing the knots of alliance among the confederates who had gathered against them. Not three weeks had passed since the siege had been laid before frustration and suspicion crept into the ranks of the attackers, while on the other hand the defending front remained as strong as ever without a breach.
 
@@ -4021,7 +4135,7 @@ This was the heat of faith and the zeal of obedience which made the man overcome
 
 "As I turned to go, the Prophet (ﷺ) advised me not to cause any incident among the enemy until I returned to him. As I approached the enemy camp I saw the light of a fire and dark, huge man, stretching out his hands to the fire to warm them, then he nabbed his waist. He was saying that they should depart. I had not known Abū Sufyān before that. I put an arrow in my bow with the intention of shooting him, but then I remembered the Prophet's (ﷺ) advice and I controlled myself. If I had shot him I should have hit him. I noticed the violent wind in every corner of the camp. Not a pot nor a fire nor a tent was left in place.
 
-Then Abū Sufyān said: "O Assembly of Quraish, you are not at home, your cattle and sheep have died and the Banū Quraydhah have broken their promise to you and we have heard things of them which we dislike. Also, the violent winds have overturned our pots, put our fires and uprooted our tents. So let us be on our way, for I am ready to depart." Then he went to his mount, which was tied, sat on it and slapped it, whereupon it reared upon three legs. By Allāh (ﷻ), its reins were untied only when it was standing."⁷⁵
+Then Abū Sufyān said: "O Assembly of Quraish, you are not at home, your horses and camels have perished and the Banū Quraydhah have broken their promise to you and we have heard things of them which we dislike. Also, the violent winds have overturned our pots, put our fires and uprooted our tents. So let us be on our way, for I am ready to depart." Then he went to his mount, which was tied, sat on it and slapped it, whereupon it reared upon three legs. By Allāh (ﷻ), its reins were untied only when it was standing."⁹¹
 
 Hudhayfah returned to the Prophet (ﷺ) and told him all that he saw. When day broke, the outskirts of Madīnah were clear. The confederates had gone and the siege had been lifted. Peace returned and faith came out of the trial successful!
 
@@ -4030,9 +4144,9 @@ The Prophet (ﷺ) shouted:
 He (ﷻ) fulfilled His promise,
 And helped His servant,
 And elevated His army,
-And defeated the allies all by Himself."⁷⁶
+And defeated the allies all by Himself."⁹²
 
-Tranquillity returned to the people's hearts. The frustration of the confederates became apparent after they had come from all corners to crush Madīnah, and the mettle of the Muslims became apparent in the face of unnerving crises. For this reason, the Prophet (ﷺ), after this glorious result, declared: "Now we shall fight them and they will not fight us."⁷⁷
+Tranquillity returned to the people's hearts. The frustration of the confederates became apparent after they had come from all corners to crush Madīnah, and the mettle of the Muslims became apparent in the face of unnerving crises. For this reason, the Prophet (ﷺ), after this glorious result, declared: "Now we shall fight them and they will not fight us."⁹³
 
 ## With the Quraydhah
 
@@ -4042,33 +4156,33 @@ The feeling of anger in the hearts of the Muslims towards those Jews had reached
 
 Thus no sooner did the Muslims ascertain that the confederates had left Madīnah than the Prophet (ﷺ) ordered a messenger to proclaim to the people:
 
-"Whoever is attentive and obedient should not pray the 'Aṣr prayer until he has reached the homes of the Banū Quraydhah."⁷⁸
+"Whoever is attentive and obedient should not pray the 'Aṣr prayer until he has reached the homes of the Banū Quraydhah."⁹⁴
 
 The announcement to fight on this morning brilliant with victory and success rang clearly in the ears of Muslims, who were overwhelmed with the awareness of the support of Allāh (ﷻ) and His angels. Where are they today compared with what they were in the recent past? They are indebted to Providence alone for their lives and honour. As for their enemies, it was the powers of the universe, by Allāh's leave, which caused their assembly to be dispersed and their spirits to be dampened.
 
 No wonder, therefore, that the Prophet (ﷺ) should say to the believers, speaking from the faithful spirit [Angel Jibrīl (عليه السلام)]:
 
-"The angels have not yet put down their arms... Allāh (ﷻ) orders you, Muhammad (ﷺ), to march to the Banū Quraydhah, for I am heading towards them in order to crush them."⁷⁹
+"The angels have not yet put down their arms... Allāh (ﷻ) orders you, Muhammad (ﷺ), to march to the Banū Quraydhah, for I am heading towards them in order to crush them."⁹⁵
 
 The Prophet (ﷺ) passed on the order and urged the Muslims to be quick in executing it. Al Bayhaqi narrated that the Prophet (ﷺ) said to his Companions: "I adjure you not to offer 'Aṣr prayers until you reach the Banū Quraydhah."
 
-However, the sun had set before they arrived. So a group of Muslims prayed, saying that the Prophet (ﷺ) did not mean that they should not pray, whereas another group said that they would obey the Prophet's (ﷺ) instructions and there was no sin on them. Thus the first prayed out of faith and obedience, whereas the second abstained out of faith and obedience and the Prophet (ﷺ) did not reproach either of the two.⁸⁰ This represents the respect which Islām shows for the differences of opinion as long as they are based on pure, sound reasoning. People are basically of two kinds: those who accept a literal interpretation of the text without delving more deeply, and those who investigate their wisdom and aim, and then act in accordance with this understanding even though it may contradict the obvious. The faith and obedience of both groups attest for them whether they hit the mark or not.
+However, the sun had set before they arrived. So a group of Muslims prayed, saying that the Prophet (ﷺ) did not mean that they should not pray, whereas another group said that they would obey the Prophet's (ﷺ) instructions and there was no sin on them. Thus the first prayed out of faith and obedience, whereas the second abstained out of faith and obedience and the Prophet (ﷺ) did not reproach either of the two.⁹⁶ This represents the respect which Islām shows for the differences of opinion as long as they are based on pure, sound reasoning. People are basically of two kinds: those who accept a literal interpretation of the text without delving more deeply, and those who investigate their wisdom and aim, and then act in accordance with this understanding even though it may contradict the obvious. The faith and obedience of both groups attest for them whether they hit the mark or not.
 
 There are some scholars who invalidate the specified time for prayers on account of war, and this is the opinion of Bukhārī and others. This in my understanding is nearer to the truth since the systematic arrangement of the duties encumbent upon all servants of Allāh (ﷻ) is one of the most important roles of Muslims in their lives. In fact they cannot understand religion in its true sense unless they understand this desired arrangement. Islām consists of various teachings and actions, among which are the compulsory and the optional, and we must know that Allāh (ﷻ) will not accept an optional deed unless the compulsory ones are completed. Thus people who indulge in plentiful deeds of a voluntary nature while neglecting the compulsory deeds are misguided.
 
-The prescribed compulsory acts are needed for the safeguarding of one's faith just as some specific instructions are needed for the safeguarding of one's health. The body cannot be healthy when fed with starch or protein alone. It is in need of a varied diet, otherwise it will be prone to various wasting or fatal diseases. In the same way faith cannot exist in the being of one individual or the ranks of a group unless they fulfil a number of different compulsory acts, which will protect its existence and ensure its growth and well-being. Muslims must divide their time and regulate themselves according to these compulsory acts so that one duty does not make them neglect another duty, or to put it more simply, one optional act should not keep them from performing a compulsory one. On this occasion the Prophet (ﷺ) saw as their primary obligation that they should take the Banū Quraydhah unaware before they had the time to prepare themselves or fortify their homes, and so nothing should keep the Muslims from this task, even if it happened to be prayer.
+The prescribed compulsory acts are needed for the safeguarding of one's faith just as the necessary foods are needed for the safeguarding of the body. The body cannot be healthy when fed with starch or protein alone. It is in need of a varied diet, otherwise it will be prone to various wasting or fatal diseases. In the same way faith cannot exist in the being of one individual or the ranks of a group unless they fulfil a number of different compulsory acts, which will protect its existence and ensure its growth and well-being. Muslims must divide their time and regulate themselves according to these compulsory acts so that one duty does not make them neglect another duty, or to put it more simply, one optional act should not keep them from performing a compulsory one. On this occasion the Prophet (ﷺ) saw as their primary obligation that they should take the Banū Quraydhah unaware before they had the time to prepare themselves or fortify their homes, and so nothing should keep the Muslims from this task, even if it happened to be prayer. The limits of prayer-time melt away before the necessities of fighting.
 
-In the light of this prophetic guidance you can judge the behaviour of the Muslims today. The teacher who neglects to teach his pupils, the merchant who neglects to invest his wealth and the employer who neglects to invest his wealth and the employee who neglects his work will never be excused by Allāh (ﷻ) for their negligence of these essential duties, even though they may be prevented from them by the performance of a hundred rak'at, or the recitation of a thousand āyāt, or the counting of the beautiful names of Allāh (ﷻ) seventy thousand times, as some of the ignorant Sufis do. This is because it is neglect of the prescribed compulsory acts in favour of other optional acts which were not prescribed. It is a stagnation of this Ummah, which cannot rise to its height again unless it exerts itself to combat its ignorance, poverty and chaos. Public jihād is a compulsory action whose importance nothing can lessen and which no act of worship can displace in its time, as you have seen.
+In the light of this prophetic guidance you can judge the behaviour of the Muslims today. The teacher who neglects to teach his pupils, the merchant who neglects to invest his wealth and the employee who neglects his work will never be excused by Allāh (ﷻ) for their negligence of these essential duties, even though they may be prevented from them by the performance of a hundred rak'at, or the recitation of a thousand āyāt, or the counting of the beautiful names of Allāh (ﷻ) seventy thousand times, as some of the ignorant Sufis do. This is because it is neglect of the prescribed compulsory acts in favour of other optional acts which were not prescribed. It is a stagnation of this Ummah, which cannot rise to its height again unless it exerts itself to combat its ignorance, poverty and chaos. Public jihād is a compulsory action whose importance nothing can lessen and which no act of worship can displace in its time, as you have seen.
 
 It was 'Alī ibn Abī Ṭālib (رضي الله عنه) who carried the Muslim standard to the forts of the Quraydhah. The Muslims vied with one another to arrive there and gather around the forts. Even when the army had approached quite close, the Jews were still as wayward as ever, for they looked at the Muslims and abused the Prophet (ﷺ) and his wives most vilely.
 
 'Alī (رضي الله عنه) thought it best to divert the Prophet (ﷺ) from those fools so he intercepted him as he was approaching and said: "O Messenger of Allāh (ﷺ), you should not go near those villains."
 
-"Why?" replied the Prophet (ﷺ), "I think you have heard some insults from them aimed at me. 'Alī (رضي الله عنه) said yes, and the Prophet (ﷺ) asserted: "If they see me they will not say such things." On approaching them, he said: "O brethren of the apes, has Allāh (ﷻ) disgraced you and sent down his curse upon you?"⁸¹
+"Why?" replied the Prophet (ﷺ), "I think you have heard some insults from them aimed at me. 'Alī (رضي الله عنه) said yes, and the Prophet (ﷺ) asserted: "If they see me they will not say such things." On approaching them, he said: "O brethren of the apes, has Allāh (ﷻ) disgraced you and sent down his curse upon you?"⁹⁷
 
-"O Abū Qāsim," they replied, "you are not a foolish man."
+"O Abū al-Qāsim," they replied, "you are not a foolish man."
 
-These are the character traits of some of the Jews. They insult other when they are safe, they kill when they are capable, and they describe people as the perfect example when they are afraid and for no other reason than their personal gain. As for treaties, they are the last things in life which they will support. However, their foolhardiness was of no avail, for the Muslims surrounded them closely and they felt certain that there was no other way out but surrender, and their hearts were filled with despair and fear.
+These are the character traits of some of the Jews. They insult other when they are safe, they kill when they are capable, and they remind people of the highest ideals when they are afraid — only so that they alone may benefit from them. As for treaties, they are the last things in life which they will support. However, their foolhardiness was of no avail, for the Muslims surrounded them closely and they felt certain that there was no other way out but surrender, and their hearts were filled with despair and fear.
 
 Ka'b chief of the Banū Quraydhah, said: "Fellow Jews, you see what has befallen you, and I shall give you three options, so take whichever of them you like." When they asked what they were, he continued: "We should follow this man and believe in him for, by Allāh (ﷻ), it is clear to you that he is a Prophet (ﷺ) sent by Allāh (ﷻ) and that he is the one whom you find in your Scripture. In this way you will safeguard your lives, your properties, your children and your womenfolk."
 
@@ -4096,13 +4210,13 @@ The siege continued for twenty-five days, during which the Muslims allowed the J
 
 However, the Quraydhah said: "O Muhammad (ﷺ), we shall accept the decree of Sa'd ibn Mu'ādh."
 
-Thus they came out of their forts and were taken to a prison camp, where Sa'd was brought to make the final decision about those who had been his allies. Sa'd was the chief of the Aus, who were the allies of the Banū Quraydhah in jahilīyah, and the Jews expected this relationship to benefit them. The Aus themselves expected their chief to be lenient with their old friends. Thus they pleaded with him to be lenient with their allies as he was being brought from the tent in which he was convalescing after his injury in the Battle of the Ditch.
+Thus they came out of their forts and were taken to a prison camp, where Sa'd was brought to make the final decision about those who had been his allies. Sa'd was the chief of the Aws, who were the allies of the Banū Quraydhah in jahilīyah, and the Jews expected this relationship to benefit them. The Aws themselves expected their chief to be lenient with their old friends. Thus they pleaded with him to be lenient with their allies as he was being brought from the tent in which he was convalescing after his injury in the Battle of the Ditch.
 
 However, Sa'd (رضي الله عنه) did not forget, amid the cries of hope directed towards him, that Islām and its sons, that Madīnah, its fruits, its crops, its progeny and its sanctuaries were rescued from the vehemence of the attacking forces only by a miracle of Providence. It was the Banū Quraydhah and those whom they harboured who had been the instigators and unholy allies in this war which had been declared to crush true monotheism and its upholders. Sa'd (رضي الله عنه) did not forget that the Quraydhah had broken their treaty and greeted him with a shower of abuse when he went to plead with them to remain faithful. Did he not say to them, "I fear for you what happened to the Banū al Naḍīr or worse than it? Despite this, their reply was "Eat your father's...!"
 
 Thus Sa'd (رضي الله عنه) did not hesitate to say to his people after their insistent pleading: "The time has come now that Sa'd (رضي الله عنه) should be afraid of no-one's blame for the cause of Allāh (ﷻ)."
 
-Sa'd (رضي الله عنه) decreed that the men should be killed, their women and children taken captive and their properties distributed. The Prophet (ﷺ) endorsed this resolute decree, saying to Sa'd (رضي الله عنه): "You have decreed for them decreed by Allāh (ﷻ) from above the seven heavens."⁸²
+Sa'd (رضي الله عنه) decreed that the men should be killed, their women and children taken captive and their properties distributed. The Prophet (ﷺ) endorsed this resolute decree, saying to Sa'd (رضي الله عنه): "You have decreed for them decreed by Allāh (ﷻ) from above the seven heavens."⁹⁸
 
 Trenches were dug in the market square of Madīnah to execute this decree, and the Jewish fighters were brought to them in groups, one after the other, to pay the price for their treachery.
 
@@ -4118,15 +4232,13 @@ Perhaps one of the causes for the catastrophe which overtook the Banū Quraydhah
 
 Ḥuyayy was brought to face his end, and Ḥuyayy, as you know was the germ of these troubles. He looked at the Prophet (ﷺ) and said: "By God, I do not blame myself for my hostility towards you. Nevertheless, whoever deserts God deserts him. Then he turned to the people and said: "O people, I have nothing against the order of God. He has decreed slaughter for the Children of Israel." Then he sat down and was beheaded. About this a poet says:
 
-*By your life, Ibn Akhtab did not blame himself,*
+*By your life, Ibn Akhṭab did not blame himself,*
 
-*But whoever deserts Allāh (ﷻ) is deserted.*
+*but whoever Allāh (ﷻ) forsakes is forsaken.*
 
-*He fought until he reached his limit,*
+*He strove until he had given his soul every excuse,*
 
-*And stirred up trouble.*
-
-*And every troublemaker seeks glory.*
+*and went to every length in seeking glory.*
 
 It is true that there were brave men among the Quraish and the Jews who faced death unflinchingly. False principles and baseless ideologies will never cease to have followers who defend them with their lives and riches. Nevertheless, this does not make falsehood true or tyranny just.
 
@@ -4138,11 +4250,11 @@ About the defeat of the confederates and the punishment of the Quraydhah, Allāh
 
 In this battle with the idolaters first and the Jews after, the Muslims lost a small number of men including Sa'd ibn Mu'ādh. Allāh (ﷻ) answered his prayer and he died a martyr from the injuries he had received. In the Battle of the Ditch after Allāh (ﷻ) satisfied his desire concerning the Jews of the Quraydhah, and after, the Quraish's attack on Madīnah proved a failure and they returned home to be thenceforth under attack rather than the attackers.
 
-The enmity between the Muslims and the Jews did not end with the defeat of the Quraydhah, for some of those who had instigated the confederates against Islām fled to Khaybar with its fortresses to seek the assistance of their brothers there. One of them was Abū Rāfi' ibn Ḥuyayy's partner when he went round the tribes, inciting them to attack Madīnah. Mischief is ever expected from the Jews as long as they have the power to do so. The prophetic saying has vividly expressed how much hatred the Jews have for Islām. He said: "If ever a Jew is alone with a Muslim, he will attempt to kill him."⁸³
+The enmity between the Muslims and the Jews did not end with the defeat of the Quraydhah, for some of those who had instigated the confederates against Islām fled to Khaybar with its fortresses to seek the assistance of their brothers there. One of them was Abū Rāfi' ibn Ḥuyayy's partner when he went round the tribes, inciting them to attack Madīnah. Mischief is ever expected from the Jews as long as they have the power to do so. The prophetic saying has vividly expressed how much hatred the Jews have for Islām. He said: "If ever a Jew is alone with a Muslim, he will attempt to kill him."⁹⁹
 
-We do not know of any reason for this instinctive hatred, except that they have deviated from the straight path. It is the right of the Muslims to be wary of it and not let any remains of it exist and grow with time. Thus five men from the Khazraj tribe were sent to Khaybar to finish off Abū Rāfi' and fill the hearts of his associates with fear. The Prophet (ﷺ) appointed 'Abdullāh ibn 'Atik as their commander and forbade them from killing a child or a woman.⁸⁴
+We do not know of any reason for this instinctive hatred, except that they have deviated from the straight path. It is the right of the Muslims to be wary of it and not let any remains of it exist and grow with time. Thus five men from the Khazraj tribe were sent to Khaybar to finish off Abū Rāfi' and fill the hearts of his associates with fear. The Prophet (ﷺ) appointed 'Abdullāh ibn 'Atīk as their commander and forbade them from killing a child or a woman.¹⁰⁰
 
-The five adventurers entered Khaybar and reached the home of Ibn Abi al Haqīq in the evening. 'Abdullāh ibn 'Ātik told his companions to wait while he went forward to check. As he was seeking way to enter the fort he encountered some servants with a light, looking for a lost donkey. He was afraid that he would be recognized, so he covered his head and sat down as if he was easing his bowels. After they had found their donkey the gatekeeper announced that he was locking the gates so those who wished to enter should do so at once. 'Abdullāh entered and hid in the place where the animals were tethered near the gate of the fortress.
+The five adventurers entered Khaybar and reached the home of Ibn Abī al-Ḥuqayq in the evening. 'Abdullāh ibn 'Atīk told his companions to wait while he went forward to check. As he was seeking way to enter the fort he encountered some servants with a light, looking for a lost donkey. He was afraid that he would be recognized, so he covered his head and sat down as if he was easing his bowels. After they had found their donkey the gatekeeper announced that he was locking the gates so those who wished to enter should do so at once. 'Abdullāh entered and hid in the place where the animals were tethered near the gate of the fortress.
 
 Abū Rāfi' and his associates had supper and engaged in conversation for a while. Then they got up and left him for their homes. The voices died away and everything became still. 'Abdullāh came out, having seen where the keys to the fortress were kept, and he took them out and opened the gate so that he could leave easily if the people saw him. He next went to their rooms and locked their doors from outside. Then he climbed the stairs to where Abū Rāfi' usually slept. The house was dark: all its lamps were extinguished. Not knowing where the man was, 'Abdullāh called him by name: Abū Rāfi' replied: "Who is it?" 'Abdullāh headed for the voice and struck him, but the blow was ineffective and he shouted.
 
@@ -4154,13 +4266,13 @@ Abū Rāfi' replied: "Curse be on your mother! Someone entered and struck me wit
 
 Unbelief was weakened under these heavy blows, and the foundations of Islām were strengthened and its state became secure. The fifth year of the Hijrah had hardly ended before the Muslims became a power to reckon with. The Quraish and their allies were convinced that it was impossible to force them to return to the worship of idols, while the Jews had to admit that their malicious opposition to the new faith and its final message had only led them into a complicated muddle.
 
-After the Battle of the Ditch this year up to the latter part of the sixth year, that is, up to the 'Umrah of Ḥudaybiyah, there were no other major incidents. The Hudhayl attempted to attack Madīnah but their leader, Khālid ibn Sufyān, was killed, so they refrained. Then some bedouin thieves, led by 'Uyaynah ibn Hiṣn in the company of some horsemen from the Ghaṭafān, raided Madīnah and went away with its camels. However, Salāmah ibn al Akwa' alerted the people of Madīnah and set off alone in pursuit of the raiders, firing arrows at them in an attempt to retrieve the camels. Soon the Muslims horsemen were able to catch up with him, and upon seeing them the idolaters retreated, although not until some of them were killed and the stolen goods were retrieved. Bukhārī claims that this took place after Ḥudaybiyah, not before, and perhaps this is more authentic.
+After the Battle of the Ditch this year up to the latter part of the sixth year, that is, up to the 'Umrah of Ḥudaybiyah, there were no other major incidents. The Hudhayl attempted to attack Madīnah but their leader, Khālid ibn Sufyān, was killed, so they refrained. Then some bedouin thieves, led by 'Uyaynah ibn Hiṣn in the company of some horsemen from the Ghaṭafān, raided Madīnah and went away with its camels. However, Salamah ibn al-Akwa' alerted the people of Madīnah and set off alone in pursuit of the raiders, firing arrows at them in an attempt to retrieve the camels. Soon the Muslims horsemen were able to catch up with him, and upon seeing them the idolaters retreated, although not until some of them were killed and the stolen goods were retrieved. Bukhārī claims that this took place after Ḥudaybiyah, not before, and perhaps this is more authentic.
 
-During this period the Prophet (ﷺ) married Umm Ḥabībah, daughter of Abū Sufyān, who had migrated to Abyssinia with her husband. He, however, became a Christian and died there, and so she was left alone. The Prophet (ﷺ) thought that he should honour this lady, who had forsaken her father, at that time the leader of Makkah, and chosen to migrate for Allāh's cause and remain faithful to Him, by marrying her. Thus he sent his offer to the Negus and made him his agent in this contract.
+During this period the Prophet (ﷺ) married Umm Ḥabībah, daughter of Abū Sufyān, who had migrated to Abyssinia with her husband. He, however, apostatized and died there, and so she was left alone. The Prophet (ﷺ) thought that he should honour this lady, who had forsaken her father, at that time the leader of Makkah, and chosen to migrate for Allāh's cause and remain faithful to Him, by marrying her. Thus he sent her dower (mahr) to the Negus and made him his proxy in contracting the marriage.
 
 He also married Zaynab bint Jaḥsh. We shall discuss the details of this marriage in a forthcoming chapter on polygamy and the Prophet's (ﷺ) wives in particular.
 
-It is said also that 'Amr ibn al 'As became inclined to Islām during this period. He was impressed by the victory gained by Muhammad (ﷺ), and he said to some of his associates: "Surely I can see Muhammad's (ﷺ) affair taking on greater proportions."
+It is said also that 'Amr ibn al-'Āṣ became inclined to Islām during this period. He was impressed by the victory gained by Muhammad (ﷺ), and he said to some of his associates: "Surely I can see Muhammad's (ﷺ) affair taking on greater proportions."
 
 Then he advised them to go to Abyssinia where they could watch the results of the struggle between the Muslims and their people. When he went to Abyssinia and saw how the Negus respected the Prophet (ﷺ) and those who joined his cause, he became inclined to enter into Islām. Nevertheless, he hid his feelings until the Conquest to Makkah was imminent. He met Khālid ibn al Walid, who had resolved to accept Islām and intended to migrate to Madīnah to follow him, and he asked him where he was going.
 
@@ -4174,9 +4286,9 @@ Khālid replied: "By Allāh (ﷻ), the path is clear. Surely the man is a Prophe
 
 ³ An authentic Ḥadīth narrated by Muslim. The last sentence is narrated by the compilers of the Sunan through another chain of authorities.
 
-⁴ An authentic Ḥadīth narrated by Abū Dāwūd, Al Nasā'ī, Aḥmad and Al Ḥākim, and the latter said that it fulfilled the conditions laid down by Bukhārī and Muslim, and Dhahabī agreed with him. In fact it is according to the conditions of Muslim alone, since the Tābi'i who reported the Ḥadīth was Mi'din ibn Abī Ṭalḥa, from whom Bukhārī never narrated any Ḥadīth.
+⁴ An authentic Ḥadīth narrated by Abū Dāwūd, Al Nasā'ī, Aḥmad and Al Ḥākim, and the latter said that it fulfilled the conditions laid down by Bukhārī and Muslim, and Dhahabī agreed with him. In fact it is according to the conditions of Muslim alone, since the Tābi'i who reported the Ḥadīth was Ma'dān ibn Abī Ṭalḥah, from whom Bukhārī never narrated any Ḥadīth.
 
-⁵ There is a disturbance in its chain, as pointed out by Al-Ḥāfiẓ al-'Irāqī in his book Akhrij Al Iḥyā.
+⁵ There is a disturbance in its chain, as pointed out by Al-Ḥāfiẓ al-'Irāqī in his book *Takhrīj al-Iḥyā'*.
 
 ⁶ A sound Ḥadīth narrated by Bukhārī and Muslim on the authority of Ibn 'Umar and 'Urwah al Bāriqī. However, Ibn 'Umar's version does not have "reward and booty." It would be better, therefore, to ascribe it to 'Urwah.
 
@@ -4186,157 +4298,189 @@ Khālid replied: "By Allāh (ﷻ), the path is clear. Surely the man is a Prophe
 
 ⁹ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq with a sound chain traced back to Ibn 'Abbās.
 
-¹⁰ Narrated by Ibn Hishām from Ibn Isḥāq. Its chain is sound but it is mursal. Aḥmad also narrated it on the authority of 'Alī ibn Ṭālib (رضي الله عنه) without the last question and this version also has a sound chain. Muslim has a shortened version of it on the authority of Anas (رضي الله عنه).
+¹⁰ In the Musnad (nos. 3901, 3665); its chain is good (ḥasan). Al-Ḥākim also transmitted it (3/20) and said: "A sound Ḥadīth according to the criteria of Muslim."
 
-¹¹ Narrated by Ibn Hishām from Ibn Isḥāq without a chain. The second version was narrated by Ibn Mardawaih and it is mursal. In this way it was also narrated by Ibn Abī Shaybah, as recorded in Fath al Bari. Bukhārī, Al-Ḥākim and Aḥmad narrated the account of this story on the authority of 'Abdullāh ibn Mas'ūd, while Al-Ṭabarānī narrated it on the authority of Abū Ayyub Al-Anṣārī. About the latter, Al-Haythami says that its chain is good.
+¹¹ Narrated by Ibn Hishām from Ibn Isḥāq. Its chain is sound but it is mursal. Aḥmad also narrated it on the authority of 'Alī ibn Ṭālib (رضي الله عنه) without the last question and this version also has a sound chain. Muslim has a shortened version of it on the authority of Anas (رضي الله عنه).
+
+¹² Narrated by Ibn Hishām from Ibn Isḥāq without a chain. The second version was narrated by Ibn Mardawaih and it is mursal. In this way it was also narrated by Ibn Abī Shaybah, as recorded in Fath al Bari. Bukhārī, Al-Ḥākim and Aḥmad narrated the account of this story on the authority of 'Abdullāh ibn Mas'ūd, while Al-Ṭabarānī narrated it on the authority of Abū Ayyub Al-Anṣārī. About the latter, Al-Haythami says that its chain is good.
 
 In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on the authority of Anas (رضي الله عنه). In this Ḥadīth the Prophet (ﷺ) was reported as saying: "This is the place where so and so shall die." The narrator added that he put his hand on the ground in various places, and, continued, not one of them was found in any other position.
 
-¹² Narrated by Ibn Hishām from Ibn Isḥāq, who said: "So I was told of the men from the Banū Salmah that they mentioned that Al-Habbāb..." This is a weak chain since the link between Ibn Isḥāq and the men from the Banū Salmah is not known. Al-Ḥākim narrated it with a complete chain, although there was someone in it whom I could not recognize, and Al Dhahabī said it was a rejected Ḥadīth. Also Al-Amawi narrated it on the authority of Ibn 'Abbās, as was reported in Al-Bidayah. However, there is Al-Kalbi in the chain and he was a liar.
+¹³ Narrated by Ibn Hishām from Ibn Isḥāq, who said: "So I was told of the men from the Banū Salmah that they mentioned that Al-Ḥubāb..." This is a weak chain since the link between Ibn Isḥāq and the men from the Banū Salmah is not known. Al-Ḥākim narrated it with a complete chain, although there was someone in it whom I could not recognize, and Al Dhahabī said it was a rejected Ḥadīth. Also Al-Amawi narrated it on the authority of Ibn 'Abbās, as was reported in Al-Bidayah. However, there is Al-Kalbi in the chain and he was a liar.
 
-¹³ A sound Ḥadīth narrated by Muslim and Aḥmad on the authority of 'Umar Ibn-al Khaṭṭāb (رضي الله عنه). Part of it is in Bukhārī on the authority of Ibn 'Abbās.
+¹⁴ A sound Ḥadīth narrated by Muslim and Aḥmad on the authority of 'Umar Ibn-al Khaṭṭāb (رضي الله عنه). Part of it is in Bukhārī on the authority of Ibn 'Abbās.
 
-¹⁴ Up to here Ibn Hishām narrated from Ibn Isḥāq without chain. It was also narrated by Abū Dāwūd on the authority of 'Alī (رضي الله عنه) without the story of Al-Aswad, but its chain is sound. Likewise it was narrated by Aḥmad.
+¹⁵ Up to here Ibn Hishām narrated from Ibn Isḥāq without chain. It was also narrated by Abū Dāwūd on the authority of 'Alī (رضي الله عنه) without the story of Al-Aswad, but its chain is sound. Likewise it was narrated by Aḥmad.
 
-¹⁵ This amount is quoted by Ibn Kathīr, who said that Shāfi'ī narrated it. However, he did not say on whose authority. Al-Ḥākim narrated a similar account on the authority of Ibn Ḥibāb in mursal form and it did not have the addition "Then he breathed his last." What shows the weakness of this addition is that Al-Ḥākim reported on the authority of Ibn 'Abbās that 'Ubaydah died at Al Safrā while on his way from Badr and the Prophet (ﷺ) buried him there. The chain of this Ḥadīth is good, and Al-Ḥākim and Al Dhahabī authenticated it.
+¹⁶ This amount is quoted by Ibn Kathīr, who said that Shāfi'ī narrated it. However, he did not say on whose authority. Al-Ḥākim narrated a similar account on the authority of Ibn Shihāb (Al-Zuhrī) in mursal form and it did not have the addition "Then he breathed his last." What shows the weakness of this addition is that Al-Ḥākim reported on the authority of Ibn 'Abbās that 'Ubaydah died at Al Safrā while on his way from Badr and the Prophet (ﷺ) buried him there. The chain of this Ḥadīth is good, and Al-Ḥākim and Al Dhahabī authenticated it.
 
-¹⁶ Narrated by Ibn Isḥāq without a chain. Bukhārī reported on the authority of Abū Usayd: "On the day of Badr the Messenger of Allāh (ﷺ) said to us: 'When they attack you, shoot them with arrows and remain in your positions.'"
+¹⁷ Narrated by Ibn Isḥāq without a chain. Bukhārī reported on the authority of Abū Usayd: "On the day of Badr the Messenger of Allāh (ﷺ) said to us: 'When they attack you, shoot them with arrows and remain in your positions.'"
 
-¹⁷ In his Al-Mughāzī and also by Ibn Hishām without a chain. However, Al-Amawi also narrated with a full chain which is considered a good chain.
+¹⁸ In his Al-Mughāzī and also by Ibn Hishām without a chain. However, Al-Amawi also narrated with a full chain which is considered a good chain.
 
-¹⁸ In his Musnad without the couplets of poetry. Similarly, it was narrated by Muslim and Al-Ḥākim, all three narrating it on the authority of Anas (رضي الله عنه). Muslim has a shorter version also from Al-Barra ibn 'Azib. As for the couplets, Ibn Kathīr ascribed them to Ibn Jarīr.
+¹⁹ In his Musnad without the couplets of poetry. Similarly, it was narrated by Muslim and Al-Ḥākim, all three narrating it on the authority of Anas (رضي الله عنه). Muslim has a shorter version also from Al-Barra ibn 'Azib. As for the couplets, Ibn Kathīr ascribed them to Ibn Jarīr.
 
-¹⁹ A good Ḥadīth, which is part of the above-mentioned Ḥadīth narrated by Al-Amawi. There is another Ḥadīth which supports it and it is that of Ḥakīm ibn Ḥizām. Al-Haythami says: "Al Ṭabarānī narrated it and its chain is good."
+²⁰ A good Ḥadīth, which is part of the above-mentioned Ḥadīth narrated by Al-Amawi. There is another Ḥadīth which supports it and it is that of Ḥakīm ibn Ḥizām. Al-Haythami says: "Al Ṭabarānī narrated it and its chain is good."
 
-²⁰ A sound Ḥadīth narrated by Bukhārī, Muslim and Aḥmad. Al-Ḥākim mistakenly included it in his Mustadrak (his compilation of sound Ḥadīth not mentioned by Bukhārī or Muslim). The statement "They were the sons of 'Afrā" was mentioned like this in one of Bukhārī's versions, whereas the others had "and the two men were Mu'ādh ibn 'Amr ibn-ul Jamūh and Mu'ādh ibn 'Afrā." This was also one of Bukhārī's versions. Perhaps the first version mentioned the sons of 'Afrā by way of brevity. See also Fatḥ-al Bari.
+²¹ A sound Ḥadīth narrated by Bukhārī, Muslim and Aḥmad. Al-Ḥākim mistakenly included it in his Mustadrak (his compilation of sound Ḥadīth not mentioned by Bukhārī or Muslim). The statement "They were the sons of 'Afrā" was mentioned like this in one of Bukhārī's versions, whereas the others had "and the two men were Mu'ādh ibn 'Amr ibn-ul Jamūh and Mu'ādh ibn 'Afrā." This was also one of Bukhārī's versions. Perhaps the first version mentioned the sons of 'Afrā by way of brevity. See also Fatḥ-al Bari.
 
-²¹ To insist on this is a clear mistake since it comes from the account of Al-Wāqidi without a chain as Ibn Kathīr stated. Even if he had quoted the chain and it had been strong, It would still not be correct, since Al-Wāqidi was suspected of being a liar. What points to the weakness of this account too is the fact that Mu'ādh ibn 'Amr died during the reign of 'Uthmān, as Bukhārī and others have positively stated. (See Ibn Hishām).
+²² To insist on this is a clear mistake since it comes from the account of Al-Wāqidi without a chain as Ibn Kathīr stated. Even if he had quoted the chain and it had been strong, It would still not be correct, since Al-Wāqidi was suspected of being a liar. What points to the weakness of this account too is the fact that Mu'ādh ibn 'Amr died during the reign of 'Uthmān, as Bukhārī and others have positively stated. (See Ibn Hishām).
 
-²² Narrated by Ibn Hishām from Ibn Isḥāq without a chain. Part of it is in the Musnad (of Aḥmad) and Al-Bayhaqi on the authority of Ibn Mas'ūd with an incomplete chain. However, the story of Ibn Mas'ūd killing of Abū Jahl is authentic and was narrated by Bukhārī, Muslim and Aḥmad on the authority of Anas (رضي الله عنه).
+²³ Narrated by Ibn Hishām from Ibn Isḥāq without a chain. Part of it is in the Musnad (of Aḥmad) and Al-Bayhaqi on the authority of Ibn Mas'ūd with an incomplete chain. However, the story of Ibn Mas'ūd killing of Abū Jahl is authentic and was narrated by Bukhārī, Muslim and Aḥmad on the authority of Anas (رضي الله عنه).
 
-²³ A sound Ḥadīth narrated by Bukhārī.
+²⁴ A sound Ḥadīth narrated by Bukhārī.
 
-²⁴ A weak Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq without a chain.
+²⁵ A weak Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq without a chain.
 
-²⁵ A weak Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq, who said: "Some learned people informed me." Aḥmad also reported it by way of Ibrāhīm on the authority of 'Ā'ishah, who quoted the Prophet (ﷺ) as saying: "May Allāh (ﷻ) reward you with evil, from the people of a prophet (ﷺ). How evil was your dismissal (of him) and how strong was the disbelief and refutation." Narrators are trustworthy but there is the breach between Ibrāhīm, who is Al Nakhā'ī, and 'Ā'ishah.
+²⁶ A weak Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq, who said: "Some learned people informed me." Aḥmad also reported it by way of Ibrāhīm on the authority of 'Ā'ishah, who quoted the Prophet (ﷺ) as saying: "May Allāh (ﷻ) reward you with evil, from the people of a prophet (ﷺ). How evil was your dismissal (of him) and how strong was the disbelief and refutation." Narrators are trustworthy but there is the breach between Ibrāhīm, who is Al Nakhā'ī, and 'Ā'ishah.
 
-²⁶ A sound Ḥadīth narrated by Ibn Isḥāq from Ḥumayd from Anas (رضي الله عنه). Ḥumayd is known for his Tadlis (i.e. reporting from someone from whom he did not hear directly). However, whenever he reported from Anas (رضي الله عنه), then there was Thābit Al-Banānī in between, and he was a trustworthy source of Bukhārī and Muslim. Aḥmad narrated it also from various sources from Ḥumayd, and Ibn Kathīr said it was according to the criteria of Bukhārī and Muslim. As for 'Ā'ishah's rejection of this Ḥadīth, it is rejected by the scholars, who explain that logic is on the side of those who narrates this Ḥadīth. See Al-Bidayah of Ibn Kathīr and Al-Fatḥ of Ibn Hajr. In my opinion there is no contradiction between their narration and hers. This has been explained in Aḥkam al-Janā'iz wa Bida'uha (forthcoming).
+²⁷ A sound Ḥadīth narrated by Ibn Isḥāq from Ḥumayd from Anas (رضي الله عنه). Ḥumayd is known for his Tadlis (i.e. reporting from someone from whom he did not hear directly). However, whenever he reported from Anas (رضي الله عنه), then there was Thābit Al-Banānī in between, and he was a trustworthy source of Bukhārī and Muslim. Aḥmad narrated it also from various sources from Ḥumayd, and Ibn Kathīr said it was according to the criteria of Bukhārī and Muslim. As for 'Ā'ishah's rejection of this Ḥadīth, it is rejected by the scholars, who explain that logic is on the side of those who narrates this Ḥadīth. See Al-Bidayah of Ibn Kathīr and Al-Fatḥ of Ibn Hajr. In my opinion there is no contradiction between their narration and hers. This has been explained in Aḥkam al-Janā'iz wa Bida'uha (forthcoming).
 
-²⁷ 'Ā'ishah rejected this Ḥadīth, using as an argument the Qur'ānic āyah (verse): "You cannot reach those who are in the graves" (Qur'ān 35: 22). She said that the words used by the Prophet (ﷺ) were: "You have no more knowledge than they of what I say."
+²⁸ 'Ā'ishah rejected this Ḥadīth, using as an argument the Qur'ānic āyah (verse): "You cannot reach those who are in the graves" (Qur'ān 35: 22). She said that the words used by the Prophet (ﷺ) were: "You have no more knowledge than they of what I say."
 
-²⁸ A sound Ḥadīth narrated by Al-Bayhaqi with a sound chain from Usāmah. Al Ḥākim narrated it in a similar manner from Al Zuhrī as mursal. There are other ḥadīths on the same topic. (See Al-Majma')
+²⁹ A sound Ḥadīth narrated by Al-Bayhaqi with a sound chain from Usāmah. Al Ḥākim narrated it in a similar manner from Al Zuhrī as mursal. There are other ḥadīths on the same topic. (See Al-Majma')
 
-²⁹ A sound Ḥadīth narrated by Aḥmad and Al-Ḥākim by way of Makḥūl from Abū Umāmah from 'Ubādah ibn-al-Ṣāmit. Al-Ḥākim said it was sound according to the criteria of Muslim, and Dhahabī agreed with this. However, Abū Umāmah was never seen by Makḥūl, as Abū Ḥātim said. Thus the Ḥadīth is cut off. Ibn Hishām narrated it from Ibn Isḥāq with the same chain, and Aḥmad narrated it from him. It is supported by the Ḥadīth of Ibn 'Abbās narrated by Abū Dāwūd and Al-Ḥākim. The latter said its chain was sound, and Dhahabī agreed with him. What they say is correct and therefore the Ḥadīth is authentic.
+³⁰ A sound Ḥadīth narrated by Aḥmad and Al-Ḥākim by way of Makḥūl from Abū Umāmah from 'Ubādah ibn-al-Ṣāmit. Al-Ḥākim said it was sound according to the criteria of Muslim, and Dhahabī agreed with this. However, Abū Umāmah was never seen by Makḥūl, as Abū Ḥātim said. Thus the Ḥadīth is cut off. Ibn Hishām narrated it from Ibn Isḥāq with the same chain, and Aḥmad narrated it from him. It is supported by the Ḥadīth of Ibn 'Abbās narrated by Abū Dāwūd and Al-Ḥākim. The latter said its chain was sound, and Dhahabī agreed with him. What they say is correct and therefore the Ḥadīth is authentic.
 
-³⁰ A good Ḥadīth narrated by Abū Dāwūd, Al-Ḥākim and Al-Bayhaqi. Al-Ḥākim said it was sound according to the criteria of Muslim, although in fact it is only good (ḥasan). Ibn Ḥajar verified that it was "good" in his Al-Fatḥ.
+³¹ A good Ḥadīth narrated by Abū Dāwūd, Al-Ḥākim and Al-Bayhaqi. Al-Ḥākim said it was sound according to the criteria of Muslim, although in fact it is only good (ḥasan). Ibn Ḥajar verified that it was "good" in his Al-Fatḥ.
 
-³¹ A sound Ḥadīth narrated by Muslim, Aḥmad and Al Bayhaqi on the authority of 'Umar (رضي الله عنه).
+³² A sound Ḥadīth narrated by Muslim, Aḥmad and Al Bayhaqi on the authority of 'Umar (رضي الله عنه).
 
-³² A sound Ḥadīth narrated by Ibn Abī Ḥātim in his Tafsīr with a sound chain, Ibn Kathīr says.
+³³ A sound Ḥadīth narrated by Ibn Abī Ḥātim in his Tafsīr with a sound chain, Ibn Kathīr says.
 
-³³ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq with a weak chain. However, it is also narrated by Bukhārī, Muslim and Abū Dāwūd on the authority of Jābir ibn 'Abdullāh. Apparently the events written here are taken from two different narrations.
+³⁴ Up to here it was narrated by Ibn Hishām (2/121) from Ibn Isḥāq: "'Āṣim ibn 'Umar ibn Qatādah told me," as *mursal*. The rest of it I have not come across for now.
 
-³⁴ A sound Ḥadīth narrated by Bukhārī, Al-Nasā'ī and Aḥmad on the authority of 'Umar (رضي الله عنه).
+³⁵ Narrated by Ibn Isḥāq (2/121) from 'Ubādah ibn al-Walīd ibn 'Ubādah ibn al-Ṣāmit, and by Ibn Jarīr from 'Aṭiyyah al-'Awfī and from Al-Zuhrī; all of them are *mursal*. Ibn Kathīr indicated in his Tafsīr (2/68) that the report of the verse's revelation concerning Ibn Ubayy is weak. And Allāh knows best.
 
-³⁵ Narrated by Ibn Hishām from Ibn Isḥāq on the authority of Al Zuhrī as mursal, and Aḥmad on the authority of Abū Zubayr from Jābir, and his chain is according to the stipulation of Muslim except that Zubayr is known for tadlīs. It has support, however, in the Ḥadīth of Ibn 'Abbās narrated by Al Bayhaqi, as stated in Al-Bidayah, with a good chain. The Ḥadīth is therefore sound and is narrated also by Aḥmad and Al-Ḥākim. It is a long Ḥadīth on the Battle of Uḥud and some quotations from it will appear in this book.
+³⁶ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq with a weak chain. However, it is also narrated by Bukhārī, Muslim and Abū Dāwūd on the authority of Jābir ibn 'Abdullāh. Apparently the events written here are taken from two different narrations.
 
-³⁶ Mentioned by Ibn Kathīr as a narration from Mūsā ibn 'Uqbah as *mu'ḍal*.
+³⁷ A sound Ḥadīth narrated by Bukhārī, Al-Nasā'ī and Aḥmad on the authority of 'Umar (رضي الله عنه).
 
-³⁷ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq without a chain. However, it has much supporting evidence, e.g. the Ḥadīth narrated by Bukhārī, Abū Dawūd and Aḥmad on the authority of Al-Barā' ibn 'Āzib, and the Ḥadīth of Ibn 'Abbās, which is the second narration quoted in this book, and it was narrated by Aḥmad and Al-Ḥākim, who verified its authenticity as mentioned above.
+³⁸ Narrated by Ibn Hishām from Ibn Isḥāq on the authority of Al Zuhrī as mursal, and Aḥmad on the authority of Abū Zubayr from Jābir, and his chain is according to the stipulation of Muslim except that Abū al-Zubayr is known for tadlīs. It has support, however, in the Ḥadīth of Ibn 'Abbās narrated by Al Bayhaqi, as stated in Al-Bidayah, with a good chain. The Ḥadīth is therefore sound and is narrated also by Aḥmad and Al-Ḥākim. It is a long Ḥadīth on the Battle of Uḥud and some quotations from it will appear in this book.
 
-³⁸ An authentic Ḥadīth narrated by Al-Ḥākim and Al-Bayhaqi on the authority of Al Zubayr ibn al 'Awwam. Al-Ḥākim verified its authenticity (ṣaḥīḥ) and Al Dhahabī agreed with him. In my opinion it is good (ḥasan). Al Tirmidhī also narrated it but found it to be strange (gharīb). However, it has much supporting evidence (See Al-Majma').
+³⁹ Mentioned by Ibn Kathīr as a narration from Mūsā ibn 'Uqbah as *mu'ḍal*.
 
-³⁹ Thus it is stated in Ibn Kathīr's History and attributed to Aḥmad, and the author transmitted it in exactly the same way. In fact, it is on the authority of Thabit from Anas (رضي الله عنه) This is the way Aḥmad as well as Muslim transmitted it.
+⁴⁰ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq without a chain. However, it has much supporting evidence, e.g. the Ḥadīth narrated by Bukhārī, Abū Dawūd and Aḥmad on the authority of Al-Barā' ibn 'Āzib, and the Ḥadīth of Ibn 'Abbās, which is the second narration quoted in this book, and it was narrated by Aḥmad and Al-Ḥākim, who verified its authenticity as mentioned above.
 
-⁴⁰ Narrated by Ibn Jarīr in his History on the authority of Al Suddī as mursal, as in Al-Bidāyah, the breaking of his teeth and gashing of his head are confirmed in Muslim on the authority of Anas (رضي الله عنه). Also Bukhārī narrated it as muṭlaq.
+⁴¹ An authentic Ḥadīth narrated by Al-Ḥākim and Al-Bayhaqi on the authority of Al Zubayr ibn al 'Awwam. Al-Ḥākim verified its authenticity (ṣaḥīḥ) and Al Dhahabī agreed with him. In my opinion it is good (ḥasan). Al Tirmidhī also narrated it but found it to be strange (gharīb). However, it has much supporting evidence (See Al-Majma').
 
-⁴¹ It is part of the above-mentioned Ḥadīth of the Suddī. Ibn Kathīr says: "It is very strange (gharīb) and in it is an unknown entity." However, the part his killing of Ubayy is supported by the narration of Abul Aswad on the authority of 'Urwah ibn al Zubayr, and by the narration of Al Zuhrī on the authority of Sa'd ibn al Musayyib, as in Al Bidāyah. Both of them are mursal.
+⁴² Thus it is stated in Ibn Kathīr's History and attributed to Aḥmad, and the author transmitted it in exactly the same way. In fact, it is on the authority of Thabit from Anas (رضي الله عنه) This is the way Aḥmad as well as Muslim transmitted it.
 
-⁴² This is part of the above-mentioned Ḥadīth of Al Suddī.
+⁴³ Narrated by Ibn Jarīr in his History on the authority of Al Suddī as mursal, as in Al-Bidāyah, the breaking of his teeth and gashing of his head are confirmed in Muslim on the authority of Anas (رضي الله عنه). Bukhārī also narrated it without a chain (mu'allaq).
 
-⁴³ Narrated by Bukhārī on the authority of Anas (رضي الله عنه). The same is Aḥmad's narration, but in another version he has "I am strong" instead of "my father is strong."
+⁴⁴ It is part of the above-mentioned Ḥadīth of the Suddī. Ibn Kathīr says: "It is very strange (gharīb), and this portion of it contains objectionable (munkar) matter." However, the part his killing of Ubayy is supported by the narration of Abul Aswad on the authority of 'Urwah ibn al Zubayr, and by the narration of Al Zuhrī on the authority of Sa'īd ibn al-Musayyib, as in Al Bidāyah. Both of them are mursal.
 
-⁴⁴ Narrated by Ibn Hishām from Ibn Isḥāq without a chain.
+⁴⁵ This is part of the above-mentioned Ḥadīth of Al Suddī.
 
-⁴⁵ Ṣaḥīḥ: narrated by Aḥmad and Al-Ḥākim.
+⁴⁶ Transmitted by Bukhārī (7/287) as a Ḥadīth of Sa'd.
 
-⁴⁶ I have not found this Ḥadīth with any others apart from Ibn Isḥāq.
+⁴⁷ Narrated by Bukhārī on the authority of Anas (رضي الله عنه). Aḥmad also narrated it; one of his versions contains Abū Ṭalḥah's words: "I am sturdy…"
 
-⁴⁷ I have not encountered this Ḥadīth.
+⁴⁸ Narrated by Ibn Hishām from Ibn Isḥāq without a chain.
 
-⁴⁸ Narrated by Ibn Hishām from Ibn Isḥāq, who said: "It was told to me by Abū Isḥāq ibn Yasar, who narrated from some elders from the Banū Salmah." This chain is good (ḥasan) if the elders are Ṣaḥābah, otherwise it is mursal. Part of it is in the Musnad of Aḥmad on the authority of Abū Qatādah with the addition: "They were all killed at Uḥud: he, his brother's son and a slave of theirs. The Prophet (ﷺ) passed by his dead body and said: 'It is as though I am seeing you walking with your leg healed in paradise."
+⁴⁹ Ṣaḥīḥ: narrated by Aḥmad and Al-Ḥākim.
 
-⁴⁹ The correct name is Nu'mān ibn Mālik. This Ḥadīth is mursal.
+⁵⁰ I have not found this Ḥadīth with any others apart from Ibn Isḥāq.
 
-⁵⁰ Narrated by Al-Ḥākim on the authority of Sa'id ibn al Musayyab, who said: "Abdullāh ibn Jaḥsh said." Al-Ḥākim said: "It would be sound according to the stipulations of Bukhārī and Muslim if it were not for its being mursal." Abū-Dhahabī agreed with him on this, but I say it has other supporting ḥadīths with full chains. In one of them there is the addition: "Sa'd said: 'I saw him at the end of the day and his nose and ears were hanging from a thread."
+⁵¹ I have not encountered this Ḥadīth.
 
-⁵¹ A sound Ḥadīth by Bukhārī, Muslim and others on the authority of Sahl ibn Sa'd.
+⁵² Narrated by Ibn Hishām from Ibn Isḥāq, who said: "It was told to me by Abū Isḥāq ibn Yasar, who narrated from some elders from the Banū Salmah." This chain is good (ḥasan) if the elders are Ṣaḥābah, otherwise it is mursal. Part of it is in the Musnad of Aḥmad on the authority of Abū Qatādah with the addition: "They were all killed at Uḥud: he, his brother's son and a slave of theirs. The Prophet (ﷺ) passed by his dead body and said: 'It is as though I am seeing you walking with your leg healed in paradise."
 
-⁵² From the above-mentioned Ḥadīth of Sahl ibn Sa'd.
+⁵³ The correct name is Nu'mān ibn Mālik. This Ḥadīth is mursal.
 
-⁵³ Not authentic. Ibn Hishām mentions it without a chain and I have not found it anywhere else.
+⁵⁴ Narrated by Al-Ḥākim on the authority of Sa'īd ibn al-Musayyib, who said: "Abdullāh ibn Jaḥsh said." Al-Ḥākim said: "It would be sound according to the stipulations of Bukhārī and Muslim if it were not for its being mursal." Al-Dhahabī agreed with him on this, but I say it has other supporting ḥadīths with full chains. In one of them there is the addition: "Sa'd said: 'I saw him at the end of the day and his nose and ears were hanging from a thread."
 
-⁵⁴ In the Musnad of Aḥmad and Al-Ḥākim as well. The latter said it was sound according to the stipulations of Bukhārī and Muslim. But I say it is sound only because the chain contains 'Ubayd ibn Rifa'ah, from whom Bukhārī and Muslim did not narrate.
+⁵⁵ Mentioned by Ibn Hishām (2/135–136) by way of Isḥāq ibn Yaḥyā ibn Ṭalḥah from 'Īsā ibn Ṭalḥah from 'Ā'ishah from Abū Bakr. Al-Ṭayālisī transmitted it with a connected chain (99/21): "Ibn al-Mubārak told us from Isḥāq…", and so did Al-Ḥākim (8/26–28) — a distortion has crept into his chain — who said: "Its chain is sound." Al-Dhahabī, however, corrected him: "I say: Isḥāq is abandoned (*matrūk*)." Al-Haythamī (16/112) said the same, after attributing it to Al-Bazzār.
 
-⁵⁵ Ṣaḥīḥ: narrated by Bukhārī, Muslim, Aḥmad and Al-Bayhaqi.
+⁵⁶ A sound Ḥadīth by Bukhārī, Muslim and others on the authority of Sahl ibn Sa'd.
 
-⁵⁶ Ibn Hishām narrated it from Ibn Isḥāq on the authority of 'Āṣim ibn 'Umar ibn Qatādah. It is mursal and its chain would be sound if it were not for this. However, Bukhārī narrates it in his ṣaḥīḥ collection on the authority of Abū Hurairah (رضي الله عنه), and it contains the chant quoted.
+⁵⁷ From the above-mentioned Ḥadīth of Sahl ibn Sa'd.
 
-⁵⁷ Narrated by Ibn Hishām from Ibn Isḥāq as mursal with a sound chain. Also Ṭabarāni narrated it from Ibn Isḥāq as in Al-Majma'. Al-Ṭabrāni also narrated it on the authority of Ka'b ibn Mālik (رضي الله عنه), and Al-Haythamī said its narrators were authentic.
+⁵⁸ Not authentic. Ibn Hishām mentions it without a chain and I have not found it anywhere else.
 
-⁵⁸ Narrated by Bukhārī by way of Hishām ibn 'Urwah from his father as mursal. However, he also narrated it with a full chain on the authority of Anas (رضي الله عنه), and Al Ṭabarāni on the authority of Ibn Mas'ūd.
+⁵⁹ In the Musnad of Aḥmad and Al-Ḥākim as well. The latter said it was sound according to the stipulations of Bukhārī and Muslim. But I say it is sound only because the chain contains 'Ubayd ibn Rifa'ah, from whom Bukhārī and Muslim did not narrate.
 
-⁵⁹ Narrated by Al Ṭabarāni and Ibn Hishām by way of Ibn Isḥāq as mursal as already mentioned.
+⁶⁰ He transmitted it by way of Muhammad ibn 'Abdullāh ibn 'Abd al-Raḥmān ibn Abī Ṣa'ṣa'ah al-Māzinī, stating explicitly that he heard it from him, as in Ibn Hishām's Sīrah (2/140–141); this is a *mu'ḍal* chain. Al-Ḥākim (3/201) transmitted it by way of Muhammad ibn Isḥāq, that 'Abdullāh ibn Abī Ṣa'ṣa'ah [heard] from his father that the Messenger of Allāh (ﷺ) said — and he mentions it. I fear that "Muhammad" ibn 'Abdullāh ibn 'Abd al-Raḥmān has dropped out of the chain between Ibn Isḥāq and 'Abdullāh ibn 'Abd al-Raḥmān, for Ibn Isḥāq is not listed among those who narrate from 'Abdullāh ibn 'Abd al-Raḥmān; accordingly the ḥadīth is *mursal*, since this 'Abdullāh is a Successor (*tābi'ī*), while his father 'Abd al-Raḥmān ibn Abī Ṣa'ṣa'ah was a Companion. Had Al-Ḥākim's chain been free of the omission, the ḥadīth would be connected, and Al-Dhahabī would not have faulted it as *mursal*. And Allāh knows best. Mālik also transmitted it in the Muwaṭṭa' (2/21) from Yaḥyā ibn Sa'īd as *mu'ḍal*. Al-Suyūṭī quotes Ibn 'Abd al-Barr in *Tanwīr al-Ḥawālik*: "I do not know this ḥadīth by heart, nor do I know it except among the people of the sīrah, among whom it is well known." I say: Al-Ḥākim also transmitted it as a ḥadīth of Zayd ibn Thābit: "The Messenger of Allāh (ﷺ) sent me on the day of Uḥud to look for Sa'd ibn al-Rabī'…", and Al-Ḥākim said: "Its chain is sound," and Al-Dhahabī agreed with him. In its chain, however, is Abū Ṣāliḥ 'Abdullāh ibn Ṣāliḥ al-Ṭawīl, whose biography I have not found for now.
 
-⁶⁰ Narrated by Ibn Sa'd in his Ṭabaqāt Kubra under the Battle of Banū al Naḍīr without a chain. However, Al-Bayhaqi narrated it as in Ibn Kathīr on the authority of Muhammad ibn Maslamah that the Prophet (ﷺ) sent him to Banū al Naḍīr and ordered him to give them a respite of three days. The whole chain is trustworthy except for Mahmud ibn Maslamah, whom Ibn Abi Ḥatim described but did not authenticate or condemn. He is therefore an unknown entity.
+⁶¹ A sound Ḥadīth transmitted by Abū Dāwūd (2/63), Al-Nasā'ī (1/284), Ibn Mājah (1/264) and Aḥmad (3/297, 308, 397, 398) with a sound chain from Jābir.
 
-⁶¹ This order is authentic. It is narrated by Bukhārī and Muslim as well as others on the authority of Ibn 'Umar.
+⁶² A sound Ḥadīth transmitted by Bukhārī (3/163–165, 169; 288/1), Al-Nasā'ī (7/300), Al-Tirmidhī (2/148), Ibn Mājah (1/460) and Aḥmad (5/431), also as a Ḥadīth of Jābir.
 
-⁶² Narrated by Al-Ḥākim on the authority of 'Ā'ishah with the inclusion of the āyah. Al-Ḥākim said it was authentic according to the stipulation of Bukhārī and Muslim, and Al Dhahabī agreed with him. In fact, it is authentic but not according to their stipulation, since Zayd ibn al Mubārak al San'ani and his Shaikh Muhammad ibn Thaur are not of their men.
+⁶³ A sound Ḥadīth transmitted by Aḥmad (5/431, 432) and Ibn Hishām (2/142), both by way of Ibn Isḥāq: "Al-Zuhrī told me from 'Abdullāh ibn Tha'labah ibn Ṣu'ayr al-'Udhrī," traced back to the Prophet (*marfū'*). Ibn Ṣu'ayr was a young Companion, so it is a Companion's *mursal*, which is admissible as proof. Al-Bayhaqī (4/11) transmitted it likewise by way of Ibn 'Uyaynah from Al-Zuhrī, and also by another route from Al-Zuhrī from 'Abd al-Raḥmān ibn Ka'b ibn Mālik from his father. Its chain is sound as well.
 
-⁶³ This is not correct. Ibn Hishām pointed this out in his Sīrah when he quoted the narration without a chain and said "The authentic version is that the Prophet (ﷺ) set her free by paying the required sum, and married her without proposing to her father since she was a prisoner." This is narrated by Ibn Ishāq on the authority of 'Ā'ishah with an authentic chain. It is also narrated by Ahmad and Ibn Hishām by another chain and this version contains all the story of the release of the prisoners.
+⁶⁴ A sound Ḥadīth transmitted by Bukhārī (7/302), Muslim (4/124) and others as a Ḥadīth of Anas and others.
 
-⁶⁴ Perhaps there is a mistake or a slip of the pen here. The Prophet (ﷺ) complained to Usayd ibn Hudayr as in the Sīrah of Ibn Hishām, but this chain is mursal and cannot be proved. Nevertheless, there are authentic writings on this topic which supports. Ibn al Qayyim's claim. They may be referred to in Fatḥ-al Bari
+⁶⁵ Ṣaḥīḥ: narrated by Bukhārī, Muslim, Aḥmad and Al-Bayhaqi.
 
-⁶⁵ A sound Ḥadīth narrated by Bukhārī and Muslim.
+⁶⁶ Narrated by Ibn Lahī'ah from Abū al-Aswad from 'Urwah ibn al-Zubayr as *mursal*, as in Al-Bidāyah; Ibn Hishām mentions it from Ibn Isḥāq without a chain.
 
-⁶⁶ A sound Ḥadīth narrated by Bukhārī on the authority of Al-Barā ibn 'Āzib.
+⁶⁷ This expedition is mentioned by Ibn Kathīr in Al-Bidāyah (4/61–62) by way of Al-Wāqidī with a *mu'ḍal* chain! And Al-Wāqidī is abandoned (*matrūk*)!
 
-⁶⁷ A sound Ḥadīth narrated by Bukhārī.
+⁶⁸ Transmitted by Abū Dāwūd (2/196), Al-Bayhaqī (3/256) and Aḥmad (3/496) by way of the son of 'Abdullāh ibn Unays from his father. Ibn Kathīr said in his Tafsīr (1/295): "Its chain is good (*jayyid*)," and Ibn Ḥajar in Al-Fatḥ (2/350): "Its chain is good (*ḥasan*)." I say: in their narration the son of 'Abdullāh ibn Unays is named "'Ubaydullāh", which seems to be a distortion by the copyist or the printer, for Ibn Abī Ḥātim lists him among those named "'Abdullāh" and says: "He narrated from his father, and Muhammad ibn Ibrāhīm al-Taymī narrated from him," mentioning neither criticism nor commendation of him. Muhammad ibn Ja'far ibn al-Zubayr also narrated from him, and it is he who narrated this ḥadīth from him. And Allāh knows best.
 
-⁶⁸ Very weak in this form. It is narrated by Ibn Jarīr in his History by way of Kathīr ibn 'Abdullāh ibn 'Amr ibn 'Awf al-Mazni from his father and from his grandfather. This Kathīr was rejected, and Al Shāfi'i and Abū Dāwūd said that he was a cornerstone of lies. Ibn Kathīr said it was a strange Ḥadīth. However, the story of the rock is to be found in Bukhārī in an abridged form on the authority of Al-Bara, and in Aḥmad's book fully by the same authority. The latter's isnād is good (ḥasan) as Ibn Ḥajar says in Fatḥ-al Bari. It is therefore better to use this version instead of Kathīr's.
+⁶⁹ Ibn Hishām narrated it from Ibn Isḥāq on the authority of 'Āṣim ibn 'Umar ibn Qatādah. It is mursal and its chain would be sound if it were not for this. However, Bukhārī narrates it in his ṣaḥīḥ collection on the authority of Abū Hurairah (رضي الله عنه), and it contains the chant quoted.
 
-⁶⁹ A sound Ḥadīth narrated by the two Sheikhs and others on the authority of 'Alī. Al-Miqrīzi "It is sound through various chains from him."
+⁷⁰ Narrated by Ibn Hishām from Ibn Isḥāq as mursal with a sound chain. Also Ṭabarāni narrated it from Ibn Isḥāq as in Al-Majma'. Al-Ṭabrāni also narrated it on the authority of Ka'b ibn Mālik (رضي الله عنه), and Al-Haythamī said its narrators were authentic.
 
-⁷⁰ I have not yet found it.
+⁷¹ Narrated by Bukhārī by way of Hishām ibn 'Urwah from his father as mursal. However, he also narrated it with a full chain on the authority of Anas (رضي الله عنه), and Al Ṭabarāni on the authority of Ibn Mas'ūd.
 
-⁷¹ He meant Ḥamal ibn Sa'danah al-Kalbi, as pointed out in Al Raud al-Unuf. Some say Jamal, which is wrong.
+⁷² Narrated by Al Ṭabarāni and Ibn Hishām by way of Ibn Isḥāq as mursal as already mentioned.
 
-⁷² A good Ḥadīth, narrated by Aḥmad and Ibn Abi Hātim on the authority of Abū Sa'id al-Khudrī.
+⁷³ Narrated by Ibn Sa'd in his Ṭabaqāt Kubra under the Battle of Banū al Naḍīr without a chain. However, Al-Bayhaqi narrated it as in Ibn Kathīr on the authority of Muhammad ibn Maslamah that the Prophet (ﷺ) sent him to Banū al Naḍīr and ordered him to give them a respite of three days. The whole chain is trustworthy except for Mahmud ibn Maslamah, whom Ibn Abi Ḥatim described but did not authenticate or condemn. He is therefore an unknown entity.
 
-⁷³ A sound Ḥadīth, narrated by Bukhārī and Muslim.
+⁷⁴ This order is authentic. It is narrated by Bukhārī and Muslim as well as others on the authority of Ibn 'Umar.
 
-⁷⁴ This story is mentioned without a chain by Ibn Isḥāq, and from him by Ibn Hishām. However, the Prophet's (ﷺ) statement "War is deception" is authentic, for it is narrated by Muslim and Bukhārī.
+⁷⁵ Narrated by Al-Ḥākim on the authority of 'Ā'ishah with the inclusion of the āyah. Al-Ḥākim said it was authentic according to the stipulation of Bukhārī and Muslim, and Al Dhahabī agreed with him. In fact, it is authentic but not according to their stipulation, since Zayd ibn al Mubārak al San'ani and his Shaikh Muhammad ibn Thaur are not of their men.
 
-⁷⁵ This story is authentic. Its sequence here is made up of three narrations, the first Al-Ḥākim and Al Bayhaqi, the second from Ibn Hishām in his Sīrah, and the third from Muslim.
+⁷⁶ Transmitted in similar form by Ibn Jarīr in his History (2/160–262) by way of Ibn Isḥāq with his chain as *mursal*, and likewise by Ibn Hishām in the Sīrah (2/216–218). This chain, besides being weak, does not contain 'Umar's offering Islām to them. Al-Zurqānī pointed out the weakness of this addition in his commentary on Al-Mawāhib (2/97), and rightly so, for something authentic has come from the Prophet (ﷺ) that entails its weakness: Ibn al-Qayyim says in Al-Zād, after mentioning fighting like that described here: "Thus said 'Abd al-Raḥmān ibn Khalaf ibn Khalīfah in his sīrah, and others; but it is a mistake, for there was no fighting between them: he raided them at the water, took their women and children captive and seized their property, as in the Ṣaḥīḥ: 'The Messenger of Allāh (ﷺ) raided the Banū al-Muṣṭaliq while they were unaware' — and he mentions the ḥadīth." See Fatḥ al-Bārī (7/346).
 
-⁷⁶ Narrated by Bukhārī on the authority of Abū Hurairah (رضي الله عنه) that the Prophet (ﷺ) used to say: This is general without any mention of the Ditch.
+⁷⁷ This is not correct, as Ibn Hishām indicated in his Sīrah: he quoted this narration without a chain and introduced it with "It is said…" The authentic version is that the Prophet (ﷺ) paid off her contract of manumission (kitābah) and married her without proposing to her father, since she was a captive — as Ibn Isḥāq narrated with an authentic chain on the authority of 'Ā'ishah (رضي الله عنها). Aḥmad and Ibn Hishām narrated it by way of him, and their narration contains the story of the release of the prisoners.
 
-⁷⁷ An authentic Ḥadīth narrated by Bukhārī.
+⁷⁸ This is the end of Ibn Isḥāq's *mursal* report mentioned above.
 
-⁷⁸ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq. Bukhārī and Muslim narrated it without "Whoever ... obedient."
+⁷⁹ This story was narrated in this form by Ibn Isḥāq with sound chains from 'Ā'ishah; by his route Ibn Hishām transmitted it in the Sīrah (2/220–222). It is also in Bukhārī (7/447–35) and Muslim (8/113–177) in similar form.
 
-⁷⁹ From the Ḥadīth mentioned in the previous footnote. Jibrīl's (عليه السلام) ordering of the Prophet (ﷺ) to march is established in Bukhārī and the Musnad of Aḥmad on the authority of 'Ā'ishah.
+⁸⁰ Perhaps there is a mistake or a slip of the pen here. The Prophet (ﷺ) complained to Usayd ibn Ḥuḍayr as in the Sīrah of Ibn Hishām, but this chain is mursal and cannot be proved. Nevertheless, there are authentic writings on this topic which supports. Ibn al Qayyim's claim. They may be referred to in Fatḥ-al Bari
 
-⁸⁰ A sound Ḥadīth narrated by Al-Bayhaqi in Dalā'il al Nubūwah on the authority of 'Ubaydullāh ibn Ka'b (رضي الله عنه) as well as 'Ā'ishah. Al Ḥākim also narrated it from her and ascertained that its chain was of the standard of Bukhārī and Muslim.
+⁸¹ A sound Ḥadīth narrated by Bukhārī and Muslim.
 
-⁸¹ A weak Ḥadīth narrated by Ibn Isḥāq on the authority of Al Zuhrī as Mursal. Ibn Hishām took it from him. It is also narrated by Al-Ḥākim on the authority of Ibn 'Umar (رضي الله عنه) although its chain is weak.
+⁸² A sound Ḥadīth narrated by Bukhārī on the authority of Al-Barā ibn 'Āzib.
 
-⁸² A sound Ḥadīth narrated by Ibn Isḥāq from whom Ibn Hishām took it on the authority of Alqamah ibn Waqqās as mursal. However, Bukhārī and Muslim also narrated it from Abū Sa'id al-Khudrī without the phrase "from above the seven heavens." Thus this portion is weak.
+⁸³ A sound Ḥadīth narrated by Bukhārī.
 
-⁸³ A weak Ḥadīth narrated by Al Khālid in "The History of Baghdad". He said it was a very strange Ḥadīth.
+⁸⁴ Very weak in this form. It is narrated by Ibn Jarīr in his History by way of Kathīr ibn 'Abdullāh ibn 'Amr ibn 'Awf al-Mazni from his father and from his grandfather. This Kathīr was rejected, and Al Shāfi'i and Abū Dāwūd said that he was a cornerstone of lies. Ibn Kathīr said it was a strange Ḥadīth. However, the story of the rock is to be found in Bukhārī in an abridged form on the authority of Al-Bara, and in Aḥmad's book fully by the same authority. The latter's isnād is good (ḥasan) as Ibn Ḥajar says in Fatḥ-al Bari. It is therefore better to use this version instead of Kathīr's.
 
-⁸⁴ A sound Ḥadīth narrated by Bukhārī on the authority of Al Bara ibn Azib.
+⁸⁵ A sound Ḥadīth narrated by the two Sheikhs and others on the authority of 'Alī. Al-Miqrīzi "It is sound through various chains from him."
+
+⁸⁶ I have not yet found it.
+
+⁸⁷ He meant Ḥamal ibn Sa'danah al-Kalbi, as pointed out in Al Raud al-Unuf. Some say Jamal, which is wrong.
+
+⁸⁸ A good Ḥadīth, narrated by Aḥmad and Ibn Abi Hātim on the authority of Abū Sa'id al-Khudrī.
+
+⁸⁹ A sound Ḥadīth, narrated by Bukhārī and Muslim.
+
+⁹⁰ This story is mentioned without a chain by Ibn Isḥāq, and from him by Ibn Hishām. However, the Prophet's (ﷺ) statement "War is deception" is authentic and mutawātir (transmitted through numerous independent chains): the two Sheikhs narrated it as a ḥadīth of Jābir and of Abū Hurairah, and others did too.
+
+⁹¹ This story is authentic. Its sequence here is made up of three narrations, the first Al-Ḥākim and Al Bayhaqi, the second from Ibn Hishām in his Sīrah, and the third from Muslim.
+
+⁹² Narrated by Bukhārī on the authority of Abū Hurairah (رضي الله عنه) that the Prophet (ﷺ) used to say: This is general without any mention of the Ditch.
+
+⁹³ An authentic Ḥadīth narrated by Bukhārī.
+
+⁹⁴ A sound Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq. Bukhārī and Muslim narrated it without "Whoever ... obedient."
+
+⁹⁵ From the Ḥadīth mentioned in the previous footnote. Jibrīl's (عليه السلام) ordering of the Prophet (ﷺ) to march is established in Bukhārī and the Musnad of Aḥmad on the authority of 'Ā'ishah.
+
+⁹⁶ A sound Ḥadīth narrated by Al-Bayhaqi in Dalā'il al Nubūwah on the authority of 'Ubaydullāh ibn Ka'b (رضي الله عنه) as well as 'Ā'ishah. Al Ḥākim also narrated it from her and ascertained that its chain was of the standard of Bukhārī and Muslim.
+
+⁹⁷ A weak Ḥadīth narrated by Ibn Isḥāq on the authority of Al Zuhrī as Mursal. Ibn Hishām took it from him. It is also narrated by Al-Ḥākim on the authority of Ibn 'Umar (رضي الله عنه) although its chain is weak.
+
+⁹⁸ A sound Ḥadīth narrated by Ibn Isḥāq from whom Ibn Hishām took it on the authority of Alqamah ibn Waqqās as mursal. However, Bukhārī and Muslim also narrated it from Abū Sa'id al-Khudrī without the phrase "from above the seven heavens." Thus this portion is weak.
+
+⁹⁹ A weak Ḥadīth narrated by Al Khālid in "The History of Baghdad". He said it was a very strange Ḥadīth.
+
+¹⁰⁰ A sound Ḥadīth narrated by Bukhārī on the authority of Al Bara ibn Azib.
 
 ---
 
@@ -4361,13 +4505,13 @@ Did the unbelievers really understand this intention and assess correctly the st
 
 (Those of the wandering Arabs who were left behind will tell you: Our possessions and our households occupied us, so ask forgiveness for us. They speak with their tongues that which is not in their hearts. Say: Who can help you against Allah, if He intends you harm or intends you benefit? No, Allah is always aware of what you do. No: you thought that the messenger and the believers would never return to their own people and that was made fair-seeming in your hearts, and you did think a evil thought, and you were worthless people.) (Qur'ān 48: 11-12)
 
-The confident Muslims left with the Prophet (ﷺ), their number being close to one thousand four hundred. This was in Dhul Qia'dah of the sixth year after Hijrah. They travelled and chanted praises to Allah (ﷻ), and when they reached 'Asafān, which was two stages from Makkah, the news came that the Quraish were on the way to stop them. They were led by Khālid Ibn al Walīd and they had sworn that no Muslim would enter their town.
+The confident Muslims left with the Prophet (ﷺ), their number being close to one thousand four hundred. This was in Dhul Qia'dah of the sixth year after Hijrah. They travelled and chanted praises to Allah (ﷻ), and when they reached 'Usfān, which was two stages from Makkah, the news came that the Quraish were on the way to stop them. They were led by Khālid Ibn al Walīd and they had sworn that no Muslim would enter their town.
 
 The ghost of war began to hover in front of their eyes, bent on filling these sacred precincts with blood and bodies. Nevertheless, the Muslims had not come for this purpose, and the Quraish should not force them to resort to it. The Prophet (ﷺ) said:
 
-"Shame on the Quraish! War has corrupted them. What good would it do them if they cleared the way between me and the other Arabs. If they kill me, then this is what they wanted. And if Allah (ﷻ) grants me victory over them, they will enter into Islām in large numbers. And if they do not, they will fight as long as they have strength. So what do the Quraish think? For, by Allah (ﷻ), I shall not give up fighting for that which Allah (ﷻ) sent me with until Allah (ﷻ) causes it to prevail or I die."¹
+"Shame on the Quraish! War has devoured them. What good would it do them if they cleared the way between me and the other Arabs. If they kill me, then this is what they wanted. And if Allah (ﷻ) grants me victory over them, they will enter into Islām in large numbers. And if they do not, they will fight as long as they have strength. So what do the Quraish think? For, by Allah (ﷻ), I shall not give up fighting for that which Allah (ﷻ) sent me with until Allah (ﷻ) causes it to prevail or I die."¹
 
-In keeping with the desire to avoid war and purify the intended rites of any suspicion of a challenge, the Prophet (ﷺ) asked if there was any man to lead them along a route other than the one which the Quraish had taken.² A man from the tribe of Aslam volunteered, and he took them along a desolate, muddy track which was difficult for the Muslims to negotiate. Then he brought them to a plain at the end of the valley and the Muslims turned towards the right, which led them into Ḥudaybiyah just below Makkah. The Quraish cavalry became aware of this manoeuvre and they quickly backtracked to Makkah in order to stop the Muslims from entering it.
+In keeping with the desire to avoid war and purify the intended rites of any suspicion of a challenge, the Prophet (ﷺ) asked if there was any man to lead them along a route other than the one which the Quraish had taken.² A man from the tribe of Aslam volunteered, and he took them along a rugged, barren track which was difficult for the Muslims to negotiate. Then he brought them to a plain at the end of the valley and the Muslims turned towards the right, which led them into Ḥudaybiyah just below Makkah. The Quraish cavalry became aware of this manoeuvre and they quickly backtracked to Makkah in order to stop the Muslims from entering it.
 
 The Prophet (ﷺ) and his Companions were continuing along their chosen path, when suddenly his she-camel knelt down and refused to go further.
 
@@ -4383,13 +4527,13 @@ The first to come to him was Budayl ibn Waraqah along with some men from the tri
 
 The Quraish replied, "Even if he has come without the intention of fighting, by God, he shall not force his way in at all, and the Arabs will not speak of us concerning it at all."
 
-Then they sent Makraz ibn Ḥafs, and he returned with the same news as Badil. After them they sent the chief of the Ahabish, Al-Ḥulays ibn 'Alqamah.
+Then they sent Mikraz ibn Ḥafṣ, and he returned with the same news as Badil. After them they sent the chief of the Ahabish, Al-Ḥulays ibn 'Alqamah.
 
 When the Prophet (ﷺ) saw him he said: "Surely he is coming from people who are devout. Send the sacrificial animals out for him to see."⁴ When he saw the animals coming towards him from the bank of the wadi, he returned to the Quraish before meeting the Prophet (ﷺ), because of what he saw.
 
 When he told them of this, they said: "Sit down. You are an unintelligent bedouin."
 
-Al-Ḥulays became angry and shouted: "O assembly of the Quraish, by God, it is not for this that we have become your allies and made a contract with you. Should we bar from the House of God one who has come showing respect to it? By Him in Whose hands is my life, either you give way to Muhammad (ﷺ) and what he came for or I shall leave with every-one of the Ahabish (mercenaries)."
+Al-Ḥulays became angry and shouted: "O assembly of the Quraish, by God, it is not for this that we have become your allies and made a contract with you. Should we bar from the House of God one who has come showing respect to it? By Him in Whose hands is my life, either you give way to Muhammad (ﷺ) and what he came for or I shall leave with every-one of the Aḥābīsh (the allied clans of the Quraish)."
 
 They replied: "Wait let us be for a while, Ḥulays, till we decide for ourselves what we want."
 
@@ -4401,7 +4545,7 @@ He came to the Prophet (ﷺ), sat down in front of him, and then said: "Muhammad
 
 Abū Bakr (رضي الله عنه) was listening behind the Prophet (ﷺ), and when 'Urwah alluded to the Muslims he disdainfully told him: "Suck Al-Lāt's nipples. Shall we desert him?"
 
-'Urwah asked who was that, and when the Prophet (ﷺ) replied that it was the son of Abū Qahafah, 'Urwah turned to Abū Bakr (رضي الله عنه) and said: By God, if it were not for a favour which I owe you. I should have responded to that. But now we are even."
+'Urwah asked who was that, and when the Prophet (ﷺ) replied that it was the son of Abū Quḥāfah, 'Urwah turned to Abū Bakr (رضي الله عنه) and said: By God, if it were not for a favour which I owe you. I should have responded to that. But now we are even."
 
 'Urwah continued his conversation with the Prophet (ﷺ), and he took hold of the Prophet's (ﷺ) beard as he was talking, as if to warn him of the consequences of what might happen to his people.
 
@@ -4411,11 +4555,11 @@ However, Al-Mughīrah ibn Shu'bah knocked his hand away every-time he did that a
 
 The Prophet (ﷺ) replied, smiling: "He is your brother's son, Al-Mughirah ibn Shu'bah."
 
-'Urwah said to Al-Muhgirah: "You wretch! Wasn't it only yesterday that I washed your dirty parts?⁵
+'Urwah said to Al-Muhgirah: "You treacherous one! Wasn't it only yesterday that I washed your dirty parts?⁵
 
 The Prophet (ﷺ) replied to 'Urwah in such a way as to the obstinacy and remove the doubt. He did not wish for war. All he wanted was to visit the House as others visited it, and not meet with any hindrance or opposition. 'Urwah went back speaking highly of the Companions' veneration of the Prophet (ﷺ). He said: "By God, I have not seen a king among his people like Muhammad (ﷺ) among his Companions. I have seen a people who will never surrender him for anything, so make what you will of that.⁶
 
-The men who spoke on behalf of the Quraish in these negotiations had no arguments. In fact, they returned to Makkah more inclined towards being lenient with the Muslims and allowing them to perform their rites. Some of them only kept from insisting on this when they felt that the Quraish were being stubborn and were avoiding the truth which was plain to them. Without deliberation and thought they had decided that the Muslims should not enter the Holy City, so what was to be, was to be done.
+The men who spoke on behalf of the Quraish in these negotiations had no arguments. In fact, they returned to Makkah more inclined towards being lenient with the Muslims and allowing them to perform their rites. Some of them pressed this point openly only because they sensed that the Quraish were being arrogant and were avoiding the truth which was plain to them. Without deliberation and thought they had decided that the Muslims should not enter the Holy City, so what was to be, was to be done.
 
 The Muslims remained where they were, seeking other solutions to the problem rather than attacking Makkah. Although a group of foolish people attempted to provoke a battle the Muslims remained calm and did not lost their nerve. Ibn 'Abbās narrated that the Quraish sent some forty to fifty men to encircle the Prophet's (ﷺ) camp and kill any of his companions. However, they were caught and brought before the Prophet (ﷺ). He pardoned them and set them free, although they had pelted the camp with stones and arrows.⁷
 
@@ -4447,11 +4591,11 @@ The Prophet (ﷺ) replied: "You are wrong. He will not enter it; he has witnesse
 
 The tree has since been cut down and its place forgotten. This is right, for has it remained, a dome would have been built over it and visits would have been paid to it. The common people are quick to attach themselves to material things and remains which draw them away from Allāh (ﷻ). Ṭāriq ibn 'Abdul Rahmān said:
 
-"I was travelling to make the pilgrimage when I passed by some people offering prayers. I asked what was this mosque, and they said it was the tree under which the Prophet (ﷺ) took the Pledge of ridwan. I came to Sa'īd ibn al Musayyab and told him about this. He said that his father told him that he was one of those who took the pledge with the Prophet (ﷺ) under the tree, but the next year they had forgotten the place and could not find the tree. Sa'īd continued saying: "The Companions of the Prophet (ﷺ) did not know it, but you know it: You are more knowledgeable!"
+"I was travelling to make the pilgrimage when I passed by some people offering prayers. I asked what was this mosque, and they said it was the tree under which the Prophet (ﷺ) took the Pledge of ridwan. I came to Sa'īd ibn al-Musayyib and told him about this. He said that his father told him that he was one of those who took the pledge with the Prophet (ﷺ) under the tree, but the next year they had forgotten the place and could not find the tree. Sa'īd continued saying: "The Companions of the Prophet (ﷺ) did not know it, but you know it: You are more knowledgeable!"
 
 As he was taking the pledge from the Muslims, the Prophet (ﷺ) struck one hand upon the other and said: "This is for 'Uthmān (رضي الله عنه)."¹² However, 'Uthmān (رضي الله عنه) was not confined for long for the Quraish were afraid to harm him owing to his status among their nobles. They hurriedly sent Suhayl ibn 'Amr to make an agreement with the Prophet (ﷺ). Their sole aim in this agreement was that the Muslims should go home this year, but they may return at any other time if they wished. This would preserve the status of the Quraish among the Arabs!"
 
-The Prophet (ﷺ) received the negotiator from the Quraish with the ardent desire for peace even though he was capable of settling matters with the sword to which his enemies had chosen to resort ever since they had expelled him from his home. Suhayl spoke long and offered the conditions within the framework of which the agreement should take place. The Prophet (ﷺ) accepted them, and all that remained was for them to be written down in a document and signed by both sides.
+The Prophet (ﷺ) received the negotiator from the Quraish with the ardent desire for peace even though he was capable of settling matters with the sword to which his enemies had chosen to resort ever since they had barred him from the House (the Ka'bah). Suhayl spoke long and offered the conditions within the framework of which the agreement should take place. The Prophet (ﷺ) accepted them, and all that remained was for them to be written down in a document and signed by both sides.
 
 There was a general astonishment in the Muslim camp at the way in which the Prophet (ﷺ) treated his friends and his enemies. As regards the latter he went to extremes to be gentle with them, although it was more fitting that he should be harsh with them. As for his friends, he did not, contrary to his usual dealings with them, consult them at all about the suggested treaty, although in all past affairs of war and peace he would refer to them and even accept their opinion despite his objections. Today, however he took on the job alone and accepted what they disliked without any pressing need.
 
@@ -4473,7 +4617,7 @@ Suhayl said: "Had I witnessed that you were the Messenger of Allāh (ﷺ), I sho
 
 The Prophet (ﷺ) said: "Write
 
-"This is what Muhammad ibn Abdullāh has agreed to with Suhayl ibn 'Amr. They have agreed to cease waging war among the people for ten years, during which the people will be safe and will desist from attacking one another on condition that whoever comes to Muhammad (ﷺ) from the Quraish without the permission of his guardian will be sent back to them, and whoever by him comes to the Quraish from those with Muhammad (ﷺ) will not be returned to him by them. We shall not show enmity to one another and there will be no secret reservation or disloyalty. He who wishes to enter into a bond and agreement with Muhammad (ﷺ) may do so, and he who wishes to enter into a bond and agreement with the Quraish may do so.
+"This is what Muhammad ibn Abdullāh has agreed to with Suhayl ibn 'Amr. They have agreed to cease waging war among the people for ten years, during which the people will be safe and will desist from attacking one another on condition that whoever comes to Muhammad (ﷺ) from the Quraish without the permission of his guardian will be sent back to them, and whoever by him comes to the Quraish from those with Muhammad (ﷺ) will not be returned to him by them. We shall not show enmity to one another and there will be no theft and no treachery. He who wishes to enter into a bond and agreement with Muhammad (ﷺ) may do so, and he who wishes to enter into a bond and agreement with the Quraish may do so.
 
 You must withdraw from us this year and not enter Makkah against our will. Next year we shall make way for you and you can enter it with your Companions, and stay there three nights. You may carry a rider's weapons: the swords in their sheaths. You can bring in nothing else.
 
@@ -4487,17 +4631,17 @@ However, the Prophet (ﷺ) said: Abū Jandal, be patient and seek Allāh's help,
 
 The treaty was agreed and the Khuza'ah declared their commitment to the bond with the Muslims, while the Banū Bakr declared their commitment to the bond with the Quraish.¹⁵
 
-A first glance at these terms will show that they injured the rights of the Muslims and appeased the pride and ignorant zealotry of the Quraish. The Prophet's (ﷺ) Companions wondered why they should return to the Quraish anyone who came as a Muslim, and why the Quraish should not return anyone who left the Muslims and went to them. The Prophet (ﷺ) explained the terms in this way. Those who went over the Muslims were saved from their evil. As for the oppressed Muslims, the Quraish would soon learn about them as they had learnt about those before them, and the final victory would be theirs. Were not the Prophet (ﷺ) and those with him oppressed, then Allāh (ﷻ) aided them and withdrew His help from the Quraish before them?
+A first glance at these terms will show that they injured the rights of the Muslims and appeased the pride and ignorant zealotry of the Quraish. The Prophet's (ﷺ) Companions wondered why they should return to the Quraish anyone who came as a Muslim, and why the Quraish should not return anyone who left the Muslims and went to them. The Prophet (ﷺ) explained the terms in this way. Whoever went over to them as an unbeliever — may Allāh not bring him back! — the Muslims were spared his evil. As for the oppressed Muslims, the Quraish would be at their wits' end with them, as they had been helpless against those before them, and the final victory would be theirs. Were not the Prophet (ﷺ) and those with him oppressed, then Allāh (ﷻ) aided them and withdrew His help from the Quraish before them?
 
-Once again, the Muslims felt despair in their hearts: they were told that they would enter the Sacred Mosque, but they were asked to return. The Prophet (ﷺ) explained that they would come again to enter it as they had been promised. He did not tell them that they would enter it that year. The Muslims felt heavy with despondency at this sad end and their eyes filled with tears at this unexpected distress. When the Prophet (ﷺ) finished drafting the document, he told his Companions to get up and slaughter their animals, then shave their heads as an end to the 'Umrah, after which they should return to Madīnah. However, no-one moved, even though he gave the order three times. He went into the tent of Umm Salmah and told her of the men's disobedience.
+Once again, the Muslims felt despair in their hearts: they were told that they would enter the Sacred Mosque, but they were asked to return. The Prophet (ﷺ) explained that they would come again to enter it as they had been promised. He did not tell them that they would enter it that year. The Muslims felt heavy with despondency at this sad end and their eyes filled with tears at this unexpected distress. When the Prophet (ﷺ) finished drafting the document, he told his Companions to get up and slaughter their animals, then shave their heads as an end to the 'Umrah, after which they should return to Madīnah. However, no-one moved, even though he gave the order three times. He went into the tent of Umm Salamah and told her of the men's disobedience.
 
-She said: "Messenger of Allāh (ﷺ), what do you expect? Go out and do not say a word to anyone until you sacrifice your animal, call your barber and have yourself shaved."
+She said: "Messenger of Allāh (ﷺ), would you like that [done]? Go out and do not say a word to anyone until you sacrifice your animal, call your barber and have yourself shaved."
 
 He did so, and when the Muslims saw this they regained their composure and felt the danger of disobeying his order. Thus they quickly got up, sacrificed their animals and then shaved one another. They almost killed one another on account of their excessive grief.¹⁶
 
 Would that the intentions of good and evil produced their sweet or bitter fruits with the speed that showed up the results of the Treaty of Ḥudaybiyah! Not many days had passed since the signing of the treaty before the obstinacy which the idolaters showed in it boomeranged on themselves. They themselves began to complain about the clauses which they had dictated, or which their crude zealotry had dictated. Likewise the Muslims looked on in astonishment at the results of the deep forbearance which the Prophet (ﷺ) had displayed, and they felt its blessings to such an extent that their tongues burst forth in praise of Allāh (ﷻ).
 
-The strength of the unbelievers in the peninsula weakened and slackened from the time this treaty was signed. The Quraish used to be considered the leaders of unbelief and the standard bearers of opposition to and persecution of the new religion. However, when the news spread of their treaty with the Muslims, the threat of the hypocrites, who had been working for their own-benefit, died away and the pagan tribes scattered to various corners of the peninsula, especially since the Quraish froze their opportunistic policies and concentrated, on the other hand, the Muslims expanded their educational, political and military activities, and their propaganda succeeded in uniting a large number of tribes and convincing them to accept Islām.
+The strength of the unbelievers in the peninsula weakened and slackened from the time this treaty was signed. The Quraish used to be considered the leaders of unbelief and the standard bearers of opposition to and persecution of the new religion. However, when the news spread of their treaty with the Muslims, the threat of the hypocrites, who had been working for their own-benefit, died away and the pagan tribes scattered to various corners of the peninsula, especially since the Quraish stuck rigidly to their opportunistic policies and concentrated on their trade, making no effort to win allies. The Muslims, on the other hand, expanded their educational, political and military activities, and their propaganda succeeded in uniting a large number of tribes and convincing them to accept Islām.
 
 Many historians count the Treaty of Ḥudaybiyah as a victory. Infact Al Zuhri said:
 
@@ -4517,7 +4661,7 @@ However, Abū Baṣīr appeared, sword in hand, and said: "Messenger of Allāh (
 
 The Prophet (ﷺ) said: "Woe unto his mother. A kindler of war, if others were with him."¹⁸
 
-Abū Baṣīr realized that there was no place for him in Makkah and no refuge in Madīnah. He went to the seashore near a place called 'Ays, and from there he threatened the caravans of the Quraish which passed through the road of Saha. The Muslims at Makkah heard of his activity and the Prophet's (ﷺ) saying: "A kindler of war, if others were with him." They joined him one after the other until about seventy dissenters, including Abū Jandal, were with him. They formed an army which harassed the Quraish, killing any of them who fell into their hands and intercepting their caravans. Eventually the Quraish sent to the Prophet, begging him to take in those people for they had no need of them. In this way the Quraish waived the clause which they had dictated in obstinacy and the Muslims had accepted unwillingly.¹⁹
+Abū Baṣīr realized that there was no staying for him in Madīnah and no safety for him in Makkah. He went to the seashore near a place called al-'Īṣ, and from there he threatened the caravans of the Quraish which passed along the coastal road. The Muslims at Makkah heard of his activity and the Prophet's (ﷺ) saying: "A kindler of war, if others were with him." They joined him one after the other until about seventy dissenters, including Abū Jandal, were with him. They formed an army which harassed the Quraish, killing any of them who fell into their hands and intercepting their caravans. Eventually the Quraish sent to the Prophet, begging him to take in those people for they had no need of them. In this way the Quraish waived the clause which they had dictated in obstinacy and the Muslims had accepted unwillingly.¹⁹
 
 The story of Abū Baṣīr, Abū Jandal and their brethren is very significant. It is the story of a struggling faith, despised by enemies and unaided by friends. It makes clear that faith in Allāh (ﷻ) penetrated the hearts of these people without the assistance of any outside force except the purity of their souls. They were deprived of the spiritual support which comes from mixing with the Prophet (ﷺ) and listening to him while he recited or gave advice. On the other hand, they were compensated for that by contact with his Revelation and extracts from his teachings. Thus, in their following of the truth, rejection of injustice and love of adventure, they were a wonderful example of a mighty, struggling Islām.
 
@@ -4543,9 +4687,9 @@ The āyah (verse) points out, along with the laws it contains, what a woman used
 
 ## With the Jews Once Again
 
-There remained two groups of inveterate enemies facing the Muslims. The bedouin Arabs, who traversed the desert like camels, understood little. If any prey appeared, they would fly after it. Seldom were they attracted by talk of belief in Allāh (ﷻ) and the Last Day. The Jews, who thought that prophethood was their exclusive right and never ceased to oppose the Muslims, deceived Muhammad (ﷺ) and rejected his message. They were deluded by the honour which they had inherited from the Torah, and so they disputed long with the Muslims and strove with all their might not to recognize them. They went as far as to incite others against them, as you have seen. Thus they displayed a strange mixture of malice, pride and deceit. Inspite of the severe thrashings which they received in their struggle against the Muslims, they never budged an inch from their dastardly plot.
+There remained two groups of inveterate enemies facing the Muslims. The bedouin Arabs, who traversed the desert like camels, understood little. If any prey appeared, they would fly after it. Seldom were they attracted by talk of belief in Allāh (ﷻ) and the Last Day. The Jews, who thought that prophethood was their exclusive right and never ceased to oppose the Muslims, called Muhammad (ﷺ) a liar and rejected his message. They were deluded by the husks which they had inherited from the Torah, and so they disputed long with the Muslims and strove with all their might not to recognize them. They went as far as to incite others against them, as you have seen. Thus they displayed a strange mixture of malice, pride and deceit. Inspite of the severe thrashings which they received in their struggle against the Muslims, they never budged an inch from their dastardly plot.
 
-The enmity against Islām brought together the stupid bedouin with the cunning Jews. When the confederates failed to defeat Madīnah and the Jews of the Qurayzah reaped the harvest of their treachery, the Jews of Khaybar could not find any rest nor did they try to make peace with the Muslims. On the contrary, they began initiating contacts with the Ghaṭafān and the bedouin who lived around them form another front against Islām. Nevertheless, the Muslims were alert to these conspiracies, and no sooner did they return from Ḥudaybiyah at the end of the sixth year than they took off again in Muharram of the seventh year, in the direction of Khaybar, to shatter the power of the Jews in those quarters.
+The enmity against Islām brought together the simple-minded bedouin and the People of the Book, the Jews. When the confederates failed to defeat Madīnah and the Jews of the Quraydhah reaped the harvest of their treachery, the Jews of Khaybar could not find any rest nor did they try to make peace with the Muslims. On the contrary, they began initiating contacts with the Ghaṭafān and the bedouin who lived around them form another front against Islām. Nevertheless, the Muslims were alert to these conspiracies, and no sooner did they return from Ḥudaybiyah at the end of the sixth year than they took off again in Muharram of the seventh year, in the direction of Khaybar, to shatter the power of the Jews in those quarters.
 
 It did not slip the minds of the Muslims, before travelling, to drive a wedge into the united front of the Ghatafan and the Jews. They made the Ghatāfan think that the attack was directed at them and that the Muslim forces were about to meet them. Ibn Ishāq said:
 
@@ -4559,25 +4703,25 @@ Then he said: "Advance in the name of Allāh (ﷻ).²²
 
 It seems that the Jews first thought that the Muslims were marching against the Ghatafān, so they did not pay them much attention.
 
-They went as usual in the morning to their fields, carrying their shovels and baskets, and were surprised when they saw the Muslims coming towards them. They hurried back to their fortresss in dismay. The Jews, as the Muslims learnt from their wars with them, did not rely on sending their armies into the open air. They disliked confrontation in those vast fields. The character trait which they could never abandon dictated that they should fight from behind high walls. Is this not an indication of their love of life and dislike of death?
+They went as usual in the morning to their fields, carrying their shovels and baskets, and were surprised when they saw the Muslims coming towards them. They hurried back to their fortresses in dismay, crying: "Muhammad and the army!" The Jews, as the Muslims learnt from their wars with them, did not rely on sending their armies into the open air. They disliked confrontation in those vast fields. The character trait which they could never abandon dictated that they should fight from behind high walls. Is this not an indication of their love of life and dislike of death?
 
 When the Prophet (ﷺ) saw them hurrying to their fortress, he wanted to strike terror into their hearts, so he shouted: "Allāh (ﷻ) is the Greatest! Khaybar is destroyed! When we arrive in a people's quarters the morning turns bad for those who have been warned."²³ Sinning towns bring down destruction upon themselves sooner or later. It is narrated that the Prophet (ﷺ) said: "When adultery and usury spread in a village, it will bring upon itself the Wrath of Allāh (ﷻ)."²⁴
 
-This twofold corruption is widespread among the Jews. To this day they are among the masters of usury in this world and some are the leaders of libertinism and prostitution, whose women do not reject the hand of any flirt. This, however, does not negate the fact that among them there is a group known for their morals and chastity, though they are few. "And from the people of Moosā there is a group who guides by the truth and by it they judge." However it is the majority, not the minority who determine the fates of their peoples.
+This twofold corruption is widespread among the Jews. To this day they are among the masters of usury in this world and some are the leaders of libertinism and prostitution, whose women do not reject the hand of any flirt. This, however, does not negate the fact that among them there is a group known for their morals and chastity, though they are few. (And from the people of Moses there is a group who guides by the truth and by it they judge.) (Qur'ān 7: 159) However it is the majority, not the minority who determine the fates of their peoples.
 
 The Muslims launched their attack on the well-fortified buildings, and soon fortress after fortress began to crumble at their onslaught. The Jews struggled desperately, for Khaybar was their most fertile land and impregnable fortress. The siege continued, and as one garrison fell the Jews continued to resist with another.
 
 The Prophet (ﷺ) said: "I shall give the banner tomorrow to a man who loves Allāh (ﷻ) and His Messenger and whom Allāh (ﷻ) and His messenger love." The Muslims spent the night wondering who it was. Next morning they were all expectant to see who was that person. Then the Prophet (ﷺ) called 'Alī bin Abī Ṭālib (رضي الله عنه) and gave him the banner.
 
-'Alī (رضي الله عنه) said: "Messenger of Allāh (ﷺ)! should I fight them till they retreat from there?"
+'Alī (رضي الله عنه) said: "Messenger of Allāh (ﷺ)! Should I fight them until they become like us?"
 
-The Prophet (ﷺ) replied: "Keep going without a halt until you enter their quarters, then invite them to Islām and tell them of their duty to Allāh (ﷻ). By Allāh (ﷻ), that Allāh (ﷻ) should guide a single man through you is better than if you were to have heaps of gold."²⁵
+The Prophet (ﷺ) replied: "Go forth at your ease until you reach their quarters, then invite them to Islām and tell them of their duty to Allāh (ﷻ). By Allāh (ﷻ), that Allāh (ﷻ) should guide a single man through you is better for you than owning red camels (the most prized of wealth)."²⁵
 
-The Prophet (ﷺ) offered this timely advice to prevent the desire of his men for worldly riches. Although the wealth of the Jews if they were defeated, would be vast, but the blessings of those who fought them, if they were rightly guided, would be greater. If the Jews had accepted the laws of Allāh (ﷻ) and given up the selfish ways in which they lived and dealt with people, they would have been left in peace. However, they insisted on war. So 'Alī (رضي الله عنه) attacked them and pressed on till their fortress fell and the Muslims occupied it. The battle cry during the siege of Khaybar was "Ya Manṣūr, amut, amut!"
+The Prophet (ﷺ) offered this timely advice to prevent the desire of his men for worldly riches. Although the wealth of the Jews if they were defeated, would be vast, but the blessings of those who fought them, if they were rightly guided, would be greater. If the Jews had accepted the laws of Allāh (ﷻ) and given up the selfish ways in which they lived and dealt with people, they would have been left in peace. However, they insisted on war. So 'Alī (رضي الله عنه) attacked them and pressed on till their fortress fell and the Muslims occupied it. The battle cry during the siege of Khaybar was "Yā Manṣūr, amit, amit!" (O victorious one, kill, kill!)
 
-A Jewish horseman by the name of Marhab came out of the fortress and challenged the Muslims to a duel, reciting:
+A Jewish horseman by the name of Marḥab came out of the fortress and challenged the Muslims to a duel, reciting:
 
-*Khaybar knows that I am Marhab,*
+*Khaybar knows that I am Marḥab,*
 
 *A seasoned warrior armed to the teeth,*
 
@@ -4585,13 +4729,13 @@ A Jewish horseman by the name of Marhab came out of the fortress and challenged 
 
 *When the enraged lions come forward.*
 
-Some say that 'Alī (رضي الله عنه) killed him, whereas others say it was Muhammad ibn Maslamah, who was enraged because his brother Maḥmūd ibn Maslamah was killed by a millstone which was dropped on his head.²⁶ After Marhab was killed, his brother, Yasir came forward and Al Zubayr challenged him. Al Zubayr's mother, Ṣafiyah, was among the women who had come with the army to help them fight the Jews.
+Some say that 'Alī (رضي الله عنه) killed him, whereas others say it was Muhammad ibn Maslamah, who was enraged because his brother Maḥmūd ibn Maslamah was killed by a millstone which was dropped on his head.²⁶ After Marḥab was killed, his brother, Yasir came forward and Al Zubayr challenged him. Al Zubayr's mother, Ṣafiyah, was among the women who had come with the army to help them fight the Jews.
 
 She was afraid that her son would be killed, and the Prophet (ﷺ) reassured her: No, your son will kill him, Inshā'allah," and Al Zubayr did kill him.²⁷
 
 The Jews held on firmly to their remaining fortresses, defending them like those in despair. The Muslims tightened the siege against them, wishing to end this war quickly for they were worn out with hunger. Many of them were struck down by various sicknesses owing to the bad climate and the unhealthiness of the swamps. Then someone came to the Prophet (ﷺ) and informed him that the Jews were not worried about the siege, since they had access to secret waterholes and they would go out at night to draw water. The Prophet (ﷺ) ordered their waterholes to be cut off²⁸ to force them to fight or surrender. They came out and engaged the Muslims in a violent struggle, during the course of which a number of Muslims were martyred after they had paved the way for the fall of the fortress, which was called the Zubayr Fortress, at the end of a chain fortresses called Al Nitāh. The Muslims were able to capture them all after they entered the fortress of Na'im, Sa'b, Watih and Salālim.
 
-There remained one more chain which the Muslims prepared to attack. The Prophet (ﷺ) went for a citadel called Samwān and fought fiercely around it. A man named 'Azūl came out of it, seeking a duel. Al-Habbāb ibn al Mundhir attacked him and cut at his right arm upto the elbow. The sword fell from the Jew's hand and he turned and fled. Al-Habbāb pursued him and cut his Achilles tendon. Another Jew advanced and one of the Muslims confronted him. However, the Jew killed him, and Abū Dajanah went after him and killed him in turn. Then the Muslims shouted Allahu Akbar and charged the fortress with Abū Dajanah in the lead. After great difficulty they managed to enter it and inside they found furniture, food, sheep and merchandise.
+There remained one more chain which the Muslims prepared to attack. The Prophet (ﷺ) went for a citadel called Samwān and fought fiercely around it. A man named 'Azūl came out of it, seeking a duel. Al-Ḥubāb ibn al Mundhir attacked him and cut at his right arm upto the elbow. The sword fell from the Jew's hand and he turned and fled. Al-Ḥubāb pursued him and cut his Achilles tendon. Another Jew advanced and one of the Muslims confronted him. However, the Jew killed him, and Abū Dajanah went after him and killed him in turn. Then the Muslims shouted Allahu Akbar and charged the fortress with Abū Dajanah in the lead. After great difficulty they managed to enter it and inside they found furniture, food, sheep and merchandise.
 
 Some of the Jews managed to escape and they fled to their brothers in the fortress of Buzat. The Muslims followed and the two parties showered each other with hails of arrows. The Prophet's (ﷺ) fingertip was injured in this battle. Nevertheless, the Muslims kept pounding the enemy until this fortress also fell, and they took captive all those in it. Then the Muslims prepared catapults to destroy the remaining fortresses with those who were hiding inside, and the Jews felt certain that it would be death unless they surrendered. So Ibn Abil Ḥuqayq came out and offered to surrender on condition that they be exiled from the land of Khaybar and be allowed to take all they could carry, what remained being for the Muslims. The Prophet (ﷺ) accepted the terms, and stipulated that they should not conceal anything, for if they did then the agreement would be null and void.²⁹
 
@@ -4607,13 +4751,13 @@ The slave said: "What will I have if I testify and believe?"
 
 The Prophet (ﷺ) said:
 
-"Lead them out into the open and leave them. Allāh (ﷻ) will discharge your trust for you." He did so, and the sheep returned to their master. Thus the Jew came to know that his slave had accepted Islām.
+"Drive them away from you and throw pebbles after them: Allāh (ﷻ) will discharge your trust for you." He did so, and the sheep returned to their master. Thus the Jew came to know that his slave had accepted Islām.
 
 The men having prepared themselves for fighting, the Prophet (ﷺ) stood up, exhorted them and urged them to jihād. The two groups clashed and the black slave was one of those killed. His body was taken back to the camp, and the Prophet (ﷺ), so it is narrated, looked into the tent where it lay, then faced his Companions and said: "Allāh (ﷻ) has been gracious to this slave and brought him benefit. I saw by his head two of the bright-eyed houris, although he never prostrated once to Allāh (ﷻ)!³¹
 
 In this campaign the Prophet (ﷺ) gave permission to the women who volunteered to come along with him. Ibn Isḥāq narrated: "The Muslim women were present at Khaybar with the Messenger of Allāh (ﷺ), and he gave them something from the spoils, and did not give them a complete share.³²
 
-Imām Aḥmad narrated from Hashraj ibn Ziyad from his grandmother:
+Imām Aḥmad narrated from Ḥashraj ibn Ziyad from his grandmother:
 
 "We went with the Messenger of Allāh (ﷺ) on the expedition of Khaybar. I was the sixth of six women. When it came to his notice that there were women with him he sent for us. We could see he looked angry. He asked what had made us come and on whose orders we had come.
 
@@ -4621,13 +4765,13 @@ We replied, "We give arrows to the archers, we give them sawīq to drink, we hav
 
 He said: "Then go."
 
-She continued that after the conquest of Khaybar he gave them shares like the shares of the men. Hashraj asked what it was that he gave them, and she said, dates.³³ Ibn Kathīr maintained that he gave them a portion of the fruits of the land as he gave the men, although he did not give them any part of the land itself as was given to the men and this is true.
+She continued that after the conquest of Khaybar he gave them shares like the shares of the men. Ḥashraj asked what it was that he gave them, and she said, dates.³³ Ibn Kathīr maintained that he gave them a portion of the fruits of the land as he gave the men, although he did not give them any part of the land itself as was given to the men and this is true.
 
 In the Ḥadīth narrated by Abū Dāwūd, some women from the Banū Ghifar said: "O Messenger of Allāh (ﷺ), we wish to go with you on this expedition (he was travelling to Khaybar) to nurse the wounded and help the Muslims in any way we can."
 
 He replied: "With the blessings of Allāh (ﷻ).³⁴
 
-Ṣafīyah, the daughter of Huyayy ibn Akhtab, the Jewish chief, was among the women captured at Khaybar. She fell into the hands of one of the Ṣaḥābah as spoils of war. However, the Prophet (ﷺ) took her back then freed her and married her, making her dowry her freedom.³⁵
+Ṣafīyah, the daughter of Ḥuyayy ibn Akhtab, the Jewish chief, was among the women captured at Khaybar. She fell into the hands of one of the Ṣaḥābah as spoils of war. However, the Prophet (ﷺ) took her back then freed her and married her, making her dowry her freedom.³⁵
 
 When the prophet (ﷺ) had gained total control, the wife of Salām ibn Mishkam offered him poisoned roasted sheep. She put a large amount of poison in the leg since she knew that the Prophet (ﷺ) had a special liking for that joint.
 
@@ -4641,7 +4785,7 @@ The Jews of Khaybar remained, tilling the soil in return for half of its produce
 
 'Umar (رضي الله عنه) spoke to the people, saying: "The Messenger of Allāh (ﷺ) stipulated with the Jews of Khaybar that we might expel them whenever we wished. They have attacked 'Abdullāh ibn 'Umar (رضي الله عنه) and dislocated his arms, as you have been informed, and with their attack on the Anṣār before him, we have no doubt that they are the culprits. We have no enemy there except them. Thus whoever has property in Khaybar, let him go and retrieve it, for I am expelling the Jews?" And he expelled them.³⁷
 
-No doubt the defeat which the Children of Israel sustained at Khaybar completely destroyed their military might in the peninsula. Thus the Jews of Fadak came seeking amnesty. The Jews of Wadi al Qira fought after they were invited to Islām. The Prophet (ﷺ) informed them that if they accepted Islām they would be allowed their properties and their lives, and their punishment would be left to Allāh (ﷻ). So when they refused, a limited war broke out between the two groups and ended in the morning with the defeat of the Jews. Finally the Jews of Tayma surrendered.
+No doubt the defeat which the Children of Israel sustained at Khaybar completely destroyed their military might in the peninsula. Thus the Jews of Fadak came seeking amnesty. The Jews of Wādī al-Qurā fought after they were invited to Islām. The Prophet (ﷺ) informed them that if they accepted Islām they would be allowed their properties and their lives, and their reckoning would rest with Allāh (ﷻ).³⁸ So when they refused, a limited war broke out between the two groups and ended in the morning with the defeat of the Jews. Finally the Jews of Tayma surrendered.
 
 Islām spread its reign over this land which had for sometime been in the hands of the Jews to live on as they desired. The lesson which we can extract from these battles and the expulsions which followed is that the land belongs to Allāh (ﷻ) and He causes whom He pleases to inherit it. He does not take it away from one people and give it to another for favouritism. The nation which becomes corrupt with the bounty is deprived of it; then it is given to another who will value it and thank Allāh (ﷻ) for it. The nation which becomes puffed up with pride loses possession of its own self, its rights and all its affairs, and it falls as a slave into the hands of others who will direct its affairs as they wish.
 
@@ -4661,9 +4805,9 @@ Islām, on the other hand, came out of the peninsula from the very first day as 
 
 The conquest of Khaybar coincided with the arrival of Ja'far ibn Abī Ṭālib and the others who had migrated with him to Abyssinia. The Prophet (ﷺ) was extremely happy at the return of these noble Companions. They had left Makkah, fleeing with their faith from persecution, and today they were returning to see that Islām was supreme and that its authority was stretching north and south of the Arabian peninsula. Thus there was no more fear of tyranny or oppression.
 
-When they arrived in Madīnah, the Prophet (ﷺ) said joyfully: "By Allāh (ﷻ), I do not know which is more pleasing, the conquest of Khaybar or the arrival of Ja'far.³⁸
+When they arrived in Madīnah, the Prophet (ﷺ) said joyfully: "By Allāh (ﷻ), I do not know which is more pleasing, the conquest of Khaybar or the arrival of Ja'far.³⁹
 
-Ja'far and his comrades had remained in Abyssinia for some ten years, during which time much of the Qur'ān was revealed and many battles took place with the infidels. The Muslims went through such a variety of experiences before and after the Hijrah to Madīnah that some of them began thinking that those who had migrated to Abyssinia were of a lesser status than they.
+Ja'far and his comrades had remained in Abyssinia for ten-odd years, during which time much of the Qur'ān was revealed and many battles took place with the infidels. The Muslims went through such a variety of experiences before and after the Hijrah to Madīnah that some of them began thinking that those who had migrated to Abyssinia were of a lesser status than they.
 
 Abū Mūsā al Ash'ārī reported:
 
@@ -4683,9 +4827,9 @@ And what do you say? he asked.
 
 'I said such-and-such.
 
-He then said: 'He is not closer to me than you. He and his Companions have made one Hijrah, whereas you, who travelled by ship, have made two.³⁹
+He then said: 'He is not closer to me than you. He and his Companions have made one Hijrah, whereas you, who travelled by ship, have made two.⁴⁰
 
-In a short time these returnees were able to acquire whatever knowledge of the Qur'ān and Sunnah they had missed, and they joined the ranks of those who had preceded them to the call of jihād for Allāh's (ﷻ) sake. The Prophet (ﷺ) gave them a portion of the spoils of Khaybar⁴⁰ along with those who had witnessed Ḥudaybiyah.⁴¹
+In a short time these returnees were able to acquire whatever knowledge of the Qur'ān and Sunnah they had missed, and they joined the ranks of those who had preceded them to the call of jihād for Allāh's (ﷻ) sake. The Prophet (ﷺ) gave them a portion of the spoils of Khaybar⁴¹ along with those who had witnessed Ḥudaybiyah.⁴²
 
 He did not include any others besides them, for Allāh (ﷻ) had promised Khaybar as a generous compensation for those who had travelled to Makkah and pledged their lives under the tree of Riḍwān.
 
@@ -4693,7 +4837,7 @@ He did not include any others besides them, for Allāh (ﷻ) had promised Khayba
 
 No sooner had the Muslims solved the problem of the Jews than they began turning their energies toward the bedouin Arabs who remained pagan. We have already pointed out that their unity had been shattered ever since the Treaty of Ḥudaybiyah between the Quraish and the Muslims. Only yesterday they were a united force laying siege to the city of Islām. Today, however, the situation was different. The Children of Israel were defeated and the people of Makkah had withdrawn. Now it was possible for the Muslims to deal with the bedouin tribes one by one and quell their evil. The bedouin were hard and crude people. We cannot forget how up to the twentieth century they took pleasure in attacking the caravans of pilgrims and even slaughter a pilgrim for a few dirhams. Their knowledge of worldly affairs and the rights of the hereafter was a cause for great concern among their teachers.
 
-Islām made great efforts to raise their material and moral circumstances. However, their ambushing of the Islāmic missionaries made the Muslims confront them with force to remove this source of worry. One of the most important actions of the Muslims after their return from Khaybar and their journey to Makkah for the compensatory 'Umrah as promised in the Treaty of Ḥudaybiyah was the dispatching of scouting parties in the deserts of Najd. It is not necessary for us to itemize the details of all of the skirmishes, for though they enhanced the military might of the Muslims, they were more akin to police patrols than to mobilized armies. The main reason for them was to strengthen security, stop the raids on Madīnah, and enable the Muslim missionaries to travel with the teachings of the divine message without fear of treachery or attack.
+Islām made great efforts to raise their material and moral circumstances. However, their ambushing of the Islāmic missionaries made the Muslims confront them with force to remove this source of worry. From their return from Khaybar in Ṣafar of the seventh year until they set out for the compensatory 'Umrah fixed in the Treaty of Ḥudaybiyah, one of the most important concerns of the Muslims was the dispatching of scouting parties into the deserts of Najd. It is not necessary for us to itemize the details of all of the skirmishes, for though they enhanced the military might of the Muslims, they were more akin to police patrols than to mobilized armies. The main reason for them was to strengthen security, stop the raids on Madīnah, and enable the Muslim missionaries to travel with the teachings of the divine message without fear of treachery or attack.
 
 The conditions of these tribes strongly resembled those in our villages in the recent feudal era, when the village chief held a thousand votes in his village. The talk of political freedom in such an atmosphere is nothing but a fairy tale. Similarly, the tribal chiefs of old had the total support of these clans in war and peace, and it was always the desires of these chiefs which prevailed. If, therefore, there were many foolish rulers who were blindly obeyed and their policy was to raid and flee as the opportunity arose, as Durayd ibn al-Ṣimmah said:
 
@@ -4701,7 +4845,7 @@ The conditions of these tribes strongly resembled those in our villages in the r
 
 *Thus have we divided time into two halves between us: it never passes but that we are living in one of the halves!*
 
-Do you think that the missionaries could be left in such an environment to carry out their work in peace? To work for the establishment of peace is different from forcing people to accept certain beliefs. The aim of the first is to remove all pressure and influences from society, so that if individuals in a tribe accept Islām, they will not encounter anyone with a whip to deter them. However, the other is to use the whip to force people to accept a particular set of beliefs.
+Do you think that the missionaries could go about unarmed in such an environment, which snatches away both wealth and beliefs? To work for the establishment of peace is different from forcing people to accept certain beliefs. The aim of the first is to remove all pressure and influences from society, so that if individuals in a tribe accept Islām, they will not encounter anyone with a whip to deter them. However, the other is to use the whip to force people to accept a particular set of beliefs.
 
 The expeditions which the Prophet (ﷺ) dispatched in different direction carried with them the word of Allāh (ﷻ) so that they might read from it.
 
@@ -4713,7 +4857,7 @@ Striving to thwart the Revelation is a dangerous thing. If it had been done only
 
 The Muslims proceeded to spread the da'wah within the Arabian peninsula on this just basis, and from the time they concluded the Treaty of Ḥudaybiyah they did not cease to convey the message and enlighten others. They gained a noticeable success in this regard, and many tribes entered into the pact with them, while large groups of bedouin deserted the Quraish and no-one entered into the pact with them. The march of events in this direction actively paved the way for the supremacy of Islām, then the conquest of Makkah itself at a later stage.
 
-The call to Islām within the Arabian peninsula did not make the Prophet (ﷺ) neglect another right that Allāh (ﷻ) had over him, which was to inform the mankind of the clear Revelation given to him by Allāh (ﷻ). Let the lamp be raised high, so that its guiding rays might penetrate even farther into those places which had been submerged in-darkness for many reasons.
+The call to Islām within the Arabian peninsula did not make the Prophet (ﷺ) neglect another right that Allāh (ﷻ) had over him, which was to inform the mankind of the clear Revelation given to him by Allāh (ﷻ). Let the lamp be raised high, so that its guiding rays might penetrate even farther into those places which had been submerged in darkness for ages.
 
 (And this Qur'ān has been inspired in me, that with It I may warn you and whomever it may reach. Do you in truth bear witness that there are gods besides Allāh? Say, I bear no such witness. Say, He is only One God. Indeed, I am innocent of that which you associate [with Him].) (Qur'ān 6: 19)
 
@@ -4737,7 +4881,7 @@ A man asked: "Even if he does not accept?"
 
 The Prophet (ﷺ) replied. Diḥyah took the letter and travelled to Roman territory, where he happened to meet Heraclius on his way to Jerusalem to make a pilgrimage in thanksgiving for his victory over the Persians. Caesar took the letter and read it:
 
-In the Name of Allāh (ﷻ), the Compassionate, the Merciful. From Muhammad (ﷺ), the Messenger of Allāh, to Heraclius, emperor of Rome: peace be on those who follow the guidance. To proceed: I hereby call you to accept Islām. If you do you will be safe and Allāh (ﷻ) give you your reward twice over. If you turn away, however, you will have the sin of your subjects on your shoulders.⁴²
+In the Name of Allāh (ﷻ), the Compassionate, the Merciful. From Muhammad (ﷺ), the Messenger of Allāh, to Heraclius, emperor of Rome: peace be on those who follow the guidance. To proceed: I hereby call you to accept Islām. If you do you will be safe and Allāh (ﷻ) give you your reward twice over. If you turn away, however, you will have the sin of your subjects on your shoulders.⁴³
 
 (O People of the Scripture! Come to an agreement between us and you: that we shall worship none but Allah, and that we shall ascribe no partner to Him, and that none of us shall take others for lords besides Allah. And if they turn away, then say: "Bear witness that we are they who have surrendered [to Him].) (Qur'ān 3: 64)
 
@@ -4749,17 +4893,17 @@ Acting on his political instinct, he decided to summon Diḥyah and make him fee
 
 Diḥyah returned to the Prophet (ﷺ) with the news, upon which the latter said: "The enemy of Allāh (ﷻ) has lied. He is not a Muslim."
 
-And he ordered the dinars to be distributed among the needy.⁴³
+And he ordered the dinars to be distributed among the needy.⁴⁴
 
-The Prophet (ﷺ) also sent letters to the governors of the various Arab provinces under Roman dominion, and their reply was even more harsh than that of Heraclius himself. The governor of Syria read the Prophet's (ﷺ) letter, which said:
+The Prophet (ﷺ) also sent letters to the governors of the various Arab provinces under Roman dominion, and their reply was even more harsh than that of Heraclius himself. The emir of Damascus read the Prophet's (ﷺ) letter, which said:
 
-"In the name of Allāh (ﷻ), the Compassionate, the Merciful From Muhammad (ﷺ), the Messenger of Allāh, to Al-Ḥārith Ibn Abi Shamr: peace be on those who follow the guidance and believe in Allāh (ﷻ) and testify to the truth. I invite you to believe in Allāh (ﷻ) alone Who has no partners, and your kingdom will remain.⁴⁴
+"In the name of Allāh (ﷻ), the Compassionate, the Merciful From Muhammad (ﷺ), the Messenger of Allāh, to Al-Ḥārith Ibn Abi Shamr: peace be on those who follow the guidance and believe in Allāh (ﷻ) and testify to the truth. I invite you to believe in Allāh (ﷻ) alone Who has no partners, and your kingdom will remain.⁴⁵
 
 Upon reading it he flung it to the ground and said: "Who shall take my kingdom away from me?" He began making preparations to fight the Muslims. Al Ḥārith was not a true king as to act so haughtily about his kingdom. He was a servant of the Roman conquerors, carrying out their wishes and clinging to their heels. As is true of many of the leaders of the East in modern times, who were established by the imperialists to keep the oppressed nations in their clutches. The gift which he rejected was the only hope for him to become an honourable ruler if only he had accepted it.
 
 The Prophet (ﷺ) sent a similar letter to the governor of Busra, on of the Roman provinces, by the hand of Al-Ḥārith ibn 'Umayr al-Azdi. He was intercepted on the Way by Shurahbil ibn 'Amr of the Ghassan tribe, who asked him: "Are you one of Muhammad's (ﷺ) Messenger?" When he answered yes, Shurahbil ordered him to be killed. Upon hearing the news of this incident, the Muslims in Madīnah felt that their dignity had been injured. They realized that their relations with the Romans would not develop on the basis of justice and respect until great efforts had been made on their part.
 
-The Patriarch of Alexandria sent a kind reply to the Prophet (ﷺ) neither accepting him nor attacking him. When he received the letter from Ḥātib ibn Abi Balta'ah he said: "If he is a prophet, what has prevented him from calling down the curse of God on those who opposed him and ejected him from his town?"
+Al-Muqawqis sent a kind reply to the Prophet (ﷺ) neither accepting him nor attacking him. When he received the letter from Ḥātib ibn Abi Balta'ah he said: "If he is a prophet, what has prevented him from calling down the curse of God on those who opposed him and ejected him from his town?"
 
 Ḥātib replied: "What prevented Jesus, who was arrested by the people to be killed, from calling down the curse of God on them?"
 
@@ -4767,7 +4911,7 @@ The Patriarch said: "Excellent! You are a wise man sent by a wise man."
 
 He wrote to the Prophet (ﷺ), saying:
 
-"To Muhammad (ﷺ), son of 'Abdullāh, from the Patriarch of Alexandria: Peace be on you. To proceed: I have read your letter and understood what you have mentioned in it and what are you calling towards. I know that there is a prophet yet to come and I used to think he would appear in Syria. I have treated your messenger well, and have sent to you, two slave-girls who have a high position among the Copts. I have also sent clothes and I am presenting you with a mule to ride.
+"To Muhammad (ﷺ), son of 'Abdullāh, from Al-Muqawqis, the great one of the Copts: Peace be on you. To proceed: I have read your letter and understood what you have mentioned in it and what are you calling towards. I know that there is a prophet yet to come and I used to think he would appear in Syria. I have treated your messenger well, and have sent to you, two slave-girls who have a high position among the Copts. I have also sent clothes and I am presenting you with a mule to ride.
 
 What did Muhammad (ﷺ) do with this? He accepted the gifts in consideration for the feeling which went behind them, even though he thought that the best gift would be to believe in Allāh (ﷻ) as the Only God to be worshipped.
 
@@ -4779,15 +4923,15 @@ These are examples of the Prophet's (ﷺ) message to the leading personalities o
 
 The Prophet (ﷺ) wrote to Khosrau Pervez, King of Persia, saying:
 
-"In the Name of Allāh (ﷻ), the Compassionate, the Merciful. From Muhammad (ﷺ), the Messenger of Allāh to Chosroes, the Chief of Persia. Peace be on those who follow the guidance and believe in Allāh (ﷻ) and His Messenger. I bear witness that there is no god except Allāh (ﷻ) alone, Who has no partner, and that Muhammad (ﷺ) is His servant and messenger. I call you to Allāh's (ﷻ) way, for I am Allāh's messenger to all the mankind to warn whoever is alive so that the word may prove true against the unbelievers. Accept Islām and you will be safe. If you reject then the sin of the Magians will be upon you."⁴⁵
+"In the Name of Allāh (ﷻ), the Compassionate, the Merciful. From Muhammad (ﷺ), the Messenger of Allāh to Chosroes, the Chief of Persia. Peace be on those who follow the guidance and believe in Allāh (ﷻ) and His Messenger. I bear witness that there is no god except Allāh (ﷻ) alone, Who has no partner, and that Muhammad (ﷺ) is His servant and messenger. I call you to Allāh's (ﷻ) way, for I am Allāh's messenger to all the mankind to warn whoever is alive so that the word may prove true against the unbelievers. Accept Islām and you will be safe. If you reject then the sin of the Magians will be upon you."⁴⁶
 
 Enraged, Khosrau tore the letter to pieces. Perhaps he thought that this affront to his exalted position was one of the tricks of faith caused by his ignoble defeat at the hands of the Romans. Now the Arabs had come to teach him what he knew not! He issued an order to the governor of Yemen, which was still under his control to send two strong men to arrest the person who had dared to write to him. This Khosrau Pervez was a stupid man, whose position gave him the title of King of Kings. When political paganism is supported by religious paganism it becomes blankets of darkness covered by blankets of darkness. This man displayed so much foolishness in running the country that his people became frustrated with him and he was murdered by his own son.
 
-When the Prophet (ﷺ) heard of what had been done to his letter by Chosroes, he said: "May Allāh (ﷻ) tear his kingdom to pieces!"⁴⁶
+When the Prophet (ﷺ) heard of what had been done to his letter by Chosroes, he said: "May Allāh (ﷻ) tear his kingdom to pieces!"⁴⁷
 
-The odd thing was that when Chosroes' order reached the governor of Yemen, he hastened to execute it and he sent two men to Madīnah to arrest the prophet! The Prophet (ﷺ) looked at them and found them to be of the kind who are reared by kings in their palaces, just as the women in Saudi Arabia rear turkeys with attractive exteriors but worthless interiors.
+The odd thing was that when Chosroes' order reached the governor of Yemen, he hastened to execute it and he sent two men to Madīnah to arrest the prophet! The Prophet (ﷺ) looked at them and found them to be of the kind who are reared by kings in their palaces, just as the women in our country rear turkeys with attractive exteriors but worthless interiors.
 
-When he saw their long moustaches and smooth chins he turned away from them, saying.⁴⁷ "Woe unto you! Who ordered you here?"
+When he saw their long moustaches and smooth chins he turned away from them, saying.⁴⁸ "Woe unto you! Who ordered you here?"
 
 They replied, "Our Lord," meaning Chosroes.
 
@@ -4797,11 +4941,11 @@ Upon hearing what the two men had to say: the Prophet (ﷺ) ordered them back to
 
 The Prophet (ﷺ) knew of his death before they knew. After this incident, Islām took hold in the hearts of the governor of Yemen and his men and it spread rapidly among both groups in the south: Christians and Zoroastrians (Magians).
 
-The Prophet (ﷺ) sent a letter to the governor of Bahrain, calling him to turn to Islām and to relinquish Zoroastrianism. The letter was taken by Al 'Ala ibn al-Hadrami,⁴⁸ who excelled in his presentation of Islām. Among the things he said was:
+The Prophet (ﷺ) sent a letter to the governor of Bahrain, calling him to turn to Islām and to relinquish Zoroastrianism. The letter was taken to him by Al-'Alā' ibn al-Ḥaḍramī.⁴⁹ Al-Mundhir ibn Sāwā, the emir of Bahrain, was a sensible and fortunate man: he welcomed the call and his heart opened to accept it. Al-'Alā' did his utmost to win him over and to show him the merits of Islām. Among the things he said was:
 
-"O Mundhir, you have a great mind for this world so do not belittle yourself about the Hereafter. Surely this Zoroastrianism is an evil way of life. The Arabs have no respect for it nor is there any respect for revealed knowledge. They marry whom it is shameful to marry; they eat what one disdains to eat, and they worship fire in this world, which will consume them in the Hereafter. You are not devoid of intellect or keen insight: Should we deny one who never tells a lie? And one who never cheats, should we not trust him? And one who never breaks a promise-should we not have faith in him? Here is the unlettered Prophet about whom no-one can say: 'Would that he had enjoined what he had forbidden and forbidden what he had enjoined. Or 'Would that he had increased his forbearance and decreased his infliction of punishment!' Since everything about him is in accordance with the desire of those who have sense and the thought of those who think deeply."
+"O Mundhir, you have a great mind for this world so do not belittle yourself about the Hereafter. Surely this Zoroastrianism is an evil way of life. It has neither the nobility of the Arabs nor the knowledge of the revealed Book. They marry whom it is shameful to marry; they eat what one disdains to eat, and they worship fire in this world, which will consume them in the Hereafter. You are not devoid of intellect or keen insight: Should we deny one who never tells a lie? And one who never cheats, should we not trust him? And one who never breaks a promise-should we not have faith in him? Here is the unlettered Prophet about whom no-one can say: 'Would that he had enjoined what he had forbidden and forbidden what he had enjoined. Or 'Would that he had increased his forbearance and decreased his infliction of punishment!' Since everything about him is in accordance with the desire of those who have sense and the thought of those who think deeply."
 
-Al-Mundhir, the ruler of Bahrain, accepted Islām and offered it to his people. Some responded to the call, while others rejected and remained with their belief in Zoroastrianism or Judaism. When he sought the Prophet's (ﷺ) advice on what to do with them, the Prophet (ﷺ) wrote: "who remains in Judaism or Zoroastrianism must pay jizyah."⁴⁹
+Al-Mundhir, the ruler of Bahrain, accepted Islām and offered it to his people. Some responded to the call, while others rejected and remained with their belief in Zoroastrianism or Judaism. When he sought the Prophet's (ﷺ) advice on what to do with them, the Prophet (ﷺ) wrote: "who remains in Judaism or Zoroastrianism must pay jizyah."⁵⁰
 
 It is a matter of great significance that the field of da'wah should be extended to cover all the known, populated parts of the earth. The Arabs had thought it strange that someone from among them should be called to prophethood, and they vigorously denied him.
 
@@ -4815,9 +4959,9 @@ The superstitions which had corrupted the minds of the bedouin in Arabia were th
 
 (And We reveal of the Qur'ān, that which is a healing and a mercy for believers though it increase the evildoers in nothing except ruin.) (Qur'ān 17: 82)
 
-It was therefore not strange that he should gather together in his clinic both the red and the black and the rulers and the slaves. It is true that kings are hidden behind reinforced walls and are surrounded by servants, courtiers and guards as well as by riches which dazzle the eyes. Yet whose are the eyes that are dazzled by these external appearances? A doctor is concerned only about the sick body of his patient. Similarly, the Prophet looked upon his nation as ignorant people who ought to be educated, for the worldly things surrounding them made their responsibility heavier and their recompense for accepting or rejecting the guidance greater. They did not consider the powers used to defend falsehood to be long lasting, except in the way that the night seems long to the restless. Then the sun shines forth and Allāh (ﷻ) draws back the curtains of darkness with his enlightening Revelation.
+It was therefore not strange that he should gather together in his clinic both the red and the black and the rulers and the slaves. It is true that kings are hidden behind reinforced walls and are surrounded by servants, courtiers and guards as well as by riches which dazzle the eyes. Yet whose are the eyes that are dazzled by these external appearances? A doctor is concerned only about the sick body of his patient. Similarly, the prophets see in people only the ignorant who must be taught and the foolish who must be guided, for the worldly things surrounding them made their responsibility heavier and their recompense for accepting or rejecting the guidance greater. They did not consider the powers used to defend falsehood to be long lasting, except in the way that the night seems long to the restless. Then the sun shines forth and Allāh (ﷻ) draws back the curtains of darkness with his enlightening Revelation.
 
-Thus the Prophet (ﷺ) told the messengers of the Yemeni governor when they came to him: "Tell him that my religion and dominion will reach all that Chosroes reached and will end at the clothed and the barefoot, and tell him that if he accepts Islām I shall give him what is under his rule and shall make him king of his people."⁵⁰ He was in Madīnah, appointing and deposing, but with Truth, not arrogance. Was he not in contact with the King of kings, sent as a messenger by the Lord of the heavens and earth?
+Thus the Prophet (ﷺ) told the messengers of the Yemeni governor when they came to him: "Tell him that my religion and dominion will reach all that Chosroes reached and will reach as far as camel-hoof and horse-hoof can go, and tell him that if he accepts Islām I shall give him what is under his rule and shall make him king of his people."⁵¹ He was in Madīnah, appointing and deposing, but with Truth, not arrogance. Was he not in contact with the King of kings, sent as a messenger by the Lord of the heavens and earth?
 
 It was natural that the Arab idolaters should come to hear of these delegations and closely follow their results. They were overjoyed at first when the news of Chosroes' reaction reached them. Some of them said: "You have been spared the trouble of eliminating this man. Now Chosroes, the king of kings, is after him!" This statement spread like wildfire in Makkah and Ṭā'if. However, the days passed and Chosroes was overthrown, whereas Islām continued to penetrate hearts and homes. The news came that the delegations of Muhammad (ﷺ) were successful in some quarters and were able to spread Islām, and that its message had become established in Yemen, Oman and Bahrain. The idolaters now felt that they were being deserted and many tribes started to think of submitting to the rule of Islām, especially since the dominions of unbelief were shrinking daily in the face of the relentless waves of Revelation. However, there were many others who insisted of remaining in their jahilīyah.
 
@@ -4831,15 +4975,19 @@ The Makkans wanted to save face, while leaving their town for Muhammad (ﷺ) and
 
 Ibn 'Abbās narrated:
 
-"They assembled in their Council Chamber to watch him and his Companions. When the Prophet (ﷺ) entered, he pulled the top garment over himself, leaving his right arm bare. Then he said: "May Allāh (ﷻ) have mercy on the man who shows them this day strength from himself."⁵¹ Then he saluted the rukn and began to trot, and his Companions began to trot with him until the building hid them from view.
+"They assembled in their Council Chamber to watch him and his Companions. When the Prophet (ﷺ) entered, he pulled the top garment over himself, leaving his right arm bare. Then he said: "May Allāh (ﷻ) have mercy on the man who shows them this day strength from himself."⁵² Then he saluted the rukn and began to trot, and his Companions began to trot with him until the building hid them from view.
 
 Circumambulating the Ka'bah at this speed was show of strength on the part of the Muslims and refutation of the rumours of their weakness. It became a Sunnah after that to make the ṭawāf in this way.
 
-It is narrated⁵² that when the Prophet (ﷺ) entered Makkah, 'Abdullāh ibn Rawāḥah was holding his camel's head and chanting: "Give way to him, sons of unbelievers. Give way, for His messenger is all good. Lord! Verily I believe in what he says. I recognize Allāh's (ﷻ) right in accepting him!"
+It is narrated⁵³ that when the Prophet (ﷺ) entered Makkah, 'Abdullāh ibn Rawāḥah was holding his camel's head and chanting:
+
+*"Give way to him, sons of unbelievers! Give way, for all good is in His Messenger!*
+
+*Lord! Verily I believe in his word; I recognize Allāh's (ﷻ) right in accepting him!"*
 
 The Muslims spent three days in Makkah, at the end of which came a delegation from the Quraish to remind them that the agreed time had elapsed and that they should leave.
 In reply, the Prophet (ﷺ) said:
-"If you let me stay, I shall arrange my wedding feast and invite you all to it."⁵³ They said: "We are in no need of your food. Go away from here." Al 'Abbās, the Prophet's (ﷺ) uncle, had offered Maymūnah bint al-Ḥārith to him in marriage. So he concluded the contract at Makkah and consummated the marriage with her at Sarf.
+"If you let me stay, I shall arrange my wedding feast and invite you all to it."⁵⁴ They said: "We are in no need of your food. Go away from here." Al 'Abbās, the Prophet's (ﷺ) uncle, had offered Maymūnah bint al-Ḥārith, the maternal aunt of 'Abdullāh ibn 'Abbās, to him in marriage. So he concluded the contract at Makkah and consummated the marriage with her at Sarf.
 
 Concerning this 'Umrah, Allāh (ﷻ) revealed the following āyah (verse):
 
@@ -4849,7 +4997,15 @@ Concerning this 'Umrah, Allāh (ﷻ) revealed the following āyah (verse):
 
 The Muslims were grieved at the death of their envoy to the governor of Baṣra and the ignoble way in which he had been treated. Shuraḥbīl ibn 'Amr had tied his hands over, and pushed him then struck off his head. He was the only envoy to be killed from among the many missions sent by the Prophet (ﷺ). This was felt as a grave insult by the Muslims since envoys are not killed. They therefore determined to take retaliatory measures and teach a lesson to that sinful governor who did what he did on behalf of the Romans.
 
-The Muslims mobilized an army which can be considered big in relation to them for it comprised three thousand fighters. The Prophet (ﷺ) arranged the leaders of the army, placing Zayd ibn Ḥārithah at the head. He ordered that if Zayd was killed, Ja'far ibn Abī Ṭālib should take the lead, and if Ja'far was killed then 'Abdullāh ibn Rawāḥah. The army left for the hills of Syria but the news had already preceded it to the Romans. It must have been that great awe surrounded the reputation and military might of the Muslims for the Romans began to mobilize a huge army. When the Muslims reached Ma'an they learnt that there were one hundred thousand Romans waiting for them and another hundred thousand Christian Arabs. To attack such a huge army was a serious risk, so the Muslims spent two nights at Ma'an, deliberating what to do. Some of them thought that they should write to the Prophet (ﷺ), telling him of this strength of the enemy forces so that he could either send reinforcements or decide upon another option.
+The Muslims mobilized an army which can be considered big in relation to them for it comprised three thousand fighters. The people of Madīnah came out to bid farewell to the departing army, saying: "May Allāh (ﷻ) accompany you in safety, protect you and bring you back to us in good health!" 'Abdullāh ibn Rawāḥah answered this farewell:
+
+*"But I ask the Compassionate for forgiveness, and a wide sword-blow that throws up foam;*
+
+*or a deadly thrust from the hands of a thirsting [foe], with a spear that pierces the bowels and the liver;*
+
+*so that when they pass by my grave they say: O how Allāh (ﷻ) guided this warrior aright, and he was rightly guided!"*
+
+The Prophet (ﷺ) arranged the leaders of the army, placing Zayd ibn Ḥārithah at the head. He ordered that if Zayd was killed, Ja'far ibn Abī Ṭālib should take the lead, and if Ja'far was killed then 'Abdullāh ibn Rawāḥah.⁵⁵ The army left for the hills of Syria but the news had already preceded it to the Romans. It must have been that great awe surrounded the reputation and military might of the Muslims for the Romans began to mobilize a huge army. When the Muslims reached Ma'an they learnt that there were one hundred thousand Romans waiting for them and another hundred thousand Christian Arabs. To attack such a huge army was a serious risk, so the Muslims spent two nights at Ma'an, deliberating what to do. Some of them thought that they should write to the Prophet (ﷺ), telling him of this strength of the enemy forces so that he could either send reinforcements or decide upon another option.
 
 However, 'Abdullāh ibn Rawāḥah was not pleased with this idea. He urged the army to fight, saying: "O men, by Allāh (ﷻ), surely the thing you dislike is the same that you came in search of: martyrdom. We do not fight people with numbers of strength or equipment. We fight them only with this faith which Allāh (ﷻ) has honoured us with. So let's go. It can be only one of the two alternatives, both of which are good: victory or martyrdom."
 
@@ -4857,27 +5013,27 @@ These stirring words had their effect; the feeling of hesitation disappeared fro
 
 Abū Hurairah (رضي الله عنه) narrated:
 
-"I was present at Mu'tah, and when the idolaters approached we saw such large amounts of weapons, sheep, brocade, silk and gold as we had never seen before. My eyes were dazzled! Then Thābit ibn Arqam said: "Abū Ḥurairah (رضي الله عنه), perhaps you are seeing great hordes?' I said yes, and Thābit continued: 'You did not witness Badr with us. We were not victorious because of numerical strength.
+"I was present at Mu'tah, and when the idolaters approached we saw such large amounts of weapons, horses, brocade, silk and gold as we had never seen before. My eyes were dazzled! Then Thābit ibn Arqam said: "Abū Ḥurairah (رضي الله عنه), perhaps you are seeing great hordes?' I said yes, and Thābit continued: 'You did not witness Badr with us. We were not victorious because of numerical strength.
 
 Abū Ḥurairah (رضي الله عنه) was one of those who accepted Islām after Ḥudaybiyah.
 
 The two armies clashed. It would have been vain to expect that 3,000 heroes could defeat an army seventy times their size in an open field. Zayd ibn Ḥārithah fought with the Prophet's (ﷺ) banner until he fell to the spears of the enemy. Then Ja'far took up the banner and fought fiercely. Abū Dāwūd narrated the account of an eyewitness:
 
-"I was watching Ja'far when he jumped off his chestnut horse and hamstring it. Then he fought the enemy until he was killed. All the time he was chanting:
+"I was watching Ja'far when he jumped off his sorrel mare and hamstrung it. Then he fought the enemy until he was killed. All the time he was chanting:
 
-*Welcome to Paradise and its approach! How good it is, how cool its drink!*
+*How lovely is Paradise and its nearness — how good, how cool its drink!*
 
-*The Romans are Romans whose doom has arrived; unbelievers whose lineage is far from pure even though I receive their blows."*
+*The Romans are Romans whose punishment draws near — unbelievers, remote from us in lineage!*
+
+*It is upon me, if I meet them, to strike them!"*
 
 It is said that a Roman struck him with his sword, cutting him in two. Another version has it that he was carrying the banner in his right hand and it was cut off; he took it with his left hand and it was cut off, then he held it with his two stumps until he was killed. Ja'far had this martyrdom bestowed upon at the age of 33 years.
 
 Upon his death, 'Abdullāh ibn Rawāḥah took the banner and advanced on his horse. When he saw the hopelessness of the situation he hesitated somewhat. Nevertheless, he convinced himself to face the same fate as his two predecessors. He chanted:
 
-*"O soul of mine, if you are not killed you will die.*
+*"O soul of mine, if you are not killed you will die — this is death's fated hour that you have entered!*
 
-*Here is the love of death to whom you are exposed.*
-
-*What you wished for, you are given it. If you do as they (both) did, you will be rightly guided."*
+*What you wished for, you have been given; if you do as they (both) did, you will be rightly guided!"*
 
 Then a cousin of his approached and gave him a piece of meat, saying that he should strengthen himself with it. However, he had hardly broken off a morsel from it when he heard the clashing of swords from the far side of the field where fighting was taking place, and he said to himself, "You are yet in this world?" He flung away the food and joined the battle, fighting until he was killed.
 
@@ -4885,63 +5041,83 @@ Thābit ibn Aqrad [thus in the Arabic original here, though it prints Arqam else
 
 They said, "You!" He refused, however, and then they agreed upon Khālid ibn al-Walīd (رضي الله عنه) as their leader. Thābit refused the leadership not because he was afraid of death but because he felt that there were others more competent than himself in the group. His lifting of the banner for fear that it might fall was a sign of bravery under these trying circumstances. How I wish that every man who knew the worth of the people would place them in their rightful positions and not cause the nation to bear the woes of his incompetence and egotism.
 
-Khālid took the banner and began fighting and using his skills to extricate the army from this critical predicament. To withdraw while fighting was a difficult matter, especially since Khālid did not want the Romans to know of his intention. Bukhārī narrated from Khālid: "On the day of Mu'ta, nine swords broke in my hand." His aim was to engage the Romans in such a way as to inflict the greatest losses possible on them without having the whole unit involved in fighting. This strategy succeeded in saving the lives of the few thousand who remained with him and the reputation of the Muslims in their first encounter with a major world power. Strangely enough, this battle exhausted the Romans and caused them great losses. In fact, some of their units were defeated and they turned and fled. Khālid was satisfied with these results and he chose to return home with his men.
+Khālid took the banner and began fighting and using his skills to extricate the army from this critical predicament. To withdraw while fighting was a difficult matter, especially since Khālid did not want the Romans to know of his intention. Bukhārī narrated from Khālid: "On the day of Mu'tah, nine swords broke in my hand, and nothing held in my hand but a broad Yemeni blade." Night fell on the combatants and brought a temporary truce. When morning came, Khālid had reorganized his small force, making the vanguard the rearguard and the right wing the left. His aim was to engage the Romans in such a way as to inflict the greatest losses possible on them without having the whole unit involved in fighting. This strategy succeeded in saving the lives of the few thousand who remained with him and the reputation of the Muslims in their first encounter with a major world power. Strangely enough, this battle exhausted the Romans and caused them great losses. In fact, some of their units were defeated and they turned and fled. Khālid was satisfied with these results and he chose to return home with his men.
 
-Anas ibn Mālik (رضي الله عنه) said that the Prophet (ﷺ) announced the death of Zayd, Ja'far and Ibn Rawāḥah to his Companions before the news reached them. He said: "Zayd took the banner and was struck down, then Ja'far took it after him and was struck down, then Ibn Rawāḥah took it after him and was struck down." His eyes were flowing with tears as he continued: "Then the banner was taken by one of the swords of Allāh (ﷻ) until Allāh (ﷻ) granted them victory.⁵⁴
+Anas ibn Mālik (رضي الله عنه) said that the Prophet (ﷺ) announced the death of Zayd, Ja'far and Ibn Rawāḥah to his Companions before the news reached them. He said: "Zayd took the banner and was struck down, then Ja'far took it after him and was struck down, then Ibn Rawāḥah took it after him and was struck down." His eyes were flowing with tears as he continued: "Then the banner was taken by one of the swords of Allāh (ﷻ) until Allāh (ﷻ) granted them victory.⁵⁶
 
-Ibn Isḥāq narrated⁵⁵ that the Prophet (ﷺ) said:
+Ibn Isḥāq narrated⁵⁷ that the Prophet (ﷺ) said:
 
 "They were taken up to Jannah, as seen in sleep, on couches of gold. I saw a defeat in the couch of 'Abdullāh ibn Rawāḥah and asked why that was so. I was told that the first two went forward, whereas 'Abdullāh hesitated, then went forward."
 
-It is clear from this battle without any shadow of doubt that the courage and bravery of the Muslims had reached a level no modern nation has seen. This intense spirituality instilled in them such intrepidity that for them the power of those nations which had been dominant for ages was of no consequence. Disregard for danger and love of death were not qualities confined to fighting men alone. They were an all-engulfing force which spread from the men to the children, transforming the whole nation into one of struggle and jihād. When the army returned from Mu'tah the youngsters welcomed it with shouts of disapproval, saying: "Runaways. You have fled from the path of Allāh (ﷻ)!"
+It is clear from this battle without any shadow of doubt that the courage and bravery of the Muslims had reached a level no contemporary nation had known. This intense spirituality instilled in them such intrepidity that for them the power of those nations which had been dominant for ages was of no consequence. Disregard for danger and love of death were not qualities confined to fighting men alone. They were an all-engulfing force which spread from the men to the children, transforming the whole nation into one of struggle and jihād. When the army returned from Mu'tah the youngsters welcomed it with shouts of disapproval, saying: "Runaways. You have fled from the path of Allāh (ﷻ)!"
 
-These inexperienced children considered Khālid's retreat to be flight from battle, deserving a welcome with handfuls of dust. What a strong noble generation was built by faith in the religion of truth. Look what success Islām achieved in moulding such wonderful children. Who were their fathers? Who were their mothers? How did their fathers bring them up and how did their mothers train them? The Muslim women of today are in dire need of learning these lessons.
+These inexperienced children considered Khālid's retreat to be flight from battle, deserving a welcome with handfuls of dust. What a strong noble generation was built by faith in the religion of truth. Look what success Islām achieved in moulding such wonderful children. Who were their fathers? Who were their mothers? How did their fathers bring them up and how did their mothers cherish them? The Muslim women of today are in dire need of learning these lessons.
 
-The Prophet (ﷺ) spoke to his Companions of the martyred leaders of this army: "they would not be happy to be among us."⁵⁶ Yes, the station they had reached was dearer to their souls and more pleasing to their eyes than the world and all it contained. As for their families, they were under the protection of Allāh (ﷻ).
+The Prophet (ﷺ) spoke to his Companions of the martyred leaders of this army: "they would not be happy to be among us."⁵⁸ Yes, the station they had reached was dearer to their souls and more pleasing to their eyes than the world and all it contained. As for their families, they were under the protection of Allāh (ﷻ).
 
 'Abdullāh ibn Ja'far, son of the martyred leader, said: "The Prophet (ﷺ) came to us three days after the death of Ja'far and said: "Do not weep over my brother after today, and call my brother's children to me." We were brought like chickens and then he said: "Call the barber."
 
-The barber was brought and he shaved our heads. Then the Prophet (ﷺ) said playfully: "Muhammad (ﷺ) is like our uncle Abū Ṭālib and Abdullāh is like me in features and character."
+The barber was brought and he shaved our heads. Then the Prophet (ﷺ) said playfully: "Muhammad is like our uncle Abū Ṭālib and Abdullāh is like me in features and character."
 
 Then he took my hand, raised it and said: "O Allāh (ﷻ), be the Protector of Ja'far family after him, and bless 'Abdullāh in the dealings of his right hand."
 
-He said this three times. My mother came and spoke to him of our orphanhood and how worried she was. So he consoled her by saying: "You are afraid for the children although I am their guardian in this world and the next?"⁵⁷
+He said this three times. My mother came and spoke to him of our orphanhood and how worried she was. So he consoled her by saying: "You are afraid for the children although I am their guardian in this world and the next?"⁵⁹
 
 The results of Mu'tah did not appease the Muslims. The dominant tribes in the north had sought the help of the Romans against them, and so were able to escape the consequences of their aggression on Al-Ḥārith ibn 'Umayr. It was therefore still necessary to instil fear into their hearts and to make them feel that the Islāmic missions would not tolerate this kind of insult. Thus the Muslims turned their military activities to new, far-off fields.
 
 ## Dhāt al Salāsil
 
-Mu'tah took place in Jumada I of the eighth year, and not long afterwards the Muslims returned to the hills of Syria to pursue their enemies before they settled down. 'Amr ibn al Ās was sent to teach a lesson to the tribes who lived there. Being afraid of their numbers, he sought reinforcements from the Prophet (ﷺ), and as he waited for their arrival he kept close to a waterhole known as Salāsil. The Prophet (ﷺ) sent reinforcements comprising some of the early muhajirīn, including Abū Bakr (رضي الله عنه) and 'Umar (رضي الله عنه), and led by Abū Ubaydah ibn al Jarrah, whom he advised not to have any disputes with 'Amr.
+Mu'tah took place in Jumada I of the eighth year, and not long afterwards the Muslims returned to the hills of Syria to pursue their enemies before they settled down. 'Amr ibn al Ās was sent to teach a lesson to the tribes who lived there. Being afraid of their numbers, he sought reinforcements from the Prophet (ﷺ), and as he waited for their arrival he kept close to a waterhole known as Salāsil. The Prophet (ﷺ) sent reinforcements comprising some of the early muhajirīn, including Abū Bakr (رضي الله عنه) and 'Umar (رضي الله عنه), and led by Abū Ubaydah ibn al Jarrah, whom he advised not to have any disputes with 'Amr.⁶⁰
 
 When he arrived, 'Amr claimed that he was sent as reinforcements for him, whereas Abū 'Ubaydah claimed that he was in charge of the troops he had brought, while 'Amr remained in command of his own troops. When 'Amr insisted on having his own way, Abū 'Ubaydah, who was a soft-hearted, man said: " 'Amr, the Prophet (ﷺ) ordered me not to dispute with you. If you disobey me I will obey you."
 'Amr replied: "Then I am your leader and you are my support."
 Abū 'Ubaydah accepted this, 'Amr took command of the entire force and led them in prayer.
 
-'Amr began to pursue the tribes which were allied to the Romans. He entered a number of countries, and every-time he reached a place he was told that although there was a group there, they had dispersed on hearing of his approach. On one occasion he caught up with one of these groups and a fight ensued. However, they fled and he could not get them again. Although 'Amr was able to subdue the bedouin tribes and make them disperse, he did not meet them in a decisive battle. Nevertheless, this expedition was able to remove much of the mud from the reputation of the Muslims.
+'Amr began to pursue the tribes which were allied to the Romans, and penetrated the lands of Balī, 'Udhrah, Balqayn and Ṭayyi'; and every-time he reached a place he was told that although there was a group there, they had dispersed on hearing of his approach. On one occasion he caught up with one of these groups and a fight ensued. However, they fled and he could not get them again. Although 'Amr was able to subdue the bedouin tribes and make them disperse, he did not meet them in a decisive battle. Nevertheless, this expedition was able to remove much of the mud from the reputation of the Muslims.
 
 It happened that one cold night 'Amr had a nocturnal emission. He was afraid that if he had a bath he would fall sick, so he made tayammum and led the men in prayer. Some of the Companions were doubtful about the validity of this action, so they asked the Prophet (ﷺ) about it and he asked 'Amr to explain. 'Amr explained that he was afraid of the severe cold, and Allāh (ﷻ) said:
 
 (And do not kill yourselves. Truly, Allah is Merciful to you.) (Qur'ān 4: 29)
 
-The Prophet (ﷺ) laughed and did not say anything.⁵⁸ 'Amr's understanding in this matter was correct, for tayammum is permitted when the use of water may cause harm.
+The Prophet (ﷺ) laughed and did not say anything.⁶¹ 'Amr's understanding in this matter was correct, for tayammum is permitted when the use of water may cause harm.
 
 ## The Conquest of Makkah
 
 After the Treaty of Ḥudaybiyah the Muslims busied themselves with the spread of the da'wah and the presentation of the teachings of Islām to all who had understanding. Their faithfulness to the Quraish was visible to all in matters that they liked or disliked and the people could see clear evidence of that. However, the Quraish persisted in their old, stagnated policy without taking into account the momentous events which had changed conditions in the Arabian peninsula and which were about to change conditions in the world as a whole. This lack of insight led the Quraish to commit a grave act of stupidity, after which the treaty of Ḥudaybiyah was to become null and void. It happened that the Quraish, along with their allies of the Banū Bakr, attacked the Khuza'ah, who were allies of the Muslims, and killed a few of their men. The Khuza'ah sought refuge in the sanctuary of the Ka'bah, for they were not prepared for combat. Despite that, the Banū Bakr pursued them while the Quraish lent arms and assisted the Banū Bakr in their oppression.
 
 Some men of the Banū Bakr felt that they ought not to fight in the Ḥaram, and spoke to their chief, Naufal ibn Mu'āwiyah, about this, saying: "We have entered the Ḥaram, (so mind) your god, your God!"
-Nevertheless, Naufal said: "There is no God today, Banū Bakr, Carry out your task!"
+Nevertheless, Naufal said: "There is no God today, Banū Bakr! Take your revenge!"
 
-The Khuzā'ah were terrified by what happened to them, and they sent 'Āmir ibn Sālim to the Prophet (ﷺ) to tell him the news. Upon hearing the account, the Prophet (ﷺ) promised to come to their aid.⁵⁹
+The Khuzā'ah were terrified by what happened to them, and they sent 'Amr ibn Sālim to the Messenger of Allāh (ﷺ) to tell him their story. When he reached Madīnah he stood before the Prophet (ﷺ), who was sitting in the mosque among the people, and said:
+
+*"O Lord, I adjure Muhammad (ﷺ) by the ancient alliance of our father and his father:*
+
+*you were the children and we the parent; then we made peace and never withdrew our hand.*
+
+*So help, may Allāh (ﷻ) guide you, with ready help, and call the servants of Allāh (ﷻ) to come as reinforcement,*
+
+*among them the Messenger of Allāh (ﷺ), stripped for battle, fair as the full moon rising high,*
+
+*whose face darkens if he is subjected to humiliation — in a host like the sea, flowing and foaming.*
+
+*The Quraish have broken their promise to you and violated your firm covenant;*
+
+*they set an ambush for me at Kadā' and claimed that I would call on no one,*
+
+*yet they are baser and fewer in number; they fell upon us by night at al-Watīr as we slept,*
+
+*and killed us as we bowed and prostrated."*
+
+The Messenger of Allāh (ﷺ) replied: "You shall be helped, O 'Amr ibn Sālim!"⁶²
 
 Afterwards the Quraish realized their mistake and sent Abū Sufyān to make amends. Upon reaching Madīnah, he went to the house of his daughter, Umm Ḥabībah. He was about to sit upon the bed when she stopped him. Surprised, he said: "My daughter, I don't know whether it is me you prefer to the bed or whether you prefer the bed to me."
 
 "It's the bed of Allāh's Messenger (ﷺ)," she retorted, "and you are a polluted idolater."
 
 "By God, evil has befallen you after me."
-He said. Then left, and went to the Prophet (ﷺ) and spoke to him but he received no reply.⁶⁰ Abū Sufyān then sought the help of Abū Bakr (رضي الله عنه) and begged him to speak to the Prophet (ﷺ) on his behalf, but he refused. He went to 'Umar (رضي الله عنه) but the latter refused also. Leaving both of them, he went to 'Alī (رضي الله عنه). However, 'Alī (رضي الله عنه) said: "By Allāh (ﷻ), Abū Sufyān, Allāh's Messenger (ﷺ) has decided upon a matter about which we cannot speak to him." He advised him to return whence he came, and Abū Sufyān made his way back to the Quraish to inform them of the reception he had received.
+He said. Then left, and went to the Prophet (ﷺ) and spoke to him but he received no reply.⁶³ Abū Sufyān then sought the help of Abū Bakr (رضي الله عنه) and begged him to speak to the Prophet (ﷺ) on his behalf, but he refused. He went to 'Umar (رضي الله عنه), who said: "Should I intercede for you with the Messenger of Allāh (ﷺ)? By Allāh (ﷻ), if I found nothing but ants, I would fight you with them!" Leaving both of them, he went to 'Alī (رضي الله عنه). However, 'Alī (رضي الله عنه) said: "By Allāh (ﷻ), Abū Sufyān, Allāh's Messenger (ﷺ) has decided upon a matter about which we cannot speak to him." He advised him to return whence he came, and Abū Sufyān made his way back to the Quraish to inform them of the reception he had received.
 
-The Prophet (ﷺ) ordered the people to prepare themselves and said that he was going to Makkah. He urged them to be serious and brisk. He supplicated: "O Allāh (ﷻ), take away the eyes and the news from the Quraish until we surprise them in their land."⁶¹ The Muslims listened to the Prophet's (ﷺ) order and began mobilizing their forces for the expected encounter. They knew that the decisive hour between them and the Quraish was close.
+The Prophet (ﷺ) ordered the people to prepare themselves and said that he was going to Makkah. He urged them to be serious and brisk. He supplicated: "O Allāh (ﷻ), take away the eyes and the news from the Quraish until we surprise them in their land."⁶⁴ The Muslims listened to the Prophet's (ﷺ) order and began mobilizing their forces for the expected encounter. They knew that the decisive hour between them and the Quraish was close.
 
 At this critical juncture an amazing incident occurred. A man who was among the earliest to fight in the jihād against the idolaters dispatched a letter to the Quraish, informing them that Muhammad (ﷺ) was about to descend on them with his forces. You have seen how keen the Muslims were to hid the plan of their attack. Was this not better for success and the minimizing of losses? Perhaps it would make the Quraish surrender without shedding blood in vain. What could writing to them mean except inciting them to fight Allāh (ﷻ) and His messenger and make extensive preparations to resist?
 
@@ -4960,7 +5136,7 @@ The Prophet (ﷺ) said: 'He has indeed told you the truth!"
 
 However, the prophet (ﷺ) replied: "He took part in Badr, and what do you know… maybe Allāh (ﷻ) looked at those who took part in Badr and said: Do as you please for I have forgiven you." Then Allāh's words were revealed:
 
-(O you who believe! Do not choose My enemy and your enemy for friends. Do you give them friendship when they disbelieve in that truth which has come to you, driving out the messenger and you because you believe in Allah, your Lord? If you have come forth to strive in My way and seeking My good pleasure, [do not show them friendship]. Do you show friendship to them in secret, when I am best Aware of what you hide and what you proclaim? And whoever does it among you, he has indeed strayed from the right way.⁶² (Qur'ān 60: 1)
+(O you who believe! Do not choose My enemy and your enemy for friends. Do you give them friendship when they disbelieve in that truth which has come to you, driving out the messenger and you because you believe in Allah, your Lord? If you have come forth to strive in My way and seeking My good pleasure, [do not show them friendship]. Do you show friendship to them in secret, when I am best Aware of what you hide and what you proclaim? And whoever does it among you, he has indeed strayed from the right way.)⁶⁵ (Qur'ān 60: 1)
 
 By this action Ḥātib had missed the straight path. It was not right of him to show love for the idolaters. Who had flaunted their disbelief, supported one another in aggression and done to the Muslims what Ḥātib was more aware of than others. Nevertheless, a great man sometimes makes a slip, and Allāh (ﷻ) is kinder to His servants than to take them to task for the moments of weakness which dim their light and cause them to stumble. The Prophet (ﷺ) inquired about the reason for this wrong-doing, and he knew that the man did not lie in the excuse he made. They were about to enter a serious battle in which they might be defeated, and then the old tribalism would rise to protect their relatives who might be in danger. Ḥātib would be without protection, so let him therefore seek favour with the Quraish to guard against the future.
 
@@ -4968,7 +5144,7 @@ This is what Ḥātib thought. He was wrong, however. The idolaters did not reme
 
 Nevertheless, Ḥātib's noble past interceded for him and lessened his fall. The Prophet (ﷺ) ordered the Muslims to remember the man with the best virtues in him. Islām has taught us not to forget the good deeds and virtues of those who may slip at times but have a long history of following the right path.
 
-Consternation spread throughout the valleys of Makkah upon the return of Abū Sufyān. Al-'Abbās ibn 'Abdul Muṭṭalib thought it best that he and his family should accept Islām and migrate to Madīnah. On the way they met the Prophet (ﷺ) leading his army upon Makkah. Likewise, Abū Sufyān ibn al Ḥārith ibn 'Abdul Muṭṭalib and 'Abdullāh ibn Abi 'Umayyah left Makkah and encountered the Prophet (ﷺ) at Abwā. They were the Prophet's (ﷺ) cousins and were among those who had hurt him the most in Makkah. Thus he turned away from them when he remembered their molestation of him. Nevertheless, 'Alī (رضي الله عنه) indicated a way to his cousin, Abū Sufyān, by which he could gain acceptance from the Prophet (ﷺ).
+Consternation spread throughout the valleys of Makkah upon the return of Abū Sufyān. Al-'Abbās ibn 'Abdul Muṭṭalib thought it best that he and his family should accept Islām and migrate to Madīnah. On the way they met the Prophet (ﷺ) leading his army upon Makkah. Likewise, Abū Sufyān ibn al Ḥārith ibn 'Abdul Muṭṭalib and 'Abdullāh ibn Abī Umayyah left Makkah and encountered the Prophet (ﷺ) at al-Abwā'. They were the Prophet's (ﷺ) cousins and were among those who had hurt him the most in Makkah. Thus he turned away from them when he remembered their molestation of him. Nevertheless, 'Alī (رضي الله عنه) indicated a way to his cousin, Abū Sufyān, by which he could gain acceptance from the Prophet (ﷺ).
 
 He said; "Come up in front of him and say what the brothers of Yusuf (عليه السلام) had said: 'By Allāh (ﷻ),
 
@@ -4995,7 +5171,7 @@ Then Abū Sufyān recited some couplets of poetry, among which he said:
 *And someone has shown me Allāh (ﷻ) whom I had chased everywhere."*
 
 The Prophet (ﷺ) struck him on the chest and said:
-"Did you chase me everywhere?"⁶³
+"Did you chase me everywhere?"⁶⁶
 
 The army quickly traversed valley and hill on its march to Makkah, and at nightfall they camped at Marr Al Zahrān, not far from the city. Tents were pitched and fires were lit in every camp, totalling ten thousand men. The whole valley was lit up and Makkah remained in the dark about them, unaware of the fate that was about to befall them.
 
@@ -5009,7 +5185,7 @@ However, Abū Sufyān replied: "The Khuza'ah are too few and cowardly for these 
 
 The Muslims, in accordance with their planned strategy, were sending reconnaissance parties around them so that they might take the Quraish by surprise and force them to an unconditional surrender. One of these parties stumbled on the three Makkans and brought them under arrest to the Prophet (ﷺ). Al 'Abbās quickly took charge of the captives and declared that they were under his protection. Upon reaching the Prophet (ﷺ), he began a conversation with them which lasted most of the night, and their hearts opened to Islām, except that Abū Sufyān delayed until the morning.
 
-They then asked him for a guarantee of the safety of the Quraish, and he said: "Whoever enters the house of Abū Sufyān is safe; whoever enters the mosque is safe; and whoever locks his door is safe."⁶⁴
+They then asked him for a guarantee of the safety of the Quraish, and he said: "Whoever enters the house of Abū Sufyān is safe; whoever enters the mosque is safe; and whoever locks his door is safe."⁶⁷
 
 The Prophet (ﷺ) conferred this honour on Abū Sufyān only to appease his pride, and this he did by means of something which neither harmed anyone nor caused any hardship. This is an easy price to pay to win someone's confidence. The Prophet (ﷺ), nevertheless, wanted to ensure that there were as little fighting and killing as possible. He, therefore, together with this treatment to Abū Sufyān, ordered Al 'Abbās to detain him at a pass in the valley so that he might see all the troops pass by and no thought might linger in his mind about showing resistance as the accepted chief of the Quraish.
 
@@ -5018,12 +5194,12 @@ Al 'Abbās narrated:
 "I took Abū Sufyān and detained him in the pass as the Prophet (ﷺ) had ordered me, and the tribes started to march past behind their banners. As each tribe passed, he asked "Who are these, 'Abbās?"
 I would reply: "Sulaym."
 
-He would say, "What have I to do with Sulaym?" Then another tribe would pass and he would ask who they were. When I said "Muzayyinah," he would reply, "What do I have to do with Muzayyinah?" In the same way, all the tribes filed past and he asked the name of every one of them. As I told him, he would reply, "What do I have to do I have to do with so-and-so?" Then finally the Prophet (ﷺ) passed by with his green battalion of Muhajirīn and Anṣār, only their eyes visible from behind the armour. He exclaimed: "Subhānallāh! 'Abbās, who are these?
+He would say, "What have I to do with Sulaym?" Then another tribe would pass and he would ask who they were. When I said "Muzaynah," he would reply, "What do I have to do with Muzaynah?" In the same way, all the tribes filed past and he asked the name of every one of them. As I told him, he would reply, "What do I have to do I have to do with so-and-so?" Then finally the Prophet (ﷺ) passed by with his green battalion of Muhajirīn and Anṣār, only their eyes visible from behind the armour. He exclaimed: "Subhānallāh! 'Abbās, who are these?
 "This is the Messenger of Allāh (ﷺ) with the muhajirīn and Anṣār," I replied.
 
 He said, "No-one has the strength or power to match these! By Allāh (ﷻ), Abul Fadl, your nephew's kingdom has become great overnight!"
 I said, "Abū Sufyān, it is prophethood.
-He replied, "Yes, then.⁶⁵
+He replied, "Yes, then.⁶⁸
 
 Abū Sufyān entered Makkah dazed and bewildered with the feeling that behind him was a storm which, if let loose, would sweep away everything in its path. The Makkah saw the victorious army approaching slowly from afar. They gathered around their leaders, awaiting the order to fight. However, the voice of Abū Sufyān penetrated their midst loud and clear: "O people of the Quraish! Muhammad (ﷺ) has come with a force which you cannot resist. So whoever enters the house of Abū Sufyān will be safe." His wife, Hind bint 'Utbah, was appalled at these words coming from her husband.
 
@@ -5036,37 +5212,57 @@ Some of them shouted: "May God fight you! What good can your house do to us?
 He continued, "And whoever locks his door and is in the inside will be safe, and whoever enters the mosque will be safe."
 The people then dispersed and fled to their homes or to the Ka'bah. Soon the "Mother of Cities" become lifeless and resigned herself to the destiny which had overtaken her.
 
-As the army continued its march to Makkah, the Prophet (ﷺ) was on his camel, a black turban on his head, and his head lowered out of abject humility to Allāh (ﷻ). He bent forward so far, the humility reflecting in his features, that his beard almost touched the back of his mount.⁶⁶ The powerful, frightening army which was marching to the centre of the Ḥaram and the armour-clad troops who surrounded him were waiting for one signal from himself and nothing in Makkah would remain at peace. Surely this manifest victory reminded him of a past with long chapters of how he was ejected and how he had finally returned this day as the strong conqueror. What greater honour did Allāh (ﷻ) bestow on him than to see this auspicious morning? The more he thought of these bounties, the more he bowed in humility on his mount.
+As the army continued its march to Makkah, the Prophet (ﷺ) was on his camel, a black turban on his head, and his head lowered out of abject humility to Allāh (ﷻ). He bent forward so far, the humility reflecting in his features, that his beard almost touched the back of his mount.⁶⁹ The powerful, frightening army which was marching to the centre of the Ḥaram and the armour-clad troops who surrounded him were waiting for one signal from himself and nothing in Makkah would remain at peace. Surely this manifest victory reminded him of a past with long chapters of how he was ejected and how he had finally returned this day as the strong conqueror. What greater honour did Allāh (ﷻ) bestow on him than to see this auspicious morning? The more he thought of these bounties, the more he bowed in humility on his mount.
 
 However, it seemed as though there were other emotions playing in the minds of some. Sa'd ibn 'Ubādah, chief of the Aws [thus in the Arabic original; he was in fact chief of the Khazraj — translator's note], remembered what the Makkans had done and how they had shown intransigence to Allāh (ﷻ). Then he felt the reins of power in his hands and shouted: "Today is the day of slaughter! Today the unlawful will be permitted! Today Allāh (ﷻ) will bring shame on the Quraish!"
 
-These words reached the ears of the Prophet (ﷺ) and he said: "No. Today is the day when the Ka'bah will be exalted.⁶⁷ Today is the day when Allāh (ﷻ) will honour the Quraish," and he ordered the banner to be taken from Sa'd and given to his son for fear that Sa'd might instigate his men to action.
+These words reached the ears of the Prophet (ﷺ) and he said: "No. Today is the day when the Ka'bah will be exalted.⁷⁰ Today is the day when Allāh (ﷻ) will honour the Quraish," and he ordered the banner to be taken from Sa'd and given to his son for fear that Sa'd might instigate his men to action.
 
-The Prophet (ﷺ) entered Makkah from its upper side and ordered the leaders of his army not to fight unless they were attacked. The contingents entered from the other quarters. Khālid ibn al-Walīd entered from lower Makkah where there was a group of Makkans who refused to surrender, having assembled at Khandamah under the leadership of 'Ikrimah ibn Abī Jahl, Sahl ibn 'Amr and Safwān ibn Umayyah. However overwhelming reality clashed with their pride and dissipated it, for Khālid bore down upon them and they took to their heels.
+The Prophet (ﷺ) entered Makkah from its upper side⁷¹ and ordered the leaders of his army not to fight unless they were attacked.⁷² The contingents entered from the other quarters. Khālid ibn al-Walīd entered from lower Makkah where there was a group of Makkans who refused to surrender, having assembled at Khandamah under the leadership of 'Ikrimah ibn Abī Jahl, Suhayl ibn 'Amr and Ṣafwān ibn Umayyah. However overwhelming reality clashed with their pride and dissipated it, for Khālid bore down upon them and they took to their heels.
 
-A humorous event which occurred was that Ḥamās ibn Khālid of the tribe of the Banū Bakr had prepared weapons to fight the Muslims. Whenever his wife saw him cleaning them she would ask what he was going to do with them, and he would reply that he was keeping them for Muhammad (ﷺ) and his Companions.
+A humorous event which occurred was that Ḥimās ibn Khālid of the tribe of the Banū Bakr had prepared weapons to fight the Muslims. Whenever his wife saw him cleaning them she would ask what he was going to do with them, and he would reply that he was keeping them for Muhammad (ﷺ) and his Companions.
 One day she said to him, "By God, I do not see them being of any use against Muhammad (ﷺ) and his Companions."
-He replied: "By God, I hope to make one of them a slave for you."
+He replied: "By God, I hope to make one of them a slave for you." Then he said:
 
-When the day of the conquest of Makkah arrived, this Ḥamās fought with 'Ikrimah and his band of men. Nevertheless, as soon as he saw the party of idolaters dispersing and fleeing from Khālid's army, he dejectedly made his way home and told his wife to lock the door.
+*"If they come on today, I have no excuse:*
+
+*here is complete armour, and a long spear,*
+
+*and a two-edged sword, quick to draw!"*
+
+When the day of the conquest of Makkah arrived, this Ḥimās fought with 'Ikrimah and his band of men. Nevertheless, as soon as he saw the party of idolaters dispersing and fleeing from Khālid's army, he dejectedly made his way home and told his wife to lock the door.
 
 Surprised, she asked: "Well, what of your previous talk?"
-Excusing himself, he said: "If you had seen the day of Khandaman, when Safwān fled, and also 'Ikrimah, and Abū Yazīd stood like a pillar, and they were met by Muslim swords cutting through every arm and skull, leaving only moans to be heard, behind us their cries and groans. Not a word of blame would you have uttered!"
+Excusing himself, he said:
 
-Makkah surrendered, and the Prophet (ﷺ) headed for the Ancient House and circumambulated it. He broke the Idols which surrounded it, hitting them on their backs with his bow so that they fell on their faces and smashed to pieces. A while ago these stones had been hallowed gods and now they were crushed rubble. As he broke them, the Prophet of tawḥīd recited:⁶⁸
+*"Had you witnessed the day of Khandamah, when Ṣafwān fled and 'Ikrimah fled too,*
+
+*and Abū Yazīd [Suhayl ibn 'Amr] stood like a woman left alone with her orphans — and drawn Muslim swords met them,*
+
+*cutting off every arm and skull, striking so that nothing could be heard but confused murmuring,*
+
+*and behind us their snorting and growling — you would not have uttered the least word of blame!"*
+
+Makkah surrendered, and the Prophet (ﷺ) headed for the Ancient House and circumambulated it. He broke the Idols which surrounded it, hitting them on their backs with his bow so that they fell on their faces and smashed to pieces. A while ago these stones had been hallowed gods and now they were crushed rubble. As he broke them, the Prophet of tawḥīd recited:⁷³
 
 (And Say: Truth has come and falsehood has vanished. Indeed, falsehood is ever bound to vanish.) (Qur'ān 17: 81)
 
-Then he ordered the Ka'bah to be opened and saw it full of idols, two of them representing Ibrāhīm (عليه السلام) and Ismā'īl (عليه السلام) casting lots with the divining arrows. Upon seeing this he said angrily: "May Allāh (ﷻ) fight them (the idolaters)! By Allāh (ﷻ), these two never cast lots with divining arrows!"⁶⁹ and he destroyed it all.⁷⁰
+Then he ordered the Ka'bah to be opened and saw it full of pictures, two of them representing Ibrāhīm (عليه السلام) and Ismā'īl (عليه السلام) casting lots with the divining arrows. Upon seeing this he said angrily: "May Allāh (ﷻ) fight them (the idolaters)! By Allāh (ﷻ), these two never cast lots with divining arrows!"⁷⁴ and he destroyed it all.⁷⁵
 
 When the mosque was cleansed of all the idols, he turned to the Quraish who were awaiting his sentence on them. He held onto the two jambs of the door of the Ka'bah and said: "There is no god but Allāh (ﷻ) alone: He has fulfilled His promise, and helped His servant; and defeated the hordes by Himself." Then he asked: "O Quraish, what do you think I am going to do to you."
 They replied: "Good. You are a noble brother, son of a noble brother."
 
-To which he said: "Well, I say you as Yūsuf said to his brothers: 'Have no fear today.' Go, for you are the freed ones" (antum al tulaqa').⁷¹
+To which he said: "Well, I say you as Yūsuf said to his brothers: 'Have no fear today.' Go, for you are the freed ones" (antum al tulaqa').⁷⁶
 
 While the Prophet (ﷺ) was in the mosque, finishing off idolatry in its capital fortress, Fuḍalah ibn 'Umayr approached him with the intention of killing him at the first opportunity. The Prophet (ﷺ) looked at him and understood his purpose. Yet somehow, in the glory of the victory with which Allāh (ﷻ) had honoured him, he could not find in him to be angry with the man. He called him and asked what it was that he had on his mind. Fuḍalah replied: "I was only thinking of and remembering Allāh (ﷻ)." The Prophet (ﷺ) laughed at said: "seek Allāh's forgiveness," and spoke kindly to him, and placed his hand on his chest.
 
-The man went away, saying: "He had hardly removed his hand from my chest when I felt that there was no-one more beloved to me than he was."⁷² Fuḍalah had his weaknesses in jahilīyah, and as he was going home he came across a woman with whom he had had an affair. Upon seeing him she invited him to sit and chat. But he replied: "No, Allāh (ﷻ) and Islām forbid it to me. If you had seen Muhammad (ﷺ) and his tribe on the day of the Conquest when the idols were smashed, you would have seen the religion of Allāh (ﷻ) becoming manifest and the face of idolatry being smothered in darkness."
+The man went away, saying: "He had hardly removed his hand from my chest when I felt that there was no-one more beloved to me than he was."⁷⁷ Fuḍālah had his weaknesses in jahilīyah, and as he was going home he came across a woman with whom he had had an affair. Upon seeing him she invited him to come and chat, and he answered:
+
+*"She said: 'Come and talk!' I said: 'No! Allāh (ﷻ) and Islām forbid me.'*
+
+*Had you seen Muhammad (ﷺ) and his host on the day of the Conquest, when the idols were smashed,*
+
+*you would have seen the religion of Allāh (ﷻ) made manifest, and the face of idolatry covered in darkness."*
 
 Bilāl (رضي الله عنه) climbed, on the roof of the Ka'bah and shouted the call to prayer while everyone in Makkah listened to this new call as if they were in a dream. The words rang through the air, striking terror into the hearts of the devils who could find no alternative but to flee from its piercing sound or submit themselves to Islām: "Allāh (ﷻ) is the Greatest; Allāh (ﷻ) is the Greatest; Allāh (ﷻ) is the Greatest; Allāh (ﷻ) is the Greatest."
 
@@ -5076,29 +5272,29 @@ These emphatic cries reminded the people of their ultimate goal in life and thei
 
 The Mu'adhdhin goes on to give the answer: "I bear witness that Muhammad (ﷺ) is Allāh's Messenger, I bear witness that Muhammad (ﷺ) is Allāh's Messenger." The life of this noble man is the perfect ideal for every human being who wishes to live a sound life. Muhammad (ﷺ) was the man who sketched with his virtuous lifestyle, the unique path for all those who embrace the truth and live for it. The call to prayer warns all intelligent people to do what is good and become active for the pleasure of their Master. It first urges the people to perform a simple act of worship.
 
-"Come to prayer; Come to prayer." These prayers are the moments of contemplation about the worth of this world; these are the moments of return when people stray from the straight path; they are the moments of submission and humility to Allāh (ﷻ) whenever haste overtakes people, egotism invades their thoughts, and they look at themselves as if they were little gods; these are the moments of recuperation and inspiration. How much in need people are inspite of their haughty airs, of someone to inspire them with uprightness so that they do not behave foolishly, one who will give them strength so that they do not feel themselves incapable and weak. The call to prayer finally urges people to keep frustration at bay in all their affairs. Frustration comes when one's efforts go to waste, when one's actions do not bring results because of some mistake, whether it is a mistake in the performance of an act or in its purpose. It warns of this frustration when it says: "Come to success, come to success." The day an action comes from person and is correct in form and intention, that person will attain success, even if it happens to be an action which pertains to this world alone. Did Allāh (ﷻ) not teach His Prophet (ﷺ) to make all his affairs of life, let alone his rituals and worship, purely for the pleasure of Allāh (ﷻ)?
+"Come to prayer; Come to prayer." These prayers are the moments of contemplation amid the noise of this world; these are the moments of return when people stray from the straight path; they are the moments of submission and humility to Allāh (ﷻ) whenever haste overtakes people, egotism invades their thoughts, and they look at themselves as if they were little gods; these are the moments of recuperation and inspiration. How much in need people are in spite of their vanity, of someone to inspire them with uprightness so that they do not behave foolishly, one who will give them strength so that they do not feel themselves incapable and weak. The call to prayer finally urges people to keep frustration at bay in all their affairs. Frustration comes when one's efforts go to waste, when one's actions do not bring results because of some mistake, whether it is a mistake in the performance of an act or in its purpose. It warns of this frustration when it says: "Come to success, come to success." The day an action comes from person and is correct in form and intention, that person will attain success, even if it happens to be an action which pertains to this world alone. Did Allāh (ﷻ) not teach His Prophet (ﷺ) to make all his affairs of life, let alone his rituals and worship, purely for the pleasure of Allāh (ﷻ)?
 
 (Indeed, Say: my worship, my sacrifice, my living and my dying are for Allah, Lord of the Worlds. He has no partner. Thus am I commanded, and I am first of those who surrender [to Him].) (Qur'ān 6: 162-163)
 
 The only way to do this is by subjugating all other goals to Allāh (ﷻ) and by always maintaining a pure monotheism. Thus the call to prayer returns once again to the Ultimate Goal and the method: "Allāh (ﷻ) is the Greatest, Allāh (ﷻ) is the Greatest. There is no god but Allāh (ﷻ)."
 
-The words of the adhān represent the glaring highlight of a comprehensive message of reform. This is why, according to the authentic traditions, a Muslim should say the following prayer upon hearing it: "O Allāh (ﷻ), Lord of this complete call and established prayer, grant Muhammad (ﷺ) the intercession and virtue and allot him the exalted status which You promised him. Surely You do not betray your promises."⁷³
+The words of the adhān represent the glaring highlight of a comprehensive message of reform. This is why, according to the authentic traditions, a Muslim should say the following prayer upon hearing it: "O Allāh (ﷻ), Lord of this complete call and established prayer, grant Muhammad (ﷺ) the intercession and virtue and allot him the exalted status which You promised him. Surely You do not betray your promises."⁷⁸
 
-On the day of this conquest memories may take us back to some men who had not witnessed this manifest victory, or heard the voice of Bilāl (رضي الله عنه) ringing above the Ka'ba with the slogan of tawḥīd, or seen the idols overturned with their faces in the dust, or seen their former worshippers surrendering and turning towards Islām. They were killed or died during the long struggle between belief and unbelief. The victory whose fruits were being reaped today by the living owed a great deal to those who were dead and their reward was guaranteed by One who does not wrong anyone the weight of an atom. It is not necessary for every soldier to witness the final results of the struggle between truth and falsehood. Some may live through the early stages, whereas others may die in a temporary defeat as happened to Ḥamzah, chief of the martyrs, and those with him.
+On the day of this conquest memories may take us back to some men who had not witnessed this manifest victory, or heard the voice of Bilāl (رضي الله عنه) ringing above the Ka'ba with the slogan of tawḥīd, or seen the idols overturned with their faces in the dust, or seen their former worshippers surrendering and turning towards Islām. They were killed or died during the long struggle between belief and unbelief. The victory whose fruits were being reaped today by the living owed a great deal to those who were dead and their reward was guaranteed by One who does not wrong anyone the weight of an atom. It is not necessary for every soldier to witness the final results of the struggle between truth and falsehood. Death may take some in its early stages, whereas others may die in a temporary defeat as happened to Ḥamzah, chief of the martyrs, and those with him.
 
 The Qur'ān points out the object of reliance is the complete accounting in the Hereafter and not in this world. In that life both the believers and the unbelievers will be given their full due.
 
 (Then have patience. Indeed, the promise of Allah is true. And whether we let you see a part of that which We promise them, or [whether] We cause you to die, still to us will they be brought back.) (Qur'ān 40: 77)
 
-The Prophet (ﷺ) entered Makkah in Ramaḍān and remained the whole month, shortening his prayers. He did not fast for more than fifteen days though he had left Madīna while fasting. However, he and his Companions had broken it on the way.⁷⁴
+The Prophet (ﷺ) entered Makkah in Ramaḍān and remained there for the rest of the month; for nineteen days he shortened his prayers and did not fast, though he had left Madīnah fasting. However, he and his Companions had broken it on the way.⁷⁹
 
-When matters settled down, he began to accept the people's allegiance to Islām.⁷⁵ The old and the young, men and women came when they could.⁷⁶ The women's pledge to the Prophet (ﷺ) was done verbally, not by shaking hands, for 'Ā'ishah reported: " No, by Allāh (ﷻ), the hand of Allāh's Messenger (ﷺ) never touched the hand of a woman.⁷⁷ Thus the people of Makkah entered into Islām. There were a few, however, who remained in doubt and jahilīyah, clinging to idols and consulting oracles. These were left for time to cure: once their protected paganism had gone, then these superstitions would vanish automatically.
+When matters settled down, he began to accept the people's allegiance to Islām.⁸⁰ The old and the young came, and the women, and the pledge was to hear and obey Allāh (ﷻ) and His Messenger (ﷺ) as far as they were able.⁸¹ The women's pledge to the Prophet (ﷺ) was done verbally, not by shaking hands, for 'Ā'ishah reported: " No, by Allāh (ﷻ), the hand of Allāh's Messenger (ﷺ) never touched the hand of a woman.⁸² Thus the people of Makkah entered into Islām. There were a few, however, who remained in doubt and jahilīyah, clinging to idols and consulting oracles. These were left for time to cure: once their protected paganism had gone, then these superstitions would vanish automatically.
 
 The conquest of Makkah came after a swift blow, and the strategy of the Muslims succeeded in keeping the news from reaching the Quraish so that they were surprised in their own homes and found no alternative but to surrender unconditionally without being able to resist or seek reinforcements. The eyes of the Arabs throughout the peninsula were opened in the face of the reality, and they began to think that victory was tied to the banners of Islām and could not be separated from it.
 
 ## The Battle of Ḥunayn
 
-This triumph, nevertheless, had its repercussions among the major tribes who lived near Makkah, foremost among whom were the Hawāzin and Thaqīf, their metropolis being Ṭā'if which was the largest city after Makkah and Madīnah in the Arabian peninsula. The chiefs of these tribes appointed Mālik ibn 'Awf, the chief of the Hawāzin, as their leader, and decided to march upon the Muslims before the pillars of their conquest were strengthened and before they moved towards dismantling the remaining bulwarks of the retreating paganism. Mālik ibn 'Awf was a brave and daring man. However, he was not a deep thinker and seldom asked others for advice. He ordered his men, as they were leaving for the confrontation, to bring along with them their women, children and wealth, so that every man might be aware of them behind him as he fought and not flee from the battlefield.
+This triumph, nevertheless, had its repercussions among the major tribes who lived near Makkah, foremost among whom were the Hawāzin and Thaqīf, their metropolis being Ṭā'if which was the largest city after Makkah and Madīnah in the Arabian peninsula. The chiefs of these tribes appointed Mālik ibn 'Awf, the chief of the Hawāzin, as their leader, and decided to march upon the Muslims before the pillars of their conquest were strengthened and before they moved towards dismantling the remaining bulwarks of the retreating paganism. Mālik ibn 'Awf was a brave and daring man. However, his judgment was unsound and his counsel poor. He ordered his men, as they were leaving for the confrontation, to bring along with them their women, children and wealth, so that every man might be aware of them behind him as he fought and not flee from the battlefield.
 
 Durayd ibn Ṣummah, an experienced warrior, objected to this, saying: "Will anything stop the defeated from fleeing. If you are victorious, all you need are men with swords and spears, and if you are defeated you will be disgraced in the matter of your families and wealth."
 
@@ -5108,7 +5304,7 @@ The Muslims learnt of the march of their enemy and sent spies to find out their 
 Abū Dāwūd narrated that a man came to the Prophet (ﷺ) and said:
 
 "I went ahead of you and climbed Mount such-and-such, and there I saw the Hawāzin gathered with all their men, women, cattle and property near Ḥunayn."
-Allāh's Messenger (ﷺ) smiled and said: "That will be booty for the Muslims tomorrow, Inshāllah."⁷⁸
+Allāh's Messenger (ﷺ) smiled and said: "That will be booty for the Muslims tomorrow, Inshāllah."⁸³
 
 The ease with which Makkah was conquered led the vast majority of Muslims to feel that jahilīyah was breathing its last and would never again put up any resistance worth mentioning. The opinion of the new Muslims that nothing could stand in their way all contributed to the confident march of the army without a thought for what they might encounter. And why should they? While they were few in number they were realizing amazing victories, and now they were in such great numbers as they had never been before.
 
@@ -5118,56 +5314,62 @@ It is narrated that Abū Bakr (رضي الله عنه), upon looking at the army
 
 The confident army marched until they reached the valley of Ḥunayn. However, Mālik and his men had already occupied its passes and were scattered in all the fortified corners, prepared to receive the Muslims. The huge crowds passed on to the valley, unaware of what was hidden therein. It was a hollow valley, sloping downwards, and the riders felt as though they were descending into a pit. When the troops were gathered within its confines they were suddenly shocked to see a hail of arrows falling upon them from the hideouts above them. The darkness of the early morning was still clinging to the horizon as this took place, and a wave of terror swept through the ranks and they turned and fled.
 
-Taking advantage of this confusion, Mālik's men attacked the Muslims with their cavalry, and the chiefs of the Quraish looked on at the retreating army with a sense of gratification and pleasure. Disbelief in Allāh and His Messenger (ﷺ) was renewed in some of them, and Abū Sufyān said: "Their defeat will not end until they reach the sea!" This was not surprising, for the arrows with which he had consulted the oracles in his jahilīyah were still in his quiver!
+Taking advantage of this confusion, Mālik's men attacked the Muslims with their cavalry, and the chiefs of the Quraish looked on at the retreating army with a sense of gratification and pleasure. Disbelief in Allāh and His Messenger (ﷺ) was renewed in some of them, and Abū Sufyān said: "Their defeat will not end until they reach the sea!" This was not surprising, for the divining arrows with which he used to cast lots in his jahilīyah were still in his quiver!
 
-Kildah ibn al-Junayd exclaimed: Indeed! Today the magic is broken!" Ṣafwān ibn Umayyah, though still a polytheist, paid to him in reply: "Shut up! May God split you mouth! By God, I should prefer a man from the Quraish to defeat me than a man from the Hawāzin."
+Kildah ibn al-Junayd exclaimed: "Indeed! Today the magic is broken!" Ṣafwān ibn Umayyah, though still a polytheist, said to him in reply: "Shut up! May God split your mouth! By God, I would rather have a man from the Quraish as my master than a man from the Hawāzin."
 
-The Prophet (ﷺ) was angered by this flight. He shouted: "Where to, men? Come to me! I am the Messenger of Allāh (ﷺ); I am Muhammad ibn 'Abdullāh!" No-one responded to him, the camels jumped onto one another as their riders turned with them to flee.⁷⁹ Then the Prophet (ﷺ) spied a man from the Hawāzin on a red Camel, who was holding a black flag on the tip of a long spear, and behind him were the Hawāzin. Whenever he caught any of the fleeing Muslims he pierced him with his spear, and whenever he missed he would raise his hand to those behind him to give chase.
+The Prophet (ﷺ) was angered by this flight. He shouted: "Where to, men? Come to me! I am the Messenger of Allāh (ﷺ); I am Muhammad ibn 'Abdullāh!" No-one responded to him, the camels jumped onto one another as their riders turned with them to flee.⁸⁴ Then the Prophet (ﷺ) spied a man from the Hawāzin on a red Camel, who was holding a black flag on the tip of a long spear, and behind him were the Hawāzin. Whenever he caught any of the fleeing Muslims he pierced him with his spear, and whenever he missed he would raise his hand to those behind him to give chase.
 
-Those who led this shameful display were the freed Makkans and the bedouin mob. The Prophet (ﷺ) stood with complete composure, planning a strategy to save the reputation and future of Islām. Surrounding him was a group of early muhajirīn and members of his household. So he ordered Al-'Abbās ibn 'Abdul Muṭṭalib, who had a resonant voice, to shout: "O Anṣār! You who took the pledge at Ḥudaybiyah!"⁸⁰ Truth guided him to call those who had ideology and those who had laid down their lives for a cause, for it was only by means of such people that the ideology could succeed and emerge from a crisis. As for those masses of people who thought only of this world and strove for booty, nothing could be achieved by them nor could they remain steadfast.
+Those who led this shameful display were the freed Makkans and the bedouin mob. The Prophet (ﷺ) stood with complete composure, planning a strategy to save the reputation and future of Islām. Surrounding him was a group of early muhajirīn and members of his household. So he ordered Al-'Abbās ibn 'Abdul Muṭṭalib, who had a resonant voice, to shout: "O Anṣār! You who took the pledge at Ḥudaybiyah!"⁸⁵ Truth guided him to call those who had ideology and those who had laid down their lives for a cause, for it was only by means of such people that the ideology could succeed and emerge from a crisis. As for those masses of people who thought only of this world and strove for booty, nothing could be achieved by them nor could they remain steadfast.
 
 ## Rally and Victory
 
 Despite the noise caused by the confusion at the beginning of the battle, Al 'Abbās's cries rang out and reached the ears of the men, who were in a daze at the tide of events, and they began to struggle to reach the source of the voice. When one of them wanted to guide his camel in that direction he found it impossible to do because of the pressure of those in flight. He could see no alternative but to throw off his armour, take up his sword and shield and head for the voice. Soon a number of men were gathered around the Prophet (ﷺ), nearly one hundred. He then faced the idolaters with them and a fierce battle ensued. 'Alī (رضي الله عنه) and one of the Anṣār went for the standard-bearer from the Hawāzin. 'Alī (رضي الله عنه) hamstring the camel and it fell on its hindquarters, enabling the Anṣārī to pull the man off its back and kill him.
 
-All this time, the Prophet (ﷺ) on his mule was shouting: "I am the Prophet of Allāh (ﷺ) and this the truth; I am the son of 'Abdul Muṭṭalib.⁸¹ He was also supplicating: "Allāh (ﷻ), send down Your help.⁸² The muhajirīn and Anṣār were now fully engaged with the Hawāzin and the Thaqīf. Al-'Abbās narrated that the Prophet (ﷺ) on his mule looked at the battle and said, "Now the battle is raging." Then he picked up some pebbles and threw them into the enemies' faces, saying, "They are defeated, by the Lord of Muhammad (ﷺ)," and it was not long before the Thaqīf and their allies had turned their backs in flight.
+All this time, the Prophet (ﷺ) on his mule was shouting:
+
+*"I am the Prophet — this is no lie;*
+
+*I am the son of 'Abd al-Muṭṭalib!"*⁸⁶
+
+He was also supplicating: "Allāh (ﷻ), send down Your help.⁸⁷ The muhajirīn and Anṣār were now fully engaged with the Hawāzin and the Thaqīf. Al-'Abbās narrated that the Prophet (ﷺ) on his mule looked at the battle and said, "Now the battle is raging." Then he picked up some pebbles and threw them into the enemies' faces, saying, "They are defeated, by the Lord of Muhammad (ﷺ)!" Al-'Abbās said: "I looked, and the fighting, as far as I could see, was going on as before; but no sooner had he thrown [the pebbles] at them than I saw their edge grow ever blunter and their cause turn to retreat."⁸⁸ It was not long before the men of Thaqīf and their allies were fleeing headlong — and suddenly they saw their own people led away as bound captives!
 
 About this battle Allāh (ﷻ) revealed the following:
 
 (Allah has given you victory in many fields, and on the Day of Ḥunayn, when you exulted in your multitude, it was of no avail to you, and the earth, vast as it is, was straitened for you; then you turned back in flight. Then Allah sent His peace of reassurance down upon His messenger and upon the believers, sent down hosts you could not see, and punished those who disbelieved. Such is the reward of disbelievers.) (Qur'ān 9: 25-26)
 
-Some of the fleeing men sought refuge in a place called Awtas, and the Prophet (ﷺ) sent Abū 'Āmir al Ash'ari in pursuit of them. He fought them until he was killed, and after him his nephew, Abū Mūsā al-Ash'ārī took up the banner and continued to fight the enemy until he was able to rout them.⁸³ Mālik and his men were forced to flee until they reached Ṭā'if and took shelter in their fortress, leaving behind booty of tremendous value. Mālik, as you learnt, had gone out to battle, taking with him all the women and possessions of his tribe. What was left on the battlefield amounted to twenty-four thousand camels, more than forty-thousand sheep and four thousand uqiyah of silver, beside six thousand captives.
+Some of the fleeing men sought refuge in a place called Awtas, and the Prophet (ﷺ) sent Abū 'Āmir al Ash'ari in pursuit of them. He fought them until he was killed, and after him his cousin [thus in the Arabic original; according to the historical sources he was his nephew — translator's note], Abū Mūsā al-Ash'arī, took up the banner and continued to fight the enemy until he was able to rout them.⁸⁹ Mālik and his men were forced to flee until they reached Ṭā'if and took shelter in their fortress, leaving behind booty of tremendous value. Mālik, as you learnt, had gone out to battle, taking with him all the women and possessions of his tribe. What was left on the battlefield amounted to twenty-four thousand camels, more than forty-thousand sheep and four thousand uqiyah of silver, beside six thousand captives.
 
 ## Booty
 
-The Prophet (ﷺ) disliked distributing this booty to the people, so he waited in the hope that the enemy would come back repentant and retrieve all they had lost. Although he waited ten nights, no-one came.⁸⁴ So he began to silence the desirous from among the tribal chiefs and the Makkah nobles by distributing the wealth, firstly to those whose hearts were to be reconciled. They were given abundant shares.
+The Prophet (ﷺ) disliked distributing this booty to the people, so he waited in the hope that the enemy would come back repentant and retrieve all they had lost. He waited ten-odd nights, but no-one came.⁹⁰ So he began to silence the desirous from among the tribal chiefs and the Makkah nobles by distributing the wealth, firstly to those whose hearts were to be reconciled. They were given abundant shares.
 
-Abū Sufyān was given a hundred camels and forty uqiyah of silver. He asked: "What about my son, Mu'āwiyah?" He was given a similar share for his son. Again he asked: "What about my son, Yazīd?" and he was given a similar amount for his son, Yazīd.⁸⁵
+Abū Sufyān was given a hundred camels and forty uqiyah of silver. He asked: "What about my son, Mu'āwiyah?" He was given a similar share for his son. Again he asked: "What about my son, Yazīd?" and he was given a similar amount for his son, Yazīd.⁹¹
 
 The tribal chiefs raced one another to take what they could, and the news spread that the Prophet (ﷺ) was giving away as one who had no fear of poverty.
 
 The people crowded around him, seeking more wealth, and the bedouin threw themselves at him, saying: "O Messenger of Allāh (ﷺ), divide our booty among us.
 They forced him against a tree and his robe was snatched away!
-He said: "O people, give me back my robe. By Him in Whose hands is my life, if I had for you in cattle the number of trees in Tihamah, I should distribute it among you, and then you would not find me a miser or a coward or a liar!" He then stood at the side of a camel and took a tuft of hair from its hump. Holding it up, he said: "O people! By Allāh (ﷻ), I have no right in your booty or in this tuft of hair except a fifth, and the fifth will be given back to you!"⁸⁶
+He said: "O people, give me back my robe. By Him in Whose hands is my life, if I had for you in cattle the number of trees in Tihamah, I should distribute it among you, and then you would not find me a miser or a coward or a liar!" He then stood at the side of a camel and took a tuft of hair from its hump. Holding it up, he said: "O people! By Allāh (ﷻ), I have no right in your booty or in this tuft of hair except a fifth, and the fifth will be given back to you!"⁹²
 
 Their eyes almost fell out of their sockets in pursuit of worldly gain! These bedouin, freedmen and tribal chiefs were of no support to Islām in its early days of difficulties. In fact, they were the serious obstacles in its path until they were pulverized under the pickaxes of the true believers, who desired the reward of the Hereafter and preferred what Allāh (ﷻ) had in store for them. Today, having announced their conversion to Islām, they were demanding that the Prophet should open up for them the treasures of the earth, although he swore that he was not retaining anything for himself. Had he in his possession that valley full of wealth, he would have distributed it all to them.
 
-The truth is that the Prophet (ﷺ), by his magnanimity, cleared the way for greed and recklessness to display themselves in those hearts he was trying to win over to Islām. If, instead, he had punished them for their cowardice at Ḥunayn, it would have been a different story. Aḥmad transmitted the following incident.⁸⁷
-Abū Ṭalḥah, one of the few warriors of Islām, saw Umm Sulaym with a dagger.
+The truth is that the Prophet (ﷺ), by his magnanimity, cleared the way for greed and recklessness to display themselves in those hearts he was trying to win over to Islām. If, instead, he had punished them for their cowardice at Ḥunayn, it would have been a different story. Aḥmad transmitted the following incident.⁹³
+Abū Ṭalḥah, one of the renowned horsemen of the Muslims, saw Umm Sulaym with a dagger.
 
 He asked what it was for, and she replied: "If any of the idolaters approaches me, I'll rip open his stomach." This was in the Battle of Ḥunayn.
 Abū Ṭalḥah said to the Prophet (ﷺ): "Do you hear what Umm Sulaym is saying?"
 
-The Prophet (ﷺ) laughed, and Umm Sulaym said: Messenger of Allāh (ﷺ), after that I shall kill the freedmen who caused you to be defeated!"
+The Prophet (ﷺ) laughed, and Umm Sulaym said: "Messenger of Allāh (ﷺ), kill after this the freedmen who caused you to be defeated!"
 
 He replied: "Allāh (ﷻ) has taken good care of them, Umm Sulaym!"
 
 The surprising thing is that those who fled at the time of fear were the same who returned in droves at the time of greed. Nevertheless, the Prophet (ﷺ) wanted to be lenient with them and forget their past in order to win them over. So what did he do? In the world there are many people who are led to the truth by their bellies, not by their intellects. Just as animals are guided on their path by a bundle of hay to which they keep stretching out their mouths until they arrive safely in their pens, so also do these people need all sorts of enticements to lead them to faith.
 
 Anas (رضي الله عنه) narrated:
-"I was walking with Allāh's Messenger (ﷺ), who was wearing a Najrāni cloak with roughly-finished seams. A bedouin Arab came up and pulled at him so hard that when I looked at the top of the Prophet's (ﷺ) shoulder. I could see the marks of the seam which were caused by the pulling. He said: "Order a portion of Allāh's (ﷻ) wealth with you to be given to me." He turned to the bedouin and laughed, then he ordered that he be given something.⁸⁸
+"I was walking with Allāh's Messenger (ﷺ), who was wearing a Najrāni cloak with roughly-finished seams. A bedouin Arab came up and pulled at him so hard that when I looked at the top of the Prophet's (ﷺ) shoulder. I could see the marks of the seam which were caused by the pulling. He said: "Order a portion of Allāh's (ﷻ) wealth with you to be given to me." He turned to the bedouin and laughed, then he ordered that he be given something.⁹⁴
 
-That bedouin was not impressed by fine logic or good manners as much as was by a gift which filled his pockets and satisfied his desires. Expressing this point of view, Ṣafwān ibn Umayyah said: "The Prophet (ﷺ) did not stop giving me from the spoils of Ḥunayn until he changed from being the most hateful of creation in my sight to the most loved of them all.⁸⁹
+That bedouin was not impressed by fine logic or good manners as much as was by a gift which filled his pockets and satisfied his desires. Expressing this point of view, Ṣafwān ibn Umayyah said: "The Prophet (ﷺ) did not stop giving me from the spoils of Ḥunayn until he changed from being the most hateful of creation in my sight to the most loved of them all.⁹⁵
 
 ## The Wisdom of the Distribution
 
@@ -5208,13 +5410,21 @@ They said: "The favour is Allāh's and His messenger's."
 
 He said: "Were you angry because of the worldly trifles which I gave to the new Muslims whereby to win their hearts, I left to you the share that Allāh (ﷻ) gave to you of Islām? Will it not please you, then, that the people should go their mounts with the sheep and camels while you go to your mounts with Allāh's Messenger (ﷺ)? By Him in Whose hands is my life, if the people go one way and the Anṣār go another, I should go the way of the Anṣār. If it were not for the Hijrah, I should have been a man from among the Anṣār. O Allāh (ﷻ), have mercy on the Anṣār, and the children of the Anṣār, and the children of the Anṣār's children."
 
-Upon this, the whole gathering wept until their beards were drenched, and they said: "We are pleased with Allāh (ﷻ) as Lord and His Messenger (ﷺ) as our share." He left and they dispersed.⁹⁰
+Upon this, the whole gathering wept until their beards were drenched, and they said: "We are pleased with Allāh (ﷻ) as Lord and His Messenger (ﷺ) as our share." He left and they dispersed.⁹⁶
+
+The Anṣār are, in the history of the calls to Allāh, a unique example of the men on whom the great messages are built: then, when the message stands firm on its stem, has passed the days of its trial and burden, and its fruits hang low and its harvest has grown sweet, other hands come and pluck what they please! Nor are they content with that: they even strike the hands of the planters, so that they may not pick up a little or a lot of the fallen fruit!!
+
+We do not say this as a comment on the distribution of the spoils here, for the wisdom of that sound division has become clear.
+
+But we mention, among the virtues of the Anṣār — and presuming that they rose above this world for the sake of the religion and of winning people over to it — that the affairs of government moved away from them and were taken by others, although they were qualified for them. Not thirty years had passed before power was in the hands of the ṭulaqā' [the former enemies set free at the conquest of Makkah].
+
+There is no doubt that those who devoted themselves wholly to Allāh (ﷻ) will receive their full reward, and that the affairs of this world are too lowly for a man of faith to grieve over them. Yet we ask: was it in the interest of the messages themselves that others should be preferred in this way? Or was it Islām's misfortune to meet this kind of ruler, so that those who were foremost and those who had given it support were pushed aside, and the reins of the religion were held by those who were the last to enter it and had the least insight into it?!
 
 ## Return of the Hawāzin Delegation
 
 After the distribution of the booty, a delegation from the Hawāzin came to accept Islām and seek the return of their people and wealth.
 
-The Prophet (ﷺ) said to them: "I have only what you see. And indeed, the speech which most prefer is the most truthful. So which is dearer to you, your children and women or your wealth?"
+The Prophet (ﷺ) said to them: "With me are those whom you see [who also have a share in the spoils]. And indeed, the speech which most prefer is the most truthful. So which is dearer to you, your children and women or your wealth?"
 
 They replied: "We do not equate anything with kith and kin."
 
@@ -5222,19 +5432,19 @@ The Prophet (ﷺ) then stood up among the Muslims, praised Allāh (ﷻ) as He (�
 
 Some people said: "It is agreeable to us, Messenger of Allāh (ﷺ)!"
 
-However, he replied: "We do not know who has given permission from who has not. So go back until your deputies raise your affair with us." The people went back and spoke to their deputies, who came to the Prophet (ﷺ), saying that they had all found it agreeable and had given permission.⁹¹
+However, he replied: "We do not know who has given permission from who has not. So go back until your deputies raise your affair with us." The people went back and spoke to their deputies, who came to the Prophet (ﷺ), saying that they had all found it agreeable and had given permission.⁹⁷
 
 ## The Siege of Ṭā'if
 
-The Thaqīf, having retreated in defeat from Ḥunayn and Awṭās, entered their fortress and prepared themselves for a long siege. From this the Muslims learnt that they still insisted on remaining in their *jahilīyah*, and the losses which they had sustained had not broken their determination. They therefore decided to march upon them and lay siege to their city, a method of war with which they were very familiar because they had done it before and understood the best means of attack and defence. The Prophet (ﷺ) led his army until they were close to Ṭā'if and then he camped around it. The Thaqīf started to shoot arrows from their fortress and they hit a number of Muslims. This forced the latter to draw back their lines so that they would not be targets for the arrows.
+The Thaqīf, having retreated in defeat from Ḥunayn and Awṭās, entered their fortress and prepared themselves for a long siege. From this the Muslims learnt that they still insisted on remaining in their *jahilīyah*, and the losses which they had sustained had not broken their determination. They therefore decided to march upon them and lay siege to their city — for the Muslims had long experience of this method of war: they had laid sieges before and knew the best means of attack and defence. The Prophet (ﷺ) led his army until they were close to Ṭā'if and then he camped around it. The Thaqīf started to shoot arrows from their fortress and they hit a number of Muslims. This forced the latter to draw back their lines so that they would not be targets for the arrows.
 
 It appears that the Prophet (ﷺ) did not urge his men to invade the fortress and force out the occupants, as he had done with the Jews. He was hoping for good in them, so he directed the battle around them from restricted positions and with few losses, and this continued for fifteen days. Then it occurred to him that he should leave them alone and he voiced this to the Muslims. Although at first they wanted to prolong the siege until the city opened up to them, eventually they came round to his opinion.
 
-It is narrated that the Prophet (ﷺ) consulted Nawfal ibn Mu'āwiyah on the matter of the siege, and he replied that they were like a fox in a hole: if one kept watch over it, one would be able to take it; but if one went away, it would do him no harm.⁹² So the Prophet (ﷺ) ordered 'Umar ibn al-Khaṭṭāb (رضي الله عنه) to announce their departure to the men.⁹³
+It is narrated that the Prophet (ﷺ) consulted Nawfal ibn Mu'āwiyah on the matter of the siege, and he replied that they were like a fox in a hole: if one kept watch over it, one would be able to take it; but if one went away, it would do him no harm.⁹⁸ So the Prophet (ﷺ) ordered 'Umar ibn al-Khaṭṭāb (رضي الله عنه) to announce their departure to the men.⁹⁹
 
 On their way back, they said: "O Messenger of Allāh (ﷺ), the arrows of the Thaqīf burnt us, so call on Allāh (ﷻ) to punish them."
 
-He said: "O Allāh (ﷻ), guide the Thaqīf.⁹⁴ The Thaqīf did not remain for long in their idolatry. Only a few months had elapsed after the siege when they sent a delegation to Madīnah to inform the Prophet (ﷺ) of their desire to enter Islām.
+He said: "O Allāh (ﷻ), guide the Thaqīf.¹⁰⁰ The Thaqīf did not remain for long in their idolatry. Only a few months had elapsed after the siege when they sent a delegation to Madīnah to inform the Prophet (ﷺ) of their desire to enter Islām.
 
 ## To the Land of the Hijrah
 
@@ -5242,9 +5452,9 @@ The Muslims returned from Ṭā'if to Makkah, not to settle there after Allāh (
 
 The Anṣār, who surrounded him, whispered to one another: "Do you think that the Prophet (ﷺ) will remain in Makkah now that Allāh (ﷻ) has brought him back to his homeland?" When he had finished his supplication he asked what it was that they were saying, and they replied, nothing. However, he insisted that they should tell him.
 
-When they did, he said: "Allāh (ﷻ) forbid! My home is your home, and my place of death is your place of death."⁹⁵
+When they did, he said: "Allāh (ﷻ) forbid! My home is your home, and my place of death is your place of death."¹⁰¹
 
-Now, since the people of Makkah were new to Islām and did not have much knowledge of its laws and teachings, the Prophet (ﷺ) left Mu'ādh ibn Jabal with them to teach them the Book of Allāh (ﷻ) and the Sunnah of His Prophet (ﷺ), ⁹⁶ and he made 'Attāb ibn Usayyid *amīr* of Makkah,⁹⁷ though he was only 20 years old.
+Now, since the people of Makkah were new to Islām and did not have much knowledge of its laws and teachings, the Prophet (ﷺ) left Mu'ādh ibn Jabal with them to teach them the Book of Allāh (ﷻ) and the Sunnah of His Prophet (ﷺ), ¹⁰² and he made 'Attāb ibn Usayd *amīr* of Makkah,¹⁰³ though he was only 20 years old.
 
 'Attāb was a quick-witted youth who was also brave and contented. He was given stipend of one dirham every day from the treasury and he was satisfied with it. He delivered a speech to the people in which he said: "O people! May Allāh (ﷻ) cause to starve the man who goes hungry with one dirham. Allāh's Messenger (ﷺ) has provided me one dirham a day so I have no need of anyone."
 
@@ -5256,7 +5466,7 @@ They had considered the enmity of the people as insignificant for his cause. Now
 
 ## The Attitude of the Hypocrites
 
-The worthy action for those to take who had doubts about the mission of Muhammad (ﷺ) would have been to examine these clear signs carefully and accept the truth. However, vile souls only increase in evil and stubborness every time their enemies increase in success and inspiration. What one may think to be a reason for their acceptance may very well be the cause of their rejection. It was not strange, therefore, that the Prophet (ﷺ) should return to Madīnah to find the heart of the hypocrites enclosed upon themselves while their faces were smiling at the returning victor. It was the same for all the clan chiefs, whose power had dwindled with the spread of Islām, and most of the bedouin Arabs, who frolicked in the desert like animals, hardly understanding speech.
+The worthy action for those to take who had doubts about the mission of Muhammad (ﷺ) would have been to examine these clear signs carefully and accept the truth. However, vile souls only increase in evil and stubborness every time their enemies increase in success and inspiration. What one may think to be a reason for their acceptance may very well be the cause of their rejection. It was not strange, therefore, that the Prophet (ﷺ) should return to Madīnah to find the heart of the hypocrites enclosed upon themselves while their faces were smiling at the returning victor — though they wished they would never see his figure again. It was the same for all the clan chiefs, whose power had dwindled with the spread of Islām, and most of the bedouin Arabs, who frolicked in the desert like animals, hardly understanding speech.
 
 There was another matter, too, which gave impetus to the vagaries of the hypocrites and their evil machinations against Islām and its Prophet (ﷺ). They were well aware of the enmity which had sprung up between the Muslims and the Romans and the potential dangers which such a conflict could cause. In those days the Arabs used to look at the Roman Empire in the same way as the people of Africa look today at Europe and the United States: they are an invincible power not to be provoked. Even if the Romans did hold such a fearful position, Muhammad (ﷺ) was not one to be scared of any power on earth, as everyone knew well from his character. He had pressed on with his mission, melting away all the obstacles in his way, erasing paganism, exiling Judaism, and he had stood up confidently to the challenge of Rome.
 
@@ -5264,31 +5474,29 @@ The hypocrites were overjoyed at this new conflict and they thought that grave o
 
 ## Tabūk
 
-The Prophet (ﷺ) wanted to strengthen the ties between Islām and Christianity, though not at the expense of Islām. Thus he did not accept any bargaining over the issue of whether his missionaries should be left free to present their message to the mankind with the option of their accepting it or rejecting it. Islām strongly opposed the killing of its missionaries and the erection of barriers in the way of their work. Moreover, the Romans in Syria, Iraq, Egypt and other lands were invaders who had no links with the original inhabitants except by forceful occupation and moral conquest. Therefore, those who wished to object to Islām's march towards the north should first ask themselves why they remained silent at the Romans' march to the south, and in what manner they governed the lands which they conquered.
+The Prophet (ﷺ) resolved to set the relations between Islām and Christianity on firm foundations. He did not accept any bargaining over the issue of leaving his missionaries free to present their religion to the people — whoever liked it would enter it, and whoever disliked it would leave it. Reasonable opportunities must be given for the masses to understand what they are being invited to. But that the missionaries' necks should be cut and thick walls raised in their faces — this Islām resists by force. Moreover, the Romans in Syria, Iraq, Egypt and other lands were invaders who had no links with the original inhabitants except by forceful occupation and moral conquest. Therefore, those who wished to object to Islām's march towards the north should first ask themselves why they remained silent at the Romans' march to the south, and in what manner they governed the lands which they conquered.
 
 An unbiased evaluation would remove the doubts about the Prophet's (ﷺ) intentions. His proposal was that the different ideologies should explain themselves in an open environment, and let the people decide which of these they chose to follow, a choice free from any form of constraint or coercion. However, this demand was met with armed rejection. Neither did the Roman Empire open the door of its trap for the many victims who were struggling within its confines, nor did the Roman Church welcome this new change of atmosphere. In our book *Intolerance and Tolerance between Christianity and Islām*, we referred to the Battle of Tabūk: "The Church could not bear to have by its side another opinion which disagreed with it on trivial matters."
 
-How could it, then, allow a religion to exist which denied the authority of its personages? This new religion held that there were no intermediaries between people and god, and it rejected the doctrine of the atonement, which was the basis of Christianity, because it considered reward and punishment to be based on people's actions alone.
+How could it, then, allow a religion to exist which denied the authority of its clergy? This new religion held that there were no intermediaries between the servants and their Lord, and it rejected the doctrine of the atonement, which was the basis of Christianity, because it considered reward and punishment to be based on people's actions alone: man has nothing but what he strives for, and no bearer of burdens shall bear another's burden. Moreover, it denied the principle of partnership in divinity: the world has only one Lord, to Whom Jesus and his mother are subject.
 
 The Romans sought to strike so hard at Islām in the north of the peninsula that it would retreat to whence it came, and to close its frontiers so that it might not slip through again. Thereafter the Church would exercise so much control over people's consciences that whenever its bells tolled, there would be no *mu'adhdhin* to muffle its sound with the cries of *tawḥīd*, the calls to prayer and success. The history of Christianity ever since it came to power underscores the hostile intentions of its theologians and priests.
 
 The news of this mobilization came to the Prophet (ﷺ) in Madīnah, and he saw no way out but to call up the Muslims for *jihād* against this planned aggression. The preparations for this confrontation with the Romans came in days of drought and famine, and demanded great effort and huge expense. A fight against the Romans was not like a fight against a tribe of few men and resources. It was, in fact, a bitter struggle with an empire whose power was spread over several continents and which had vast resources of men and wealth at its disposal.
 
-The people of ideology, however, do not recoil at difficulties, and to keep silent at the Christians' challenge to this *dīn* could only be considered as suicidal and destructive. Let the Muslims, therefore, exert themselves and face the future with all its demands and sacrifices. The army that was so mobilized came to be known as the Army of Hardship because of the testing circumstances of its mobilization. Even the āyāt (verses) of the Qur'ān which were revealed in connection with this battle were the longest to be revealed about any battle between the Muslims and their enemies. The āyāt began by shipping up the zeal to repel the impending attack of Christianity on Islām. They made the Muslims realize the consequences of falling short in the execution of this duty, and made them understand that Allāh (ﷻ) would not accept an atom's weight of negligence in protecting His *dīn* and helping His Prophet. Withdrawal in the face of grave difficulties without fighting the Romans would be backsliding towards apostasy and hypocrisy.
+The people of ideology, however, do not recoil at difficulties, and to keep silent at the Christians' challenge to this *dīn* could only be considered as suicidal and destructive. Let the Muslims, therefore, exert themselves and face the future with all its demands and sacrifices. The army that was so mobilized came to be known as the Army of Hardship because of the testing circumstances of its mobilization. Even the āyāt (verses) of the Qur'ān which were revealed in connection with this battle were the longest to be revealed about any battle between the Muslims and their enemies. The āyāt began by whipping up the zeal to repel the impending attack of Christianity on Islām. They made the Muslims realize the consequences of falling short in the execution of this duty, and made them understand that Allāh (ﷻ) would not accept an atom's weight of negligence in protecting His *dīn* and helping His Prophet. Withdrawal in the face of grave difficulties without fighting the Romans would be backsliding towards apostasy and hypocrisy.
 
 (O you who believe! What ails you that when it is said to you: go forth in the way of Allah, you are bowed down to the ground with heaviness. Do you take pleasure in the life of the world rather than in the Hereafter? The comfort of the life of the world is but little in comparison to the Hereafter. If you do not go forth He will afflict you with a painful doom, and will choose other people instead of you. You cannot harm Him at all. Allah is Able to do all things.) (Qur'ān 9: 38-39)
 
 The āyāt (verses) went on to speak sternly, exposing the hypocrites and the waverers, humiliating those who sought ease and comfort as well as those who preferred the shelter of their homes and fields to the heat of the desert, the difficulties of travel and the dangers of war.
 
-Those who remained at home rejoiced at sitting idle behind the back of the Messenger of Allāh (ﷺ), and were averse to striving with their wealth and their lives in Allāh's way. And they said:
+(Those who were left behind rejoiced at sitting at home in opposition to the Messenger of Allāh, and were averse to striving with their wealth and their lives in Allāh's way, and they said: Do not go out in the heat! Say: the fire of hell is more intense in heat, if they but understood.) (Qur'ān 9: 81)
 
-(Do not go out in the heat! Say: the heat of hell is more intense, if they but understood.) (Qur'ān 9: 81)
-
-Sūrah al Taubah contains many pages of comments on the Army of Hardship. Perhaps the most distinctive thing about the Qur'ānic approach to this *jihād* was that it did not weary of commending those who took part in it and criticizing those who failed to do so. No wonder, for it was imperative for the future of Islām to define clearly its stance as regards Christianity. There was no alternative for the Muslims but to stand firm in the face of the caprices of the intolerant Church, otherwise they would have been consumed by its fire and no trace would have been left of their religion. This decision had the most positive results; the Muslims left with such an enormous contingent as they had never before mobilized, and they headed for the north where the Roman armies lay.
+Sūrat al-Tawbah contains many pages of comments on the Army of Hardship. Perhaps the most distinctive thing about the Qur'ānic approach to this *jihād* was that it did not weary of commending those who took part in it and criticizing those who failed to do so. No wonder, for it was imperative for the future of Islām to define clearly its stance as regards Christianity. There was no alternative for the Muslims but to stand firm in the face of the caprices of the intolerant Church, otherwise they would have been consumed by its fire and no trace would have been left of their religion. This decision had the most positive results; the Muslims left with such an enormous contingent as they had never before mobilized, and they headed for the north where the Roman armies lay.
 
 In the course of these preparations the secrets of the hearts were laid bare, clearly showing just how much sincerity, magnanimity and readiness they contained. There were the rich who donated their riches for the mobilization of the army, whether in the form of mounts, weapons or provisions.
 
-Among them was 'Uthmān ibn 'Affān (رضي الله عنه), who contributed so much that the Prophet (ﷺ) was greatly pleased with him, and said: "O Allāh (ﷻ), be pleased with 'Uthmān (رضي الله عنه) for I am pleased with him."⁹⁸
+Among them was 'Uthmān ibn 'Affān (رضي الله عنه), who contributed so much that the Prophet (ﷺ) was greatly pleased with him, and said: "O Allāh (ﷻ), be pleased with 'Uthmān (رضي الله عنه) for I am pleased with him."¹⁰⁴
 
 There were the poor who gave themselves up for this *jihād* in the way of Allāh (ﷻ), and on finding that the means were not available to take them to the battlefield, their eyes flooded with tears at this privation. It is narrated that 'Ulayyah ibn Yazīd stood praying during the night, offering long *tahajjud*. Weeping, he said;
 
@@ -5300,39 +5508,39 @@ The man offered the morning prayers as usual with the people, and then the Proph
 
 No-one stood up. Again he asked, "Where is the charity-giver? Let him stand up."
 
-So he stood up and told him what he had done. Upon this the Prophet (ﷺ) said: "Rejoice, for by Him in Whose hands is my life, it has been recorded among the accepted *zakāh*."⁹⁹
+So he stood up and told him what he had done. Upon this the Prophet (ﷺ) said: "Rejoice, for by Him in Whose hands is my life, it has been recorded among the accepted *zakāh*."¹⁰⁵
 
 Then there were the hypocrites who sought excuses. Their hatred for Islām kept them for offering any aid to it, so it was not to be expected that they would make preparations for the battle or wish that the *mujāhidin* should return. One of the silliest excuses offered by these hypocrites was what Al-Jidd ibn Qays said to the Prophet, who had urged him to participate in the *jihād*.
 
-He said, O Messenger of Allāh (ﷺ), give me permission (to stay) and do not put me to the test. By Allāh (ﷻ), my people know that there is no man more attracted to women than myself, and I fear that if I see the women of the Romans I shall not be able to restrain myself." The Prophet (ﷺ) turned away from him.¹⁰⁰ The following āyah was revealed about this incident:
+He said, O Messenger of Allāh (ﷺ), give me permission (to stay) and do not put me to the test. By Allāh (ﷻ), my people know that there is no man more attracted to women than myself, and I fear that if I see the women of the Romans I shall not be able to restrain myself." The Prophet (ﷺ) turned away from him.¹⁰⁶ The following āyah was revealed about this incident:
 
 (Of them is he who says: Grant me leave [to stay at home] and do not tempt me. Surely it is into temptation that they [thus] have fallen. Indeed, hell is all around the disbelievers.) (Qur'ān 9: 49)
 
-There were those whose minds were not made up at first. However, after the departure of the army, they realized the danger to their faith if they remained behind and so they arose to catch up with what they had nearly missed. One such person was Abū Khaythamah, who returned home on a hot day after the Prophet (ﷺ) and his men had left, to find that both his wives had prepared for him a delicious meal and cold, refreshing drink. His home was fresh and cool amid his date garden whose fruit was ripening. His conscience began to prick him, and he said "How could Abū Khaythamah be in the cool shade with a meal prepared and beautiful women while the Prophet (ﷺ) is in the sun, wind and heat? By Allāh (ﷻ), this is not justice!" He swore that he would not enter the room of either of his wives until he caught up with the Prophet (ﷺ), and he asked them to prepare water and provisions for him. Then he took his mount and went off in search of the Prophet (ﷺ), and was unable to find him until he reached Tabūk.
+There were those whose minds were not made up at first. However, after the departure of the army, they realized the danger to their faith if they remained behind and so they arose to catch up with what they had nearly missed. One such person was Abū Khaythamah, who returned home on a hot day after the Prophet (ﷺ) and his men had left, to find that both his wives had prepared for him a delicious meal and cold, refreshing drink. His home was fresh and cool amid his date garden whose fruit was ripening. His conscience began to prick him, and he said "How could Abū Khaythamah be in the cool shade with a meal prepared and beautiful women while the Prophet (ﷺ) is in the sun, wind and heat? By Allāh (ﷻ), this is not justice!" He swore that he would not enter the room of either of his wives until he caught up with the Prophet (ﷺ), and he asked them to prepare provisions for him. Then he took his mount and went off in search of the Prophet (ﷺ), and was unable to find him until he reached Tabūk.
 
 The army met with grave difficulties on its way to Tabūk. Aḥmad transmitted the following in relation to the *tafsīr* of the āyah,
 
 (Allāh has turned in mercy to the prophet, the *muhajirīn* and the Anṣār, who followed him in the hour of hardship) (Qur'ān 9: 117)
 
-They set off for Tabūk, two or three men to a camel. When they started, the heat was intense. They were afflicted with thirst and they began to slaughter their camels to extract the water from their humps. There was hardship in water, hardship in travel and hardship in transport.
+They set off for Tabūk, two or three men to a camel. When they started, the heat was intense. They were afflicted with thirst and they began to slaughter their camels to empty out their stomachs and drink the water in them. There was hardship in water, hardship in travel and hardship in transport.
 
 'Abdullāh ibn 'Abbās reports that 'Umar ibn al-Khaṭṭāb (رضي الله عنه) was asked to speak about the hour of hardship, and he said:
 
 "We left for Tabūk in intense heat and we stopped at a place. We were afflicted by thirst so much so that we thought we were going to die. A man would slaughter his camel and squeeze the dung in the intestines to get something to drink. Then he would put what remained on his stomach. Abū Bakr (رضي الله عنه) said: O Messenger of Allāh (ﷺ), surely Allāh (ﷻ) has always responded well to your supplications, so supplicate for us."
 
-The Prophet (ﷺ) said, "Would you like that?" When Abū Bakr (رضي الله عنه) said yes, he raised his hands to the heavens and did not lower them until a fine rain fell which became heavy and everyone filled their containers. Then we went to look and saw that it had not fallen beyond the camp.¹⁰¹
+The Prophet (ﷺ) said, "Would you like that?" When Abū Bakr (رضي الله عنه) said yes, he raised his hands to the heavens and did not lower them until a fine rain fell which became heavy and everyone filled their containers. Then we went to look and saw that it had not fallen beyond the camp.¹⁰⁷
 
 Ibn Isḥāq said: "In the army was a hypocrite to whom they turned and said: "Shame on you! Do you need anything more than this," and he replied: "A passing cloud!"
 
 On the way they passed by the homes that had been inhabited by the Thamūd. They were now ruins preserved so that one might remember the wrath of Allāh (ﷻ) upon those who had denied His messengers and hastened His chastisement.
 
-The Prophet (ﷺ) said: "Do not enter the homes of those who have wronged their souls unless you be weeping, lest you are afflicted by what has afflicted them."¹⁰²
+The Prophet (ﷺ) said: "Do not enter the homes of those who have wronged their souls unless you be weeping, lest you are afflicted by what has afflicted them."¹⁰⁸
 
 It seems that the Prophet (ﷺ) wanted the Muslims to be fully aware of the sources of admonition and to consider seriously the examples which had gone before them. If people are given the opportunity to visit the prison and see, for instance, the execution room, it will not be worthy of them to look at the noose with amusement and lack of concern. The least they should do is to show distress at the plight and execution of the prisoners.
 
 Aḥmad transmitted on the authority of Jābir that when the Prophet (ﷺ) passed by *Al Ḥijr* (the home of the Thamūd) he said:
 
-"Do not ask for miracles, for the people of Ṣāliḥ asked for them and Allāh (ﷻ) sent a camel to them. It would come from this pass and leave from this pass. However, they rebelled against the order of Allāh (ﷻ) and hamstrung it. It used to drink their water one day and they used to drink its milk the next. They hamstrung it and a shout overtook them by which Allāh (ﷻ) destroyed all of them from under the canopy of the heavens."¹⁰³
+"Do not ask for miracles, for the people of Ṣāliḥ asked for them and Allāh (ﷻ) sent a camel to them. It would come from this pass and leave from this pass. However, they rebelled against the order of Allāh (ﷻ) and hamstrung it. It used to drink their water one day and they used to drink its milk the next. They hamstrung it and a shout overtook them by which Allāh (ﷻ) destroyed all of them from under the canopy of the heavens."¹⁰⁹
 
 The prohibition against asking for miracles is to bring people back to the realm of ordinary circumstances, since there is no benefit in going beyond that. It would be better for everyone to spend their energies in fulfilling the duties that are placed on their shoulders and opening their hearts to the commands of Allāh (ﷻ). Before them were those who had seen miracles and yet the hardness of their hearts beguiled them and Allāh's curse befell them.
 
@@ -5340,13 +5548,13 @@ When the Muslims reached Tabūk, they did not find any of the enemy or any plots
 
 The Expedition of Tabūk resembled the Battles of the Allies: Although in the early stage the Muslims faced tremendous pressure, in the end they returned with ease and honour. The Prophet (ﷺ) spent ten or more days in the area on the look-out for any movements from the Romans. When he saw that they were not going to come forward for a confrontation, he decided to return to Madīnah, successful and victorious.
 
-As he approached Madīnah and saw its signposts from afar, he said, "This is Ṭābah; and this is Uḥud, a mountain which loves us and which we love.¹⁰⁴
+As he approached Madīnah and saw its signposts from afar, he said, "This is Ṭābah; and this is Uḥud, a mountain which loves us and which we love.¹¹⁰
 
 The news of his arrival filtered down to the people and all the women, children and slaves came out chanting:
 
-"The full moon has risen upon us from *Tanīyāt al Widā'*.
+*"The full moon has risen upon us from Thaniyyāt al-Wadā';*
 
-We must give thanks as long as a *Dā'ī* calls to Allāh (ﷻ)."
+*we must give thanks as long as a dā'ī calls to Allāh (ﷻ)."*
 
 The Army of Hardship was given a warm welcome; it was the largest army ever to go with the Prophet. It numbered thirty thousand. He did not forget while going or returning those good-hearted individuals who could not find anything to take them on the *jihād* and had to remain behind, their eyes streaming with tears.
 
@@ -5354,17 +5562,17 @@ Anas ibn Mālik (رضي الله عنه) narrated that: "When approaching Madīn
 
 The Companions asked: "Though they were in Madīnah, Messenger of Allāh (ﷺ)?"
 
-He said: "Though they were in Madīnah. They had reasons for not being able to come."¹⁰⁵ In this tender manner the Prophet (ﷺ) consoled and honoured those men who saw him off with their hearts as he was going to meet the Romans. Thus he made them feel contented and removed a heavy grief from their hearts.
+He said: "Though they were in Madīnah. They had reasons for not being able to come."¹¹¹ In this tender manner the Prophet (ﷺ) consoled and honoured those men who saw him off with their hearts as he was going to meet the Romans. Thus he made them feel contented and removed a heavy grief from their hearts.
 
 As for the hypocrites who thought evil and wished for defeat, and the bedouin tribes who considered Islām a calamity which had befallen them and were thus looking forward to a turn of the tide against its upholders, they had a long torment awaiting them.
 
-## Those Who Were Left Behind¹⁰⁶
+## Those Who Were Left Behind¹¹²
 
-Upon entering Madīnah, the Prophet (ﷺ) went first to the mosque, where he prayed two *rak'ats* and then sat down to receive the people. The hypocrites came and offered their excuses and swore allegiance to him. They comprised about eighty men. He accepted their excuses, asked Allāh's forgiveness for them and left their souls to Allāh (ﷻ).
+Upon entering Madīnah, the Prophet (ﷺ) went first to the mosque, where he prayed two *rak'ats* and then sat down to receive the people. Those who had stayed behind came, excusing themselves to him and swearing oaths to him; they were eighty-odd men. He accepted their outward professions, took their pledge of allegiance, asked Allāh's forgiveness for them and left their secrets to Allāh (ﷻ).
 
 Ka'b ibn Mālik (رضي الله عنه) came and offered *salām*. The Prophet (ﷺ) smiled as one who was angry and asked him to come near. Ka'b (رضي الله عنه) narrated:
 
-"I walked in and sat down in front of him. He asked me what had detained me and if I had not bought my mount. I replied: "Yes. By Allāh (ﷻ), had I sat with anyone from this world but you, I should have found it easy to appease his anger with some excuse and I have the knack of arguing. However, by Allāh (ﷻ), I know that if I speak the truth to you and you are angry with me, then I am hopeful that Allāh (ﷻ) will forgive me. By Allāh (ﷻ), I had no excuse, and, by Allāh (ﷻ), I was never stronger nor in better health than when I held back from going with you."
+"I walked in and sat down in front of him. He asked me what had detained me and if I had not bought my mount. I replied: "Yes. By Allāh (ﷻ), had I sat with anyone from this world but you, I should have found it easy to appease his anger with some excuse and I have the knack of arguing. However, by Allāh (ﷻ), I know that if I told you a lie today to win your favour, Allāh (ﷻ) would soon turn your anger against me; whereas if I speak the truth to you and you are angry with me for it, then I am hopeful that Allāh (ﷻ) will forgive me. By Allāh (ﷻ), I had no excuse, and, by Allāh (ﷻ), I was never stronger nor in better health than when I held back from going with you."
 
 The Prophet (ﷺ) said: "As for him, he has spoken the truth. So stand up, until Allāh (ﷻ) decides about you," and I stood up.
 
@@ -5388,9 +5596,9 @@ She said: "By Allāh (ﷻ), he has made no movement towards anything. He has not
 
 One of my family said to me: "Why don't you ask the Prophet (ﷺ) to give permission to your wife as he gave leave to Hilāl's wife to look after him?"
 
-"I replied: no, by Allāh (ﷻ), I shall not ask him about this. I don't know what he will say if I ask him for I am a young man. After that, I spent another ten nights until the fifty were completed since the Prophet (ﷺ) had forbidden the Muslims to speak to us. When I offered the morning prayer after the fiftieth night on the roof of one of our houses and as I was sitting in the condition that Allāh (ﷻ) mentioned. "My soul was straitened upon me and the earth, vast as it is, was straitened upon me" I heard the voice of someone shouting from a nearly hill at the top of his voice: "Ka'b ibn Mālik (رضي الله عنه)! Rejoice!" I fell prostrate, for I knew that relief had come from Allāh (ﷻ)."
+"I replied: no, by Allāh (ﷻ), I shall not ask him about this. I don't know what he will say if I ask him for I am a young man. After that, I spent another ten nights until the fifty were completed since the Prophet (ﷺ) had forbidden the Muslims to speak to us. When I offered the morning prayer after the fiftieth night on the roof of one of our houses and as I was sitting in the condition that Allāh (ﷻ) mentioned. "My soul was straitened upon me and the earth, vast as it is, was straitened upon me" I heard the voice of someone who had climbed Mount Sal' shouting at the top of his voice: "Ka'b ibn Mālik (رضي الله عنه)! Rejoice!" I fell prostrate, for I knew that relief had come from Allāh (ﷻ)."
 
-The Prophet (ﷺ) had informed the people after the morning prayer of Allāh's (ﷻ) relenting towards us and they had come to give us the good news. Some of them went in the direction of my two companions, and one man jumped on a horse to come to me. However, another from Aslam hastened to the top of the hill and his voice was quicker than the horse. When the one whose voice I heard came to give me the news, I took off my clothes and gave them to him in joy. By Allāh (ﷻ), they were the only clothes that I possessed so I borrowed some clothes and put them on, then went to see the Prophet (ﷺ). The people kept coming to me in throngs and congratulating me on Allāh's relentance towards me.
+The Prophet (ﷺ) had informed the people after the morning prayer of Allāh's (ﷻ) relenting towards us and they had come to give us the good news. Some of them went in the direction of my two companions, and one man jumped on a horse to come to me. However, another from Aslam hastened to the top of the mountain and his voice was quicker than the horse. When the one whose voice I heard came to give me the news, I took off my clothes and gave them to him in joy. By Allāh (ﷻ), they were the only clothes that I possessed so I borrowed some clothes and put them on, then went to see the Prophet (ﷺ). The people kept coming to me in throngs and congratulating me on Allāh's relentance towards me.
 
 "I entered the mosque and the Prophet (ﷺ) was sitting there with the people around him. Ṭalḥah ibn 'Ubaydullāh got up and hurried towards me. He shook my hand and congratulated me. By Allāh (ﷻ), he was the only *muhājir* to stand up for me and I shall never forget it."
 
@@ -5408,15 +5616,15 @@ I said: "Well, I'll keep my share that I received at Khaybar."
 
 I said: "Messenger of Allāh (ﷺ), Allāh (ﷻ) saved me only because I was truthful, and part of my repentance is that I shall speak only the truth as long as I live."
 
-"By Allāh (ﷻ), I do not know of any Muslim whom Allāh (ﷻ) tested more in truthful speech than He tested me from the time I said this is to the Prophet (ﷺ) up to this day. By Allāh (ﷻ), from that time up to this day I have never deliberately told a lie, and I hope that Allāh (ﷻ) will protect me from it as long as I live. Allāh (ﷻ) revealed the following āyāt to his Prophet (ﷺ) on this occasion:
+"By Allāh (ﷻ), I do not know of any Muslim whom Allāh (ﷻ) tested more in truthful speech than He tested me from the time I said this to the Prophet (ﷺ) up to this day. By Allāh (ﷻ), from that time up to this day I have never deliberately told a lie, and I hope that Allāh (ﷻ) will protect me from it as long as I live. Allāh (ﷻ) revealed the following āyāt to his Prophet (ﷺ) on this occasion:
 
-(Allah has turned in mercy to the Prophet and to the *muhajirīn* and Anṣār. O you who believe! Be careful of your duty to Allah, and be with the truthful.) (Qur'ān 9: 117-119)"
+(Allah has turned in mercy to the Prophet and to the *muhajirīn* and Anṣār… O you who believe! Be careful of your duty to Allah, and be with the truthful.) (Qur'ān 9: 117-119)"
 
 "By Allāh (ﷻ), there is no blessing which Allāh (ﷻ) granted me, after guiding me to Islām, greater in my mind than my being truthful to the Prophet (ﷺ), not having lied to him and not being destroyed as those who did were destroyed. What Allāh (ﷻ) said when He sent down His Revelation about those who had lied was the worst thing that could be said of anyone. He (ﷻ) said:
 
 (They will swear by Allāh to you, when you return to them, that you may let them be... They swear to you, that you may accept them. Though you accept them, Allāh truly does not accept wrongdoers.) (Qur'ān 9: 95-96)"
 
-"The three of us remaining behind was in regard to the others whose excuses the Prophet (ﷺ) accepted when they swore allegiance to him. He accepted their pledge of allegiance and asked for forgiveness for them. However, he postponed our case until Allāh (ﷻ) passed His judgement (the three who were left behind). What Allāh (ﷻ) mentioned here was not the reason for our staying away from the battle. What he really meant was that our case was deferred to a later date beyond that for those whose excuses were accepted."¹⁰⁷
+"We three were kept apart from those whose [excuses] the Prophet (ﷺ) accepted when they swore to him: he took their pledge of allegiance and asked forgiveness for them, but he deferred our case until Allāh (ﷻ) decided it. That is why Allāh (ﷻ) said: (And to the three who were left behind) (Qur'ān 9: 118). What Allāh (ﷻ) mentions here does not refer to our staying behind from the campaign; it refers to His leaving us behind and deferring our case apart from those who swore to him, excused themselves to him, and had their excuses accepted."¹¹³
 
 ## The Mosque of Dissent (ḍirār)
 
@@ -5424,9 +5632,9 @@ The Prophet (ﷺ) trod the path of leniency and indulgence with those who preten
 
 Āyāt of the Qur'ān were revealed which, at last, criticized what the hypocrites had done, and drew back the curtains behind which they were hiding. Their antics both before and after Tabūk were the final episode in the chapter of deceit, hypocrisy and treachery, and the tolerance which they had for long abused and never appreciated. The Prophet (ﷺ) was ordered to expose their evil to the people and not to accept anything from them nor even pray for them. He was taught that his prayer for their forgiveness would not be accepted, and the Muslims were asked to boycott them.
 
-The strongest plot hatched by the hypocrites was to build a mosque in which they alone would meet and scheme against Islām under the cover of a meeting for the purpose of worship. They had gone to the Prophet (ﷺ) before he left for Tabūk, telling him that they had built a mosque for the sick and needy, and for rainy nights, and would like him to come and pray in it and bless it. He made the excuse that he was going on a long journey and was busy preparing for it. However, he had promised to pray in it on his return, God willing.¹⁰⁸
+The strongest plot hatched by the hypocrites was to build a mosque in which they alone would meet and scheme against Islām under the cover of a meeting for the purpose of worship. They had gone to the Prophet (ﷺ) before he left for Tabūk, telling him that they had built a mosque for the sick and needy, and for rainy nights, and would like him to come and pray in it for them. He made the excuse that he was going on a long journey and was busy preparing for it. However, he had promised to pray in it on his return, if Allāh willed.¹¹⁴
 
-When he returned with his army and the hypocrites were exposed, he sent two of his Companions to raze the mosque to the ground. They took firewood and at the sight of the flames the hypocrites knew that their plot had failed. Thus was destroyed the last brainwave to be erected by hypocrisy. In this connection the following āyāt were revealed:
+When he returned with his army and the hypocrites were exposed, he sent two of his Companions and ordered them to burn and demolish the mosque. The two came carrying burning torches and set about destroying it while its people were inside; they fled in terror at the sight of the flames. Thus was destroyed the last brainwave to be erected by hypocrisy. In this connection the following āyāt were revealed:
 
 (And as for those who chose a place of worship out of opposition and disbelief, to cause dissent among the believers, and as an outpost for those who fought against Allah and His messenger previously, they will surely swear: we intended nothing save good. Allah bears witness that they really are liars. Never stand [to pray] there. A place of worship which was founded upon duty [to Allah] from the first day is more worthy for you to stand [to pray] therein.) (Qur'ān 9: 107-108)
 
@@ -5434,11 +5642,11 @@ When he returned with his army and the hypocrites were exposed, he sent two of h
 
 The march to and from Tabūk took a number of days: the Muslims had left Madīnah in Rajab and returned in Ramaḍān to observe their duty of fasting. Not long after their return they received the good news that a deputation from the Thaqīf had arrived in Madīnah to negotiate their acceptance of Islām and were seeking an audience with the Prophet (ﷺ). Allāh (ﷻ) had answered the supplication of His Prophet (ﷺ) to soften the hearts of the leaders of Ṭā'if towards the truth. After the siege around them was disbanded, the people of Ṭā'if had begun to deliberate their future, though the majority still remained attached to their idols. Their chief, 'Urwah ibn Mas'ūd, had tried to convince them to give up this *jahilīyah*. Even though he was a beloved and respected chief among them, still they refused to listen, and when he declared his acceptance of Islām and invited them to it, they shot arrows at him and killed him. However, the intelligent ones did not despair of their people coming to their senses, for they knew that the Thaqīf could not ignore the reality in every corner, and the state of Islām was growing more dominant day after day.
 
-Thus 'Āmir ibn Umayyah had a tete-a-tete with 'Abd Yā Layl ibn 'Amr, and managed to convince him that a deputation should be sent to the Prophet (ﷺ). This deputation consisted of representatives from all the clans of the Thaqīf, so that they would abide by all the stipulations agreed. They debated long with Prophet (ﷺ) in the desires to gain the concession of retaining some *jahili* traits. Nevertheless, he was adamant. They requested that he should not destory Al-Lāt until after three years, then they reduced it to two, then one year, then one month after their conversion. He rejected all this however, and insisted that it be destroyed at once without any respite. When they saw that their bargaining was hopeless, they asked him not to make them break the idols with their own hands, and he responded by sending someone to break them. They also asked him to exempt them from *ṣalāh* and he said: "There is no good in a religion without prayer (*ṣalāh*)."¹⁰⁹
+Thus 'Amr ibn Umayyah met with 'Abd Yā Layl ibn 'Amr and said to him: "Something has befallen us that leaves no room for estrangement between us. You have seen what has become of this man's cause: all the Arabs have accepted Islām, and you have no strength to fight them. So consider your position." The Thaqīf decided to send a deputation to the Prophet (ﷺ). This deputation consisted of representatives from all the clans of the Thaqīf, so that they would abide by all the stipulations agreed. They debated long with the Prophet (ﷺ) in the desire to gain the concession of retaining some *jahili* traits. Nevertheless, he was adamant. They requested that he should not destroy Al-Lāt until after three years, then they reduced it to two, then one year, then one month after their conversion. He rejected all this however, and insisted that it be destroyed at once without any respite. When they saw that their bargaining was hopeless, they asked him not to make them break the idols with their own hands, and he responded by sending someone to break them. They also asked him to exempt them from *ṣalāh* and he said: "There is no good in a religion without prayer (*ṣalāh*)."¹¹⁵
 
 The deputation returned to Ṭā'if, and accompanying them were Al-Mughīrah ibn Shu'bah and Abū Sufyān, whose job it was to demolish the idols. The day of the demolition was memorable one: the women of the Thaqīf came out bareheaded and wept and wailed as the axes came down upon their gods to whom they had for long bowed their heads and made sacrifices and offerings. It is reported that every-time al Mughīrah brought the axe down upon the idols, Abū Sufyān would say "Alas for you!" in regret. Perhaps he was mocking or consoling the women.
 
-It is no lie that the surrender of the Thaqīf and the their acceptance of Islām, were a great gain and a new victory. There was no tribe of any might left in the peninsula which did not submit to Allāh (ﷻ) and His Messenger after the Thaqīf. As for the tribes which were still in their *jahilīyah*, they were only scattered groups who were soon to see the truth. The night which had been imposed on them was about to fade away, and in fact, the rays of the dawn had already penetrated here and there, so that there was no space left for the darkness to cling to.
+There is no doubt that the surrender of the Thaqīf and their acceptance of Islām were a great gain and a new victory. There was no tribe of any might left in the peninsula which did not submit to Allāh (ﷻ) and His Messenger after the Thaqīf. As for the tribes which were still in their *jahilīyah*, they were only scattered groups who were soon to see the truth. The night which had been imposed on them was about to fade away, and in fact, the rays of the dawn had already penetrated here and there, so that there was no space left for the darkness to cling to.
 
 Ibn Isḥāq said: "When Allāh's Messenger (ﷺ) conquered Makkah, and wound up the Tabūk expedition, and the Thaqīf accepted Islām, deputations of the Arabs came to him from every direction." The Arabs had, in fact, been waiting to see what would befall Islām in its conflict with the Quraish since they were the leaders and guides of the masses, the custodians of the Ka'bah and the pure sons of Isma'īl and they were also the ones who first showed hostility to Islām. So when Makkah was conquered and the Quraish submitted to Islām, the Arabs knew that they had no power to fight the Prophet (ﷺ) and they entered into Islām, coming to it from all quarters.
 
@@ -5452,19 +5660,19 @@ The pilgrimage season of the ninth year approached and the idolaters continued a
 
 ## The Pilgrimage of Abū Bakr (رضي الله عنه)
 
-The Prophet (ﷺ) appointed Abū Bakr (رضي الله عنه) as head of the Muslims who were going on the pilgrimage. After he had left Madīnah with his sacrificial animals, Sūrat *al tawbah* was revealed, and it was suggested to the Prophet (ﷺ) to send the Revelation so that he might proclaim it to all the pilgrims.
+The Prophet (ﷺ) appointed Abū Bakr (رضي الله عنه) as head of the Muslims who were going on the pilgrimage. After he had left Madīnah with his sacrificial animals, Sūrat al-Tawbah was revealed, and it was suggested to the Prophet (ﷺ) to send the Revelation so that he might proclaim it to all the pilgrims.
 
-The Prophet (ﷺ) chose 'Alī (رضي الله عنه) for this task, saying: "Only a member of my household will deliver it for me."¹¹⁰ This he did in accordance with the Arab custom as regards pacts of life and property. Do you not see how he had appointed 'Alī (رضي الله عنه), before making the Hijrah, to return the valuables with which the Makkans had entrusted him? The bonds of kinship guaranteed absolute responsibility in these matters. Thus it was as if the Prophet (ﷺ) delivered with his own hands what 'Alī (رضي الله عنه) delivered and read out with his own lips to the people. The observance of this tradition was not obligatory; it was simply an extra precaution on the part of the Prophet (ﷺ).
+The Prophet (ﷺ) chose 'Alī (رضي الله عنه) for this task, saying: "Only a member of my household will deliver it for me."¹¹⁶ This he did in accordance with the Arab custom as regards pacts of life and property. Do you not see how he had appointed 'Alī (رضي الله عنه), before making the Hijrah, to return the valuables with which the Makkans had entrusted him? The bonds of kinship guaranteed absolute responsibility in these matters. Thus it was as if the Prophet (ﷺ) delivered with his own hands what 'Alī (رضي الله عنه) delivered and read out with his own lips to the people. The observance of this tradition was not obligatory; it was simply an extra precaution on the part of the Prophet (ﷺ).
 
 Ibn Isḥāq said:
 
 "Then he summoned 'Alī ibn Abī Ṭālib and said to him: "Go with this information and recite from the beginning of *Barā'ah* and announce to the people on the Day of the Sacrifice, when they are assembled at Mina, that an unbeliever will not enter *Jannah*, that after this year a polytheist will not be allowed to make the pilgrimage nor will a naked person be allowed to circumambulate the Ka'bah, and that whoever has a pact with Allāh's Messenger (ﷺ) will be given its full length of time."
 
-'Alī (رضي الله عنه) left on Al-'Adhā, the Prophet's (ﷺ) camel, and caught up with Abū Bakr (رضي الله عنه) on the way. Upon seeing him, Abū Bakr (رضي الله عنه) asked whether he was made head (of the pilgrims) or a follower. He said he was a follower, and they proceeded.¹¹¹ Abū Bakr (رضي الله عنه) remained, as the Prophet (ﷺ) had appointed him, the one to lead the people in the pilgrimage rites, while 'Alī (رضي الله عنه) was to proclaim to the people what he had been commissioned to say and to recite to all the Arabs the first portion of Sūrah Barā'ah, which dealt with them in detail and delivered them to paganism in their country. Abū Bakr (رضي الله عنه) also appointed some other announcers from within the gathering to assist 'Alī (رضي الله عنه) in his proclamations.
+'Alī (رضي الله عنه) left on Al-'Aḍbā', the Prophet's (ﷺ) camel, and caught up with Abū Bakr (رضي الله عنه) on the way. Upon seeing him, Abū Bakr (رضي الله عنه) asked whether he was made head (of the pilgrims) or a follower. He said he was a follower, and they proceeded.¹¹⁷ Abū Bakr (رضي الله عنه) remained, as the Prophet (ﷺ) had appointed him, the one to lead the people in the pilgrimage rites, while 'Alī (رضي الله عنه) was to proclaim to the people what he had been commissioned to say and to recite to all the Arabs the first portion of Sūrah Barā'ah, which dealt with them in detail and finished off paganism in their land. Abū Bakr (رضي الله عنه) also appointed some other announcers from within the gathering to assist 'Alī (رضي الله عنه) in his proclamations.
 
-Zayd ibn Yafi' said that he asked 'Alī (رضي الله عنه) what he was sent to do at the pilgrimage, and 'Alī (رضي الله عنه) replied that he was sent with four proclamations: "That only a believer would enter *Jannah*; that a naked person should not circumambulate the Ka'bah; that unbelievers would not be allowed to join the Muslims in the *Ḥaram* after that year; and that anyone who had a pact with the Prophet (ﷺ) would be allowed the length of the pact, whereas anybody who did not have a pact would be allowed four months."¹¹²
+Zayd ibn Yuthay' said that he asked 'Alī (رضي الله عنه) what he was sent to do at the pilgrimage, and 'Alī (رضي الله عنه) replied that he was sent with four proclamations: "That only a believer would enter *Jannah*; that a naked person should not circumambulate the Ka'bah; that unbelievers would not be allowed to join the Muslims in the *Ḥaram* after that year; and that anyone who had a pact with the Prophet (ﷺ) would be allowed the length of the pact, whereas anybody who did not have a pact would be allowed four months."¹¹⁸
 
-In another book of ours, Contemplations of Religion and Life, we spoke of the status that Islām accords contracts, and we explained the laws contained in the early part of Sūrah *al Tawbah*. Everyone who wishes should know that the promulgation of a law to eradicate paganism, like the promulgation of a law to illiteracy, is a noble, humanitarian deed and no objection to it can be made by anyone wanting the best for the mankind and wishing it to progress and develop.
+In another book of ours, Contemplations of Religion and Life, we spoke of the status that Islām accords contracts, and we explained the laws contained in the early part of Sūrat al-Tawbah. Everyone who wishes should know that the promulgation of a law to eradicate paganism, like the promulgation of a law to illiteracy, is a noble, humanitarian deed and no objection to it can be made by anyone wanting the best for the mankind and wishing it to progress and develop.
 
 Islām spent twenty-two years fighting superstition by means of education and training, whenever the opportunity existed to spread knowledge and morality, and by means of reprisals and wars whenever ignorance and misguidance obstructed its way and tried to make its efforts go in vain. In the beginning, Islām allowed paganism its right to life and left those who apostated to go back to it if they so wished. This was not done in honour of paganism but in respect of people's intelligence and conscience, because it was rare to find people making a fools of themselves by leaving Allāh (ﷻ), the Almighty, and turning to image of stone, wood or food for worship.
 
@@ -5472,7 +5680,7 @@ However, when it became clear that the pagans were making light of everything an
 
 Those who think, or rather, delight in thinking, that Islām suppressed freedom of thought by uprooting paganism are either mistaken or biased. In the light of the experiences and misfortunes which the Muslims encountered throughout the twenty-two years, it is obvious why so much anger was shown in the end, and why Revelation itself cast off the idolaters and refused to accept any excuse from them. It had in fact become quite clear that the evils which were manifest in them were a part of their character, and that they would never abandon it nor would it abandon them. Thus there was no place left for their idols after the time had elapsed which was stipulated for them.
 
-(Freedom from obligation [is proclaimed] from Allāh and His messenger for those of the idolaters with whom you made a treaty; travel freely in the land for four months, and know that you cannot escape Allāh and that Allāh will confound the disbelievers [in His guidance]. And a proclamation from Allāh and His messenger to all men on the day of the Greater Pilgrimage that Allāh is free from obligation to the idolaters, and [so is] His messenger. So, if you repent, It will be better for you.) (Qur'ān 9: 1-3)
+(Freedom from obligation [is proclaimed] from Allāh and His messenger for those of the idolaters with whom you made a treaty; travel freely in the land for four months, and know that you cannot escape Allāh and that Allāh will confound the disbelievers [in His guidance]. And a proclamation from Allāh and His messenger to all men on the day of the Greater Pilgrimage that Allāh is free from obligation to the idolaters, and [so is] His messenger. So, if you repent, it will be better for you; but if you turn away, then know that you cannot escape Allāh. And give tidings to those who disbelieve of a painful punishment.) (Qur'ān 9: 1-3)
 
 Before and after this frightful warning, delegation upon delegation were visiting Madīnah to pledge allegiance to the Prophet (ﷺ) and to enter into the religion of truth. These groups of people had in recent years learnt a little about Islām, for the news of this new dispensation had spread to all corners of the peninsula along with some of its beliefs and teachings. Both supporters as well as detractors were following its continuous struggle for life, marking all the sacrifices that Islām as well as its enemies were making, until matters reached this clear finale.
 
@@ -5484,9 +5692,9 @@ We are not going to take a census of these groups who came from the east and the
 
 The tribe of Sa'd ibn Bakr sent Ḍamām ibn Tha'labah as an envoy to the Prophet (ﷺ). He rode his camel into Madīnah, made it kneel down at the door of the mosque and tethered it. He entered and saw the Prophet (ﷺ) sitting with his companions. Ḍamām was a hefty, hirsute fellow with his hair in two locks. He came up until he stood by the Prophet (ﷺ) and said:
 
-"Which of you is 'Abdul Muṭṭalib."
+"Which of you is the son of 'Abdul Muṭṭalib?"
 
-**The Prophet (ﷺ):** "I am 'Abdul Muṭṭalib."
+**The Prophet (ﷺ):** "I am the son of 'Abdul Muṭṭalib."
 
 **Ḍamām:** "Muhammad (ﷺ)?"
 
@@ -5534,37 +5742,37 @@ In another version, Ḍamām said: "Muhammad (ﷺ), your messenger came to us an
 
 One by one, Ḍamām mentioned the duties and laws of Islām, and when he finished he said: "Well, I bear witness that there is no god but Allāh (ﷻ) and I bear witness that Muhammad (ﷺ) is the Messenger of Allāh. I shall observe these duties and keep away from whatever you have forbidden us and I shall not add or subtract to them."
 
-He went away, and the Prophet (ﷺ) said: "If the one with his hair in two locks is telling the truth he shall enter *Jannah*."
+He went away, and the Prophet (ﷺ) said: "If the one with his hair in two locks is telling the truth he shall enter *Jannah*."¹¹⁹
 
-Ḍamām rode home and the people flocked around him. The first thing he said was: "How evil are Al-Lāt and Al-Uzza!"¹¹³
+Ḍamām rode home and the people flocked around him. The first thing he said was: "How evil are Al-Lāt and Al-'Uzzā!"
 
-Shocked, they said: "Steady, Ḍamām. Fear leprosy. Fear insanity!"
+Shocked, they said: "Steady, Ḍamām! Fear leukoderma! Fear leprosy! Fear insanity!"
 
-He replied: "Woe unto you! By Allāh (ﷻ), they can neither harm nor benefit! Allāh (ﷻ) has sent a prophet (ﷺ) and revealed to him a book with which he saves you from what you were. I testify that there is no god but Allāh (ﷻ); He is alone and has no partners, and that Muhammad (ﷺ) is His servant and Messenger. I have come to you from him with what he has ordered and prohibited for you." By evening there was not a single man or woman in that district who had not become a Muslim.¹¹⁴
+He replied: "Woe unto you! By Allāh (ﷻ), they can neither harm nor benefit! Allāh (ﷻ) has sent a prophet (ﷺ) and revealed to him a book with which he saves you from what you were. I testify that there is no god but Allāh (ﷻ); He is alone and has no partners, and that Muhammad (ﷺ) is His servant and Messenger. I have come to you from him with what he has ordered and prohibited for you." By evening there was not a single man or woman in that district who had not become a Muslim.¹²⁰
 
 That was a deputation which represented the simplicity of the bedouin in their logic, their straightforwardness in argument and discussion, and the freedom of their minds from the complications which obstruct the truth in its liberal flow. We are not denying the fact that the previous struggle of the *da'wah* may have helped them to arrive at these quick conclusions. This is natural, for the changing of one's religion is not like the changing of one's clothing. Ḍamām, while asking the Prophet (ﷺ) and addressing his people, must have been conscious in his mind that the new dispensation had already passed through several phases of trials and tribulations which proved its truthfulness and sincerity. His and his people's acceptance of Islām was, therefore, not the result of an hour's talk.
 
 That was the deputation of the illiterate. It represents other deputations, whether large or small, which came to Madīnah to see the Prophet (ﷺ) and pledge allegiance to him, then to return to their people, bearing guidance and good news.
 
-As for the People of the Book, only a few of them responded to the truth and rushed to embrace and support it. As for the vast majority, their opposition ranged from sheer enmity to complacency. Although the Jews insisted on exterminating Islām, they fell into the evil of their own intentions: their military and political might was crushed before they reached their goal. Islām allowed them to remain as individuals in its state, adhering to their religion if they pleased, but not allowing them to assemble and plot intrigues and aggression. It had a right without doubt to do so. The personal rights of the Jews were not abolished under the Islāmic system: the Prophet (ﷺ) himself chose to pawn his armour with a Jew in order to take a loan from him,¹¹⁵ and he never thought of using his status to harass the Jew.
+As for the People of the Book, only a few of them responded to the truth and rushed to embrace and support it. As for the vast majority, their opposition ranged from sheer enmity to complacency. Although the Jews insisted on exterminating Islām, they fell into the evil of their own intentions: their military and political might was crushed before they reached their goal. Islām allowed them to remain as individuals in its state, adhering to their religion if they pleased, but not allowing them to assemble and plot intrigues and aggression. It had a right without doubt to do so. The personal rights of the Jews were not abolished under the Islāmic system: the Prophet (ﷺ) himself chose to pawn his armour with a Jew in order to take a loan from him,¹²¹ and he never thought of using his status to harass the Jew.
 
 The Christians' opposition was less severe wherever they drifted away from the rule of the Church. Some of them accepted Islām out of admiration for its simplicity and straight forwardness, whereas others remained in what they had inherited. The relationship between the two religions went in accordance with what we have already explained, until it turned into an armed conflict between the Muslims and the Romans. Christianity was at that time prevalent in the north and south of the Arabian peninsula because of the military and political supermacy of the Romans. Thus the Muslims, being at war with the Roman Empire, decided to define their stance with the Christians of the south, especially since the Romans were showering gifts on their missionaries there, building churches and urging them to continue to Christianize the tribes living in these parts.
 
 The Prophet (ﷺ) sent a letter to the people of Najran, in which was written:
 
-"In the Name of the God of Ibrāhīm (عليه السلام), Isḥāq (عليه السلام) and Ya'qūb (عليه السلام), to proceed: I am inviting you to the worship of Allāh (ﷻ) and away from the worship of (His) creatures; and I am inviting you to the sovereignty of Allāh (ﷻ) and away from the sovereignty of (His) creatures. If you refuse, then (pay) *jizyah*; and if you refuse, then I declare war on you. Peace be upon you."¹¹⁶
+"In the Name of the God of Ibrāhīm (عليه السلام), Isḥāq (عليه السلام) and Ya'qūb (عليه السلام), to proceed: I am inviting you to the worship of Allāh (ﷻ) and away from the worship of (His) creatures; and I am inviting you to the sovereignty of Allāh (ﷻ) and away from the sovereignty of (His) creatures. If you refuse, then (pay) *jizyah*; and if you refuse, then I declare war on you. Peace be upon you."¹²²
 
-Najrān, the Ka'bah of the Christians in the south, sent its deputation to Madīnah to discuss the matter with the Prophet (ﷺ). They arrived in the city after *'Aṣr* and entered the mosque. The first thing that they did was to turn in the direction of Jerusalem to pray in accordance with the Christian rites. The people wanted to stop them, but the Prophet (ﷺ) ordered them to be left alone to finish their prayers.¹¹⁷ The Prophet (ﷺ) saw them wearing the priestly fineries in order to meet him. They had gold rings on their fingers and their robes were of silk; beneath their caps and hoods it could be seen that they had put on airs of extreme affectation. The Prophet (ﷺ) refused to speak to them until they had changed back into their travelling dress and put aside these fineries.¹¹⁸
+Najrān, the Ka'bah of the Christians in the south, sent its deputation to Madīnah to discuss the matter with the Prophet (ﷺ). They arrived in the city after *'Aṣr* and entered the mosque. The first thing that they did was to turn in the direction of Jerusalem to pray in accordance with the Christian rites. The people wanted to stop them, but the Prophet (ﷺ) ordered them to be left alone to finish their prayers.¹²³ The Prophet (ﷺ) saw them wearing the priestly fineries in order to meet him. They had gold rings on their fingers and their robes were of silk; beneath their caps and hoods it could be seen that they had put on airs of extreme affectation. The Prophet (ﷺ) refused to speak to them until they had changed back into their travelling dress and put aside these fineries.¹²⁴
 
 The surprising thing was that one of them asked the Prophet (ﷺ) the following questions: "Muhammad (ﷺ), do you want us to worship you as Jesus, son of Mary, is worshipped? Is this to which you are calling us?"
 
-His reply was: "Allāh (ﷻ) forbid that I should be worshipped besides Him, or that I should order anyone beside Him to be worshipped. He did not send me with this nor did He order me to it.¹¹⁹ Concerning this, Allāh (ﷻ) revealed the following:
+His reply was: "Allāh (ﷻ) forbid that I should worship other than Allāh, or order the worship of another than Him! He did not send me with this nor did He order me to it.¹²⁵ Concerning this, Allāh (ﷻ) revealed the following:
 
 (It is not [possible] for any human being whom Allah had given the Scripture, Wisdom and the Prophethood that he should afterwards have said mankind: be my servants instead of Allah's but [what he said was]: be faithful servants of the Lord by virtue of your constant teaching of the Scripture and your constant study of it. And he commanded you not to take the angels and the prophets for lords. Would he command you to disbelieve after you had surrendered [to Allah].) (Qur'ān 3: 79-80)
 
 The Prophet (ﷺ) invited them to become Muslims, and they replied that they were Muslims before him. Upon this he said: "You lie. What prevents you from Islām is your claim that Allāh (ﷻ) has a son, your worship of the cross and your consumption of pork."
 
-They argued with him about Jesus, saying: "Who is his father?"¹²⁰
+They argued with him about Jesus, saying: "Who is his father?"¹²⁶
 
 It is reported that the Prophet (ﷺ) replied to them in the following manner: "Don't you know that Allāh (ﷻ) is Living and will not die, and that Jesus is subject to death?"
 
@@ -5604,9 +5812,9 @@ When he saw that they were bent on arguing, and that they insisted on calling Je
 
 (Indeed! The likeness of Jesus to Allah is as the likeness of Adam. We created him of dust, then He said unto him: Be! And he was. [This is] the truth from your Lord [O Muhammad], so do not be of those who waver. And whoever disputes with you concerning him, after the knowledge which has come to you say [to him]: Come! We shall summon our sons and your sons, and our women and your women, and ourselves and yourselves, then we shall pray humbly [to our Lord] and [solemnly] invoke the curse of Allah upon those who lie.) (Qur'ān 3: 59-61)
 
-Next morning the Prophet (ﷺ) came out with his two grandchildren, Ḥasan and Ḥusain, and his daughter, Fāṭimah. He was prepared to participate with the deputation from Najran in a collective prayer calling down the curse of Allāh (ﷻ) on the liars. The deputation knew that he were right in his claim that Jesus was human like himself, and they were mistaken in their attribution of divinity to him. Why should they, then, call down the curse of God on themselves? They looked at Muhammad (ﷺ) and his daughter and grandchildren, and felt that the liar would not be destroyed alone but that his family would go with him too, and their fear extended to the fate of their own families and children.
+Next morning the Prophet (ﷺ) came out with his two grandchildren, Ḥasan and Ḥusain, and his daughter, Fāṭimah. He was prepared to participate with the deputation from Najran in a collective prayer calling down the curse of Allāh (ﷻ) on the liars. The deputation from Najran listened to this proposal and grew afraid of accepting it. Who knows? Muhammad (ﷺ) might be truthful in saying that Jesus was a human being like himself, and they might be deluded in ascribing divinity to him. Why, then, should they pray to Allāh to destroy them? They looked at Muhammad (ﷺ) and his daughter and grandchildren, and felt that the liar would not be destroyed alone but that his family would go with him too, and they feared destruction for their own children and families if they accepted this imprecation. Then they withdrew to confer in private.
 
-Some of them said to the others: "If this man is a king we shall not be safe if we reject or oppose him: his empire is spreading, and perhaps, he will bring ruin to our people. And if he is a true Prophet then there is no need to worry. Not a single hair or nail of our will remain on this earth without being destroyed (if we engage prayer). So what do we do?"
+Some of them said to the others: "If this man is a king we shall not be safe if we reject or oppose him: his empire is spreading, and perhaps, he will bring ruin to our people. And if he is a Prophet sent [by Allāh], then there is nothing we can do: not a single hair or nail of ours would remain on the face of the earth without being destroyed [if we joined in the imprecation with him]. So what do we do?"
 
 The spokesman of the group, Shurahbīl ibn Wada'ah, stepped forward and said: "I have a better idea than mutual cursing: we shall allow you to rule over us and whatever you decree will be enforced."
 
@@ -5614,11 +5822,11 @@ The Prophet (ﷺ) asked: "Perhaps there is someone (high than you) who will blam
 
 Shurahbīl replied: "Ask about me."
 
-The Prophet (ﷺ) asked about him and learnt that the people of the district did nothing without his approval, and he said: "A fortunate unbeliever." He concluded a treaty with them by virtue of which they became subjects of the Islāmic state. The clauses of this treaty state:
+The Prophet (ﷺ) asked about him and learnt that the people of the district did nothing without his approval, and he said: "A fortunate unbeliever." The Prophet (ﷺ) went back without the imprecation and concluded a treaty with them by virtue of which they became subjects of the Islāmic state. The clauses of this treaty state:
 
 "That the Christians of Najran are under the protection of Allāh (ﷻ) and Muhammad (ﷺ) the Prophet in relation to their persons, their religion, their land, their property, those absent and those present, their clan and their proteges.
 
-That they will not be changed from what they are: none of their rights or the rights of their religion will be changed, nor will any priest be changed from his priesthood nor monk form his monasticism, nor anything great or small in their hands.
+That they will not be changed from what they are: none of their rights or the rights of their religion will be changed, nor will any bishop be changed from his bishopric nor monk from his monasticism, nor anything great or small in their hands.
 
 That there is no suspicion about them nor blood-feud of *jahilīyah* and they will not be made to fight *jihād* nor pay *zakāh* and no army will enter their land. That whoever demands a right from them will be dealt with justly, neither wronging nor wronged, and whoever devours interest will be relieved of any protection, and no man among them will be held responsible for the wrong of another.
 
@@ -5628,11 +5836,11 @@ The witness to this treaty were: Abū Sufyān, Ghaylān ibn 'Amr, Mālik ibn 'Aw
 
 What were the duties of the Christians of Najran in return for these rights? They had to pay two thousand ḥallahs a year to the state! It was a meagre substitute for the *zakāh* which the Muslims alone had to pay and the *jihād* which they alone had to bear. This was the *jizyah* which was imposed on Najran after the negotiations which you have seen.
 
-In this way Islām severed the ties which existed between those Christian tribes and the Roman Empire, with which it was at war, after guaranteeing religious freedom to whoever desired it and abstain from interference. We should like, as a challenge, to ask whether the Christian groups have treated one another with such tolerance? Or was it a precedent set by Islām in those dark ages? Again we should like to ask whether the People of the Book respected the duty they had upon their shoulders and were just to the religion which looked after their interests?
+In this way Islām severed the ties which existed between those Christian tribes and the Roman Empire, with which it was at war, after guaranteeing religious freedom to those who made peace with it and refrained from hostility towards it. We should like, as a challenge, to ask whether the Christian groups have treated one another with such tolerance? Or was it a precedent set by Islām in those dark ages? Again we should like to ask whether the People of the Book respected the duty they had upon their shoulders and were just to the religion which looked after their interests?
 
-The tenth year of the Hijrah saw Islām spreading its teachings at the expense of a retreating paganism. Some of the southern tribes rebelled against this intrusion and claimed that if a man from the Quraish could become king of the Arabs by pretending to be a prophet, then it was easy for them to present a prophet from their ranks also, who would spread his dominion as Muhammad (ﷺ) did. The sad thing is that the Christians of the south added fuel to these uprisings. For example, Najran wrote to Al-Aswad Al-Ansī, who claimed prophethood, and gave him shelter. From there he went to Yemen, where he established his rule until he was killed by his wife.
+The tenth year of the Hijrah saw Islām spreading its teachings at the expense of a retreating paganism. Some of the southern tribes rebelled against this intrusion and claimed that if a man from the Quraish could become king of the Arabs by pretending to be a prophet, then it was easy for them to present a prophet from their ranks also, who would spread his dominion as Muhammad (ﷺ) did. The sad thing is that the Christians of the south added fuel to these uprisings. For example, the Christians of Najran corresponded with Al-Aswad al-'Ansī — one of the false claimants to prophethood — and he went to them; from there he moved on to Yemen, which he ruled until his wife killed him and rid the earth of him.
 
-Were these troubles of any assistance to the Christians of the north in their war against Islām or were these uprisings stemming simply from pure hatred? What the Christians of Najran did support of Al-Aswad Al-Ansī was the same as the Christians of Banū Taghlib did support Musaylimah the Liar when he in turn claimed prophethood. We can understand if the people of Najran or Taghlib refused to enter Islām and chose to remain in their traditional religion, with which they were contented. However, we simply cannot understand that a person should deny the divinely revealed Scriptures and believe, for instance, in Bu'kūkah.¹²¹ That is if they really believed in Al Aswad and Musaylimah. If they were just helping in the war against Islām with any weapons available and in partnership with any ally, then this is another matter,¹²² for which the physicians of the heart will be baffled to find a cure.
+Were these troubles of any assistance to the Christians of the north in their war against Islām or were these uprisings stemming simply from pure hatred? What the Christians of Najran did support of Al-Aswad al-'Ansī was the same as the Christians of Banū Taghlib did support Musaylimah the Liar when he in turn claimed prophethood. We can understand if the people of Najran or Taghlib refused to enter Islām and chose to remain in their traditional religion, with which they were contented. However, we simply cannot understand that a person should deny the divinely revealed Scriptures and believe, for instance, in al-Ba'kūkah.¹²⁷ That is if they really believed in Al Aswad and Musaylimah. If they were just helping in the war against Islām with any weapons available and in partnership with any ally, then this is another matter,¹²⁸ for which the physicians of the heart will be baffled to find a cure.
 
 ## Footnotes
 
@@ -5644,7 +5852,7 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 ⁴ A sound Ḥadīth from the Ḥadīth on Ḥudaybiyah by Ibn Isḥāq.
 
-⁵ Before Islām, Al Mughīrah was a cunning murderer. He had killed some people and 'Urwah pacified the situation by befriending him.
+⁵ Before Islām, Al Mughīrah was a cunning murderer. He had killed some people, and 'Urwah paid the blood-money for them to quench the strife.
 
 ⁶ All of this was part of the story of Ḥudaybiyah according to Ibn Isḥāq. Bukhārī narrated it in a similar way.
 
@@ -5686,11 +5894,11 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 ²⁵ Sound: narrated by Bukhārī and Muslim on the authority of Sahl ibn Sa'd.
 
-²⁶ I say the first is correct because it comes in Muslim and the Mustadrak of Al-Ḥākim, who said that there was abundant evidence that 'Alī (رضي الله عنه) killed Marhab.
+²⁶ I say the first is correct because it comes in Muslim and the Mustadrak of Al-Ḥākim, who said that there was abundant evidence that 'Alī (رضي الله عنه) killed Marḥab.
 
-²⁷ Weak: narrated by Ibn Hishām from Ibn Isḥāq with a muddled chain.
+²⁷ Weak: narrated by Ibn Hishām from Ibn Isḥāq from Hishām ibn 'Urwah as *mu'ḍal*.
 
-²⁸ Not authentic: narrated by Al-Wāqidi with a muddled chain, and Al-Wāqidi is not acceptable.
+²⁸ Not authentic: narrated by Al-Wāqidi as *mu'ḍal* (see Al-Bidāyah, 4/198), and Al-Wāqidi is abandoned (*matrūk*).
 
 ²⁹ A sound Ḥadīth narrated by Al Bayhaqī on the authority of Ibn 'Umar with a sound chain. Abū Dāwūd also narrated it.
 
@@ -5700,7 +5908,7 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 ³² Ibn Isḥāq mentioned it without a chain, and Ibn Hishām took it from him. However, he substantiated it with the Ḥadīth concerning the women, which, as you will see in the next footnote, is weak.
 
-³³ Weak: it is in Musnad of Aḥmad and Abū Dāwūd. Hashraj is unknown as Al Dhahabī stated and Ibn Ḥajar pointed out in Al Taqrīb.
+³³ Weak: it is in Musnad of Aḥmad and Abū Dāwūd. Ḥashraj is unknown as Al Dhahabī stated and Ibn Ḥajar pointed out in Al Taqrīb.
 
 ³⁴ Weak: narrated by Abū Dāwūd, Aḥmad and Ibn Hishām, all from Ibn Isḥāq, who narrated it with his chain from a woman from the Banū Ghifar. In it is Umayyah bint Abil Ṣalt, who is unknown.
 
@@ -5710,131 +5918,143 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 ³⁷ Sound: narrated by Bukhārī and Muslim from Ibn 'Umar.
 
-³⁸ A good Ḥadīth, narrated by Al-Ḥakim and Al Ṭabarānī on the authority of Al Sha'bī as mursal, its chain being sound. Al-Ḥakim also narrated it by another chain, which has no missing links although there is some weakness in it.
+³⁸ Narrated by Al-Wāqidī without a chain, as in Al-Bidāyah (4/218).
 
-³⁹ A sound Ḥadīth narrated by the two Sheikhs.
+³⁹ A good Ḥadīth, narrated by Al-Ḥakim and Al Ṭabarānī on the authority of Al Sha'bī as mursal, its chain being sound. Al-Ḥakim also narrated it by another chain, which has no missing links although there is some weakness in it.
 
-⁴⁰ A good Ḥadīth narrated by Bukhārī on the authority of Abū Mūsā.
+⁴⁰ A sound Ḥadīth narrated by the two Sheikhs.
 
-⁴¹ A good Ḥadīth narrated by Abū Dāwūd, Al-Ḥākim, Al-Bayhaqī and Aḥmad ibn Hanbal on the authority of Majma'ibn Jāriyah "that Khaybar was divided among those who witnessed Ḥudaybiyah and no others besides them". Al-Ḥākim said that it had a sound chain and Al Dhahabī agreed with him. It is supported by a Ḥadīth of Abū Hurairah (رضي الله عنه), narrated by Al Tayalisi and Al-Bayhaqī with a good chain. Ibn Isḥāq says in his Sīrah: "Khaybar was divided among those who witnessed Ḥudaybiyah, whether or not they were present at Khaybar, except Jābir ibn 'Abdullāh.
+⁴¹ A good Ḥadīth narrated by Bukhārī on the authority of Abū Mūsā.
 
-⁴² A sound Ḥadīth from the point where Caesar took the letter to the end. It was narrated by Bukhārī and Muslim on the authority of Ibn 'Abbās.
+⁴² A good Ḥadīth narrated by Abū Dāwūd, Al-Ḥākim, Al-Bayhaqī and Aḥmad ibn Hanbal on the authority of Majma'ibn Jāriyah "that Khaybar was divided among those who witnessed Ḥudaybiyah and no others besides them". Al-Ḥākim said that it had a sound chain and Al Dhahabī agreed with him. It is supported by a Ḥadīth of Abū Hurairah (رضي الله عنه), narrated by Al Tayalisi and Al-Bayhaqī with a good chain. Ibn Isḥāq says in his Sīrah: "Khaybar was divided among those who witnessed Ḥudaybiyah, whether or not they were present at Khaybar, except Jābir ibn 'Abdullāh.
 
-⁴³ Narrated by Abū 'Ubayd on the authority of Bakr ibn 'Abdullāh al Muzni. Its chain is authentic but it is mursal. However, Al Zurqāni, quoting from Fatḥ al Bari, said that it was also in the Musnad of Aḥmad. This should be checked, for its Ṣaḥabi is not mentioned.
+⁴³ A sound Ḥadīth from the point where Caesar took the letter to the end. It was narrated by Bukhārī and Muslim on the authority of Ibn 'Abbās.
 
-⁴⁴ Al Wāqidi narrated it without a chain as is stated in Al Bidāyah.
+⁴⁴ Narrated by Abū 'Ubayd on the authority of Bakr ibn 'Abdullāh al Muzni. Its chain is authentic but it is mursal. However, Al Zurqāni, quoting from Fatḥ al Bari, said that it was also in the Musnad of Aḥmad. This should be checked, for its Ṣaḥabi is not mentioned.
 
-⁴⁵ A good Ḥadīth narrated by Ibn Jarīr in his History on the authority of Yazid ibn Abī Habīb as a mursal Ḥadīth. Also Abū 'Ubayd narrated a similar version on the authority of Sa'd ibn Musayyib as mursal.
-⁴⁶ A sound Ḥadīth narrated by Bukhārī and also by Abū 'Ubayd on the authority of Sa'īd ibn al-Musayyib as mursal as well as marfū'. It is narrated by other sources too as mursal. See Al-Bidāyah wa al Nihayah.
-⁴⁷ A good Ḥadīth narrated by Ibn Jarīr on the authority of Zayd ibn Abū Habīb as Mursal and by Ibn Sa'd on the authority of 'Ubaydullāh ibn 'Abdullāh as mursal. It was also narrated on the authority of Abū Hurairah (رضي الله عنه) with a weak chain. In all three narrations there is an addition which is worth quoting. "But my Lord has ordered me to leave my beard and shave moustache."
-⁴⁸ Narrated by Al Wāqidī on the authority of Abū Khaythamah.
-⁴⁹ Da'īf narrated by al-Wāqidī.
-⁵⁰ Weak. Transmitted by Ibn Jarīr in his History on the authority of Yazīd ibn Abī Khubayb as mursal.
-⁵¹ Weak. Transmitted by Ibn Hishām from Ibn Isḥāq, who said: "Someone whom I do not suspect told me that Ibn 'Abbās reported from the Prophet (ﷺ)." Ibn Jarīr also transmitted it from Ibn Isḥāq, who transmitted it from Al-Ḥasan ibn 'Amarah from Al-Ḥakam ibn 'Uyaynah from Muqsim from Ibn 'Abbās. If it is authentic, then it is from the first chain, for Al-Ḥasan ibn 'Amarah is accused of fabrication, and if it is not, the first chain has a link who is not named.
-⁵² 'Abdullāh ibn Abī Bakr transmits from Ibn Isḥāq that 'Abdullāh ibn Abī Bakr narrated it to him as mursal. It is narrated by 'Abdul Raziq from two sources on the authority of Anas (رضي الله عنه): the first being sound in accordance with the criteria of both Sheikhs while the second is sound according to the criteria of Muslim. The second narration is also transmitted by Al Tirmidhī and Al Nasā'ī, and the former declared it a good Ḥadīth.
-⁵³ Weak: narrated by Ibn Hishām from Ibn Isḥāq without chain. The story is in Bukhārī on the authority of Al Barā and Ibn 'Umar, although their version does not contain: "If you let me…" Instead, there is: "When he had spent three days in Makkah, they ordered him to leave, and he left."
-⁵⁴ A sound Ḥadīth transmitted by Bukhārī and others.
-⁵⁵ Recorded in the Sīrah of Ibn Hishām and other sources although with a weak chain.
-⁵⁶ A sound Ḥadīth transmitted by Aḥmad with a sound chain in accordance with the criteria of Muslim. Part of it was narrated by Abū Dāwūd, Al Nasā'ī and Al-Ḥakim, who authenticated it.
-⁵⁷ Weak: transmitted by Ibn Isḥāq from Muhammad ibn 'Abdul Rahmān Al Tamīmī as mursal.
-⁵⁸ Sound: transmitted by Abū Dāwūd, Al Dārquṭnī, Al-Ḥakim and Al-Bayhaqī on the authority of 'Amr Ibn al Āṣ with a sound chain.
-⁵⁹ Weak: transmitted by Ibn Hishām and Ibn Jarīr from Ibn Isḥāq without chain. Al Ṭabarānī supplied the chain in his Al-Mu'jam al-Kabīr and Al-Mu'jam Al Ṣaghīr, tracing it to Maymūnah bint al Ḥārith, it is weak.
-⁶⁰ Weak: narrated by Ibn Isḥāq without a chain, as transmitted by Ibn Hishām and Ibn Jarīr.
-⁶¹ Weak: narrated by Ibn Hishām without a chain. Its meaning is in the Ḥadīth of Maymūnah mentioned earlier.
-⁶² A sound Ḥadīth, transmitted by the two Sheikhs and others.
-⁶³ Transmitted by Ibn Jarīr and Al-Ḥakim on the authority of Ibn 'Abbās. Al-Ḥakim said it was sound in accordance with the criteria of Muslim and Al Dhahabī agreed with him. However, it is only a good Ḥadīth (ḥasan).
-⁶⁴ A sound Ḥadīth transmitted by Ibn Hishām from Ibn Isḥāq with a muddled chain, which was clarified by Ibn Jarīr, though there is a weak link in it. However, Al-Haythami said that Al Ṭabarāni narrated it with a sound chain. Abū Dāwūd also transmitted it from Ibn Isḥāq with a different chain, but in it is a link which is not named. There is a third chain from Ibn Isḥāq which is strong, and also Muslim transmitted it on the authority of Abū Hurairah (رضي الله عنه), except that he said "And whoever lays down his arms is safe" instead of "and whoever enters the mosque is safe."
-⁶⁵ A sound Ḥadīth transmitted by Ibn Hishām from Ibn Isḥāq without a chain. However, Ibn Jarīr and Ṭabarānī transmitted it with a full chain from Ibn 'Abbās as explained earlier. Part of it was transmitted by Bukhārī and Ibn Jarīr on the authority of 'Urwah as mursal, and this is a strong support.
-⁶⁶ Weak. Transmitted by Ibn Hishām from Ibn Isḥāq who reported it from 'Abdullāh ibn Abū Bakr (رضي الله عنه) as mursal. Al-Ḥakim and Abū Ya'la traced it to Anas and the former said it was sounding in accordance with the criteria of Muslim, and Al Dhahabī agreed with him. They are both mistaken. One of the links is 'Abdullāh ibn Bakr al-Muqaddimi, who is weak. He is not 'Abdullāh ibn Abū Bakr, who is the Sheikh of Ibn Isḥāq.
-⁶⁷ Weak: quoted by Bukhārī and others on the authority of 'Urwah as mursal.
-⁶⁸ Ṣaḥīḥ: transmitted by the two Sheikhs on the authority of Ibn Mas'ūd. Also by Muslim on the authority of Abū Hurairah (رضي الله عنه).
-⁶⁹ Ṣaḥīḥ: transmitted by Bukhārī on the authority of Ibn 'Abbās.
-⁷⁰ Ṣaḥīḥ: transmitted by Aḥmad and Al Ṭayālisī.
-⁷¹ Weak: transmitted by Ibn Isḥāq with a muddled chain. Al Ghazali mentioned it in Al Iḥyā on the authority of Abū Hurairah (رضي الله عنه) without the last part "Go... However, there is a weakness in its chain.
-⁷² Weak: transmitted by Ibn Hishām with a muddled chain.
-⁷³ Ṣaḥīḥ: transmitted by Bukhārī and others without the last part "Surely you do not betray Your promises", which is transmitted by Al-Bayhaqī alone and is not authentic.
-⁷⁴ His shortening of the prayers is transmitted by Bukhārī on the authority of Ibn 'Abbās, who said: "the Prophet (ﷺ) spent nineteen days in Makkah, praying two rak'ats. His not fasting is transmitted by the two Sheikhs on the authority of Ibn 'Abbās.
-⁷⁵ Good: transmitted by Aḥmad on the authority of Al Aswad ibn Khalaf.
-⁷⁶ Weak: transmitted by Ibn Jarīr without a chain or on the authority of Qatādah with a weak chain.
-⁷⁷ Ṣaḥīḥ: transmitted by the two Sheikhs and others.
-⁷⁸ Ṣaḥīḥ: transmitted by Abū Dāwūd on the authority of Suhayl Ibn Al-Hawzaliyah with a sound chain.
-⁷⁹ Ṣaḥīḥ: transmitted by Ibn Hishām and Ibn Jarīr from Isḥāq with a sound chain from Jābir ibn 'Abdullāh.
-⁸⁰ Ṣaḥīḥ: transmitted by Ibn Isḥāq with a sound chain from Al-'Abbās. Muslim has a similar version.
-⁸¹ Ṣaḥīḥ: transmitted by the two Sheikhs from Al-Bara ibn 'Azib.
-⁸² Ṣaḥīḥ: transmitted by Muslim alone.
-⁸³ Sound: mentioned by Ibn Isḥāq without a chain, although its meaning is in Bukhārī and Ibn Jarīr on the authority of Abū Mūsā al Ash'arī.
-⁸⁴ Sound: narrated by Bukhārī.
-⁸⁵ Mentioned by Ibn Hishām from Ibn Isḥāq without a chain. Ibn Jarīr transmitted it from him on the authority of 'Abdullāh ibn Abī Bakr as mursal. The Prophet's (ﷺ) giving to those whose hearts were to be reconciled, including Abū Sufyān, is correct and transmitted by Muslim.
-⁸⁶ Ṣaḥīḥ: transmitted by Aḥmad and Al Bayhaqī with a good chain on the authority of 'Abdullāh ibn 'Amr, also Bukhārī on the authority of Jubayr ibn Mat'am up to where he said "or a liar". The rest is transmitted by Al-Ḥakim on the authority of 'Ubādah Ibn al Ṣāmit and by Al-Bayhaqī on the authority of 'Umar ibn 'Ibsah.
-⁸⁷ His chain is Ṣaḥīḥ in accordance with the criteria of Muslim.
-⁸⁸ Ṣaḥīḥ: Transmitted by the two Sheikhs.
-⁸⁹ Ṣaḥīḥ: transmitted by Muslim, Tirmidhī and Aḥmad on the authority of Sa'īd ibn al-Musayyib.
+⁴⁵ Al Wāqidi narrated it without a chain as is stated in Al Bidāyah.
 
-⁹⁰ Ṣaḥīḥ: transmitted by Aḥmad, Ibn Hishām and Ibn Jarīr from Ibn Isḥāq with a sound chain on the authority of Abū Sa'īd al-Khudrī. The story is mentioned by Bukhārī in an abridged form.
+⁴⁶ A good Ḥadīth narrated by Ibn Jarīr in his History on the authority of Yazid ibn Abī Habīb as a mursal Ḥadīth. Also Abū 'Ubayd narrated a similar version on the authority of Sa'd ibn Musayyib as mursal.
+⁴⁷ A sound Ḥadīth narrated by Bukhārī and also by Abū 'Ubayd on the authority of Sa'īd ibn al-Musayyib as mursal as well as marfū'. It is narrated by other sources too as mursal. See Al-Bidāyah wa al Nihayah.
+⁴⁸ A good Ḥadīth narrated by Ibn Jarīr on the authority of Zayd ibn Abū Habīb as Mursal and by Ibn Sa'd on the authority of 'Ubaydullāh ibn 'Abdullāh as mursal. It was also narrated on the authority of Abū Hurairah (رضي الله عنه) with a weak chain. In all three narrations there is an addition which is worth quoting. "But my Lord has ordered me to leave my beard and shave moustache."
+⁴⁹ Narrated by Al Wāqidī on the authority of Abū Khaythamah.
+⁵⁰ Da'īf narrated by al-Wāqidī.
+⁵¹ Weak. Transmitted by Ibn Jarīr in his History on the authority of Yazīd ibn Abī Khubayb as mursal.
+⁵² Weak. Transmitted by Ibn Hishām from Ibn Isḥāq, who said: "Someone whom I do not suspect told me that Ibn 'Abbās reported from the Prophet (ﷺ)." Ibn Jarīr also transmitted it from Ibn Isḥāq, who transmitted it from Al-Ḥasan ibn 'Amarah from Al-Ḥakam ibn 'Uyaynah from Muqsim from Ibn 'Abbās. If it is authentic, then it is from the first chain, for Al-Ḥasan ibn 'Amarah is accused of fabrication, and if it is not, the first chain has a link who is not named. What is in the Musnad (no. 3536) from Ibn 'Abbās suffices instead: the Quraish said: "Muhammad (ﷺ) and his Companions have been weakened by the fever of Yathrib." When the Messenger of Allāh (ﷺ) came in the year in which they performed the 'umrah, he said to his Companions: "Walk briskly (*raml*) around the House, so that the polytheists may see your strength." When they did so, the Quraish said: "It has not weakened them." Its chain is sound; Bukhārī cited it as *mu'allaq* (8/411).
+⁵³ In Ibn Hishām from Ibn Isḥāq: "'Abdullāh ibn Abī Bakr told me," as *mursal*. It is narrated by 'Abdul Raziq from two sources on the authority of Anas (رضي الله عنه): the first being sound in accordance with the criteria of both Sheikhs while the second is sound according to the criteria of Muslim. The second narration is also transmitted by Al Tirmidhī and Al Nasā'ī, and the former declared it a good Ḥadīth.
+⁵⁴ Weak: narrated by Ibn Hishām from Ibn Isḥāq without chain. The story is in Bukhārī on the authority of Al Barā and Ibn 'Umar, although their version does not contain: "If you let me…" Instead, there is: "When he had spent three days in Makkah, they ordered him to leave, and he left."
+⁵⁵ A sound Ḥadīth transmitted by Bukhārī (7/412) and others from Ibn 'Umar, and by Aḥmad (5/299, 300–301) from Abū Qatādah; its chain is sound.
 
-⁹¹ Ṣaḥīḥ: transmitted by Bukhārī on the authority of Marwān, Al-Miswar and Ibn Makhramah together.
+⁵⁶ A sound Ḥadīth transmitted by Bukhārī and others.
+⁵⁷ Recorded in the Sīrah of Ibn Hishām and other sources although with a weak chain.
+⁵⁸ A sound Ḥadīth transmitted by Bukhārī (6/135) as part of the Ḥadīth of Anas mentioned above, in one narration with the wording: "I would not be happy — or he said: they would not be happy…", with doubt.
 
-⁹² Weak: transmitted by Al-Wāqidī.
+⁵⁹ A sound Ḥadīth transmitted by Aḥmad with a sound chain in accordance with the criteria of Muslim. Part of it was narrated by Abū Dāwūd, Al Nasā'ī and Al-Ḥakim, who authenticated it.
+⁶⁰ Weak: transmitted by Ibn Isḥāq from Muhammad ibn 'Abdul Rahmān Al Tamīmī as mursal.
+⁶¹ Sound: transmitted by Abū Dāwūd, Al Dārquṭnī, Al-Ḥakim and Al-Bayhaqī on the authority of 'Amr Ibn al Āṣ with a sound chain.
+⁶² Weak: transmitted by Ibn Hishām and Ibn Jarīr from Ibn Isḥāq without chain. Al Ṭabarānī supplied the chain in his Al-Mu'jam al-Kabīr and Al-Mu'jam Al Ṣaghīr, tracing it to Maymūnah bint al Ḥārith, it is weak.
+⁶³ Weak: narrated by Ibn Isḥāq without a chain, as transmitted by Ibn Hishām and Ibn Jarīr.
+⁶⁴ Weak: narrated by Ibn Hishām without a chain. Its meaning is in the Ḥadīth of Maymūnah mentioned earlier.
+⁶⁵ A sound Ḥadīth, transmitted by the two Sheikhs and others.
+⁶⁶ Transmitted by Ibn Jarīr and Al-Ḥakim on the authority of Ibn 'Abbās. Al-Ḥakim said it was sound in accordance with the criteria of Muslim and Al Dhahabī agreed with him. However, it is only a good Ḥadīth (ḥasan).
+⁶⁷ A sound Ḥadīth transmitted by Ibn Hishām from Ibn Isḥāq as *mu'ḍal*; Ibn Jarīr, however, transmitted it from him with a connected chain, though there is a weak link in it. However, Al-Haythami said that Al Ṭabarāni narrated it with a sound chain. Abū Dāwūd also transmitted it from Ibn Isḥāq with a different chain, but in it is a link which is not named. There is a third chain from Ibn Isḥāq which is strong, and also Muslim transmitted it on the authority of Abū Hurairah (رضي الله عنه), except that he said "And whoever lays down his arms is safe" instead of "and whoever enters the mosque is safe."
+⁶⁸ A sound Ḥadīth transmitted by Ibn Hishām from Ibn Isḥāq without a chain. However, Ibn Jarīr and Ṭabarānī transmitted it with a full chain from Ibn 'Abbās as explained earlier. Part of it was transmitted by Bukhārī and Ibn Jarīr on the authority of 'Urwah as mursal, and this is a strong support.
+⁶⁹ Weak. Transmitted by Ibn Hishām from Ibn Isḥāq who reported it from 'Abdullāh ibn Abū Bakr (رضي الله عنه) as mursal. Al-Ḥakim and Abū Ya'la traced it to Anas and the former said it was sounding in accordance with the criteria of Muslim, and Al Dhahabī agreed with him. They are both mistaken. One of the links is 'Abdullāh ibn Bakr al-Muqaddimi, who is weak. He is not 'Abdullāh ibn Abū Bakr, who is the Sheikh of Ibn Isḥāq.
+⁷⁰ Weak: quoted by Bukhārī and others on the authority of 'Urwah as mursal.
+⁷¹ Ṣaḥīḥ: transmitted by Bukhārī (8/14, 15) from Ibn 'Umar and 'Ā'ishah.
 
-⁹³ Weak: transmitted by Ibn Hishām from Ibn Isḥāq.
+⁷² Mentioned by Ibn Hishām (3/383) from Ibn Isḥāq without a chain.
 
-⁹⁴ Weak: transmitted by Al Tirmidhī from Abul Zubayr from Jābir. He said it was *ḥasan ṣaḥīḥ* Zubayr, however, is known for *tadlīs*.
+⁷³ Ṣaḥīḥ: transmitted by the two Sheikhs on the authority of Ibn Mas'ūd. Also by Muslim on the authority of Abū Hurairah (رضي الله عنه).
+⁷⁴ Ṣaḥīḥ: transmitted by Bukhārī on the authority of Ibn 'Abbās.
+⁷⁵ Ṣaḥīḥ: transmitted by Aḥmad and Al Ṭayālisī.
+⁷⁶ Weak: transmitted by Ibn Isḥāq as *mu'ḍal*. Al Ghazali mentioned it in Al Iḥyā on the authority of Abū Hurairah (رضي الله عنه) without the last part "Go... However, there is a weakness in its chain.
+⁷⁷ Weak: transmitted by Ibn Hishām with a *mu'ḍal* chain.
+⁷⁸ Ṣaḥīḥ: transmitted by Bukhārī and others without the last part "Surely you do not betray Your promises", which is transmitted by Al-Bayhaqī alone and is not authentic.
+⁷⁹ His shortening of the prayers is transmitted by Bukhārī on the authority of Ibn 'Abbās, who said: "the Prophet (ﷺ) spent nineteen days in Makkah, praying two rak'ats. His not fasting is transmitted by the two Sheikhs on the authority of Ibn 'Abbās.
+⁸⁰ Good: transmitted by Aḥmad on the authority of Al Aswad ibn Khalaf.
+⁸¹ Weak: transmitted by Ibn Jarīr without a chain or on the authority of Qatādah with a weak chain.
+⁸² Ṣaḥīḥ: transmitted by the two Sheikhs and others.
+⁸³ Ṣaḥīḥ: transmitted by Abū Dāwūd on the authority of Suhayl Ibn Al-Hawzaliyah with a sound chain.
+⁸⁴ Ṣaḥīḥ: transmitted by Ibn Hishām and Ibn Jarīr from Isḥāq with a sound chain from Jābir ibn 'Abdullāh.
+⁸⁵ Ṣaḥīḥ: transmitted by Ibn Isḥāq with a sound chain from Al-'Abbās. Muslim has a similar version.
+⁸⁶ Ṣaḥīḥ: transmitted by the two Sheikhs from Al-Bara ibn 'Azib.
+⁸⁷ Ṣaḥīḥ: transmitted by Muslim alone.
+⁸⁸ Transmitted by Muslim from Al-'Abbās.
 
-⁹⁵ Ṣaḥīḥ: transmitted in this manner by Ibn Hishām without a chain, although Muslim and others supplied the chain linking it to Abū Hurairah (رضي الله عنه). Thus it is not permissible to introduce it with the words: "It is narrated."
+⁸⁹ Sound: mentioned by Ibn Isḥāq without a chain, although its meaning is in Bukhārī and Ibn Jarīr on the authority of Abū Mūsā al Ash'arī.
+⁹⁰ Sound: narrated by Bukhārī.
+⁹¹ Mentioned by Ibn Hishām from Ibn Isḥāq without a chain. Ibn Jarīr transmitted it from him on the authority of 'Abdullāh ibn Abī Bakr as mursal. The Prophet's (ﷺ) giving to those whose hearts were to be reconciled, including Abū Sufyān, is correct and transmitted by Muslim.
+⁹² Ṣaḥīḥ: transmitted by Aḥmad and Al Bayhaqī with a good chain on the authority of 'Abdullāh ibn 'Amr, also Bukhārī on the authority of Jubayr ibn Mat'am up to where he said "or a liar". The rest is transmitted by Al-Ḥakim on the authority of 'Ubādah Ibn al Ṣāmit and by Al-Bayhaqī on the authority of 'Umar ibn 'Ibsah.
+⁹³ His chain is Ṣaḥīḥ in accordance with the criteria of Muslim.
+⁹⁴ Ṣaḥīḥ: Transmitted by the two Sheikhs.
+⁹⁵ Ṣaḥīḥ: transmitted by Muslim, Tirmidhī and Aḥmad on the authority of Sa'īd ibn al-Musayyib.
 
-⁹⁶ Weak: transmitted by Ibn Hishām from Ibn Isḥāq without chain. Al-Ḥakim transmitted it from 'Urwah as *mursal* and its chain is also weak. Ibn 'Abdul Barr transmits with a sound chain that the Prophet (ﷺ) sent Mu'adh to Yemen in the year of the conquest of Makkah. If all is correct then he would have been sent to Yemen after being appointed to stay in Makkah. However, Allāh (ﷻ) knows best.
+⁹⁶ Ṣaḥīḥ: transmitted by Aḥmad, Ibn Hishām and Ibn Jarīr from Ibn Isḥāq with a sound chain on the authority of Abū Sa'īd al-Khudrī. The story is mentioned by Bukhārī in an abridged form.
 
-⁹⁷ Up to here the Ḥadīth is *ḥasan*. The rest of the Ḥadīth, however, does not have strong support though it is famous.
+⁹⁷ Ṣaḥīḥ: transmitted by Bukhārī on the authority of Marwān, Al-Miswar and Ibn Makhramah together.
 
-⁹⁸ Weak with this wording: transmitted by Ibn Hishām as *mu'ḍal*. In another version 'Ā'ishah is reported to have said that the Prophet (ﷺ) made this supplication under other circumstances, although its chain is weak as well. What is authentic is that on this occasion the Prophet (ﷺ) said: "Nothing that 'Uthmān (رضي الله عنه) does after today will harm him,"
+⁹⁸ Weak: transmitted by Al-Wāqidī.
 
-⁹⁹ Ṣaḥīḥ: Ibn Isḥāq transmitted it without a chain, although Ibn Ḥajar quotes a number of authorities for it in *Al-Iṣābah*.
+⁹⁹ Weak: transmitted by Ibn Hishām from Ibn Isḥāq.
 
-¹⁰⁰ Weak: Ibn Hishām and Ibn Jarīr transmitted it from Ibn Isḥāq, whose chain is weak.
+¹⁰⁰ Weak: transmitted by Al Tirmidhī from Abul Zubayr from Jābir. He said it was *ḥasan ṣaḥīḥ* Zubayr, however, is known for *tadlīs*.
 
-¹⁰¹ Ibn Kathīr mentioned it in his History from the narration of 'Abdullāh ibn Wahb, leading to Ibn 'Abbās, and said it was good chain. However, I say it is not good because it contains 'Utbah ibn Abī 'Utbah, who, as al-'Uqaylī pointed out in his Al-Ḍu'afā', weak. The Ḥadīth is also quoted by Al-Haythami, who said that Al-Bazzaz and Al Ṭabarāni narrated it and the former's chain is sound. If this is true then the Ḥadīth is *ḥasan* or *ṣaḥīḥ*.
+¹⁰¹ Ṣaḥīḥ: transmitted in this manner by Ibn Hishām without a chain, although Muslim and others supplied the chain linking it to Abū Hurairah (رضي الله عنه). Thus it is not permissible to introduce it with the words: "It is narrated."
 
-¹⁰² Ṣaḥīḥ: transmitted by Aḥmad on the authority of Ibn 'Umar, and this is one of his wordings. Also narrated by the two Sheikhs in a similar manner.
+¹⁰² Weak: transmitted by Ibn Hishām from Ibn Isḥāq without chain. Al-Ḥakim transmitted it from 'Urwah as *mursal* and its chain is also weak. Ibn 'Abdul Barr transmits with a sound chain that the Prophet (ﷺ) sent Mu'adh to Yemen in the year of the conquest of Makkah. If all is correct then he would have been sent to Yemen after being appointed to stay in Makkah. However, Allāh (ﷻ) knows best.
 
-¹⁰³ In the *Musnad* of Aḥmad. Ibn Kathīr, Al-Ḥakim said it was *ṣaḥīḥ* and Ibn Ḥajar said it was *ḥasan*. However, I object since the chain contains Abul Zubayr, who is known for *tadlīs*.
+¹⁰³ Up to here the Ḥadīth is *ḥasan*. The rest of the Ḥadīth, however, does not have strong support though it is famous.
 
-¹⁰⁴ Ṣaḥīḥ: transmitted by the two Sheikhs and others.
+¹⁰⁴ Weak with this wording: transmitted by Ibn Hishām as *mu'ḍal*. In another version 'Ā'ishah is reported to have said that the Prophet (ﷺ) made this supplication under other circumstances, although its chain is weak as well. What is authentic is that on this occasion the Prophet (ﷺ) said: "Nothing that 'Uthmān (رضي الله عنه) does after today will harm him,"
 
-¹⁰⁵ Ṣaḥīḥ: transmitted by Bukhārī.
+¹⁰⁵ Ṣaḥīḥ: Ibn Isḥāq transmitted it without a chain, although Ibn Ḥajar quotes a number of authorities for it in *Al-Iṣābah*.
 
-¹⁰⁶ This narration is a summary of what is contained in Zād al-Ma'ād.
+¹⁰⁶ Weak: Ibn Hishām and Ibn Jarīr transmitted it from Ibn Isḥāq, whose chain is weak.
 
-¹⁰⁷ Narrated in full by Bukhārī (8/92–100), and likewise by Muslim (106/8–112).
+¹⁰⁷ Ibn Kathīr mentioned it in his History from the narration of 'Abdullāh ibn Wahb, leading to Ibn 'Abbās, and said it was good chain. However, I say it is not good because it contains 'Utbah ibn Abī 'Utbah, who, as al-'Uqaylī pointed out in his Al-Ḍu'afā', weak. The Ḥadīth is also quoted by Al-Haythami, who said that Al-Bazzaz and Al Ṭabarāni narrated it and the former's chain is sound. If this is true then the Ḥadīth is *ḥasan* or *ṣaḥīḥ*.
 
-¹⁰⁸ Weak: transmitted by Ibn Hishām from Ibn Isḥāq without a chain. However, Ibn Kathīr mentioned it in his *tafsīr* from Ibn Isḥāq from Al Zuhri, Yazīd ibn Rūmān, 'Abdullāh ibn Abī Bakr, 'Āṣim ibn 'Umar, Ibn Qatādah and others as *mursal*.
+¹⁰⁸ Ṣaḥīḥ: transmitted by Aḥmad on the authority of Ibn 'Umar, and this is one of his wordings. Also narrated by the two Sheikhs in a similar manner.
 
-¹⁰⁹ Weak: Ibn Hishām (2/225–226) mentions it from Ibn Isḥāq as *mu'ḍal*. The last sentence, however, was given a connected chain by Abū Dāwūd (2/42) and Aḥmad (5/218), from Al-Ḥasan, from ʿUthmān ibn Abī al-ʿĀṣ, raised (*marfū'*) to the Prophet (ﷺ) with similar wording. Its narrators are trustworthy, but Al-Ḥasan — that is, Al-Baṣrī — is a *mudallis* and narrated it with *'an'anah*.
+¹⁰⁹ In the *Musnad* of Aḥmad. Ibn Kathīr, Al-Ḥakim said it was *ṣaḥīḥ* and Ibn Ḥajar said it was *ḥasan*. However, I object since the chain contains Abul Zubayr, who is known for *tadlīs*.
 
-¹¹⁰ Ḥasan: Ibn Hishām transmitted it from Ibn Isḥāq as *mursal*. It has other ḥadīths to support it and these are mentioned by Ibn Kathīr in his History.
+¹¹⁰ Ṣaḥīḥ: transmitted by the two Sheikhs and others.
 
-¹¹¹ Ḥasan: it is the continuation of the previously mentioned Ḥadīth.
+¹¹¹ Ṣaḥīḥ: transmitted by Bukhārī.
 
-¹¹² Ṣaḥīḥ: transmitted by Aḥmad and Al Tirmidhī.
+¹¹² This narration is a summary of what is contained in Zād al-Ma'ād.
 
-¹¹³ Ibn Kathīr said: "This shows that Ḍamām returned to his tribe before the conquest of Makkah because Al 'Uzza was destroyed by Khālid ibn al Walīd during the days of the Conquest."
+¹¹³ Narrated in full by Bukhārī (8/92–100), and likewise by Muslim (106/8–112).
 
-¹¹⁴ Ḥasan: transmitted by Abū Dawūd, Al-Ḥakim and Aḥmad on the authority of Ibn 'Abbās. Muslim had an abridged version.
+¹¹⁴ Weak: transmitted by Ibn Hishām from Ibn Isḥāq without a chain. However, Ibn Kathīr mentioned it in his *tafsīr* from Ibn Isḥāq from Al Zuhri, Yazīd ibn Rūmān, 'Abdullāh ibn Abī Bakr, 'Āṣim ibn 'Umar, Ibn Qatādah and others as *mursal*.
 
-¹¹⁵ Ṣaḥīḥ: transmitted by Bukhārī and others.
+¹¹⁵ Weak: Ibn Hishām (2/225–226) mentions it from Ibn Isḥāq as *mu'ḍal*. The last sentence, however, was given a connected chain by Abū Dāwūd (2/42) and Aḥmad (5/218), from Al-Ḥasan, from ʿUthmān ibn Abī al-ʿĀṣ, raised (*marfū'*) to the Prophet (ﷺ) with similar wording. Its narrators are trustworthy, but Al-Ḥasan — that is, Al-Baṣrī — is a *mudallis* and narrated it with *'an'anah*.
 
-¹¹⁶ Weak: transmitted by Bayhaqī with a chain of unknown narrators.
+¹¹⁶ Ḥasan: Ibn Hishām transmitted it from Ibn Isḥāq as *mursal*. It has other ḥadīths to support it and these are mentioned by Ibn Kathīr in his History.
 
-¹¹⁷ Weak: Ibn Hishām transmits it from Ibn Isḥāq with a chain which is either *mursal* or *mu'ḍal*.
+¹¹⁷ Ḥasan: it is the continuation of the previously mentioned Ḥadīth.
 
-¹¹⁸ This is from the above-mentioned Ḥadīth of Al-Bayhaqī.
+¹¹⁸ Ṣaḥīḥ: transmitted by Aḥmad and Al Tirmidhī.
 
-¹¹⁹ Weak: transmitted by Ibn Abī Muhammad Al Anṣārī, who is unknown.
+¹¹⁹ Ibn Kathīr said: "This shows that Ḍamām returned to his tribe before the conquest of Makkah because Al 'Uzza was destroyed by Khālid ibn al Walīd during the days of the Conquest."
 
-¹²⁰ This much comes in the above-mentioned *mursal* Ḥadīth of Ibn Isḥāq. I have not found the rest of it with him. However, part of it comes in the above-mentioned Ḥadīth of Al Bayhaqī.
+¹²⁰ Ḥasan: transmitted by Abū Dawūd, Al-Ḥakim and Aḥmad on the authority of Ibn 'Abbās. Muslim had an abridged version.
 
-¹²¹ A comedy.
+¹²¹ Ṣaḥīḥ: transmitted by Bukhārī and others.
 
-¹²² See our book Intolerance and Tolerance between Christianity and Islām.
+¹²² Weak: transmitted by Bayhaqī with a chain of unknown narrators.
+
+¹²³ Weak: Ibn Hishām transmits it from Ibn Isḥāq with a chain which is either *mursal* or *mu'ḍal*.
+
+¹²⁴ This is from the above-mentioned Ḥadīth of Al-Bayhaqī.
+
+¹²⁵ Weak: narrated by Muhammad ibn Isḥāq with his chain from Ibn 'Abbās, as in Ibn Kathīr's Tafsīr. In it is Muhammad ibn Abī Muhammad, i.e. Al-Anṣārī, of whom Al-Dhahabī said: "He is unknown." Ibn Ḥibbān, however, declared him reliable!
+
+¹²⁶ This much comes in the above-mentioned *mursal* Ḥadīth of Ibn Isḥāq (from Muhammad ibn Ja'far ibn al-Zubayr). The other narration I have not found at present with a chain in this complete form. However, part of it comes in the above-mentioned Ḥadīth of Al Bayhaqī.
+
+¹²⁷ A satirical newspaper.
+
+¹²⁸ See our book Intolerance and Tolerance between Christianity and Islām.
 
 ---
 
@@ -5842,7 +6062,7 @@ Were these troubles of any assistance to the Christians of the north in their wa
 
 # The Mothers of the Believers
 
-Some writers have raised a storm over the principle of polygamy and have tried to limit or prevent what Islām has permitted in this regard. Sometimes they argue that Islām has not given a clear-cut permission, and at other times they say that, in keeping with the development of civilization and the interests of the mankind that a man should have only one wife.
+Some writers have raised a storm over the principle of polygamy and have tried to limit or prevent what Islām has permitted in this regard. Sometimes they argue that Islām has not given a clear-cut permission, and at other times they say that, in keeping with the development of civilization and the interests of mankind, a man should content himself with one wife and not go beyond her. It is enough for him to succeed in caring for her and supporting his children by her…!
 
 No doubt these thoughts came into being in our societies as a result of various factors which need detailed analysis to be effectively refuted. For many years now the opponents of polygamy have been trying to have the law changed to suit their views. However, their efforts were halted when they aroused the anger of the *ulama'* and those sources who are concerned with Islāmic affair. At that time I had written an article about the nature of polygamy, which I think would be appropriate to repeat here before dealing with the topic in front of us, since there is an obvious relationship between the two.
 
@@ -5862,7 +6082,7 @@ Moreover, there is a great difference in the sexual appetites of men. Some men h
 
 There is another reason: the wife may be frail, unwell, sterile or elderly, and why should she be cast aside for these reasons? In respect for the old association it is only right that she should remain under her husband's protection and that he be given the option to bring another wife who will do complete justice to the marital relationship.
 
-In spite of the innumerable justifications for polygamy, Islām has adamantly refused to make it an extension to the lusts and leanings of some men toward excessive pleasure or power. Taxes go in accordance with riches and when facilities are provided they are followed by heavier duties. Thus, in the case of polygamy, one must ensure that absolute justice prevails. If a man will harm himself or his children or his wives by polygamy then it is not permissible for him.
+In spite of the innumerable justifications for polygamy, Islām has adamantly refused to make it an extension to the lusts and leanings of some men toward excessive pleasure or power. Liability is in proportion to gain, and easy pleasures are followed by heavy obligations. Thus, in the case of polygamy, one must ensure that absolute justice prevails. If a man will harm himself or his children or his wives by polygamy then it is not permissible for him. He who takes more than one wife must be able to bear the necessary maintenance.
 
 If the law considers the inability to bear the necessary expenses as an impediment to marrying one, then it will be an impediment to marrying more than one. The *Shari'ah* advises the youthful bachelor who cannot maintain a wife to fast and orders the man who cannot find a wife to remain chaste.
 
@@ -5872,13 +6092,13 @@ What then is the position of one who is married to one wife? He should exercise 
 
 Similarly, Islām makes it obligatory to observe justice among the wives. Even though one may not be able to control the leanings of one's heart, yet there are other actions and circumstances in which the husband can keep within the limits of the *Shari'ah*, observe equity and fear Allāh (ﷻ) in regard to the people and wealth which He (ﷻ) has placed under his care.
 
-The Prophet (ﷺ) said: "Surely Allāh (ﷻ) will ask every man about what He has placed under his care, whether he preserved it or destroyed it.² He also said: "It is enough sin for a man that he should cause those whom he maintains to perish.³ These are the limits of justice which Allāh (ﷻ) has placed on polygamy and anyone who can bear the burdens thereof may marry two or three or four if he so wishes, otherwise let him be content with one only: "And if you fear you may not deal justly, then one." (Qur'ān 4: 3)
+The Prophet (ﷺ) said: "Surely Allāh (ﷻ) will ask every man about what He has placed under his care, whether he preserved it or destroyed it."² He also said: "It is enough sin for a man that he should cause those whom he maintains to perish."³ These are the limits of justice which Allāh (ﷻ) has placed on polygamy and anyone who can bear the burdens thereof may marry two or three or four if he so wishes, otherwise let him be content with one only: (And if you fear you may not deal justly, then [marry] one.) (Qur'ān 4: 3)
 
-I have read where some journalists object to the principles of polygamy by asking why is it that men are allowed more than one wife while women are not allowed more than one husband? I have looked at these questioners and have found that the majority of them are either licentious, or pimps-or-procurers of women. I was surprised that they were living in a world of sin and yet they hated most strongly that families should be established on the basis of chastity.
+I have read where some journalists object to the principles of polygamy by asking why is it that men are allowed more than one wife while women are not allowed more than one husband? I have looked at these questioners and have found that the majority of them are either debauchees, or men who condone their womenfolk's indecency (dayyūth), or pimps. I was surprised that they were living in a world of sin and yet they hated most strongly that families should be established on the basis of chastity.
 
 The answer to this sick question is that the ultimate goal of sexual relationship is to establish a family and to bring up children in a clean atmosphere. This is not possible in the home of a woman who is frequented by a number of men, and who does not know which of them is the father of her children. Moreover, the role of the woman in the sphere of sexual relationships is that of the recipient, not the giver; the led, not the leader. One can imagine an engine pulling four coaches, but not a coach pulling four engines. It is a denial of the nature of things to argue that men are not the guardians of women.
 
-It is indeed sad that the masses have chosen to ignore these limits and have gone in for polygamy without being conscious of the meaning and application of the prescribed justice. In fact, they have responded to the call of lust even if it leads them to repeated violations and clear injustice. For example, a man may be incapable of supporting himself yet he struggles to get married; and another may be incapable of supporting one and yet he looks for a second. Someone may fail to fulfil his children's need for education, or he may distribute his wealth according to his whims, while still another may marry a second wife to abandon the first. One may see a man who is capable of supporting four as well as their children, yet he lives on sexual beggary and enjoys the company of disreputable women. What is the cure for this mess? Will the outlawing of polygamy save the *Ummah* from these diseases? Of course not. To restrict the permissible is proof of one's lack of understanding of Islāmic law.
+It is indeed sad that the masses have chosen to ignore these limits and have gone in for polygamy without being conscious of the meaning and application of the prescribed justice. In fact, they have responded to the call of lust even if it leads them to repeated violations and clear injustice. For example, a man may be incapable of supporting himself yet he struggles to get married; and another may be incapable of supporting one and yet he looks for a second. Someone may fail to fulfil his children's need for education, or he may distribute his wealth according to his whims, while still another may marry a second wife to abandon the first. One may see a man who is capable of supporting four as well as their children, yet he lives on sexual beggary and enjoys the company of disreputable women. What is the cure for this mess? Will the outlawing of polygamy save the *Ummah* from these diseases? Of course not. To restrict what is permissible is not part of Islām's legislative policy.
 
 However, if Islām had remained silent on the matter of polygamy then it would have been our duty to give our opinion, and in that case we should have been in favour of it in the interest of public welfare, which we have explained in the beginning of this discussion. However, the fixing of the rule is one thing, and its misapplication is another matter. When legislation has to be applied to reform our society and straighten its crookedness in this regard, then let the legislators turn their energies towards ensuring that justice is done in all its aspects. Meanwhile, it is a waste of time and a futile exercise to argue over the principle of polygamy itself.
 
@@ -5890,19 +6110,19 @@ What is recorded in the authentic biographies of the Prophet (ﷺ) is that he ma
 
 If he had wanted to marry another there was no law nor reason nor custom to stop him. Polygamy was a tradition among the Arabs, known as part of the religion of the father of prophets, Ibrāhīm (عليه السلام), on whom be peace. Nevertheless, he contented himself with one in whom he could find solace and comfort, even though she was in her old age while he was at the peak of manhood. This attitude is of great significance.
 
-When Khadījah died and the Prophet (ﷺ) wanted to remarry, beauty was not the criterion by which he selected his life partner, or life partners. Even if he had done so, he would not have been criticized. His main consideration was to strengthen his ties with those men who had dedicated their lives to his message and *da'wah*. He chose 'Ā'ishah, the daughter of Abū Bakr (رضي الله عنه), in spite of her tender age, and he chose Ḥafṣah, the daughter of 'Umar (رضي الله عنه), in spite of her lack of beauty. Then he chose Umm Salamah, the widow of his commander who was martyred in the way of Allāh (ﷻ), and along with him his wife had suffered greatly in migrating to Abyssinia, and then from Abyssinia to Madīnah. Before her was Sawdah, a woman who had given up the idea of marriage because of her old age. Life with these four was not expected to be full of fun and joy, and if it was, there was no blame on the Prophet (ﷺ) for that. Every believer has their right to enjoy the company of his wives, and there is no doubt that the Prophet (ﷺ) did in fact treat them equally.
+When Khadījah died and the Prophet (ﷺ) wanted to remarry, beauty was not the criterion by which he selected his life partner, or life partners. Even if he had done so, he would not have been criticized. His main consideration was to strengthen his ties with those men who had dedicated their lives to his message and *da'wah*. He chose 'Ā'ishah, the daughter of Abū Bakr (رضي الله عنه), in spite of her tender age, and he chose Ḥafṣah, the daughter of 'Umar (رضي الله عنه), in spite of her lack of beauty. Then he chose Umm Salamah, the widow of his commander who was martyred in the way of Allāh (ﷻ), and along with him his wife had suffered greatly in migrating to Abyssinia, and then from Abyssinia to Madīnah. Before her was Sawdah, a woman who had given up the idea of marriage because of her old age. Life with these four was not expected to be full of fun and joy, and if it was, there was no blame on the Prophet (ﷺ) for that. Every believer has the right to enjoy the company of four wives, and there is no doubt that the Prophet (ﷺ) did in fact treat them equally.
 
 You may say: However, the Prophet (ﷺ) died and left nine wives. How did this happen, and how could he have what others could not? Is this not an opening to the door of lust and a response to the call of pleasure?
 
-In answer to that we say: Is there any place for pleasure in the life of a man who never rested a single day from the toil of constant struggle and exhausting *jihād*? Surely the few personalities of great importance are so fully occupied with the problems of the people that they hardly enjoy an hour's rest except to recuperate a little before resuming their endless toil. What then would have been the situation of the greatest of prophets, who met with the kind of reception from the Arabs as we have indicated?
+In answer to that we say: Is there any place for pleasure in the life of a man who never rested a single day from the toil of constant struggle and exhausting *jihād*? Even the bearers of limited, human missions are so worn out by the cares of livelihood and the problems of nations that they hardly enjoy an hour's rest except to recuperate a little before resuming their weary toil. What then of the bearer of the greatest mission, who met with the kind of reception from the Arabs that you have seen?
 
 We also say: What place does pleasure have in the life of a man who rejected it in his youth? How could he immerse himself in it as an old man? Surely the conditions surrounding the other five wives made living with them a part of the burden that the Prophet had to bear in his capacity as head of state, who was responsible for the community and every individual in it. It was also a part of the responsibility he had of establishing good and eradicating evil.
 
 Take, for example, his marriage with Zaynab bint Jaḥsh: this marriage was a severe test for the Prophet (ﷺ). Allāh (ﷻ) had ordered him to enter into it to destroy a tradition which was widespread among the Arabs, and he went ahead with it full of embarrassment and constraint. Zaynab was one of his cousins, whom he had known from childhood. He had wished to marry her to Zayd ibn Ḥārithah. However, she had disliked the idea, and her brother had objected to the match owing to his pride in the status of their family. Zaynab was from the Quraish whereas Zayd was a slave whom the Prophet (ﷺ) had freed, and who became his adopted son and was called Zayd ibn Muhammad. The Prophet (ﷺ) had insisted on this marriage because he had wanted to break the Arabs' pride in their lineage, and she had no option but to accept the Prophet's (ﷺ) decision on the matter, especially after the following *Āyāh* (verse) was revealed.
 
-(And it does not for a believing man or a believing woman, when Allah and His messenger have decided an affair [for them], that they should [after that] claim any say in their affair.) (Qur'ān 33: 36)
+(And it is not for a believing man or a believing woman, when Allah and His messenger have decided an affair [for them], that they should [after that] claim any say in their affair. And whoever disobeys Allah and His messenger has strayed into plain error.) (Qur'ān 33: 36)
 
-Thus she married Zayd, though with reluctance in her heart. Soon he found that he could not live with her and complained to the Prophet (ﷺ), who intervened from time to time to put things right, but to no avail. In these circumstances Allāh (ﷻ) revealed to the Prophet (ﷺ) that he should allow Zayd to divorce her and that he should marry her. The Prophet (ﷺ) was seized with great concern at this strange order, and he kept it to himself for fear that people might say that he had married his son's wife, which was not permissible. However, what people would say was exactly what Allāh (ﷻ) wanted to destroy; it was imperative that the Prophet (ﷺ) execute the order, and perhaps he was hoping that Allāh (ﷻ) might relieve him of it. He even went further than that: when Zayd came complaining about his wife and explaining that he intended to divorce her, the Prophet (ﷺ) said to him:
+Thus she married Zayd, though with reluctance in her heart, and her brother accepted it merely out of obedience. Soon he found that he could not live with her and complained to the Prophet (ﷺ), who intervened from time to time to put things right, but to no avail. In these circumstances Allāh (ﷻ) revealed to the Prophet (ﷺ) that he should allow Zayd to divorce her and that he should marry her. The Prophet (ﷺ) was seized with great concern at this strange order, and he kept it to himself for fear that people might say that he had married his son's wife, which was not permissible. However, what people would say was exactly what Allāh (ﷻ) wanted to destroy; it was imperative that the Prophet (ﷺ) execute the order, and perhaps he was hoping that Allāh (ﷻ) might relieve him of it. He even went further than that: when Zayd came complaining about his wife and explaining that he intended to divorce her, the Prophet (ﷺ) said to him:
 
 (Keep your wife to yourself, and fear Allah.) (Qur'ān 33: 37)
 
@@ -5922,7 +6142,7 @@ If you return to the āyāh which speaks about the story, you will find it endin
 
 (There is no reproach for the Prophet in that which Allah makes his due. That was Allah's way with those who passed away of old and the Commandment of Allah is certain destiny. Who delivered the messages of Allah and feared Him, and feared none save Allah, Allah keeps good account.) (Qur'ān 33: 38-39)
 
-When you want to reassure people, you say, (Fear no-one but Allah.) You do not tell them this when they are in the act of committing a crime. You tell them only when they are about to undertake a noble action of great virtue which conflicts with inherited traditions. It is clear from these āyāt that Allāh (ﷻ) was not encouraging His Prophet to fall head over heels in love with a woman, but urging him to pluck up his courage to destroy a bad practice which was strongly supported, and that he himself should submit to it. This is why Allāh (ﷻ) says immediately after that:
+When you want to reassure people, you say, "Fear no-one but Allāh!" You do not tell them this when they are in the act of committing a crime. You tell them only when they are about to undertake a noble action of great virtue which conflicts with inherited traditions. It is clear from these āyāt that Allāh (ﷻ) was not encouraging His Prophet to fall head over heels in love with a woman, but urging him to pluck up his courage to destroy a bad practice which was strongly supported, and that he himself should submit to it. This is why Allāh (ﷻ) says immediately after that:
 
 (Muhammad is not the father of any man among you, but he is the messenger of Allah and the seal of the prophets; and Allah is Aware of all things.) (Qur'ān 33: 40)
 
@@ -5934,9 +6154,9 @@ Allāh (ﷻ), and had migrated to Abyssinia from Makkah, where her father ruled.
 
 Ṣafīyah was the daughter of Ḥuyayy, king of the Jews. Her father, brother and husband had perished in the conflict between Islām and Judaism, and she fell to the lot of a soldier who knew only that she was a prisoner of war to be used as he saw fit. If the Prophet (ﷺ) took pity on her and gave her freedom, soothed her wounds and honoured her past by marrying her, could he be blamed for that?
 
-Juwayrīyah was the daughter of Al-Ḥārith, chief of the Banū al Muṣṭaliq. His tribe had met with defeat at the hands of the Muslims and had all been taken prisoners of war. The Prophet (ﷺ) consoled the dejected leader by marrying his daughter so that he might teach the Muslims how they should behave with nobility and magnanimity. What he had desired by this took place, for freedom returned to the tribe, men and women, when the Muslims felt distressed at having the in-laws of the Prophet as prisoners-of-war.
+Juwayriyah was the daughter of Al-Ḥārith, chief of the Banū al Muṣṭaliq. His tribe had met with defeat at the hands of the Muslims and had all been taken prisoners of war. The Prophet (ﷺ) consoled the dejected leader by marrying his daughter so that he might teach the Muslims how they should behave with nobility and magnanimity. What he had desired by this took place, for freedom returned to the tribe, men and women, when the Muslims felt distressed at having the in-laws of the Prophet as prisoners-of-war.
 
-It may occur to the minds of those who have little knowledge of the *sīrah* that the Prophet's (ﷺ) life was based on abundant food, drink and other pleasures. The picture which may immediately present itself to them of a man who had several wives is that he is immersed in material bliss, that his table is crowded with all sorts of meat, fruit and intoxicating beverages while he enjoys the company of glamorous women and is everyday in a care free mood. This may be more or less the picture of what takes place in the palaces of kings. However, beware of making a fool of yourself by thinking that any bit of this luxurious living was to be found in the houses of the Prophet. Quickly turn your mind to another simple sort of life to see in it a man whose entire concern was for the truth alone, who strove by knowledge of it and exerted himself to the utmost to gather the people around it, whose pleasure was to be found in the steps which brought him closer to his goal and took him away from worldly lusts.
+It may occur to the minds of those who have little knowledge of the *sīrah* that the Prophet's (ﷺ) life was based on abundant food, drink and other pleasures. The picture which may immediately present itself to them of a man who had several wives is that he is immersed in material bliss, that his table is crowded with all sorts of meat, fruit and intoxicating beverages while he enjoys the company of glamorous women and is everyday in a care free mood. This may be more or less the picture of what takes place in the palaces of kings. However, beware of making a fool of yourself by thinking that any bit of this luxurious living was to be found in the houses of the Prophet (ﷺ). Quickly turn your mind to another simple sort of life to see in it a man whose entire concern was for the truth alone, who strove by knowledge of it and exerted himself to the utmost to gather the people around it, whose pleasure was to be found in the steps which brought him closer to his goal and took him away from worldly lusts.
 
 If cannon-balls on the surface of the earth could reach the far-off stars, only then the temptations of life approach the heart of Muhammad (ﷺ). This was a man who was chosen and purified by Providence, and thus hovered in another world. He said:
 
@@ -5952,11 +6172,11 @@ His life with his wives was an austere path which no-one could bear. Bukhārī t
 
 She replied: "The two black things: dates and water."
 
-'Ā'ishah also reported: "Allāh's Messenger (ﷺ) died, and in my cupboard there was no meat to eat. There was only a piece of barley-bread in one of my shelves."
+'Ā'ishah also reported: "Allāh's Messenger (ﷺ) died, and there was nothing on my shelf that any living creature could eat, except some barley on a shelf of mine."
 
 As for the bed on which he used to sleep, it was made of skin stuffed with fibre.⁷ He would settle down on it, and no sooner had it warmed him a little than the cock would crow, and he would arise in preparation for the morning prayers.
 
-By this description we do not mean to say that Islām abhors the good things of life or that the Prophet (ﷺ) was setting an example for the people to abandon them. The *Shari'ah* is plain and evident on this matter. We are only presenting the facts of the life of a man who had no desire for the things over which people kill themselves. A man gives a toy to his small children, which they enjoy and over which they fight one another but the nature of his manhood keeps him apart from children's play. Some scientists and thinkers forget the food which is prepared for them, not in contempt of it but because their thought are fully immersed in their subjects. I can almost see the Prophet (ﷺ) as he looked at the masses of people fighting over fleeting pleasures, shaking his head and saying: "If you knew what I know, you would laugh little and weep much."⁸ Then he would supplicate to Allāh (ﷻ): "O Allāh (ﷻ), provide Muhammad's (ﷺ) family with nourishment."⁹ It is contempt for the intellect and a blatant injustice to history that an outsider should see or hear that Muhammad (ﷺ) had many wives, and, on the basis of that, conclude that it is proof of indulgence in pleasure and gratification of lust.
+By this description we do not mean to say that Islām abhors the good things of life or that the Prophet (ﷺ) was setting an example for the people to abandon them. The *Shari'ah* is plain and evident on this matter. We are only presenting the facts of the life of a man who had no desire for the things over which people kill themselves. A man gives a toy to his small children, which they enjoy and over which they fight one another but the nature of his manhood keeps him apart from children's play. Some scientists and thinkers forget the food which is prepared for them, not in contempt of it but because their thought are fully immersed in their subjects. I can almost see the Prophet (ﷺ) as he looked at the masses of people fighting over fleeting pleasures, shaking his head and saying: "If you knew what I know, you would laugh little and weep much."⁸ Then he would supplicate to Allāh (ﷻ): "O Allāh (ﷻ), make the provision of Muhammad's (ﷺ) family bare sufficiency."⁹ It is contempt for the intellect and a blatant injustice to history that an outsider should see or hear that Muhammad (ﷺ) had many wives, and, on the basis of that, conclude that it is proof of indulgence in pleasure and gratification of lust.
 
 On the other hand, no one should think that this simple life was because he could not do better, and that if Muhammad (ﷺ) had had the opportunity of a luxurious lifestyle, he would have enjoyed himself and hoarded wealth, and his wives would have enjoyed themselves, and hoarded wealth likewise. No. He had the power to keep for himself some of the wealth which passed through his hands and over which he had control. However, the magnanimous Prophet was above the desire for small pleasures because his eyes were fixed on a higher goal. If he had been granted the treasures of the earth, his first thought would have been to satisfy the needs of people before anything else.
 
@@ -5978,7 +6198,7 @@ The Prophet (ﷺ) was greatly upset by this demonstration. He was the first Musl
 
 Abū Bakr (رضي الله عنه) and 'Umar (رضي الله عنه) were alarmed at this news, for they were both father-in-laws of the Prophet (ﷺ). They went and sought an audience with him to verify the facts. Upon entering, they found him silent and his wives around him despondent. 'Umar (رضي الله عنه) asked him if he had divorced his wives, and he said no.
 
-Nevertheless some lose atmosphere was still pressing heavily on the place, so 'Umar (رضي الله عنه) decided that he would speak to the Prophet (ﷺ) and make him laugh. He said: "O Messenger of Allāh (ﷻ), if you had seen Zayd's (رضي الله عنه) daughter (his own wife) when she asked me a while ago for an increase in her allowance, and I struck her neck."
+Nevertheless a gloomy atmosphere was still pressing heavily on the place, so 'Umar (رضي الله عنه) decided that he would speak to the Prophet (ﷺ) and make him laugh. He said: "O Messenger of Allāh (ﷻ), if you had seen Zayd's daughter (his own wife) when she asked me a while ago for an increase in her allowance, and I struck her neck."
 
 The Prophet (ﷺ) laughed until his teeth showed, and then he said: "They are asking me for an increase in their allowances."
 
@@ -5990,7 +6210,7 @@ They said: "By Allāh (ﷻ), We shall not ask Allāh's Messenger (ﷺ) after thi
 
 The Prophet (ﷺ) nevertheless kept away from them for one month until they were truly repentant. Then Allāh (ﷻ) revealed the āyāt of Sūrat al Aḥzāb, which demanded of them either that they should seek the Hereafter with a Prophet (ﷺ) whose lifestyle was such, or that they should return to their families where they would find fine clothes and tasty food.
 
-This lesson was enough to erase from their minds the last traces of desire which had not passed the stage of eager discussion. They all chose to remain with the Prophet (ﷺ) according to his old principle of "what is little and sufficient is better than what is plentiful and distracting."¹⁴ Thereafter they all lived with him for the cause of *jihād* and *tahajjud*, sacrifice and beneficence, humility and service.
+This lesson was enough to erase from their souls the last traces of a desire which had never gone beyond coveted permissible things. They all chose to remain with the Prophet (ﷺ) according to his old principle of "what is little and sufficient is better than what is plentiful and distracting."¹⁴ Thereafter they all lived with him for the cause of *jihād* and *tahajjud*, sacrifice and beneficence, humility and service.
 
 (O Prophet! Say to wives: if you desire the world's life and its adornment, come! I shall content you and shall release you in a just manner. But if you desire Allah and His messenger and the abode of the Hereafter, then indeed, Allah has prepared for the good among you an immense reward.) (Qur'ān 33: 28-29)¹⁵
 
@@ -6000,11 +6220,11 @@ They chose Allāh (ﷻ) and His Messenger (ﷺ) and the abode of the Hereafter, 
 
 To emphasize this spiritual motherhood, the mothers of the believers were asked to observe strict *ḥijāb* and it was not allowed for any stranger to meet them even accompanied by a *mahram*.¹⁶ Any questions posed to them on affairs of Islām or worldly matters had to be done from behind a screen, and it was forbidden for anyone to marry any of them after the death of the Prophet (ﷺ). This decisive law put a stop to those inquisitive and disagreeable people who frequent the homes of leaders just as it put a stop to those who hoped for glory by marrying those ladies. We find nothing strange in this law, for some of the men had become so bold that one of them even said: "When the Prophet (ﷺ) is dead, I'll marry 'Ā'ishah!" It was the Prophet's right that his feeling should be protected and he and his family be guarded from such foolish bedouin.
 
-The Prophet (ﷺ) did not have a son from his wives. The daughters he had from Khadījah all died while he was still alive, except Fāṭimah. She lived until a few months after him and was the first of his family to follow him to the grave. He did have a son from Maria [the Arabic original prints 'Maryam'; the correct name is Māriyah al-Qibṭiyyah, which the translation follows — translator's note], who was sent to him as a gift by the Patriarch of Alexandria and she accepted Islām. He called the boy Ibrāhīm after his ancestor, the father of prophets. However, he did not live long and died in infancy.
+The Prophet (ﷺ) did not have a son from his wives. The daughters he had from Khadījah all died while he was still alive, except Fāṭimah. She lived until a few months after him and was the first of his family to follow him to the grave. He did have a son from Maria [the Arabic original prints 'Maryam'; the correct name is Māriyah al-Qibṭiyyah, which the translation follows — translator's note], who was sent to him as a gift by Al-Muqawqis and she accepted Islām. He called the boy Ibrāhīm after his ancestor, the father of prophets. However, he did not live long and died in infancy.
 
 Anas (رضي الله عنه) said: "I saw him giving up his life in front of the Messenger of Allāh (ﷺ). The Prophet's (ﷺ) eyes became wet with tears and he said: "The eyes weep and the heart feels sad but we say nothing but what pleases our Lord, and we are sad for you, Ibrāhīm."¹⁷
 
-It so happened that there was an eclipse of the sun on the same day, and the people said that it was because of the death of the Prophet's (ﷺ) son. Upon this, the Prophet (ﷺ) stood up amid the people and said: "O people, the sun and the moon are signs of Allāh (ﷻ), and they do not eclipse at the death of any human being. Whenever you see it occurring, offer prayers (*ṣalāh*) until the eclipse is over."¹⁸
+It so happened that there was an eclipse of the sun on the same day, and the people said that it was because of the death of the Prophet's (ﷺ) son. Upon this, the Prophet (ﷺ) stood up and led the people in prayer, then said: "O people, the sun and the moon are signs of Allāh (ﷻ), and they do not eclipse at the death of any human being. Whenever you see it occurring, offer prayers (*ṣalāh*) until the eclipse is over."¹⁸
 
 ## Settling Down
 
@@ -6014,15 +6234,15 @@ This peninsula had never had such a blessed renaissance nor had its history seen
 
 He did not, however, content himself with receiving guests. He also sent his close Companions to the south to increase the sway of Islām in those parts. In Yemen and its environs there lived densely populated tribes and the People of the previous Scriptures had established activities among them. Islām had indeed spread and taken root there and the shadow of Persia had shrunk to the point of no return. These far-off places needed constant attention, however, and so he sent Khālid Ibn al-Walīd, then Mu'ādh ibn Jabal and Abū Mūsa al Ash'arī and 'Alī.¹⁹
 
-As though a hidden voice had whispered to the Prophet (ﷺ) that his death was impending, he gave instructions to Mu'ādh before sending him off and walked beside his horse as he was leaving for Yemen. He said: "Mu'ādh, perhaps you will not meet me again after this year, and perhaps you will pass by this mosque of mine and my grave." Mu'ādh wept at the thought of parting from the Messenger of Allāh (ﷺ). Then the Prophet (ﷺ) turned and faced Madīnah, and declared: "The people closest to me are the pious, whoever and wherever they may be."²⁰ It took place exactly as the Prophet (ﷺ) indicated, for Mu'ādh stayed in Yemen until the Farewell Pilgrimage, and then the death of the Prophet (ﷺ) occurred eighty-one days after the Ḥajj.
+As though a hidden voice had whispered to the Prophet (ﷺ) that his death was impending, he gave instructions to Mu'ādh before sending him off and walked beside Mu'ādh's mount as he was leaving for Yemen. He said: "Mu'ādh, perhaps you will not meet me again after this year, and perhaps you will pass by this mosque of mine and my grave." Mu'ādh wept at the thought of parting from the Messenger of Allāh (ﷺ). Then the Prophet (ﷺ) turned and faced Madīnah, and declared: "The people closest to me are the pious, whoever and wherever they may be."²⁰ It took place exactly as the Prophet (ﷺ) indicated, for Mu'ādh stayed in Yemen until the Farewell Pilgrimage, and then the death of the Prophet (ﷺ) occurred eighty-one days after the Ḥajj.
 
-The concern for Yemen was justified. There appeared two pretenders in the Banu Ḥanifah who claimed prophethood, though neither of them had any of those manly characteristics or signs of goodness which could attract a handful-of to their side.
+The concern for Yemen was justified. There appeared two impostors in the Banu Ḥanifah who claimed prophethood, though neither of them had any of those manly characteristics or signs of goodness which could attract a handful-of to their side.
 
 Nevertheless, the disease of blind prejudice made a large section of the masses say: "We know that Musaylimah is a liar; however, the liar of Rabī'ah is better than the truthful of Mudar." The strife caused by the false prophets blazed for a while until it was extinguished by the *Mujāhidin*, and the prophethood of Musaylimah and others like him disappeared as the urine of sheep disappears into the surface of the earth.
 
 ## The Farewell Pilgrimage
 
-The Prophet (ﷺ) announced his intention to make the pilgrimage so that anyone who wished might accompany him. He left Madīnah towards the end of *Dhul Qi'dah*, having appointed Abū Dajānah to be in charge of the city.²¹ The Ḥajj this time was contrary to what the Arabs had been accustomed to in their days of *jahilīyah*. The treaties with the idolaters had come to an end and it was forbidden for them to enter the Sacred Mosque. Thus all the delegations who came were monotheists who worshipped no-one besides Allāh (ﷻ). They came with the knowledge that this year their leader on the pilgrimage and teacher of their rites would be none other than the Prophet (ﷺ) himself.
+The Prophet (ﷺ) announced his intention to make the pilgrimage so that anyone who wished might accompany him. He left Madīnah towards the end of *Dhul Qi'dah*, having appointed Abū Dujānah to be in charge of the city.²¹ The Ḥajj this time was contrary to what the Arabs had been accustomed to in their days of *jahilīyah*. The treaties with the idolaters had come to an end and it was forbidden for them to enter the Sacred Mosque. Thus all the delegations who came were monotheists who worshipped no-one besides Allāh (ﷻ). They came with the knowledge that this year their leader on the pilgrimage and teacher of their rites would be none other than the Prophet (ﷺ) himself.
 
 Looking at the teeming thousands as they answered the call of Allāh (ﷻ) and hastened to obey Him, the Prophet's (ﷺ) heart felt satisfied that they had submitted to the truth. He resolved to implant in their souls the essentials of the faith, to use the occasion of this blessed gathering to dispel the last vestiges of *jahilīyah* which might have lingered in their minds, and to emphasize the morals, relations and laws which Islām insisted on establishing. He delivered the following comprehensive sermon.²²
 
@@ -6032,11 +6252,11 @@ O people, surely your lives and properties are inviolable to one another until y
 
 Whoever has a trust must return it to the person who entrusted him with it. Interest is to be laid aside, though you may have your capital, neither wronging nor being wronged. Allāh (ﷻ) has decreed that there should be no interest, and all the interest of Al-Abbās ibn 'Abdul Muṭṭalib is to be relinquished.
 
-And surely all the feuds of the days of *jahilīyah* are to be laid aside, and the first of your feuds which I forgo is the blood of Rabi'ah ibn al Ḥārith ibn 'Abdul Muṭṭālib, who was fostered by the Banū Layth and murdered by Hudhayl. It is the first of the feuds of *jahilīyah* with which I begin.
+And surely all the feuds of the days of *jahilīyah* are to be laid aside, and the first of your feuds which I forgo is the blood of Rabi'ah ibn al Ḥārith ibn 'Abdul Muṭṭālib [thus in the Arabic original; in the authentic versions of the ḥadīth it is the blood of Rabī'ah's son — Rabī'ah himself outlived the Prophet — translator's note], who was fostered by the Banū Layth and murdered by Hudhayl. It is the first of the feuds of *jahilīyah* with which I begin.
 
 Furthermore, O people, indeed Satan has despaired forever of being worshipped in this land of yours. Nevertheless, if he can be obeyed in anything short of worship he will be pleased with it, such as those deeds of yours which you hold of little significance. So beware of him as regards your religion. O people:
 
-(Postponement [of a sacred month] is only an excess of disbelief whereby those who disbelieve are misled; they allow it one year and forbid it [another] year, that they may make up the number of months which Allah has hallowed, so they allow that which Allah has forbidden.) (Qur'ān 9: 37)
+(Postponement [of a sacred month] is only an excess of disbelief whereby those who disbelieve are misled; they allow it one year and forbid it [another] year, that they may make up the number of months which Allah has hallowed, so they allow that which Allah has forbidden.) (Qur'ān 9: 37) — "…and forbid that which Allāh (ﷻ) has permitted."
 
 "Time has completed its cycle, and is as it was on the day Allāh (ﷻ) created the heavens and the earth, and surely the number of months with Allāh (ﷻ) is twelve, of which four are sacred: three consecutive months and Rajab which is between Jumada and Sha'bān."
 
@@ -6072,7 +6292,9 @@ Having completed his Ḥajj, the Prophet (ﷺ) hastened back to Madīnah not to 
 
 The Prophet (ﷺ) returned home to mobilize another army for the fight against Rome. The pride of this empire had made it refuse to concede the right of life to Islām and kill any of its followers who fell into its hands. Farwah ibn 'Amr al-Judhāmī was governor of Ma'ān and its environs in Syria on behalf of the Romans. When he embraced Islām and sent word of it to the Prophet (ﷺ), the Romans were enraged. They attacked him, brought him back and threw him into prison until the sentence of death was pronounced on him. Then they executed him at a waterhole of theirs in Palestine called 'Afrā and left him hanging on the cross as a deterrent to anyone else who might wish to do the same.
 
-It is said that when he was about to be hanged he recited this couplet of poetry: "Tell the head of the Muslims that I have surrendered to my Lord my bones and my blood."
+It is said that when he was brought forward to be killed he recited this verse:
+
+*Tell the nobles of the Muslims that I have surrendered to my Lord my bones and my blood.*
 
 Thus the Prophet (ﷺ) equipped a huge army, made Usāmah ibn Zayd its commander and ordered him to take his cavalry to the borders of Al-Balqā and Al Dārūm in Palestine, as a show of might against the Romans, and to restore confidence to the hearts of the Arabs who lived on the borders. No-one should think that there was nothing to stop the excesses of the Church and that acceptance of Islām led to inevitable death.
 
@@ -6128,7 +6350,7 @@ Many therefore flocked around Usāmah and enlisted in his army, except that the 
 
 ²⁰ *Ṣaḥīḥ*: Transmitted by Aḥmad on the authority of Mu'ādh.
 
-²¹ I have not found any chain for this statement. Ibn Hishām mentioned it but not with certainty. He said: "He made Abū Dajānah al Sa'idī the one in charge of Madīnah, or Sibā' ibn 'Urfuṭah al-Ghifārī, as is said."
+²¹ I have not found any chain for this statement. Ibn Hishām mentioned it but not with certainty. He said: "He made Abū Dujānah al-Sā'idī the one in charge of Madīnah, or Sibā' ibn 'Urfuṭah al-Ghifārī, as is said."
 
 ²² Transmitted by Ibn Hishām from Ibn Isḥāq without a chain. Its chain comes in scattered ḥadīths, which are too many to explain here. The details are in my forthcoming book The Farewell Pilgrimage, if Allāh (ﷻ) allows me to complete it.
 
@@ -6146,11 +6368,11 @@ The Messenger of Allāh (ﷺ) felt the pains of the sickness which had attacked 
 
 He called for water to cool himself with, plenty of water: "Pour over me seven skins of water from different wells!" 'Ā'ishah said that they put him in a tub belonging to Ḥafṣah and poured water over him until he asked them to stop.²
 
-When the Prophet (ﷺ) felt that the heat of the fever had left him he called his cousin, Al Faḍl ibn Al-'Abbās, and asked him to take him by the hand. He was shivering and his head was still bandaged. Al Faḍl reported that he took him by his hand and they entered the mosque and he sat on the pulpit. Then he asked him to call the people and they gathered around him. It was an afternoon clouded with gloom. The people craned their necks to see the man who had revived their dead hearts and taken them and their families out of darkness into light. They saw that he was worn out. The health in his body was being defeated by the unrelenting march of illness. Nevertheless, he spoke to them and taught them as they were accustomed from him and they listened attentively to him. When he felt his death was imminent, he wished to meet Allāh (ﷻ) with there being no human who would hold him for injustice. He was always particular about justice in all his affairs. However, who knows, perhaps he had slipped just as any other man, or erred and caused injustice while he used to declare his disapproval of injustice and its perpetrators. He should, therefore, address the people on this so that his conscience might be at ease.
+When the Prophet (ﷺ) felt that the heat of the fever had left him he called his cousin, Al Faḍl ibn Al-'Abbās, and asked him to take him by the hand. He was feverish and his head was still bandaged. Al Faḍl reported that he took him by his hand and they entered the mosque and he sat on the pulpit. Then he asked him to call the people and they gathered around him. It was a midday shaded by gloom and suffused with tenderness. The people craned their necks to see the man who had revived their dead hearts and taken them and their families out of darkness into light. They saw that he was worn out. The health in his body was being defeated by the unrelenting march of illness. Nevertheless, he spoke to them and taught them as they were accustomed from him and they listened attentively to him — and lo, they heard something wondrous from him. When he felt his death was imminent, he wished to meet Allāh (ﷻ) with there being no human who would hold him for injustice. He was always particular about justice in all his affairs. However, who knows, perhaps he had slipped just as any other man, or erred and caused injustice while he used to declare his disapproval of injustice and its perpetrators. He should, therefore, address the people on this so that his conscience might be at ease.
 
 He said:
 
-"O people, I praise Allāh (ﷻ), because there is no other god. Whose back I have whipped, here is my back, let him retaliate. Whose reputation I have stained, here is my reputation, so let him retaliate. Being in grudge is not my nature of character, and the most beloved of you to me is the one who takes his right from me, If he has any, and relieves me of it so that I may meet Allāh (ﷻ) with a clear conscience. I think, though, that this will not suffice me unless I insist on asking you again and again."
+"O people, I praise Allāh (ﷻ), besides Whom there is no god. Whose back I have whipped, here is my back, let him retaliate. Whose reputation I have stained, here is my reputation, so let him retaliate. Being in grudge is not my nature of character, and the most beloved of you to me is the one who takes his right from me, If he has any, and relieves me of it so that I may meet Allāh (ﷻ) with a clear conscience. I think, though, that this will not suffice me unless I insist on asking you again and again."
 
 Al Faḍl said that he came down and offered Ẓuhr prayer. Then he sat on the pulpit again and repeated his statement about grudge etc.
 
@@ -6182,15 +6404,15 @@ Abū Sa'īd Al-Khudrī said that the Prophet (ﷺ) sat on the pulpit one day and
 
 Abū Bakr (رضي الله عنه) wept and said: "May our fathers and mothers be your ransom, Messenger of Allāh (ﷺ)."
 
-Abū Sa'īd says that people were astonished at him and they said: "Look at this old man. Allāh's Messenger (ﷺ) tells about a slave who is given a choice and he says 'May our fathers and mothers be your ransom!' In fact," Abū Sa'īd continued: "Allāh's Messenger (ﷺ) was the one to be given the choice though only Abū Bakr (رضي الله عنه) knew that among all of us. Then the Prophet (ﷺ) said: 'The most benevolent of people to me in his companionship and wealth is Abū Bakr (رضي الله عنه), and If I were to take a friend I should take Abū Bakr (رضي الله عنه) as a friend, but for the brotherhood of Islām.'"
+Abū Sa'īd says that people were astonished at him and they said: "Look at this old man. Allāh's Messenger (ﷺ) tells about a slave who is given a choice and he says 'May our fathers and mothers be your ransom!' In fact," Abū Sa'īd continued: "Allāh's Messenger (ﷺ) was the one to be given the choice and Abū Bakr (رضي الله عنه) was the one among us who understood this best. Then the Prophet (ﷺ) said: 'The most benevolent of people to me in his companionship and wealth is Abū Bakr (رضي الله عنه), and If I were to take a friend I should take Abū Bakr (رضي الله عنه) as a friend, but for the brotherhood of Islām.'"
 
 In another version he said: "but for the companionship and the brotherhood of faith until Allāh (ﷻ) unites us in His Presence."⁴
 
-During the period of his sickness there were times when he felt relieved and the Companions of the Prophet (ﷺ) thought that their wish had come true and that he would soon be up and able to resume his struggle for the cause of Allāh (ﷻ) and shower his affection, companionship and mercy on them.
+During the period of his sickness there were times when he felt relieved and those who loved the Prophet (ﷺ) thought that their wish had come true and that he would soon be up and able to resume his struggle for the cause of Allāh (ﷻ) and shower his affection, companionship and mercy on them.
 
 Abdullāh ibn Ka'b ibn Mālik says that Ibn Abbās informed him that when 'Alī came out from the presence of the Prophet (ﷺ) during the days of his last illness, the people asked: "O Abul Ḥasan, how is Allāh's Messenger (ﷺ) this morning?" He replied: "He is well, by the grace of Allāh (ﷻ)."
 
-Al Abbās took hold of his hand and said: "Don't you see? In three days time you'll be in a critical position. I think that Allāh's Messenger (ﷺ) will die of this illness of his, and I know the faces of the sons of 'Abdul Muṭṭalib when death comes. Go to Allāh's Messenger (ﷺ) and ask him who will the authority be vested in. If it is with us we shall know that, and if not he will enjoin justice upon us.
+Al Abbās took hold of his hand and said: "Don't you see? In three days' time you will be under another's command ('the slave of the stick'). I think that Allāh's Messenger (ﷺ) will die of this illness of his, and I know the faces of the sons of 'Abdul Muṭṭalib when death comes. Go to Allāh's Messenger (ﷺ) and ask him who will the authority be vested in. If it is with us we shall know that, and if not, he will enjoin them to treat us well."
 
 'Alī said: "By Allāh (ﷻ), if we ask Allāh's Messenger (ﷺ) about it and he forbids it to us, the people will never give it to us. By Allāh (ﷻ), I shall never ask it of Allāh's Messenger (ﷺ)."⁵
 
@@ -6216,17 +6438,17 @@ The days on which the Prophet (ﷺ) was unable to lead the Muslims in prayer wer
 
 In spite of his high temperature and the weakness of his body, he, nevertheless, remained fully alert and concerned about his teachings, and eager to remind the people of them. He feared that his Ummah might degenerate and become attached to personalities and tombs, as People of the Book had degenerated before.
 
-His intense commitment to tawḥīd (monotheism) is what made him, even in the throes of death, continue warning the Muslims of this pitfall. 'Ā'ishah and Ibn 'Abbās both reported that during his illness the Prophet (ﷺ) would throw a cloth over his face, and when he felt worried he would remove it from his face and say, "Allāh's curse be upon the Jews and Christians: they took their Prophet's (ﷺ) graves as mosques." He was warning against their behaviour.¹³
+His intense commitment to tawḥīd (monotheism) is what made him, even in the throes of death, continue warning the Muslims of this pitfall. 'Ā'ishah and Ibn 'Abbās both reported that during his illness the Prophet (ﷺ) would throw a cloth over his face, and when he felt worried he would remove it from his face and say, "Allāh's curse be upon the Jews and Christians: they took the graves of their prophets as mosques." He was warning against their behaviour.¹³
 
-He feared that his Ummah might be carried away by allurements and pride. Those who follow allurements forget their prayers, and those who follow pride act tyrannically over those who are under their care, such as servants and employees. The nation which is ruled by these passions is not fit for life nor is life fit for it. Moreover, it is easy for Allāh (ﷻ) to leave them to receive the just recompense for what they do, which is humiliation in the world and chastisement in the Hereafter. This fear led the Prophet (ﷺ) as he was breathing his last to draw the attention of Muslims to the whereabouts of goodness so that they might hold fast to it.
+He feared that his Ummah might be carried away by allurements and pride. Those who follow allurements forget their prayers, and those who follow pride act tyrannically over those who are under their care, such as servants, subordinates and slaves. The nation which is ruled by these passions is not fit for life nor is life fit for it. Moreover, it is easy for Allāh (ﷻ) to leave them to receive the just recompense for what they do, which is humiliation in the world and chastisement in the Hereafter. This fear led the Prophet (ﷺ) as he was breathing his last to draw the attention of Muslims to the cornerstones of goodness so that they might hold fast to it.
 
 Anas ibn Mālik (رضي الله عنه) reported:
 
-"Most of the advice of Allāh's Messenger (ﷺ) when death was upon him, was prayers and what one's right hand possessed. Even his chest gurgled this while his tongue could hardly pronounce it."¹⁴
+"Most of the advice of Allāh's Messenger (ﷺ) when death was upon him, was: 'The prayer, and those whom your right hands possess!' Even his chest gurgled this while his tongue could hardly pronounce it."¹⁴
 
 Sometimes he was overcome with the urge to be present in the congregation and see his Companions in his last days, So he would exert his worn out body and go into the mosque from 'Ā'ishah's room and, while seated, lead the people in prayer. Ibn 'Abbās said: "When the Prophet (ﷺ) fell sick he ordered Abū Bakr (رضي الله عنه) to lead the prayers. Then he recovered and went out. When Abū Bakr (رضي الله عنه) noticed him he wanted to step back. However, the Prophet (ﷺ) signalled to him to remain, and he sat on the left side of Abū Bakr (رضي الله عنه) and began to recite where he left off. Abū Bakr (رضي الله عنه) followed the Prophet (ﷺ) and the people followed Abū Bakr (رضي الله عنه)."¹⁵
 
-Abū Bakr (رضي الله عنه) continued to lead the prayers until the morning of the Prophet's (ﷺ) death. The latter was still concerned about the affairs of his Ummah. As though Allāh (ﷻ) wanted to satisfy him about their absolute sincerity, He (ﷻ) granted him the opportunity to see them at the time of his last prayer on earth. The believers came to the mosque at dawn on Monday when he died and assembled for prayer behind an imām with a soft recitation and abundant sincerity. The Prophet (ﷺ) lifted the curtain which was hung over 'Ā'ishah's door and appeared in front of the people. They were almost tempted away from their prayer for the joy of seeing him and they began making space for him. However, he signalled with his hand that they should continue the prayer, and he smiled with pleasure at their posture in prayer.
+Abū Bakr (رضي الله عنه) continued to lead the prayers until the morning of the Prophet's (ﷺ) death. The latter was still concerned about the affairs of his Ummah. As though Allāh (ﷻ) wanted to reassure him of their complete obedience and faithful following, He (ﷻ) let him witness them one last time while he was still in this world. The believers came to the mosque at dawn on Monday when he died and assembled for prayer behind an imām with a soft recitation and abundant sincerity. The Prophet (ﷺ) lifted the curtain which was hung over 'Ā'ishah's door and appeared in front of the people. They were almost tempted away from their prayer for the joy of seeing him and they began making space for him. However, he signalled with his hand that they should continue the prayer, and he smiled with pleasure at their posture in prayer.
 
 Anas (رضي الله عنه) said: "I had never seen the Prophet (ﷺ) in better form than he was at that moment."¹⁶
 
@@ -6234,31 +6456,33 @@ He went back in and the people dispersed, thinking that he had recovered from hi
 
 'Ā'ishah said: "Allāh's Messenger (ﷺ) returned from the mosque and lay down in my lap. A male relative of Abū Bakr (رضي الله عنه) came in with a green toothbrush (miswāk) in his hand. The Prophet (ﷺ) stared at his hand and I understood that he wanted it. I took it and softened it, then I gave it to him. He brushed his teeth harder than he had ever done before, then he put it down. I felt Allāh's Messenger (ﷺ) heavy in my lap and I looked at his face. His eyes were fixed and he was saying: "No, the Companion on high from paradise."
 
-I said (to myself): "You were given the choice and you have chosen, by Him who sent you with the Truth." And the Messenger of Allāh (ﷺ) passed away.¹⁸
+I said: "You were given the choice and you have chosen, by Him who sent you with the Truth." And the Messenger of Allāh (ﷺ) passed away.¹⁸
 
 The terrible news spread from the bereaved home, causing anguish to vision, ears and hearts, and mental turmoil.
 
-The believers felt that the sky over Madīnah had darkened. The pain of the loss left them dazed, not knowing what they were doing. 'Umar ibn al-Khaṭṭāb (رضي الله عنه), who was confounded by the news, stood up and said: "Some hypocrites are claiming that Allāh's Messenger (ﷺ) is dead. He is not dead but he has gone to his Lord, just as Mūsā ibn 'Imrān went to his Lord and was away from his people for forty-days. Then he returned after he was said to be dead. By Allāh (ﷻ), the Messenger of Allāh (ﷺ) shall come back and cut the hands and feet of those who say he is dead."
+The believers felt that the sky over Madīnah had darkened. The pain of the loss left them dazed, not knowing what they were doing. 'Umar ibn al-Khaṭṭāb (رضي الله عنه), who was confounded by the news, stood up and said: "Some hypocrites are claiming that Allāh's Messenger (ﷺ) is dead. He is not dead but he has gone to his Lord, just as Mūsā ibn 'Imrān went to his Lord and was away from his people for forty nights. Then he returned after he was said to be dead. By Allāh (ﷻ), the Messenger of Allāh (ﷺ) shall come back and cut the hands and feet of those who say he is dead."
 
-When Abū Bakr (رضي الله عنه) heard the news he came to the door of the mosque as 'Umar (رضي الله عنه) was speaking though he did not pay any attention to him. He entered 'Ā'ishah's home where the Prophet (ﷺ) was shrouded in a corner. He came up and uncovered his head, then he bent over, kissed him and said: "By my father and mother! You have tasted the death which Allāh (ﷻ) has decreed for you. Now you will never be afflicted with death after that."
+When Abū Bakr (رضي الله عنه) heard the news he came to the door of the mosque as 'Umar (رضي الله عنه) was speaking though he did not pay any attention to him. He entered 'Ā'ishah's home where the Prophet (ﷺ) lay in a corner of the house, covered with a striped Yemeni cloak (burd ḥibarah). He came up and uncovered his face, then he bent over, kissed him and said: "May my father and mother be your ransom! You have tasted the death which Allāh (ﷻ) has decreed for you. Now you will never be afflicted with death after that."
 
-He replaced the cloth over the Prophet's (ﷺ) head and went out to the mosque where 'Umar (رضي الله عنه) was still speaking. He said: "Umar (رضي الله عنه), stop." However 'Umar (رضي الله عنه) continued to be agitated and effusive in his speech. When Abū Bakr (رضي الله عنه) saw him in this state he turned to the people and began to speak, and they left 'Umar (رضي الله عنه) and turned to listen to him. He began by praising Allāh (ﷻ), then he said: "O people, whoever worshipped Muhammad (ﷺ) then Muhammad (ﷺ) is dead. But whoever worshipped Allāh (ﷻ), then Allāh (ﷻ) is alive and will never die." Then he recited the following āyah:
+He replaced the cloth over the Prophet's (ﷺ) face and went out to the mosque where 'Umar (رضي الله عنه) was still speaking. He said: "Umar (رضي الله عنه), stop." However 'Umar (رضي الله عنه) continued to be agitated and effusive in his speech. When Abū Bakr (رضي الله عنه) saw him in this state he turned to the people and began to speak, and they left 'Umar (رضي الله عنه) and turned to listen to him. He began by praising Allāh (ﷻ), then he said: "O people, whoever worshipped Muhammad (ﷺ) then Muhammad (ﷺ) is dead. But whoever worshipped Allāh (ﷻ), then Allāh (ﷻ) is alive and will never die." Then he recited the following āyah:
 
 (Muhammad is but a messenger, messengers [the like of whom] have passed away before him. Will it be that, when he dies or is slain, you will turn on your heel? He who turns back does no hurt to Allāh, and Allāh will reward the thankful.) (Qur'ān 3: 144)
 
 # Epilogue
 
-Within a few days the Prophet's (ﷺ) death Islām became entangled in a fierce struggle with paganism, which suddenly came back to life, and Christianity, which controlled the north of the peninsula, prevented anyone from embracing Islām and stopped its spread by force. The desert had not seen the like of these violent battles during the lifetime of the Prophet (ﷺ) himself. The battle fields were wider, the costs higher and the losses greater. Nevertheless, the men whom the Prophet (ﷺ) had brought up with knowledge of the truth and sacrifice for it were sincere in their actions to Allāh (ﷻ) and bore the heavy burdens that were thrust upon their shoulders like gallant heroes. They broke the backbone of paganism in the peninsula, squeezed out its life blood and destroyed it forever. They routed the Romans at the borders where the latter had spread their arrogance. Then they returned to Madīnah not to relax but to spread out in the then populated world in a systematic order and by inspiration from a foolproof law. Within a few years Islām had filled land and sea, ears and eyes.
+Within a few days of the Prophet's (ﷺ) death Islām became entangled in a fierce struggle with paganism, which suddenly came back to life, and Christianity, which lay in wait in the north of the peninsula, prevented anyone from embracing Islām and stopped its spread by force. The desert had not seen the like of these violent battles during the lifetime of the Prophet (ﷺ) himself. The battlefields were wider, reinforcements followed one another, the costs were higher and the losses greater. Nevertheless, the men whom the Prophet (ﷺ) had brought up with knowledge of the truth and sacrifice for it were sincere in their actions to Allāh (ﷻ) and bore the heavy burdens that were thrust upon their shoulders like gallant heroes. They broke the backbone of paganism in the peninsula, squeezed out its life blood and destroyed it forever. They drove the Romans away from the borders where the latter had rebelled and tyrannised. Then they returned to Madīnah not to relax but to spread out in the then populated world in a systematic order and by inspiration from a foolproof law. Within a few years Islām had filled land and sea, ears and eyes.
 
-Now after fourteen centuries have elapsed since that glorious era, Islām is no more ruling its Ummah, not to speak of steering the world to a land worth mentioning or to goodness worthy of thanks. The other religions are living on the brink of death, for the existing civilizations do not allow religion to take hold of the reins. Paganism in India and the Far East as well as other places still holds sway over the major part of the lives and behaviour of the masses. Judaism is segregating its flock from the world implant in their hearts hatred for the mankind and to sweep away the greatest benefits for Israel by playing upon the split within the ranks of the Muslims. Christianity is like a creeping vine in the equator: it depends for its survival on the adoption of the prevalent philosophies and support of the ruling regimes to guarantee life for its primary tenets of the Trinty and vicarious sacrifice.
+Now after fourteen centuries have elapsed since that glorious era, Islām — after great glory — is no more ruling its Ummah, not to speak of steering the world to any righteousness worth mentioning or to goodness worthy of thanks. The other religions are living on the margins of life, for the existing civilizations, and those lying in wait, do not allow religion to take hold of the reins. Paganism in India and the Far East as well as other places still holds sway over the major part of the lives and behaviour of the masses. Judaism is segregating its flock from the world to implant in their hearts hatred for mankind and to slip through the gaps in the mutually warring ranks, carrying off the greatest spoils for Israel. Christianity is like a creeping vine in the equator: it depends for its survival on the adoption of the prevalent philosophies and support of the ruling regimes to guarantee life for its primary tenets of the Trinty and vicarious sacrifice.
 
-The Muslims have been stained with the pollution of careerism (making religion a profession) and adherence to shells and rituals. The vices of weakness and ignorance have relegated them to a condition similar to those of the Jews and Christians during the era of prophethood and the rightly-guided caliphate. Only an insignificant minority of them remain today fighting jahilīyah and holding fast to the truth. If there is hope in the fact that Islām has remained preserved from the theoretical point of view in its two major sources, the Qur'ān and the Sunnah, then this preserved knowledge can never make action superfluous. Nevertheless, it should be noted that those who do good work for Islām are encountering severe opposition from various other fronts. I mean the fronts which have opposed its spread since the time of its inception fourteen centuries ago and have never cooled off for one day in their enmity towards it.
+The Muslims have been stained with the pollution of careerism (making religion a profession) and adherence to shells and rituals. The vices of weakness and ignorance have relegated them to a condition similar to those of the Jews and Christians during the era of prophethood and the rightly-guided caliphate. Only a small minority of them remain today fighting jahilīyah and holding fast to the truth. If there is hope in the fact that Islām has remained preserved from the theoretical point of view in its two major sources, the Qur'ān and the Sunnah, then this preserved knowledge can never make action superfluous. Nevertheless, it should be noted that those who do good work for Islām are encountering severe opposition from various other fronts. I mean the fronts which have opposed its spread since the time of its inception fourteen centuries ago and have never cooled off for one day in their enmity towards it.
 
-One may ask whether world today is in need of Islām. Our answer is that if the world is in need of knowing Allāh (ﷻ) and preparation to meet Him, and give an account for what was done in this earthly life, then it must have Islām. Material advancement is no substitute for adherence to these great realities. One may say: but there are people who do not believe in any God or in the hereafter, and there are others who believe in these things but in a different way from what Islām teaches, so let people follow their own beliefs. Our answer to this is: let people believe what they will. However, the blind do not have the right to dig out the eyes of those who see or strangle them because the sighted see what the blind do not! They must leave them to walk with the guidance of their eyes and they must leave them also to describe what they see or expect on their way. Whoever wish to follow the sighted without being forced have the right to go with them otherwise they should leave the sighted alone and not put obstacles in their path. This is all that Islām asks.
+One may ask whether world today is in need of Islām. Our answer is that if the world is in need of knowing Allāh (ﷻ) and preparation to meet Him, and give an account for what was done in this earthly life, then it must have Islām. Material advancement is no substitute for adherence to these great realities. One may say: but there are people who do not believe in any God or in a Last Day, and there are others who believe in these things but in a different way from what Islām teaches, so let people follow their own beliefs. Our answer to this is: let people believe what they will. However, the blind do not have the right to dig out the eyes of those who see or strangle them because the sighted see what the blind do not! They must leave them to walk with the guidance of their eyes and they must leave them also to describe what they see or expect on their way. Whoever wish to follow the sighted without being forced have the right to go with them otherwise they should leave the sighted alone and not put obstacles in their path. This is all that Islām asks.
 
-The mischief-makers hate Islām because it is the truth with a voice which defends itself and proclaims whatever it contains and refuses to hide or keep silent. This characteristic of Islām, the characteristic proclaiming the truth and decrying falsehood, has annoyed its adversaries and made them fabricate accusations against it. Thus, if it refuses to compromise, it is the attacker; and if it refuses to die under the plots of its enemies, it is being spread by force! This is the secret of the tale which is told that Islām was spread by the sword, though Islām only unsheathed the sword to save itself from the danger of the mob and the brigands. Had it not been subjected to intrigue, it would never have lifted a knife and would have contented itself with the use of the tongue instead of the sword. Yes, in this respect it is very firm. What else could be expected of it when it has to confront enemies who are spurred on by the haughtiness and prejudice of many centuries as well as the erring ways which hide behind thick jungles of men and arms? Had it not been for this firmness, Islām's moral and scientific principles would not have remained intact to this day. Those religions before it which had weakened were dragged by their enemies in a hideous manner from their roots and have never been able to return safely to them. As for Islām, today you find it, if not in its adherents, then at least in its Book.
+The champions of falsehood hate Islām because it is the truth with a voice which defends itself and proclaims whatever it contains and refuses to hide or keep silent. This characteristic of Islām, the characteristic proclaiming the truth and decrying falsehood, has annoyed its adversaries and made them fabricate accusations against it. Thus, if it refuses to compromise, it is the attacker; and if it refuses to die under the plots of its enemies, it is being spread by force! This is the secret of the tale which is told that Islām was spread by the sword, though Islām only unsheathed the sword to save itself from the danger of the mob and the brigands. Had it been left alone without intimidation, it would never have burdened its shoulder with a spear and would have contented itself with the tongue instead of the spearhead. Yes, in this respect it is very firm. What else could be expected of it when it has to confront enemies who are spurred on by the haughtiness and prejudice of many centuries as well as the erring ways which hide behind thick jungles of men and arms? Had it not been for this firmness, Islām's intellectual and spiritual foundations would not have remained intact to this day. Those religions before it which had weakened were dragged by their enemies in a hideous manner from their roots and have never been able to return safely to them. As for Islām, today you find it, if not in its adherents, then at least in its Book.
 
 You may think that you have studied the life of Muhammad (ﷺ) by following his history from birth to death, but this is a grave mistake. You will never really understand the sīrah unless you study the noble Qur'ān and the purified Sunnah. The amount that you derive from these will tell the strength of your connection with the Prophet (ﷺ) of Islām.
+
+*Completed by the praise and grace of Allāh (ﷻ).*
 
 # Symbols used in this Book
 
@@ -6361,7 +6585,7 @@ You may think that you have studied the life of Muhammad (ﷺ) by following his 
 
 *Imām*: Leader. A person who leads the Ṣalāt (prayer), authority in Islamic Jurisprudence and extra ordinary scholar of Islamic learning as well as the Muslim caliph (or ruler).
 
-*Isrā'*: The Prophet's ascension.
+*Isrā'*: The Prophet's (ﷺ) Night Journey from Makkah to Jerusalem.
 
 *'Issa*: Jesus (عليه السلام).
 
@@ -6467,9 +6691,9 @@ You may think that you have studied the life of Muhammad (ﷺ) by following his 
 
 ² Ṣaḥīḥ: transmitted by Ibn Isḥāq with the same chain as above. It is also in Bukhārī and Muslim.
 
-³ Very weak: transmitted by Al-'Uqailī in his collection of weak ḥadīths also by Al-Bayhaqī. Al Dhahabi said: "I am afraid it may be a fabricated lie." Ibn Kathīr says: "In its isnād and matn there is extreme obscurity."
+³ Very weak: transmitted by Al-'Uqailī in his *Al-Ḍu'afā'* (on weak narrators) and by Al-Bayhaqī. Al Dhahabi said: "I am afraid it may be a fabricated lie." Ibn Kathīr says: "In its isnād and matn there is extreme strangeness (gharābah)."
 
-⁴ Ṣaḥīḥ: transmitted by the two Sheikhs. This is the version of Bukhārī.
+⁴ Ṣaḥīḥ: transmitted by the two Sheikhs. This is the version of Bukhārī. The other version is transmitted by Ibn Hishām from Ibn Isḥāq with his chain from a member of the family of Abū Sa'īd ibn al-Mu'allā; it is weak because that person is unknown.
 
 ⁵ Ṣaḥīḥ: transmitted by Bukhārī.
 
@@ -6477,24 +6701,24 @@ You may think that you have studied the life of Muhammad (ﷺ) by following his 
 
 ⁷ Ṣaḥīḥ: transmitted by Bukhārī and others on the authority of Anas (رضي الله عنه).
 
-⁸ Ṣaḥīḥ: transmitted by Al Tirmidhī and Ibn Hishām.
+⁸ Ṣaḥīḥ: transmitted by Al Tirmidhī, who graded it ḥasan, and by Ibn Hishām.
 
 ⁹ Ṣaḥīḥ: transmitted by Bukhārī on the authority of 'Ā'ishah.
 
-¹⁰ Weak: transmitted by Al Tirmidhī and others by way of Mūsā Ibn Sirjis from Al-Qāsim Ibn Muhammad from 'Ā'ishah. He said it was weak because this Mūsā was unknown.
+¹⁰ Weak: transmitted by Al Tirmidhī and others by way of Mūsā Ibn Sirjis from Al-Qāsim Ibn Muhammad from 'Ā'ishah. Al-Tirmidhī called it 'gharīb', meaning weak, because no one declared this Mūsā reliable, so he is unknown.
 
 ¹¹ Ṣaḥīḥ: transmitted by the two Sheikhs on the authority of 'Ā'ishah.
 
 ¹² Transmitted by the two Sheikhs and others on the authority of Ibn Mas'ūd.
 
-¹³ Transmitted by the two Sheikhs.
+¹³ Ṣaḥīḥ: transmitted by the two Sheikhs.
 
 ¹⁴ Ṣaḥīḥ: transmitted by Ibn Mājah, Aḥmad and others from Qatādah on the authority Anas (رضي الله عنه).
 
 ¹⁵ Ṣaḥīḥ: transmitted by Ibn Mājah and Aḥmad on the authority of Ibn 'Abbās.
 
-¹⁶ Ṣaḥīḥ: transmitted by Bukhārī, Muslim and others on the authority of Ibn Al Zuhrī from Anas (رضي الله عنه) but it is Munqaṭi' (the chain has a missing link.)
+¹⁶ Transmitted by Bukhārī, Muslim and others on the authority of Anas (رضي الله عنه) with similar wording. Ibn Hishām transmitted it in the wording of this book from Ibn Isḥāq from Al-Zuhrī from Anas; that chain is Munqaṭi' (it has a missing link).
 
 ¹⁷ It is part of the Ḥadīth of Anas (رضي الله عنه), transmitted by Ibn Isḥāq.
 
-¹⁸ Ṣaḥīḥ: Transmitted by Ibn Hishām from Ibn Isḥāq with a sound chain from 'Ā'ishah. It is also in Bukhārī in separate places. This is the last Ḥadīth in the book and with it ends my annotation. Praise be to Allāh (ﷻ) for bringing it to a successful end. Glory be to you, O Allāh (ﷻ), and with Your praise. I testify that there is no god but You, I seek your forgiveness and I turn to You in repentance. Signed: Muhammad Naṣir-ud-Dīn Al Albānī, Damascus, 28/5/1375 AH [the Arabic original misprints the date as '1975 AH'; the correct year is 1375 AH — translator's note].
+¹⁸ Ṣaḥīḥ: Transmitted by Ibn Hishām from Ibn Isḥāq with his chain from 'Ā'ishah. It is also in Bukhārī in separate places. This is the last Ḥadīth in the book and with it ends my annotation. Praise be to Allāh (ﷻ) for bringing it to a successful end. Glory be to you, O Allāh (ﷻ), and with Your praise. I testify that there is no god but You, I seek your forgiveness and I turn to You in repentance. Signed: Muhammad Naṣir-ud-Dīn Al Albānī, Damascus, 28/5/1375 AH [the Arabic original misprints the date as '1975 AH'; the correct year is 1375 AH — translator's note].

@@ -241,3 +241,98 @@ correct).
   in both: ENG "caused man to regress, pinning his aspiration to sacrificial offerings
   and his thought to obscure riddles"; HUN "visszavetették az embert, törekvését az
   áldozati ajándékokhoz, gondolkodását pedig a homályos rejtélyekhez láncolva".
+
+## Opus 5.5 full review (2026-09-24/25): further corrections in both files
+
+A complete HUN ↔ Arabic re-read of the whole book (front matter → Chapters 1–9 → Epilogue
+→ back matter), with ENG-full consulted to decide where each error came from. About
+185 of the findings were **English-edition errors** and were corrected in both files; the
+HUN-only items are in `REVIEW-FLAGS.md` ("Opus 5.5 full review"). The complete per-item
+record (quoted HUN text, AR citation with page, fix) is in
+`review-wip/opus55-findings.md`; every edit is reproducible from `review-wip/specs/*.py`
+(`apply.py` = exact-match edit engine, `fnins.py` = footnote insert + renumber).
+Selected items:
+
+### A. Text the English edition dropped — restored
+- **Ch2:** the Waraqah ḥadīth (+ its footnote); the Baḥīra sentence together with
+  al-Albānī's reply and the author's rejoinder (now fn 12).
+- **Ch3:** the "madman" paragraph; a Fāṭimah clause; Q53:53–61; Jābir's al-Ḥijr/Jerusalem
+  report; the Haykal quotation.
+- **Ch4:** several bayts (incl. «رمى بصدور العيس» and the third Asmā' bayt), a du'ā'
+  clause; Ṣirmah's seven bayts (had been prose).
+- **Ch5:** Ḥudhayfah's "warm bath" and the dog verse; Q4:168–169.
+- **Ch6:** 'Umar's «لا سواء، قتلانا فى الجنة وقتلاكم فى النار»; the Abū Dhu'ayb couplet;
+  Q3:172 with its lead-in; «وحُقَّ لمحمد…»; the prayer-time sentence; the hamstrung horse.
+- **Ch7:** «محمد والخميس»; the al-Mundhir ibn Sāwā sentence; the Mu'tah farewell poem;
+  Khālid's Yemeni blade and the night truce; 'Amr ibn Sālim's poem and the reply; 'Umar's
+  "ants" retort; Ḥimās's rajaz and excuse poem; Fuḍālah's bayts; al-'Abbās's pebble
+  report and the bound captives (AR p.301); **the Anṣār reflection (four paragraphs, AR
+  pp.305–306)**; at Tabūk «فليس للإنسان إلا ما سعى… يخضع له عيسى وأمه» and the "reasonable
+  opportunities" sentence (pp.310–311); the first half of Ka'b's reply «إن حدثتك اليوم حديث
+  كذب…»; 'Amr ibn Umayyah's speech to 'Abd Yā Layl; the ends of Q9:1–3 and Q9:81;
+  «ورجع رسول الله ولم يلاعنهم»; «ثم خلصوا نجيا»; barṣ in «اتق البرص».
+- **Ch8:** «وحسبه أن يوفق فى رعايتها وكفالة أولاده منها!»; «الذى يعدد يجب أن يكون قادرا
+  على النفقة اللازمة»; *dayyūth* in «داعر وديوث أو قواد»; Zaynab's brother accepting "merely
+  out of obedience"; the end of Q33:36; the eclipse prayer «فقام النبى مصليا بالناس»;
+  the Prophet's tail «ويحرموا ما أحل الله» after Q9:37.
+- **Ch9 / Epilogue:** fn4's grading of the second version (weak, unknown narrator); the
+  closing line «تم بحمد الله ومنّته».
+- **Removed as English additions** (scan-verified where the AR transcription was
+  unclear): Ibn Qamī'ah's line in Abū Sufyān's Uḥud exchange; Q1:5 (the Arabic quotes
+  only 1:6–7); "likes and dislikes" (Preface); "cunning" before "Jews" (ch7).
+
+### B. Footnotes the English edition dropped — 29 restored, all chapters renumbered
+ch1 +1 (p.24), ch2 +2 (pp.54, 70), ch3 +1 (p.99), ch4 +3 (pp.115, 126, 129), ch6 +16
+(pp.167, 185, 186, 197, 201, 206 ×3, 207 ×2, 208, 209, 210, 219, 220, 224), ch7 +6
+(pp.267, 280, 283, 292 ×2, 301); plus the dropped closing of ch7 fn51 (Musnad no. 3536).
+Misanchored markers moved to the Arabic anchor: ch4 fn14 → Aḥmad's spider-web report,
+ch5 fn1, ch6 fn19 («شاهت الوجوه»), fn43 («نحرى دون نحرك»), fn59 («لأدينَّهما») — ch6 numbers
+as before the restorations — and ch7 fns 56/57 (one slot too early). New counts: ch1 21, ch2 27, ch3 35, ch4 25, ch5 23,
+ch6 100, ch7 128, ch8 24, ch9 18 — all verified 1:1 body↔list in both files.
+Al-Albānī's *mu'ḍal* had been rendered "with a muddled chain" (ch7 fn27/28/64/71/72) →
+*mu'ḍal*; *mu'allaq* had become "muṭlaq" (ch6 fn40).
+
+### C. Mistranslations (selection)
+| Where | English edition | Arabic | Correct |
+|---|---|---|---|
+| Preface | "is like the one what made [the Jews]…" | «هو الذى جعل اليهود والنصارى يذيعونه» | *is what* made them broadcast it |
+| Preface fn1 | "three provinces of Morocco" | «أقطار المغرب الثلاثة» | the three Maghreb countries |
+| ch1 | "gateway" of forgiveness | «لم ينصب نفسه "بابا"» | **Pope** (indulgences) |
+| ch1 | "poets and revolutionaries" | «من شعراء وناثرين» | poets and **prose-writers** (ثائرين misread) |
+| ch1 | "the people of this lake (Madīnah)" | «أهل هذه البحيرة» | this **town** |
+| ch6 | the Prophet "had taken no offence at the difference of opinion" | «وجد غضاضة من الاضطراب بين شتى الآراء» | he **objected to wavering** between opinions |
+| ch6 | "robbed Madīnah of its bounties" | «استياق نعم المدينة» | drove off Medina's **livestock** (نَعَم) |
+| ch6 | war-cry "Amut, amut!" (let me die) | «أمت أمت» | "**Kill! Kill!**" |
+| ch6 | Abū Ṭalḥah: "My father is strong" | «إنى جلد» | "**I am** sturdy" |
+| ch6 | Ḥārithah's mother "was not yet deprived" | «وكانت لم تحرَّم بعد» | [wailing] was not yet **forbidden** |
+| ch6 | sawīq = "paste of sugar and dates" | سويق | parched barley/wheat meal |
+| ch7 | the Prophet to the Najrān Christians: "…that **I should be worshipped** besides Him" | «معاذ الله أن **أعبد** غير الله» | that **I should worship** other than Allah |
+| ch7 | "Which of you is 'Abdul Muṭṭalib" | «أيكم **ابن** عبدالمطلب» | the **son** of 'Abd al-Muṭṭalib (×2) |
+| ch7 | Tabūk camels: water "from their humps" | «لينفضوا أكراشها ويشربوا ماءها» | from their **stomachs** |
+| ch7 | "the hypocrites came… about eighty" | «فجاء المخلفون… بضعة وثمانين» | **those left behind**, eighty-odd |
+| ch7 | "If he is a true Prophet then there is no need to worry" | «فلا عناء، فلن يبقى… شعرة ولا ظفر» | then there is nothing we could do: not a hair would remain |
+| ch7 | "The deputation knew that he were right" | «من يدرى؟ قد يكون محمد صادقًا» | **Who knows?** He **may** be truthful |
+| ch7 fn121 | "A comedy." | «صحيفة هزلية» | a **satirical newspaper** (al-Ba'kūkah) |
+| ch7 fn5 | 'Urwah "pacified the situation by befriending him" | «فوداهم عروة» | 'Urwah **paid the blood-money** |
+| ch8 | 'Ā'ishah: "no meat… only barley-bread" | «ما فى رفِّى شىء يأكله ذو كبد إلا شطر شعير» | nothing any living creature could eat except some barley |
+| ch8 | "provide Muhammad's family with nourishment" | «اجعل رزق آل محمد قوتًا» | make their provision **bare sufficiency** |
+| ch8 | "to restrict the permissible is proof of one's lack of understanding" | «إن تقييد مباح ليس مما يعى سياسة التشريع» | restricting a permissible thing is **not part of Islam's legislative policy** |
+| ch8 | Farwah "about to be hanged"; "the head of the Muslims" | «لما قدم للقتل»; «سراة المسلمين» | brought forward to be **killed** (beheaded); the **nobles** of the Muslims |
+| ch9 | "because there is no other god" | «أحمد الله الذى لا إله إلا هو» | Allah **besides Whom** there is no god |
+| ch9 | "you'll be in a critical position" | «إنك بعد ثلاث عبد العصا» | under another's command ("slave of the stick") |
+| ch9 | Mūsā "forty days" | «أربعين ليلة» | forty **nights** |
+| Epilogue | steering the world to "a land worth mentioning" | «إلى بِرٍّ يُذكر» | to **righteousness** (birr misread as barr) |
+| Epilogue | "living on the brink of death" | «تعيش على هامش الحياة» | on the **margin of life** |
+| Epilogue | "playing upon the split within the ranks of **the Muslims**" | «النفاذ من خلل الصفوف المتناحرة» | the gaps in the (world's) warring ranks — no Muslims in the Arabic |
+| Glossary | *Isrā'*: "The Prophet's ascension" | — | the **Night Journey** Makkah → Jerusalem (ascension = Mi'rāj) |
+
+### D. Errors in the *Arabic original* — kept, with a translator's note (§6 convention)
+Added in this review (HUN `[… — a ford.]` / ENG `[… — translator's note]`):
+Zayd ibn Ḥārithah printed as «زيد بن ثابت» (ch3, AR p.75); «عمر بن عنبسة» for 'Amr ibn
+'Abasah; «سعيد بن العاص» for Khālid ibn Sa'īd ibn al-'Āṣ; «صعصعة بن مالك» for Mālik ibn
+Ṣa'ṣa'ah; «سعد بن عبادة» at 'Aqabah (Ibn Isḥāq: al-'Abbās ibn 'Ubādah ibn Naḍlah);
+«دار عمر بن ربيعة» (Ibn Isḥāq: the house of the Banū Jaḥsh); the Prophet's parents
+"who died in Medina" (Āminah died at al-Abwā'); «أبو عبادة» for Abū 'Ubaydah ibn
+al-Jarrāḥ (AR p.201, scan-verified); «عبدالله بن أوفى» for Ibn Abī Awfā; Abū Mūsā
+«ابن عمه» (the sources: his nephew); the Farewell Sermon's «دم ربيعة بن الحارث» (the
+ḥadīth: the blood of Rabī'ah's son — Rabī'ah outlived the Prophet).

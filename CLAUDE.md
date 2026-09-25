@@ -23,9 +23,9 @@ below are relative to that directory.
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third. (The ch3 draft's "no ¹⁵ by design" numbering turned out to be a
    dropped fn9 — restored and renumbered in G4, 2026-07-18; HUN ch3 now matches ENG 1:1.)
-   Footnote counts after the G3 restorations + G4 ch3 repair (2026-07-18, all verified
-   1:1 body↔list by script in both files): ch1 1–20, ch2 1–25, ch3 1–34,
-   ch4 1–22, ch5 1–23, ch6 1–84, ch7 1–122, ch8 1–24, ch9 1–18. Note: ENG-full keeps ch9's
+   Footnote counts after the Opus 5.5 review's 29 restorations (2026-09-25, all verified
+   1:1 body↔list by script in both files): ch1 1–21, ch2 1–27, ch3 1–35,
+   ch4 1–25, ch5 1–23, ch6 1–100, ch7 1–128, ch8 1–24, ch9 1–18. Note: ENG-full keeps ch9's
    footnotes at the very end of the book (after the Glossary); HUN places them right after
    ch9 per convention.
    **Review flags are tracked in `REVIEW-FLAGS.md`** — add new flags there, not here.
@@ -56,6 +56,7 @@ All in `fiqh-us-seerah/`:
 | `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md` | Complete Arabic transcription (2026-07-17): printed pages 2–368, ~126.5k words, `[صفحة N]` page markers, per-page footnote blockquotes. Locating/reading aid for verification — not gospel; decision-critical readings re-checked on the rendered page. 9 `[غير مقروء]` spots (ch7, pp. 293–304) |
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md` | **The Hungarian translation** — complete draft, front matter → Chapters 1–9 → Utószó → back matter |
 | `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
+| `review-wip/` | Opus 5.5 review workspace (2026-09-24/25): `opus55-findings.md` (findings + APPLIED LOG), `apply.py` + `specs/*.py` (idempotent edit specs), `fntool.py` / `fnins.py` (footnote check / insert-with-renumbering), `arpage.py` (AR footnotes per page). Untracked; commit for the audit trail and/or delete like `g3-findings/` |
 | `ENGLISH-EDITION-ERRATA.md` | Consolidated list of the English edition's errors verified against the Arabic original (wrong Qur'ān refs, inserted honorifics, mistranslations, corrupted names) — all corrected in both ENG-full and HUN per the fidelity policy |
 
 Deleted in the 2026-07-18 housekeeping (recoverable from git history): the legacy
@@ -157,3 +158,9 @@ translation errors).
 6. Optional/remaining: glossary re-alphabetization; the "still open" pass-A items
    listed in the pipeline note (remaining transcription-quality doubts vs the
    Arabic, coinage sanity-checks).
+7. ~~**Opus 5.5 full HUN↔AR review**~~ ✅ **applied 2026-09-25** (uncommitted until the
+   user says so): whole book re-read against the Arabic; ≈680 HUN / ≈610 ENG edits,
+   dropped passages and 29 dropped footnotes restored, Arabic-author slips noted per
+   policy. Summary + **open [D] decisions** in REVIEW-FLAGS "Opus 5.5 full review";
+   English-edition errors in the errata file; full per-item log in
+   `review-wip/opus55-findings.md`.

@@ -640,3 +640,73 @@ they are English-edition errors corroborated against the Arabic, also in
   neighbourhood" → "holy precinct"; *saʿidtu bihi* "I was happy in it" → "brought me
   good fortune"; the *muṭahharah*/*ʿaṭirah* epithets of Sunnah and Sīrah dropped).
   Fixed in ENG-full and HUN; details in the errata file.
+
+## Opus 5.5 full review (2026-09-24/25)
+
+A complete HUN ↔ Arabic re-read of the whole book (front matter → Ch1–9 → Utószó → back
+matter), chunk by chunk against `-AR-full.md`, with rendered-page checks wherever the
+decision depended on the reading (the AR transcription sometimes drops phrases — e.g.
+p.185 «على أن يخرجوا…», p.201 — so every "[A] not in AR" claim was checked on the
+scan). ENG-full was consulted to decide the origin of each error.
+
+**Working files** (untracked, `review-wip/`): `opus55-findings.md` (all findings by
+chapter, tagged [M] meaning · [O] omission · [A] addition · [C] consistency · [G]
+grammar · [S] style · [D] decision, + an APPLIED LOG), `apply.py` (idempotent
+exact-match edit engine), `specs/*.py` (28 edit specs + 3 footnote-restoration specs),
+`fntool.py` (footnote check/shift), `fnins.py` (insert a footnote at an anchor with
+automatic renumbering), `arpage.py` / `arfn.py` (AR footnote listers).
+
+**Applied (uncommitted):** ≈680 HUN and ≈610 ENG edits; 29 dropped footnotes restored
+and 6 misanchored markers moved. English-edition errors are summarised in
+`ENGLISH-EDITION-ERRATA.md` ("Opus 5.5 full review"). HUN-only fixes, not in the errata:
+- **Hungarian grammar/wording** ([G], ~20): e.g. Q10:68 "Mondjátok" → "Mondd" (قُلْ sg.),
+  Q15:88 "Ne meressze szemed", the ungrammatical "Mi hárman a hátramaradásban…" passage
+  (rewritten with Q9:118), verbless fragments, "S'ad"/"Quraishből"/"Muzaynához" typos.
+- **HUN-only meaning slips**: "A perzsa mágia" → mágusvallás (المجوسية), ch9 "akinek
+  bármije van nálam" (inverted), "tetteik igazságos jutalmát" for a punishment, etc.
+- **Conventions:** al-Jannah → *Paradicsom* completed (the 2026-07-25 sweep had missed
+  "Dzsanna" ×5 and glossary "a Jannah lakói"; lowercase *paradicsom* capitalised — the
+  adjective *paradicsombeli* stays lowercase); "Al-Qāsim ibn Mohamed" → Muhammad (the
+  Mohamed sweep's only collateral); "ha Isten akarja" → "ha Allah akarja"; *hiteles* for
+  "hiteles lánccal" where AR has only «بسنده»; *Aus* → **Aws** (both files);
+  *Juwayriyah*; *Uḥud/uḥudi* (glossary headword *Uhud* kept as printed); signature →
+  **Muhammad Al-Ghazali** (matches the title); Sūrat al-Tawbah ×3.
+- **Typography:** quote-mark state repaired at ~15 places (unclosed „ inside Qur'ān
+  parentheses, stray closers, multi-paragraph narrations) — a state-tracking scan now
+  reports 0 issues; second-level quotes '…' → »…« (ch2/ch3); verse passages set as
+  italic lines (Abū Ṭālib, Abū Dujānah, Hind, «طلع البدر», «أنا النبى لا كذب», Farwah…).
+
+**Verified after applying:** every chapter's footnotes 1..N aligned body↔list in both
+files (ch1 21, ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18 — ENG
+ch9 lives after the Glossary and was not renumbered); all specs re-run as no-ops.
+
+### Open — user decisions ([D])
+1. **Dashes:** spaced em dash — ×~720 vs spaced en dash – ×~45; HU norm is the en dash.
+2. **Closing quotes:** straight `"` everywhere (~1300×) vs typographic `”`.
+3. **Jāhiliyyah:** *dzsáhilijja* vs *jahilīyah/jāhilīyah* in running text, glossary
+   *Jahilīyyah* (recommend *dzsáhilijja*, like hidzsra/dzsihád/saría).
+4. **Diacritic unification** inherited from ENG (Isḥāq/Is-ḥāq, Muṭṭalib/Muttalib,
+   Abī/Abi, Banū/Banu, Hurairah/Ḥurairah, Jāmi' ×5 forms…); Sūrah naming (Sūrat
+   al-X / Sūrah Al X / Sūrat ul-X); *Jézus* (32×) vs *'Īsā* (2×).
+5. **Pagans' oaths:** "Istenre" vs "Allahra (ﷻ)" in the mouths of Abū Lahab/Abū Ṭālib.
+6. **Zayd ibn 'Amr ibn Nufayl** carries (رضي الله عنه) ~15× (ENG too); the Arabic has none
+   and he died before the Prophethood (not a Ṣaḥābī) — remove?
+7. **The author's generalisations about the Jews:** HUN/ENG soften them ("Ilyenek
+   **némely** zsidók jellemvonásai" ← «هذه خلال اليهود»; "…mesterei **közé** tartoznak, és
+   **némelyek** a kicsapongás… vezéralakjai" ← «فهم إلى اليوم دهاقين الربا… وهم قادة التبرج
+   والعهر»). Fidelity would drop the qualifiers.
+8. **Waḥshī's insult** «يابن مقطعة البظور» (ch6) — currently "te nyomorult fia" (ENG "son
+   of a wretch"); render literally or keep softened?
+9. **Utószó «الصليبية»** ("the Cross/Crusaderdom", pejorative) — currently
+   "kereszténység"; alternative "a keresztes hatalom".
+10. **Provenance line** "Magyar fordítás az angol kiadás alapján" and the note that the
+    Qur'ān quotations translate the English edition's text — both no longer accurate
+    now that the text has been checked and corrected against the Arabic.
+11. **Pokol** capitalisation (a pokol ×5 / a Pokol ×3) — capitalise like *Paradicsom*?
+12. **Glossary** re-alphabetisation (older open item).
+
+### Not applied — style suggestions ([S])
+About 30 nuance/wording items (e.g. "rostál" in the Előszó, "légy bőkezű" for بارك) are
+listed chapter by chapter in `review-wip/opus55-findings.md` — apply on request. A few
+items first logged as [S] turned out to change the meaning and were applied (ch7 «الشعل
+الحارقة» burning torches, «ولا مراء», ch8 «جملة», «تحت راحلته», «فالغرم على قدر الغنم»).
