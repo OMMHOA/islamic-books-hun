@@ -16,7 +16,7 @@ Open work only. Finished work is in the git history; the English edition's error
   translation.
 - [ ] ch7: „A Banú Iszráíl hatalmas királyok népe volt…” – *népe* was added when „Izrael fiai
   … voltak” became singular (2026-09-28); check it against the Arabic.
-- [ ] 28 style/nuance suggestions from the Opus 5.5 review, not applied – listed below.
+- [ ] Decide on the Opus 5.5 review's suggestions – decision list below.
 
 ## English transcription (ENG-full)
 
@@ -24,70 +24,202 @@ Open work only. Finished work is in the git history; the English edition's error
   English scan. Low priority – the Hungarian was verified against the Arabic directly, so
   this only matters for ENG-full itself.
 
-## Style/nuance suggestions (Opus 5.5 review, 2026-09-25)
 
-Suggest-only items; apply on request. `HUNnnnn` is a line number in the HUN file as of the
-review (they have drifted), and names inside the quotes are in the old spelling (Yathrib,
-'Umar…) – search for the rest of the quoted text. Some items were overtaken by later changes
-(e.g. the Uḥud/Umm Salīṭ spellings).
+## Decision list: the Opus 5.5 review's suggestions (checked 2026-09-28)
 
-**Front matter**
+All ~150 points of the review's 28 suggestion lines were re-checked against the current text
+and the Arabic. About 30 were already done (with the 2026-09-25 decisions or the name pass)
+and are gone. Answer A1–A7 (chat is fine); in B and C, tell me the numbers of any
+line you disagree with. Everything else I then apply to HUN — and to ENG-full where the
+English edition has the same error, per the fidelity policy.
 
-- [ ] HUN13 "a Magasztosban" duplicates (ﷻ) (ENG "'The Exalted'"), not in AR. HUN11 "ismerőik" (ومن يتعرف عليهم = those who come to know them). HUN21 "a részletek összegyűjtésére, a források rostálására" (AR حشد الآثار، تمحيص الأسانيد = amassing narrations, scrutinizing isnāds — user dislikes "rostál"). HUN25 omits "emotional and intellectual" backwardness. HUN49 "légy bőkezű" for بارك (bless/bestow barakah).
+### A. Your call
 
-**Ch1**
+- **A1** · **Előszó** · „a részletek összegyűjtésére, a források rostálására” → „az elbeszélések
+  összegyűjtésére, a hagyományláncok gondos megvizsgálására” — «حشد الآثار، وتمحيص الأسانيد»;
+  you disliked *rostál*. My pick: apply.
+- **A2** · **Előszó, closing prayer** · „és légy bőkezű Mohamedhez (ﷺ)…, ahogyan bőkezű voltál
+  Ábrahámhoz…” → „és áraszd áldásodat Mohamedre (ﷺ)…, ahogyan áldásodat árasztottad
+  Ábrahámra…” — «وبارك… كما باركت» is *baraka* (blessing), not generosity. My pick: apply.
+- **A3** · **ch1 and ch6** · „Éljen Hubal!” → „Légy magasztos, Hubal!” — «اعلُ هبل», "be exalted";
+  *éljen* sounds like a modern cheer. My pick: apply.
+- **A4** · **ch5** · „gongot” → „kereplőt” — «الناقوس», the wooden clapper of the Eastern churches.
+  My pick: apply.
+- **A5** · **ch6** · „keresztre feszítsék” → „fára feszítsék” — «ليصلبوه»; *kereszt* has a Christian
+  overtone. My pick: apply.
+- **A6** · **ch5, footnote 3** · the dirá/cubit explanation was added by the English translator; the
+  Arabic has no such footnote. Keep it marked „– a ford.”, or drop it? My pick: keep, marked.
+- **A7** · **ch3, the Ṭā'if prayer** · „Tiéd a jog a dorgálásra, míg elégedett nem leszel” — the
+  Arabic transcription reads «لك العتبى عندى خير ما استطعت», not the well-known «لك العتبى حتى
+  ترضى». I'll check the scan and translate what it says (no decision needed unless you
+  want a say).
 
-- [ ] HUN264 "a Teremtő azért rendelte így, hogy gyógyírt adjon…" loses AR «فإن الزمن جزء من علاج النفوس وسياسة الأمم وتقرير الأحكام» (time itself is part of the cure). HUN300 "ezt a tényt soha nem szabad megszűnni a hitetlenek tudatába vésni" ← «مناجزة الكافرين على هذه الحقيقة لا يجوز أن تهدأ» (the contest with the disbelievers over this must not subside). HUN160 "barlanggá" ← «مذأبة» wolf-den. HUN162 "Nem lenne meglepő, ha Allah megtagadná…" ← «لا غرابة إذا رفع الله يده عنها» (no wonder He withdrew His hand — past fact). HUN262 "őserdőket" ← الجدوب barren lands. HUN284 "szükségességét" addition.
-- [ ] HUN434 "zsebkendőt vásárol, de nincs rendes inge" ← «يشترى منديلاً ويخرج عاريًا» walks out naked (author's image). HUN436 "Hosszas okoskodás után" ← «بعد طول تطواف» after long wandering (through the store); "fogkefével" ← siwāk (book elsewhere: fogtisztító ágacska (miswāk)). HUN390 Q12:3 quoted in full + brackets; AR has only the phrase «نحن نقص عليك أحسن القصص». HUN396 "Quraza ibn Ka'b"/"Āmir al Sha'bī" → Qaraẓah, 'Āmir. HUN474 "Umm Salit" → Umm Salīṭ. HUN448/476 "Uhud" → Uḥud.
-- [ ] fn4 "„'Abdullāh ibn Yasārtól"" ← «والصواب: عن جابر عن عبدالله بن يسار» (from Jābir, from…); fn12/13 "A muszlim eszmevilága" ← «عقيدة المسلم» ('Aqīdat al-Muslim; fn13 + «مبحث النبوات»); fn6 omits Abū Dāwūd; fn9 omits al-Ḥāfiẓ's strengthening; fn10 abbreviated.
-- [ ] HUN598 Ṣalāh "képtelenséggé válik" ← «نقرًا سخيفًا» silly pecking; HUN494 "de a lángelme nem prófétaság" ← «شأن دون النبوة» below prophethood; HUN520 "egy másik pedig ismerte a láthatatlant" drops «واتخذ عند الرحمن عهدًا»; HUN522 "alapjai vagy tartógerendái" ← «أساسًا ولا طلاء» (neither foundation nor coating); HUN548 "Szégyen a mai muszlimokra" ← «يا ويل» woe; HUN530 "„Éljen Hubal!"" ← «اعلُ هبل» (Magasztaltassék Hubal); HUN618 "elhanyagoltak… zsúfoltak" ← «لاهية… لاغية».
+### B. Fidelity fixes — I'd apply all of these
 
-**Ch2**
+„current” → „proposed” — the Arabic. *(törölni)* = delete.
 
-- [ ] HUN727 "valószínűleg" (AR assertive «أعانه عليها ملك كريم!»); HUN689 couplet "miatt" → "ellenére" (على عض الزمان); HUN867 "az utca emberei" ← «أمىّ» (an illiterate man — echoes the ummī Prophet); HUN809 "arcán és hátán" ← «وبين كتفيه».
 
-**Ch3**
+**Előszó**
 
-- [ ] HUN1280 "Évekig" ← «عشرة أعوام» (ten years); HUN1138 "felmentést" ← «الإعذار»; HUN1140 "vezesse az embereket" ← «وليواجه الناس»; HUN1220 "megszakította a kapcsolatot népével" ← «فاصل قومه على دعوته» (made his call the criterion); HUN1282 "az újságok" ← «الصحافة المعارضة» opposition press, "a köztük belé vetett bizalmat" garbled; HUN1304 "átkokat kiáltott" ← «أغلظت القول»; HUN1320 "csak annál nagyobb erővel" addition; "Egy, Egy" ← Aḥad, Aḥad; HUN1332 "a Szentséges Mecsetben" addition, drops «وهو ساجد»; HUN1371 "ha hazatérne és otthon maradna" ← «أن يرتد إلى مكانته لا يعدوها» (know his place); HUN1391 couplet "le nem pecsételnek" ← «أوسد».
-- [ ] HUN1399 author's (!)/(؟!) dropped; HUN1407 Q53:23 end "Pedig immár eljött…" not in AR; HUN1461 "és 'Āmir elment valamiért" not in AR; HUN1457 "védencét" ← «مولاه» kinsman; "vasfogódzót" ← al-'urwa al-wuthqā; HUN1589 "a tevéjének a gyomrát" ← «سلا جزور» the afterbirth/membranes; HUN1441 "a Szűz Máriába lehelt" ← «ألقاها إلى مريم العذراء البتول»; HUN1443 "Menjetek békében" ← «فأنتم آمنون»; HUN1571 "ó, Isten" ← «اللهم».
-- [ ] HUN1599 "A kertészek" ← «وكان أصحاب البستان فيه» (the owners — Rabī'ah's sons); feet («فى أقدامه») and «صفين» (two rows) dropped; "kudarcok" ← «المآسى». HUN1601 du'ā': "Tiéd a jog a dorgálásra, míg elégedett nem leszel" (not in AR transcription — check scan; al-'utbā = seeking Your pleasure); "a Te kegyelmed" ← «عافيتك». HUN1665 burāq "a legtávolabbi végpontig" ← «عند أقصى طرفه» (as far as its eye could see). HUN1729 drops «ومنع الزلازل من تصعيده». HUN1767 drops «ولا ندرى كيف يقال هذا؟». HUN1775 "Banu al Naḍr" ← AR «بنو النضير». Abbreviated al-Albānī fns: fn2, fn6, fn12, fn13, fn15, fn16, fn17 (book title «نصب المجانيق لنسف قصة الغرانيق» dropped).
+1. „hiszek Allahban (ﷻ), a Magasztosban, a Világok Urában” → „hiszek Allahban (ﷻ), a Világok Urában” — «آمنت بالله رب العالمين» — no „Magasztos” in the Arabic
+2. „e nagy személyiségek és ismerőik között” → „e nagy személyiségek és azok között, akik megismerik őket” — «ومن يتعرف عليهم»
+3. „a muszlim elmaradottság jelenetei” → „a muszlimok érzelmi és értelmi elmaradottságának jelenetei” — «التخلف العاطفى والعقلى» — dropped
 
-**Ch4**
+**ch1**
 
-- [ ] HUN1942 "macskaként osonva" ← «تسلل القطا» (like sandgrouse; ENG "cats"). HUN1874 "E háborúk eredménye jól ismert" ← «معروفة الأسباب» (causes). HUN1884 "Némelyikük nem riad vissza a ravaszságtól" ← AR general «ولا يبالون بأساليب الختل والمكر». HUN1906 "yathribi hadjáratának" ← «الدعاية» (propagation). HUN2002 "A huszadik században" ← «وفى عصرنا هذا»; HUN2004 drops «فهاموا على وجوههم فى الأرض» (became wandering refugees). HUN2034 "megmutatta nekik, hol tartja vagyonát" not in AR. HUN2046 "két hegy között" ← «بين لابتين» (two lava fields); "— legyen Allah elégedett vele —" (write as honorific). HUN1978 drops «فسر وجه النبى ﷺ بسؤال الأعرابى». HUN1860 Q2:89 drops «فلعنة الله على الكافرين».
-- [ ] HUN2216 ḥadīth "mert aki elhagyja, annak helyébe olyan lép" ← «ولا يدعها رغبة عنها إلا أبدل الله فيها من هو خير منه» (and none leaves it out of aversion but Allah replaces him with someone better). HUN2084 author's (!) after «وهو مشرك» dropped. HUN2176 "egy dombra" ← «على أطم» (a fortified tower). HUN2200 "megalázottnak" ← «يستكين». fn6 heavily abbreviated (Shahr ibn Ḥawshab weakness; al-Mundhirī; Ibn 'Umar witness in al-Ḥākim). fn12 drops Ṭabarānī witness.
+4. „a Teremtő azért rendelte így, hogy gyógyírt adjon a beteg lelkeknek, hogy törvényeit (ﷻ) az emberek szívébe és lelkébe plántálja, és hogy új társadalmi rendet építsen” → „a bölcs Törvényhozó szándékosan rendelte így, mert az idő maga is része a lelkek gyógyításának, a nemzetek kormányzásának és a törvények megszilárdításának” — «فإن الزمن جزء من علاج النفوس وسياسة الأمم وتقرير الأحكام» — time itself is part of the cure
+5. „ezt a tényt soha nem szabad megszűnni a hitetlenek tudatába vésni” → „a hitetlenekkel e valóság körül folytatott küzdelem soha nem csillapodhat” — «مناجزة الكافرين على هذه الحقيقة لا يجوز أن تهدأ»
+6. „gyilkosság és pusztítás által kísértett barlanggá vált” → „farkasok tanyájává vált, ahol öldöklés és orgyilkosság uralkodott” — «مذأبة يسودها الفتك والاغتيال» — a wolves' den
+7. „Nem lenne meglepő, ha Allah (ﷻ) megtagadná tőlük a segítséget” → „Nem csoda, hogy Allah (ﷻ) megvonta tőlük a kezét” — «لا غرابة إذا رفع الله يده عنها» — a past fact, not a supposition
+8. „a sivatagokat és az őserdőket, a hegyeket és a síkságokat” → „a pusztákat és a kopár vidékeket, a völgyeket és a fennsíkokat” — «السهوب والجدوب… الوهاد والنجاد» — no jungles
+9. „zsebkendőt vásárol, de nincs rendes inge” → „zsebkendőt vásárol, és meztelenül távozik” — «يشترى منديلاً ويخرج عاريًا» — the author's image
+10. „Hosszas okoskodás után fogkefével” → „Hosszas bolyongás után miszvákkal (fogtisztító ágacskával)” — «بعد طول تطواف… سواك»
+11. „(Mi a történetek legszebbikét beszéljük el neked [Mohamed] e Korán kinyilatkoztatása által. És ezelőtt [az isteni Kinyilatkoztatás eljövetele előtt] bizony azok közé tartoztál, akik semmit sem tudtak róla [a Koránról].)” → „(Mi a történetek legszebbikét beszéljük el neked…)” — Ibn Mas'ūd only says «نحن نقص عليك أحسن القصص»
+12. „Kuraza” → „Karaza” — «قرظة بن كعب» (2×)
+13. „Eredetileg így kellene lennie: „Abdullah ibn Jaszártól”. Ez a Dzsábir al-Dzsafi” → „Helyesen: „Dzsábirtól, Abdullah ibn Jaszártól”. Ez a Dzsábir al-Dzsufi” — fn5: «والصواب: عن جابر عن عبدالله بن يسار… الجعفى»
+14. „¹⁴ Lásd *Akídat al-Muszlim* (A muszlim hitvallása) című könyvemet.” → „¹⁴ Lásd *Akídat al-Muszlim* (A muszlim hitvallása) című könyvem prófétaságról szóló fejezetét.” — «مبحث النبوات» — dropped
+15. „és képtelenséggé válik” → „és ostoba csipegetéssé válik” — «نقرًا سخيفًا» — prayer turned into pecking
+16. „de a lángelme nem prófétaság” → „de a lángelme a prófétaságnál alacsonyabb rendű” — «شأن دون النبوة»
+17. „egy másik pedig ismerte a láthatatlant!” → „egy másik pedig belelátott a láthatatlanba, és szövetséget kötött a Könyörületessel!” — «اطلع الغيب واتخذ عند الرحمن عهدًا» (Qur'ān 19:78) — half dropped
+18. „alapjai vagy tartógerendái” → „sem alapjai, sem vakolata” — «أساسًا ولا طلاء»
+19. „Szégyen a mai muszlimokra, hogy csodákat várnak” → „Jaj a mai muszlimoknak, akik a csodák mellett kardoskodnak” — «يا ويل مسلمى اليوم من انتصارهم لخوارق العادات»
+20. „mecseteitek elhanyagoltak, piacaitok zsúfoltak” → „mecseteitek csak szórakoznak, piacaitokat üres fecsegés tölti be” — «مساجدكم لاهية، وأسواقكم لاغية»
 
-**Ch5**
+**ch2**
 
-- [ ] HUN2313 "magvető fák" ← «شجر غرقد» (gharqad/boxthorn); HUN2301 "földjeiket… célpontjává" ← «وأهدفوا أعناقهم» (their necks); "megvetendő teremtmények" ← «حيوان ذميم» (animal); HUN2327 sermon drops «ثم ينظر قدّامه» and «عليكم» in the salām; HUN2341 "különféle ékességeket viselve" ← «وبه أثر صفرة» (a trace of yellow [saffron]; author glosses زينة); HUN2445 "jámbor szentek" ← «الربانيين الأتقياء»; HUN2463 "gongot" ← «الناقوس» (the Christians' clapper).
-- [ ] HUN2567 "izzó vasakkal" ← «بالسياط الكاوية» (searing whips), drops "great deed"; HUN2641 "amely rendesen csak álom" ← «الذى يعشق عادة»; HUN2663 "szívünk gyászba borult" ← «حتى أنكرنا قلوبنا» (we no longer recognised our hearts); HUN2659 "nem engedi eltévelyedni erényes támogatóit" ← «ولا أصحابه الأبرار» (nor waste its righteous holders); fn3 dhirā' gloss is the English translator's.
+21. „valószínűleg” → *(törölni)* — «إنها تسمية أعانه عليها ملك كريم!» — the author asserts it
 
-**Ch6**
+**ch3**
 
-- [ ] HUN2959 "igenlően beszélt" ← «فقال وأحسن» (spoke well). HUN2967 "Fogadd el, akit akarsz…" ← «فَصِلْ حبال من شئت واقطع…» (make/cut ties). HUN2969 drops «وأشرق وجهه». HUN2991 "ígéretét (ﷻ)" honorific after a noun; HUN2965 "Arra (ﷻ), aki…". HUN2999 Abū Ṭālib couplet inline (should be italic verse). HUN3001 spurious "ezért". HUN3035 "megdöbbentette őket" not in AR. HUN3041 "a téveszme köteléke" ← «غشاوة» (veil); "kétségbeesés kiáltásai" ← «صيحات الطيش» (reckless cries). HUN3067 "Ráugrott" ← «فجثم على صدره» (knelt on his chest). HUN3085 "Allahról vitázik vele" ← «يخاصمه فى ذات الله» (opposes him for Allah's sake). HUN3087/3093/3097 "gödör" for القليب (the old WELL) → kút ("Ó, kút népe!"). HUN3093 "Milyen hitvány rokonai voltatok Prófétátoknak, egy próféta rokonaiként!" (awkward duplication).
-- [ ] HUN3135 "az állhatatos hívőknek" ← «المؤمنين الكبار» (the leading believers — the next para is about elites as models). HUN3137 "fejezetet" ← السورة (the sūrah). HUN3155 "félelmetes végzet" ← «عذاب عظيم» (a great punishment). HUN3157 "gúnyolásában" ← «إيذاء» (harming). HUN3165 "civilizáció" ← «الحياة» (life) (ENG). HUN3175 "nyíltan iszlám-hitűnek vallotta magát" ← «ظاهرًا» (outwardly). HUN3227 "mindenható vágyaik" ← «شهواتهم الغالبة» (avoid 'almighty'). HUN3233 drops that Ka'b INCITED them to revenge («ويحرضهم»). HUN3245 „bizonyára elegetek van belőle" ← «لتملنه» (you WILL tire of him). HUN3275 "nem volt ház" ← «حصن» (fort). HUN3281 "fejét nem éri víz" ← «ماء من جنابة» (ghusl water, i.e. abstaining from intercourse). HUN3323 "a körös-körül elterülő mezőkön" ← «زروعها» (Medina's crops). HUN3349 "hogy igazságot tegyen vele" ← «بحقه» (give it its due).
-- [ ] HUN3389 "Vérezve a földre zuhant" not in AR («فأثقله وتفجر منه الدم»). HUN3391 drops «ووقف طلحة بن عبيد الله، وسهل بن حنيف، إلى جوار الرسول». HUN3409 "míg bírta" ← «حتى أجهضهم عنه» (until he drove them off); "Abū Dujānah hátával fedezte őt" — őt = the Prophet (ambiguous). HUN3385 drops «ولو رأوا الجيش تتخطفه الطير». HUN3421 "Beérték hát azzal a nyereséggel" ← idiom «فاكتفت مما ظفرت به الإياب» (content with merely getting home).
-- [ ] HUN3429 "a hegyhez lépett" ← «أشرف على الجبل» (looked down from the mountain); „Megkaptam jutalmamat" ← «أنعمت» (≈ "Well done!/It went well"). HUN3451 "rosszakarat" ← «استهانة» (disregard). HUN3459 „Kövessetek minket" ← «الحق بنا» (sg.). HUN3491 "a legjobb állásokba" ← «إلى الخير». HUN3501 "sohasem áporodik meg" ← «لا يحول» (never changes); "az igazak közül valókká" ← «الراشدين» (rightly guided). HUN3529 double (ﷺ) "Küldötteként (ﷺ)". HUN3479–3483 dialogue split mid-sentence. "Na'im ibn Mālik" → Nu'aym (fn49 gives al-Nu'mān).
-- [ ] HUN3547 drops «وقد استخفها النصر» (elated by victory). HUN3575 "Allah elhagyta Prófétáját" ← «خذلان السماء للنبى» (heaven's forsaking — heaven convention: ég). HUN3589 "vagy oltalma alatt éltek" ← «أو داهنه» (or dealt hypocritically with it). HUN3591 "elhordta javaikat" ← «واستياق نعمهم» (livestock). HUN3605 "keresztre feszítsék" ← «ليصلبوه» (Christian overtone; "fára feszítsék"?). HUN3659 "ennek rögtön véget vetett" (added). HUN3685 drops the herdsmen and «أما أهل الدومة ففروا فى كل وجه…». HUN3711 "rákos fekéllyé vált" ← «مسير الوباء الفاتك» (like a deadly epidemic). HUN3713 "könnyekre fakasztották" ← «يندى لها جبين» (made brows sweat with shame).
-- [ ] HUN3809 "Yathrib biztonságos magaslataira" ← «الآطام الحصينة» (fortified towers). HUN3811 "a Próféta és emberei hajtották végre" ← «وتقدم النبى رجاله» (the Prophet went ahead of his men); "segített az ásásban" understates. HUN3715 "megbánás" ← «الغم». HUN3807 "irigyelte" ← «الناقمة» (resentful).
-- [ ] HUN3951/3959 „Nincs ellened panaszunk" ← «لست عندنا بمتهم» (you are not suspected by us). HUN3973 "Medina falai mögül" ← «من وراء أسواد المدينة» (Medina had no walls). HUN3977 "a saját ujját" not in AR text. HUN3979 "törökülésben" ← «جاث» (kneeling). HUN3987 "rácsapott" not in AR. HUN4001 drops «فلا شىء بعده». HUN4035 "átkát" ← «نقمته» (His retribution). HUN4055 conditional "Ha a teljes igazságosság érvényesülhetett, akkor…" ← «وتمحض الموقف للعدل المجرد» (the matter became one of bare justice). HUN4083 "A huszadik században" ← «وفى عصرنا هذا» (ENG). HUN4101 "és nővéreink" added. HUN4111 "ösztönös gyűlöletre" ← «النقمة الدفينة» (hidden rancour). HUN3927 Q8:55 "a hálátlanok" ← «الذين كفروا» (Pickthall).
+22. „hadd vezesse az embereket” → „hadd álljon ki az emberek elé” — «وليواجه الناس»
+23. „átkokat kiáltott Abu Dzsahlra” → „keményen beszélt Abu Dzsahllal” — «أغلظت القول لأبى جهل»
+24. „csak annál nagyobb erővel mondta tovább” → „csak ezt mondta” — no „greater force” in the Arabic
+25. „Miközben a Szentséges Mecsetben imádkozott, egy teve beleit vagy egy juh méhét dobták rá” → „Imádkozás közben, amikor leborult, egy levágott teve bendőjét vagy egy levágott juh méhét dobták rá” — «فى صلاته يرمى عليه ـ وهو ساجد ـ بكرش الجزور، أو رحم الشاة المذبوحة» — no „Sacred Mosque”; „prostrating” dropped
+26. „míg engem a földbe nem temetnek és le nem pecsételnek” → „míg engem el nem temetnek, porba fektetve” — «حتى أوسد فى التراب دفينا»; also set the couplet as verse lines
+27. „Pedig immár eljött hozzájuk az útmutatás Uruktól.” → *(törölni)* — Q53:23 ending not quoted in the Arabic
+28. „és Ámir elment valamiért, amikor” → „amikor” — not in the Arabic
+29. „annak a férfinak a válasza volt, aki nem hagyta, hogy védencét sértegessék” → „annak a férfinak a büszkesége volt, aki nem tűrte, hogy rokonát megalázzák” — «أنفة رجل ألا يهان مولاه»
+30. „vasfogódzót” → „legszilárdabb fogódzót” — al-'urwa al-wuthqā (Qur'ān 2:256)
+31. „a tevéjének a gyomrát” → „egy levágott teve magzatburkát” — «سلا جزور»
+32. „a Szűz Máriába lehelt” → „a szűz, tiszta Máriára bocsátott” — «ألقاها إلى مريم العذراء البتول»
+33. „A kertészek” → „A kert tulajdonosai” — «وكان أصحاب البستان فيه» (Rabía's sons)
+34. „hogy kővel dobálják meg” → „akik két sorba állva kővel dobálták” — «فوقفوا له صفين يرمونه بالحجارة» — the two rows dropped
+35. „Maga a Próféta (ﷺ) olyan súlyos sérüléseket szenvedett” → „Maga a Próféta (ﷺ) a lábán szenvedett olyan súlyos sérüléseket” — «فى أقدامه» — dropped
+36. „kudarcok” → „tragédiák” — «المآسى»
+37. „a Te kegyelmed” → „a Te oltalmad” — «عافيتك»
+38. „a legtávolabbi végpontig” → „ameddig a szeme ellát” — «عند أقصى طرفه» — the Burāq's stride
+39. „akit az előtte járók által megkezdett építmény befejezésére küldtek” → „akit arra küldtek, hogy befejezze az előtte járók által gondozott építményt, és megóvja a megrendüléstől” — «لتكملة البناء… ومنع الزلازل من تصعيده» — second half dropped
+40. „Banú al-Nadr” → „Banú al-Nadír” — «بنو النضير»
 
-**Ch7**
+**ch4**
 
-- [ ] HUN4333 "Allahot dicsőítve énekeltek" ← «ملبين» (reciting the talbiyah); "Khālid… vezette őket" ← «يقود خيله» (led its cavalry). HUN4343 „a jó viszonyt keresi" ← «صلة الرحم» (kinship ties). HUN4361 "aḥābīsh (zsoldosok)" — they were allied clans, not mercenaries (ENG gloss). HUN4367 „Nincs ellened panaszunk" ← «ما أنت عندنا بمتهم». HUN4369 "az emberek tömegeit" ← «أوشاب الناس» (a rabble). HUN4407 "és azt, hogy nem futamodnak meg" ← «أو على ألا يفروا» (OR — two reports). HUN4461 "szemük megtelt könnyel" ← «وزاغت نظراتهم» (their gaze was dazed). HUN4325 "gyalázásában" ← «إيذاء» (harming). "Makraz" → Mikraz; "Abū Qahāfah" → Quḥāfah; "Musayyab" → Musayyib; "'Asafān" → 'Usfān.
-- [ ] HUN4613 "büntetésük pedig Allahra (ﷻ) marad" ← «وحسابهم على الله» (their reckoning). HUN4615 "amelyet felfuvalkodottá tesz a gőg" ← «التى تتكبر مع الحرية» (arrogant with freedom). HUN4673 "magukra lehetett hagyni" ← «يسيرون عزلا» (go about UNARMED). HUN4705–4707 dialogue split. "Marhab" → Marḥab; "Al Niṭāh" → al-Naṭāh; "Huyayy" → Ḥuyayy; "Hashraj" → Ḥashraj; HUN4607 "a Próféta" without (ﷺ).
-- [ ] HUN4753 "amelyet… veresége idézett elő" ← (one more blow of fate after his defeat); "takaróra takaró" added. HUN4837 "pej" ← «شقراء» (sorrel). HUN4869 "hogyan tanították őket anyáik" ← «يدللن» (pampered).
-- [ ] HUN5437 "Nem hazugság, hogy…" ← «ولا مراء فى أن» (there is no doubt that). HUN5425 "Tűzifát vittek" ← «الشعل الحارقة» (burning torches). HUN5423 "megáldaná" added. HUN5617 "pap" ← «أسقف» (bishop).
+41. „jathribi hadjáratának” → „jathribi terjedésének” — «الدعاية» — spreading, not a campaign
+42. „hitetlenkednek benne.) (Korán 2: 89)” → „hitetlenkednek benne. Allah átka legyen hát a hitetleneken!) (Korán 2: 89)” — «فلعنة الله على الكافرين» — verse end dropped
+43. „E háborúk eredménye jól ismert” → „E háborúk okai jól ismertek” — «معروفة الأسباب»
+44. „Némelyikük nem riad vissza a ravaszságtól” → „Nem riadnak vissza a csalárdságtól és a cselvetéstől” — «ولا يبالون بأساليب الختل والمكر» — general, no „some of them” (no softening)
+45. „Egymillió arab semmi egyet nem tehetett, szűk körökbe zárva némelyek áruló tettei miatt.” → „Egymillió arab, akiket az árulások szűk csapdába zártak, semmit sem tehetett, és földönfutókká váltak.” — «حصرتهم الخيانات… فهاموا على وجوههم فى الأرض» — no „some”; the flight dropped
+46. „A huszadik században” → „Korunkban” — «وفى عصرنا هذا» (also in ch6)
+47. „megmutatta nekik, hol tartja vagyonát” → *(törölni)* — not in the Arabic
+48. „két hegy között” → „a két lávamező között” — «بين لابتين»
+49. „– legyen Allah elégedett vele –” → „(رضي الله عنه)” — write the honorific as everywhere else
+50. „mert aki elhagyja, annak helyébe olyan lép, aki jobb nála” → „és senki sem hagyja el, mert elfordul tőle, hogy Allah (ﷻ) ne adna helyette nála jobbat” — «ولا يدعها رغبة عنها إلا أبدل الله فيها من هو خير منه»
+51. „azután megkönnyebbültnek és megalázottnak érzik magukat” → „azután megnyugszanak és elcsendesednek” — «يسكن بعدها ويستكين»
 
-**Ch8**
+**ch5**
 
-- [ ] HUN5905 "Az adók a gazdagsághoz igazodnak" ← «فالغرْم على قدر الغُنْم» (liability matches gain). HUN5933 "Minden hívőnek joga van élvezni feleségei társaságát" ← «أن يستمتع بأربع نسوة» (four wives). HUN6055 "lova mellett" ← «تحت راحلته» (his mount). HUN6015 "végleg elvált" ← «جملة» (all at once).
+52. „és földjeiket az összes arab célpontjává tették” → „és nyakukat célponttá tették közel és távol mindenki számára” — «وأهدفوا أعناقهم للقاصى والدانى»
+53. „megvetendő teremtmények” → „megvetendő állat” — «حيوان ذميم»
+54. „különféle ékességeket viselve” → „sárga (sáfrány)nyommal a ruháján” — «وبه أثر صفرة»
+55. „jámbor szentek” → „az Úrnak szentelt, istenfélő emberek” — «الربانيين الأتقياء»
+56. „izzó vasakkal” → „égető korbácsokkal” — «بالسياط الكاوية»
+57. „és amely rendesen csak álom” → „és amelyet az emberek rendszerint rajongva szeretnek” — «من الكمال الذى يعشق عادة»
+58. „Allah (ﷻ) nem hagyja kárba veszni ezt a szilárd meggyőződést, és nem engedi eltévelyedni erényes támogatóit” → „Urad nem hagyja kárba veszni ezt a szilárd meggyőződést, sem jámbor hordozóit” — «وما كان ربك ليضيع هذا اليقين ولا أصحابه الأبرار»
+59. „szívünk gyászba borult” → „a saját szívünkre sem ismertünk rá” — «حتى أنكرنا قلوبنا»
 
-**Utószó**
+**ch6**
 
-- [ ] minor: "sohasem emelt volna kést, és beérte volna a nyelv használatával a kard helyett"/"lifted a knife … tongue instead of the sword" ← «ما أثقل عاتقه برمح، ولاكتفى من السنان باللسان» → "sohasem terhelte volna vállát lándzsával, és beérte volna a nyelvvel a lándzsahegy helyett" / "would never have burdened its shoulder with a spear, and would have been content with the tongue in place of the spearhead".
+60. „igenlően beszélt” → „szólt, és szépen szólt” — «فقال وأحسن»
+61. „Fogadd el, akit akarsz” → „Kösd a köteleket, akivel akarod, és vágd el, akivel akarod” — «فَصِلْ حبال من شئت واقطع حبال من شئت»
+62. „Ő bizonnyal teljesíti neked tett ígéretét (ﷻ).” → „Ő (ﷻ) bizonnyal teljesíti neked tett ígéretét.” — honorific after a noun
+63. „megdöbbentette őket” → *(törölni)* — not in the Arabic
+64. „kétségbeesés kiáltásai” → „meggondolatlan kiáltások” — «صيحات الطيش»
+65. „Ráugrott hát” → „Rátérdelt hát a mellkasára” — «فجثم على صدره»
+66. „Allahról (ﷻ) vitázik vele” → „Allahért (ﷻ) száll szembe vele” — «يخاصمه فى ذات الله»
+67. „gödör” → „kút” — القليب — the old well („Ó, kút népe!”), 3×
+68. „azt a fejezetet, amely a badri harcról beszél” → „azt a szúrát, amely a badri harcról beszél” — السورة (al-Anfāl)
+69. „az állhatatos hívőknek” → „a vezető hívőknek” — «المؤمنين الكبار»
+70. „félelmetes végzet” → „nagy büntetés” — «عذاب عظيم»
+71. „gúnyolásában” → „bántalmazásában” — «إيذاء»
+72. „civilizáció” → „élet” — «الحياة»
+73. „nyíltan iszlám-hitűnek vallotta magát” → „látszólag felvette az iszlámot” — «ظاهرًا»
+74. „mindenható vágyaik” → „mindent legyűrő vágyaik” — «شهواتهم الغالبة»
+75. „bizonyára elegetek van belőle” → „bizony, még torkig lesztek vele” — «لتملنه» — future
+76. „nem volt ház” → „nem volt erőd” — «حصن»
+77. „megesküdött, hogy fejét nem éri víz” → „megfogadta, hogy fejét nem éri a dzsanába (nemi tisztátalanság) utáni mosdás vize” — «نذر ألا يمس رأسه ماء من جنابة»
+78. „a körös-körül elterülő mezőkön” → „Medina vetésein” — «زروعها»
+79. „hogy igazságot tegyen vele” → „hogy megadja neki, ami jár” — «بحقه» (and „igazságot teszek vele” → „megadom neki, ami jár”)
+80. „Vérezve a földre zuhant” → „Súlyosan megsebesült, és ömlött belőle a vér” — «فأثقله وتفجر منه الدم» — no fall
+81. „míg bírta” → „amíg el nem űzte őket tőle” — «حتى أجهضهم عنه»
+82. „Abu Dudzsána hátával fedezte őt” → „Abu Dudzsána a hátával fedezte a Prófétát (ﷺ)” — „őt” read as Talha
+83. „hogy maradjanak helyükön a hátvéd védelmére” → „hogy maradjanak helyükön a hátvéd védelmére – még ha azt látnák is, hogy a sereget a madarak ragadják el –” — «ولو رأوا الجيش تتخطفه الطير» — dropped
+84. „Beérték hát azzal a nyereséggel” → „Beérték azzal a nyereséggel, hogy épen hazatérhettek” — «فاكتفت مما ظفرت به الإياب»
+85. „a hegyhez lépett” → „fellépett a hegy peremére” — «أشرف على الجبل»
+86. „Megkaptam jutalmamat” → „Jól sikerült” — «أنعمت»
+87. „társait a legjobb állásokba irányítva” → „társait a jóra irányítva” — «إلى الخير»
+88. „rosszakarat” → „semmibevétel” — «استهانة»
+89. „Kövessetek minket” → „Kövess minket” — «الحق بنا» — singular
+90. „sohasem áporodik meg” → „sohasem változik” — «لا يحول»
+91. „az igazak közül valókká” → „az igaz úton járók közül valókká” — «الراشدين»
+92. „vagy oltalma alatt éltek” → „vagy képmutatóan behódoltak neki” — «أو داهنه»
+93. „elhordta javaikat” → „elhajtotta jószágaikat” — «واستياق نعمهم»
+94. „ennek rögtön véget vetett” → *(törölni)* — not in the Arabic
+95. „rákos fekéllyé vált” → „terjedt, mint egy halálos járvány” — «مسير الوباء الفاتك»
+96. „könnyekre fakasztották” → „a szégyentől verejték üt ki tőlük a homlokon” — «يندى لها جبين»
+97. „a Próféta (ﷺ) és emberei hajtották végre és tökéletesítették. Ő maga is segített az ásásban” → „a Próféta (ﷺ) pedig emberei élén látott hozzá, hogy tökéletesen végrehajtsák: saját kezével ásott” — «وتقدم النبى رجاله لإحكامها وإنجازها، فأخذ يحفر بيده»
+98. „megbánás” → „bánat” — «الغم»
+99. „irigyelte” → „neheztelt rá” — «الناقمة»
+100. „Nincs ellened panaszunk” → „Nem gyanakszunk rád” — «لست عندنا بمتهم» (also ch7)
+101. „Medina falai mögül” → „Medina házai és pálmaligetei mögül” — «من وراء أسواد المدينة» — Medina had no walls
+102. „a saját ujját” → *(törölni)* — not in the Arabic
+103. „törökülésben” → „térdelve” — «جاث»
+104. „rácsapott” → *(törölni)* — not in the Arabic
+105. „átkát” → „megtorlását” — «نقمته»
+106. „Ha a teljes igazságosság érvényesülhetett, akkor” → „A helyzet így a puszta igazságszolgáltatás ügyévé vált, és” — «وتمحض الموقف للعدل المجرد»
+107. „Testvéreink és nővéreink ezreit” → „Testvéreink ezreit” — „és nővéreink” not in the Arabic
+108. „ösztönös gyűlöletre” → „rejtett gyűlöletre” — «النقمة الدفينة»
+109. „a hálátlanok” → „akik hitetlenek” — «الذين كفروا» (Qur'ān 8:55)
 
-**Back matter**
+**ch7**
 
-- [ ] HUN *Zakāt al fitr* "mielőtt az Ídi imára menne" (ENG "Idd prayer") → "mielőtt az ünnepi ('Īd) imára menne".
-- [ ] HUN *Mudhammam* "a gáncsolást jelentő ellentéte" → "A Mohamed (»a dicsért«) név ellentéte: »a gyalázott«" (cf. HUN1083 fn "a megvetendőt").
+110. „Allahot (ﷻ) dicsőítve énekeltek” → „a talbiját mondták” — «ملبين»
+111. „Khálid ibn al-Valíd vezette őket” → „lovasságukat Khálid ibn al-Valíd vezette” — «يقود خيله خالد بن الوليد»
+112. „a jó viszonyt keresi” → „a rokoni kötelékek ápolását keresi” — «صلة الرحم»
+113. „az emberek tömegeit” → „mindenféle népséget” — «أوشاب الناس»
+114. „és azt, hogy nem futamodnak meg” → „vagy – más közlés szerint – arra, hogy nem futamodnak meg” — «أو على ألا يفروا» — two reports
+115. „szemük megtelt könnyel” → „tekintetük megzavarodott” — «وزاغت نظراتهم»
+116. „gyalázásában” → „bántalmazásában” — «إيذاء»
+117. „amelyet felfuvalkodottá tesz a gőg” → „amely a szabadságban elbizakodottá válik” — «التى تتكبر مع الحرية»
+118. „takaróra takaró” → *(törölni)* — not in the Arabic
+119. „sárga (sorrel) kancájáról” → „sárga kancájáról” — an English word left in the text
+120. „pap” → „püspök” — «أسقف»
+121. „Muszajjab” → „Muszajjib” — 1 of 5 spellings
+
+### C. Text the English edition dropped — to restore
+
+122. **ch3** · «ولا ندرى كيف يقال هذا؟» → „Nem is értjük, hogyan mondhatja ezt bárki.” (the second cranes discussion)
+123. **ch5** · «ثم ينظر قدّامه» and «عليكم» in the first Medina sermon → „majd maga elé néz”; the greeting „Békesség rátok”
+124. **ch6** · «وأشرق وجهه» after Sa'd's Badr speech → „és arca felragyogott”
+125. **ch6** · «ويحرضهم» — Kab ibn al-Asraf incited them to revenge → „és bosszúra uszította őket”
+126. **ch6** · «ووقف طلحة بن عبيد الله، وسهل بن حنيف، إلى جوار الرسول» (Uhud) → „Talha ibn Ubajdullah és Szahl ibn Hunajf a Próféta (ﷺ) oldalán állt.”
+127. **ch6** · the herdsmen and «أما أهل الدومة ففروا فى كل وجه» (Dúmat al-Dzsandal) → „…elhajtották jószágaikat és pásztoraikat. Dúma népe pedig szétszéledt minden irányba.”
+128. **ch6** · «فلا شىء بعده» → „…és utána nincs semmi”
+
+### D. Also, unless you say no
+
+- The author's (!) and (؟!) marks that the English dropped (a few places in ch3–4).
+- Al-Albānī's footnotes that the English shortened, translated in full from the Arabic:
+  ch1 (3), ch3 (7, incl. the book title «نصب المجانيق لنسف قصة الغرانيق»), ch4 (2).
+- Small formatting fixes on the way: Abu Tálib's couplet in ch6 set as verse, two dialogues
+  split mid-sentence (ch6, ch7), a missing (ﷺ) in ch7, a stray „ezért” in ch6.
+- Check against the Arabic: ch6 „Nuajm ibn …” in the text vs „al-Numán ibn Málik” in its
+  footnote.
