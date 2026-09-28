@@ -87,10 +87,16 @@ see the fidelity policy under Transcription conventions.)*
   typos ("United Sates", "Egyt") may be fixed silently in pass A. Where the **Arabic
   itself** errs (e.g. Sa'd ibn 'Ubādah "chief of the Aws", AR p.292), both files stay
   faithful to the Arabic **and get an inline bracketed translator's note** — ENG
-  `[… — translator's note]`, HUN `[… — a ford.]`. (This supersedes the original
+  `[… — translator's note]`, HUN `[… – a ford.]`. (This supersedes the original
   "faithful to the printed English text, typos included" rule.)
+  **No softening (user decision 2026-09-25):** render the Arabic as harsh/blunt as it
+  is — including the author's generalisations (e.g. about the Jews) and insults — even
+  where the author is wrong; it is not the translation's job to correct or tone down
+  the author. Qualifiers the English added ("some of", "among") are removed.
 - Diacritics preserved: Qur'ān, Ḥadīth, Madīnah, Āyāh, Ṣaḥābī…
-- Honorifics: (ﷺ) after the Prophet/Muhammad, (ﷻ) after Allah, (رضي الله عنه), (عليه السلام)
+- Honorifics: (ﷺ) after the Prophet/Muhammad, (ﷻ) after Allah, (رضي الله عنه), (عليه السلام).
+  (رضي الله عنه) only for Companions — never for enemies of Islam, nor for pre-Islamic
+  figures such as Zayd ibn 'Amr ibn Nufayl (removed 2026-09-25; the Arabic has none).
 - Qur'ān quotes: plain paragraph in parentheses + `(Qur'ān X: Y)` reference
 - Headings: `# Chapter N` + `# Title` (two lines), `##` for sections
 - Footnotes: Unicode superscript markers (¹ ² ³…) in text; texts collected in a
@@ -102,8 +108,18 @@ see the fidelity policy under Transcription conventions.)*
 
 - Same heading/honorific/footnote conventions as above
 - Qur'ān quotes: `(… szöveg …) (Korán X: Y)` — en-dash in verse ranges (pl. 10: 68–70)
-- Hungarian quotation marks: „…"
-- Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid
+- Hungarian quotation marks: „…” (typographic closing ” — switched from straight " on
+  2026-09-25); second level »…«, third level '…'
+- Dashes (2026-09-25): Hungarian norm — spaced en dash ( – ) as gondolatjel, unspaced
+  en dash in ranges; no em dashes in HUN
+- Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid,
+  **dzsáhilijja** (not italic; adjective "dzsáhilijja kori"; glossary *Dzsáhilijja*)
+- **Allah vs Isten (2026-09-25):** wherever the Arabic has الله it is **Allah** — also in
+  the mouths of pagans, Jews and Christians (they too swore by Allah: oaths «والله» →
+  „Allahra (ﷻ)”). "isten/Isten" only for إله (a god, "your god", «إله إبراهيم»).
+- **Pokol** (Jahannam) capitalised, like **Paradicsom** (derived adjectives lowercase)
+- **Names (2026-09-25, in progress):** no transliteration diacritics in HUN — names get
+  Hungarian forms decided by the user case by case (list: `review-wip/names.md`)
 - **Heaven/Paradise/afterlife (user decision 2026-07-25):** never *menny/mennyország*
   (too Christian-flavored — never seen in Hungarian Islamic usage). Map by the Arabic:
   السماء / the sky-heaven & "heavenly" adjectives → **ég / égi / egek** (neutral);

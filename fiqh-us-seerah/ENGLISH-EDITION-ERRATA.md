@@ -336,3 +336,12 @@ Zayd ibn Ḥārithah printed as «زيد بن ثابت» (ch3, AR p.75); «عم�
 al-Jarrāḥ (AR p.201, scan-verified); «عبدالله بن أوفى» for Ibn Abī Awfā; Abū Mūsā
 «ابن عمه» (the sources: his nephew); the Farewell Sermon's «دم ربيعة بن الحارث» (the
 ḥadīth: the blood of Rabī'ah's son — Rabī'ah outlived the Prophet).
+
+### E. Softenings by the English edition — removed (user decision 2026-09-25: no softening)
+- ch6 «هذه خلال اليهود» — ENG "the character traits of **some of** the Jews" → "of the Jews".
+- ch7 «فهم إلى اليوم دهاقين الربا فى العالم وهم قادة التبرج والعهر» — ENG "are **among** the
+  masters of usury… and **some** are the leaders…" → unqualified, as in the Arabic (the
+  author's own qualifier in the next sentence is kept).
+- ch6 «يابن مقطعة البظور» — ENG "son of the woman who circumcises girls" → "son of the woman
+  who cuts clitorises".
+- Epilogue «الصليبية» ×2 — ENG "Christianity" → "the Crusading power".
