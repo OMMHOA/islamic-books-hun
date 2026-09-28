@@ -2075,7 +2075,7 @@ The success of Islām in founding a homeland of its own in the middle of a deser
 
 In the twentieth century the Jews have been proud of themselves and have congratulated one another on being able to find a national homeland of their own after having lived for centuries in exile. We deny not the efforts made by the Jews to establish this state, nor the zeal of the immigrants who came from everywhere to live there and revive and develop the place. Nevertheless, how great is the difference between what the Jews have done in the twentieth century, or, to be more precise, what has been done for the Jews in the twentieth century and what was done by Islām and its children for themselves on the day they migrated to Yathrib, saving their *da'wah* and establishing their state.
 
-The Jews came at a time when the Arabs were divided and in a state of weakness and negligence, and they wove their plots in the field of Western politics which held bitter enmity towards Islām and the Muslims. All of a sudden, the entire world attacked Palestine with wealth, arms, women and cunning. One million Arabs could not do a single thing, confined as they were within tight circles because of the treacherous acts of some. They could find no help from the rest of the world as a result of the agreement concluded by the United Sates, the Soviet Union, Britain, France and… the Arab kings to desert those unfortunate Arabs. In this way a national homeland for the Jews came into existence. There was a campaign to solicit immigrants to it and assistance was given by political leaders and business tycoons in all parts of the globe.
+The Jews came at a time when the Arabs were divided and in a state of weakness and negligence, and they wove their plots in the field of Western politics which held bitter enmity towards Islām and the Muslims. All of a sudden, the entire world attacked Palestine with wealth, arms, women and cunning. One million Arabs could not do a single thing, confined as they were within tight circles because of the treacherous acts of some. They could find no help from the rest of the world as a result of the agreement concluded by the United States, the Soviet Union, Britain, France and… the Arab kings to desert those unfortunate Arabs. In this way a national homeland for the Jews came into existence. There was a campaign to solicit immigrants to it and assistance was given by political leaders and business tycoons in all parts of the globe.
 
 How can we compare this decadence with those personalities whose hearts were dedicated to Allāh (ﷻ) and whose ambitions were above wordly gains; who ignored their own peace and comfort and cared only for those higher ideals in a world teeming with the deaf and dumb. They tied their future to the future of the message which they embraced and whose chief proponent, they followed in his selflessness and hard struggle, who never tired of repeating:
 
@@ -6589,7 +6589,7 @@ You may think that you have studied the life of Muhammad (ﷺ) by following his 
 
 *'Issa*: Jesus (عليه السلام).
 
-*Jahilīyyah*: Ignorance. Non-Islamic state of affairs. The name given to the pre-Islamic era.
+*Jāhiliyyah*: Ignorance. Non-Islamic state of affairs. The name given to the pre-Islamic era.
 
 *Janābah*: The state of impurity. After sexual involvement and/or sexual discharge in a wet dream. A person in such a state should perform Ghusl (i.e. have a bath) or do Taymmum, if a bath is not possible.
 
@@ -6615,7 +6615,7 @@ You may think that you have studied the life of Muhammad (ﷺ) by following his 
 
 *Matn*: The actual text of the Ḥadīth.
 
-*Mir'āj*: The ascension of the last Prophet (ﷺ) to the heavens (by soul and body).
+*Mi'rāj*: The ascension of the last Prophet (ﷺ) to the heavens (by soul and body).
 
 *Miswāk*: A toothbrush made of Arāk-tree roots.
 

@@ -3,10 +3,11 @@
 
     python3 arpage.py PAGE [PAGE2 ...]
 """
+import pathlib
 import re
 import sys
 
-A = "/home/condoriano/hobby/islamic-books-hun/fiqh-us-seerah/FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md"
+A = pathlib.Path(__file__).resolve().parent.parent / "FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md"
 L = open(A, encoding="utf-8").read().split("\n")
 
 
