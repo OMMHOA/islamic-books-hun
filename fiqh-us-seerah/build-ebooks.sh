@@ -39,7 +39,7 @@ while i < len(lines):
         while j < len(lines) and lines[j].strip() == "":
             j += 1
         if j < len(lines) and lines[j].startswith("# "):
-            out.append(f"# {m.group(1)} — {lines[j][2:].strip()}")
+            out.append(f"# {m.group(1)} – {lines[j][2:].strip()}")
             i = j + 1
             continue
     out.append(lines[i]); i += 1
@@ -49,11 +49,11 @@ open(dst, "w", encoding="utf-8").write(text)
 EOF
 
 cat > "$TOOLS/meta.yaml" <<'EOF'
-title: "Fiqh-us-Seerah"
+title: "Fikh al-Szíra"
 subtitle: "Mohamed Próféta (ﷺ) életének megértése"
-author: "Muhammad al-Ghazali"
+author: "Muhammad al-Ghazáli"
 lang: hu
-rights: "Magyar fordítás az angol kiadás alapján (IIFSO, terjeszti: IIPH, átdolgozott 2. kiadás, 1420 AH / 1999). A hadíszokat Sejk Muhammad Naṣiruddīn Al-Albānī látta el megjegyzésekkel."
+rights: "Magyar fordítás az angol kiadás alapján (IIFSO, terjeszti: IIPH, átdolgozott 2. kiadás, 1420 AH / 1999), az arab eredetivel egybevetve; ahol a kettő eltér, a fordítás az arab eredetit követi. A hadíszokat Sejk Muhammad Násziruddín al-Albáni látta el megjegyzésekkel."
 EOF
 
 # 2. EPUB

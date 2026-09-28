@@ -16,9 +16,11 @@ below are relative to that directory.
 3. **Hungarian translation** — ✅ **full draft complete** in
    `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md` (2026-07-15): front matter +
    Chapters 1–9 + Epilogue ("# Utószó") + back matter ("# A könyvben használt jelek",
-   "# Átírási táblázat", "# Szójegyzék"). The Glossary has all 71 entries (headwords
-   kept in transliterated form as printed; only "Lāt and 'Uzza" → "Lāt és 'Uzza"
-   changed). Remaining work is now **review/proofreading only** (pass B), tracked in
+   "# A nevek átírásáról" — replaced the transliteration table 2026-09-28 —, "# Szójegyzék").
+   The Glossary has all 71 entries; since 2026-09-28 the headwords follow the Hungarian name
+   forms (the Arabic term where the text uses a Hungarian word: *Szaláh*, *Dzsanna*) and are
+   sorted in Hungarian alphabetical order. HUN title: **Fikh al-Szíra** (فقه السيرة by the
+   name rule). Remaining work is now **review/proofreading only** (pass B), tracked in
    `REVIEW-FLAGS.md`.
    Reused earlier drafts: sections 1.1–1.2, ch2 second half (Khadījah→Waraqah + footnotes),
    ch3 first third. (The ch3 draft's "no ¹⁵ by design" numbering turned out to be a
@@ -42,7 +44,7 @@ below are relative to that directory.
    HUN (done for all items verified so far: refs 2:115/48:24, enemy honorifics, Bubayl→
    Shuraḥbīl, seal→sea, Ḥulays, Aslam, Farwah, Sumayt, forger→tadlīs, dup sentence, etc.).
    Still open: pass-A checks against the *Arabic* (remaining transcription-quality
-   doubts), coinage sanity-checks, and optional full glossary re-alphabetization.
+   doubts) and coinage sanity-checks.
 
 ## Files
 
@@ -56,7 +58,7 @@ All in `fiqh-us-seerah/`:
 | `FiqhusSeerah-Muhammad-al-Ghazali-AR-full.md` | Complete Arabic transcription (2026-07-17): printed pages 2–368, ~126.5k words, `[صفحة N]` page markers, per-page footnote blockquotes. Locating/reading aid for verification — not gospel; decision-critical readings re-checked on the rendered page. 9 `[غير مقروء]` spots (ch7, pp. 293–304) |
 | `FiqhusSeerah-Muhammad-al-Ghazali-HUN-full.md` | **The Hungarian translation** — complete draft, front matter → Chapters 1–9 → Utószó → back matter |
 | `REVIEW-FLAGS.md` | Running list of items for the verification/proofreading passes (transcription artifacts, misprints, terminology to unify) |
-| `review-wip/` | Opus 5.5 review workspace (2026-09-24/25): `opus55-findings.md` (findings + APPLIED LOG), `apply.py` + `specs/*.py` (idempotent edit specs), `fntool.py` / `fnins.py` (footnote check / insert-with-renumbering), `arpage.py` (AR footnotes per page). Untracked; commit for the audit trail and/or delete like `g3-findings/` |
+| `review-wip/` | Opus 5.5 review workspace (2026-09-24/25): `opus55-findings.md` (findings + APPLIED LOG), `apply.py` + `specs/*.py` (idempotent edit specs), `fntool.py` / `fnins.py` (footnote check / insert-with-renumbering), `arpage.py` (AR footnotes per page); names (2026-09-28): `names.md` (the user-reviewed list), `names_build.py` (generates it; holds the rule), `names_apply.py` (applied it book-wide, dry run by default), `names-apply-report.txt` (every old → new word). Untracked parts; commit for the audit trail and/or delete like `g3-findings/` |
 | `ENGLISH-EDITION-ERRATA.md` | Consolidated list of the English edition's errors verified against the Arabic original (wrong Qur'ān refs, inserted honorifics, mistranslations, corrupted names) — all corrected in both ENG-full and HUN per the fidelity policy |
 
 Deleted in the 2026-07-18 housekeeping (recoverable from git history): the legacy
@@ -113,13 +115,30 @@ see the fidelity policy under Transcription conventions.)*
 - Dashes (2026-09-25): Hungarian norm — spaced en dash ( – ) as gondolatjel, unspaced
   en dash in ranges; no em dashes in HUN
 - Terms: Allah (no diacritic in HUN running text), Korán, hadísz, umma, tauhid,
-  **dzsáhilijja** (not italic; adjective "dzsáhilijja kori"; glossary *Dzsáhilijja*)
+  **dzsáhilijja** (not italic; adjective "dzsáhilijja kori"; glossary *Dzsáhilijja*).
+  Since 2026-09-28 (user's names list): āyah/āyāt → **ája / áják** (singular after
+  quantifiers: „néhány ája”); daʿwah → **dáwa**; ṣaḥābī → **szahába** (pl. szahábák);
+  adhān → **azán**; ṣalāh → **ima**; zakāh → **zakát**; rakʿah → **rakát**; ḥajj → **haddzs**;
+  ʿumrah → **umra**; muʾadhdhin → **müezzin**; dhirāʿ → **könyök**; anṣār → **anszár(ok)**;
+  muhājir → **muhádzsir(ok)**; grading/ḥadīth-science terms by the rule (szahíh, haszan,
+  gharíb, murszal, mudal, isznád, tadlísz…)
 - **Allah vs Isten (2026-09-25):** wherever the Arabic has الله it is **Allah** — also in
   the mouths of pagans, Jews and Christians (they too swore by Allah: oaths «والله» →
   „Allahra (ﷻ)”). "isten/Isten" only for إله (a god, "your god", «إله إبراهيم»).
 - **Pokol** (Jahannam) capitalised, like **Paradicsom** (derived adjectives lowercase)
-- **Names (2026-09-25, in progress):** no transliteration diacritics in HUN — names get
-  Hungarian forms decided by the user case by case (list: `review-wip/names.md`)
+- **Names (applied book-wide 2026-09-28):** no transliteration diacritics in HUN — Hungarian
+  transcription: ā ī ū → á í ú, but a **word-final long vowel is short** (al-Bukhári, Músza,
+  Iszra; the particle Banú excepted); ḥ ṭ ḍ ẓ ṣ → h t d z sz; sh→s, s→sz, th→sz, dh→z, j→dzs,
+  y→j, w→v, q→k, aw→au, ay→aj; **kh/gh kept** (Khálid); ʿayn/hamza dropped (Szad, Kab);
+  final -ah → -a; article **al-** not assimilated (al-Zubajr); Abū → Abu, Banū → Banú.
+  Prophets → **biblical names** (Ábrahám, Mózes, Izsák, József, Gábriel…; but **Iszmaíl**),
+  same-named others by the rule (**Ibn Iszhák**, Abu Músza, Abu Dávúd). Traditional/known
+  forms: Omár, Oszmán, Ali, Áisa, Khadídzsa, Fátima, Kába, Abdullah (Allah compounds keep
+  -llah), Ibn Kathir, al-Tirmidhi, Jathrib, Muád, Szulejmán, Ibrahim (others). Huszrau, a
+  négus (lowercase), surahs „a Tauba szúra”, month names lowercase (ramadán, savvál),
+  **Banú Iszráíl** everywhere (singular verb, like „a Banú Kurajza”), book titles by the rule,
+  the author **Muhammad al-Ghazáli**. Hungarian endings re-fitted to the new forms (Áisától,
+  Kurajssal, Mózesnek). Every per-name choice: `review-wip/names.md`; tooling: `names_apply.py`
 - **Heaven/Paradise/afterlife (user decision 2026-07-25):** never *menny/mennyország*
   (too Christian-flavored — never seen in Hungarian Islamic usage). Map by the Arabic:
   السماء / the sky-heaven & "heavenly" adjectives → **ég / égi / egek** (neutral);
@@ -128,16 +147,15 @@ see the fidelity policy under Transcription conventions.)*
   mennykő, mennyezet* alone).
 - The Prophet: **Mohamed** (standard Hungarian form — user decision 2026-07-20,
   reversing the earlier Muhammad convention; suffixes follow *Mohamed*'s harmony:
-  Mohamedet, Mohameddel, Mohamednek…). **Other people named Muhammad keep the
-  transliterated form** (the author Muhammad Al-Ghazali, Al-Albānī, Muhammad ibn
-  Maslamah, ḥadīth narrators), as does the Arabic shahāda transliteration
-  (*Muhammadan rasūlu-llāh*).
+  Mohamedet, Mohameddel, Mohamednek…). **Other people named Muhammad keep
+  *Muhammad*** (the author Muhammad al-Ghazáli, Muhammad Násziruddín al-Albáni, Muhammad
+  ibn Maszlama, ḥadīth narrators), as does the shahāda (*Muhammadan raszúlu-llah*).
 - Place names: **Mekka** and **Medina** (the standard Hungarian spellings; Medina
   replaced Madīna/Al-Madīnah book-wide 2026-07-20, incl. the glossary headword);
   leave the ordinary Hungarian word *mekkora* ("how big") alone
 - **Ḥadīth grading terms:** ṣaḥīḥ / "sound" / "authentic" → **hiteles** (one grade, one
-  word — matches the glossary `*Ṣaḥīḥ*: hiteles hadísz`); ḥasan / "good" → **jó**;
-  ḍaʿīf / "weak" → **gyenge**. Al-Albānī's `Ṣaḥīḥ:` footnote labels → `Hiteles (ṣaḥīḥ):`.
+  word — matches the terminology list `*Szahíh*: hiteles hadísz`); ḥasan / "good" → **jó**;
+  ḍaʿīf / "weak" → **gyenge**. Al-Albānī's `Ṣaḥīḥ:` footnote labels → `Hiteles (szahíh):`.
   **`ép` is NOT a grade** — it is the ordinary word "intact/sound" (ép ítélőképesség, ép
   testű, "az értelme ép"); do not use it for ṣaḥīḥ. (An earlier draft's *ép*-for-sound
   convention was reverted book-wide on 2026-07-16 — see `REVIEW-FLAGS.md` §3.)
@@ -171,7 +189,7 @@ translation errors).
    scripts deleted (see the Files section), `g3-findings/` committed for the audit
    trail then deleted, repo restructured into per-book directories
    (`fiqh-us-seerah/`), `README.md` links updated.
-6. Optional/remaining: glossary re-alphabetization; the "still open" pass-A items
+6. Optional/remaining (glossary re-alphabetization ✅ done 2026-09-28 with the names): the "still open" pass-A items
    listed in the pipeline note (remaining transcription-quality doubts vs the
    Arabic, coinage sanity-checks).
 7. ~~**Opus 5.5 full HUN↔AR review**~~ ✅ **applied 2026-09-25** (uncommitted until the
