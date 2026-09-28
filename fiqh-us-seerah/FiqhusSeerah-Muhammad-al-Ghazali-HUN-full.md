@@ -18,7 +18,7 @@ Napjaink muszlimjai Mohamed (ﷺ) életének csupán a felszínét ismerik, amel
 
 Mohamed (ﷺ) ilyen felületes ismerete felér a nem-ismerésével. Igazságtalanság a nagy valósággal szemben, hogy legendává változtassák. Igazságtalanság azzal a korszakkal szemben, amely energiától és erőtől lüktetett, hogy a halottak leplében mutassák be. Mohamed (ﷺ) élete a muszlimok számára nem tétlen ember szórakozása, és nem is semleges kritikus tanulmánya. A legkiválóbb példa, amelyet követniük kell, és azoknak a törvényeknek a forrása, amelyek kormányozzák őket. Ezért ennek az életrajznak bármely hiányos bemutatása vagy az események sorrendjének bármely összezavarása szörnyű sérelme magának a hit valóságának.
 
-Ezért minden tőlem telhetőt megtettem, hogy az olvasóknak igaz képet adjak a Próféta (ﷺ) életéről, és minden erőmmel igyekeztem megadni mindannak okát és magyarázatát, ami életében történt. Majd hagytam, hogy a puszta tények és hatásaik elfogultság és mellébeszélés nélkül hassanak az elmékre. Jól hasznosítottam a régi és a modern tudósok által írt életrajzokat. A modern történészek az elemzés, az összehasonlítás és a különféle események rendszerezett egésszé fűzése felé hajlanak. Ez módszerük legjava. A régi történészek viszont a részletek összegyűjtésére, a források rostálására, a kis és nagy események feljegyzésére támaszkodnak. E számos archívum fontos kincseket rejt – ha megfelelően élnek velük.
+Ezért minden tőlem telhetőt megtettem, hogy az olvasóknak igaz képet adjak a Próféta (ﷺ) életéről, és minden erőmmel igyekeztem megadni mindannak okát és magyarázatát, ami életében történt. Majd hagytam, hogy a puszta tények és hatásaik elfogultság és mellébeszélés nélkül hassanak az elmékre. Jól hasznosítottam a régi és a modern tudósok által írt életrajzokat. A modern történészek az elemzés, az összehasonlítás és a különféle események rendszerezett egésszé fűzése felé hajlanak. Ez módszerük legjava. A régi történészek viszont az elbeszélések összegyűjtésére, a hagyományláncok gondos megvizsgálására, a kis és nagy események feljegyzésére támaszkodnak. E számos archívum fontos kincseket rejt – ha megfelelően élnek velük.
 
 Talán itt új módon ötvöztem a két módszert, kivonva mindkettő legjavát. Az életrajz részleteiből összefüggő témát állítottam össze, amelynek minden részét egyetlen szellem köti egybe. A szövegeket és elbeszéléseket úgy rendeztem el, hogy igazodjanak a téma egységéhez, és segítsenek teljessé tenni a képet. Célom az volt, hogy az életrajz olyasmivé váljék, ami hitet táplál, jellemet tisztít és szítja a küzdelmet; ami arra bátorít, hogy az ember magáévá tegye az igazságot és hű legyen hozzá; és amely bővelkedik a találó példákban.
 
@@ -46,7 +46,7 @@ Az iszlám ellenségei a muszlimok hanyagsága folytán képesek voltak lerombol
 
 Bocsánatot kérek, amiért nem tudtam méltón eleget tenni a tárgynak. A Próféta (ﷺ) jelentősége nagy, és életének magyarázata érzékeny elmét és éles értelmet kíván. Elégedjünk meg annyival: ez az én igyekezetem.
 
-Ó, Allah (ﷻ)! Áldd meg Mohamedet (ﷺ) és Mohamed (ﷺ) családját, ahogyan megáldottad Ábrahámot (عليه السلام) és Ábrahám (عليه السلام) családját, és légy bőkezű Mohamedhez (ﷺ) és Mohamed (ﷺ) családjához, ahogyan bőkezű voltál Ábrahámhoz (عليه السلام) és Ábrahám (عليه السلام) családjához. Bizony Te vagy a Dicséretre méltó, a Dicsőséges.
+Ó, Allah (ﷻ)! Áldd meg Mohamedet (ﷺ) és Mohamed (ﷺ) családját, ahogyan megáldottad Ábrahámot (عليه السلام) és Ábrahám (عليه السلام) családját, és áraszd áldásodat Mohamedre (ﷺ) és Mohamed (ﷺ) családjára, ahogyan áldásodat árasztottad Ábrahámra (عليه السلام) és Ábrahám (عليه السلام) családjára. Bizony Te vagy a Dicséretre méltó, a Dicsőséges.
 
 **Muhammad al-Ghazáli**
 
@@ -525,7 +525,7 @@ Mohamed (ﷺ) és társai tanultak és tanítottak, harcoltak és békét kötö
 
 Nézd, hogyan parancsoltatik nekik, hogy még az Allah (ﷻ) előtti imában állva is rendkívül óvatosak és éberek legyenek. Allah (ﷻ) nem engedett nekik semmi reményt arra a gondolatra, hogy majd leszállnak az angyalok és megsegítik őket. Ha nem védik meg magukat, senki sem védi meg őket. Ezt mondta Allah (ﷻ) Mohamednek (ﷺ) és társainak.
 
-Amikor a muszlimok az uhudi ütközetben nem szívlelték meg ezt a leckét, fájdalmas csapás érte őket, amely hetvenet döntött le hőseik közül, és megízleltette velük a keserű vereséget. Azon a napon a hitetlenek vezére, Abu Szufján felállt és azt kiáltotta: „Éljen Hubal!” (a főistenük). A Próféta (ﷺ) hősiesen küzdött, hogy megmentse a helyzetet: harcolt, ölt, és megsebesült.
+Amikor a muszlimok az uhudi ütközetben nem szívlelték meg ezt a leckét, fájdalmas csapás érte őket, amely hetvenet döntött le hőseik közül, és megízleltette velük a keserű vereséget. Azon a napon a hitetlenek vezére, Abu Szufján felállt és azt kiáltotta: „Légy magasztos, Hubal!” (a főistenük). A Próféta (ﷺ) hősiesen küzdött, hogy megmentse a helyzetet: harcolt, ölt, és megsebesült.
 
 Abu Hurajra (رضي الله عنه) elbeszéli, hogy Allah Küldötte (ﷺ) azt mondta Uhud napján:
 
@@ -633,15 +633,15 @@ Allah bocsánatát és oltalmát kérjük.
 
 ⁶ Ő Urva, al-Zubajr fia. Soha nem hallott Omártól (رضي الله عنه), sőt soha nem is látta. Ez a hagyomány ezért megszakadt (munkati) és gyenge. Ugyanígy közli al-Khatíb is a Takjíd al-Ilmben, több láncon Urvától, kivéve Rásid változatát, aki al-Zuhritól, Urvától közölte, és összefüggővé tette azzal, hogy Abdullah ibn Omárt említette Urva és Omár (رضي الله عنه) között. Ez a változat azonban rendellenes (sázz), amint arra maga al-Khatíb is utalt.
 
-⁷ Bukhári, Muszlim és Ibn Abdul Barr beszélte el.
+⁷ A két Sejk (Bukhári és Muszlim) jegyezte le Szahíhjukban, továbbá Abu Dávúd (1/165, al-Tázi-kiadás) és Ibn Abdul Barr (12/121).
 
 ⁸ Ez a magyarázat valószínűtlen, sőt lehetetlen, hiszen maga a hadísz – ahogyan Muszlim elbeszélte – azt mondja, hogy Omár (رضي الله عنه) találkozott elsőként Abu Hurajrával (رضي الله عنه), és tőle hallotta. Talán a szerzőnek újra meg kellene néznie.
 
 ⁹ Amit mondok, helytálló. Sejk Násziruddínnak nincs észszerű ellenvetése magyarázatommal szemben. (A szerző.)
 
-¹⁰ Hiteles hadísz, Ahmad és al-Tahávi beszélte el a Sarh Maáni al-Ászárban Abdul Rahmán ibn Sibltől.
+¹⁰ Hiteles hadísz. Ahmad (3/428–444) és al-Tahávi a Sarh Maáni al-Ászárban (2/10) jegyezte le Abdul Rahmán ibn Sibl hadíszaként, a Prófétáig (ﷺ) visszavezetve (marfú). Lánca hiteles, és al-Háfiz az al-Fathban (9/282) erősnek ítélte.
 
-¹¹ Hiteles hadísz, Ibn Abdul Barr és más gyűjtők beszélték el.
+¹¹ Hiteles hadísz. Ibn Abdul Barr jegyezte le (1/39), továbbá a Szunan-gyűjtemények szerzői, al-Dárimi és Ahmad, Zajd ibn Szábit egyik hadíszaként. Lánca hiteles; Ibn Hibbán, Ibn Hadzsar és mások hitelesnek nyilvánították.
 
 ¹² Abu Dávúd, al-Tirmidhi, Ibn Szad és al-Bajhaki beszélte el al-Zuhrin keresztül. Az utóbbi azt mondta: „Nabhán, Umm Szalama szabadosa közölte Umm Szalamától, hogy az ezt mondta: »A Prófétánál (ﷺ) voltam, akárcsak Majmúna, és Ibn Umm Maktúm közeledett. Ez a hidzsáb elrendelése után volt. A Próféta (ﷺ) azt mondta: Fátyolozzátok el magatokat előle. Erre azt mondtuk: Ó, Allah Küldötte (ﷺ), hát nem vak ő, aki nem lát és nem ismer fel bennünket? Azt felelte: Hát ti vakok vagytok? Nem látjátok őt?«” al-Tirmidhi szerint jó és hiteles hadísz, és Ibn Hadzsar a Fath al-Báriban erősnek nyilvánította elbeszélőinek láncát. Ez azonban kétséges, mivel Nabhant csak Ibn Hibbán fogadja el hitelesnek, aki köztudottan hanyag az elbeszélők hitelesítésében. Erre a tényre maga Ibn Hadzsar mutat rá a Liszan al-Mízán bevezetőjében. Ezért látjuk, hogy az al-Takríbban nem hitelesítette Nabhant, hanem azt mondta róla: „Elfogadható” – tudniillik megerősítés esetén; e hadísz esetében azonban nincs, aki megerősítené. Ez a kijelentés csak azt jelentheti, hogy ez a hadísz elfogadhatatlan. Ibn Abdul Barr azt mondja: „Nem azok közül való, akiknek hadíszai hitelesek, és ez a hadísza elutasított (munkar)” – ahogyan Ibn al-Turkmani idézi az al-Dzsauhar al-Nakiban.
 
@@ -1412,7 +1412,7 @@ A Kurajs belátta, hogy célja messze meghaladja lehetőségeit, így visszatér
 
 Az abesszíniai út titkos vállalkozás volt, nehogy felriassza a Kurajst, amely megpróbálta volna megakadályozni. Nem is kezdődött nagy méretekben. Az első csoport néhány családból állt; köztük volt Rukajja, a Próféta (ﷺ) leánya, férje, Oszmán ibn Affán (رضي الله عنه), és egy kis csapat más kivándorló – összesen legfeljebb tizenhatan. A tenger felé vették útjukat, ahol a Gondviselés két kereskedőhajót tartogatott számukra, amelyek Abesszíniába vitték őket. Mire a Kurajs nyomukat üldözve a partra ért, ők már vitorlát bontottak. Ám nem sokkal azután, hogy azon a földön letelepedtek, hír érkezett hozzájuk, hogy a bálványimádók fegyverszünetet kötöttek az iszlámmal, és beleegyeztek, hogy a muszlimok szabadon, zaklatás nélkül gyakorolhassák vallásukat. Úgy érezték hát, semmi akadálya, hogy visszatérjenek Mekkába. Ez a szóbeszéd megtette hatását a muszlim kivándorlókra, és úgy döntöttek, visszatérnek szülővárosukba. Amikor azonban Mekkához közeledtek, kiderült a szomorú valóság: a bálványimádók elkeseredettebbek voltak, mint valaha, ellenségességükben Allah (ﷻ), az Ő Prófétája és a hívők iránt, és agressziójuk egy pillanatra sem szűnt meg.
 
-Egyes együgyűek azt állítják, hogy valóban volt fegyverszünet az iszlám és a pogányság között, és mindez úgy jött létre, hogy Mohamed (ﷺ) a bálványimádók kegyeit kereste: dicsérte bálványaikat és elismerte rangjukat. Azt állítják, hogy ezt a fegyverszünetet – amely a muszlimokat visszahozta Abesszíniából – az hozta el, amit Mohamed (ﷺ) a bálványok dicséretére mondott. Az együgyűek azt állítják, ezt mondta: (Azok a fenséges darvak – bizony közbenjárásuk kívánatos.)
+Egyes együgyűek azt állítják, hogy valóban volt fegyverszünet az iszlám és a pogányság között, és mindez úgy jött létre, hogy Mohamed (ﷺ) a bálványimádók kegyeit kereste: dicsérte bálványaikat és elismerte rangjukat (!). Azt állítják, hogy ezt a fegyverszünetet – amely a muszlimokat visszahozta Abesszíniából – az hozta el, amit Mohamed (ﷺ) a bálványok dicséretére mondott. Az együgyűek azt állítják, ezt mondta: (Azok a fenséges darvak – bizony közbenjárásuk kívánatos.) (?!)
 
 Hol mondta volna e szavakat? A Nadzsm szúrában, a koráni áják között, amelyek ezeket a bálványokat említik. Így nézett volna ki:
 
@@ -1618,7 +1618,7 @@ Allah Küldötte (ﷺ) Táifba ment, ahol a Szakíf élt. Ez mintegy 50 mérföl
 
 A Szakíf azonban még a vártnál is durvább volt. Azt felelték: „Takarodj országunkból!” Felbujtották a legfiatalabbakat és az utcai csőcseléket, hogy kővel dobálják meg. Zajd (رضي الله عنه) hiába próbálta védeni; közben a fején megsebesült. Maga a Próféta (ﷺ) olyan súlyos sérüléseket szenvedett, hogy a vér szabadon folyt belőlük. Üldözőik arra kényszerítették őket, hogy egy Utbának és Sajbának, Rabía fiainak tulajdonában lévő kertben keressenek menedéket. Ott leült egy szőlőtő árnyékába, pihenést és biztonságot keresve. A kertészek, akik a közelben voltak, elkergették a csőcseléket, és a Próféta (ﷺ) ott ült, nyomorúságos helyzetén tűnődve. Visszatértek emlékei a Kurajs kezétől elszenvedett gyötrelmeiről: az egymást követő kudarcok súlyos láncát vonszolta maga után. Így kiáltott hát:
 
-„Ó, Allah (ﷻ), Hozzád panaszlom erőm gyengeségét, eszközeim szűkösségét és jelentéktelenségemet az emberek előtt. Te vagy a Legirgalmasabb az irgalmazók között; Te vagy az elnyomottak Ura, és Te vagy az én Uram. Kire bízol engem? Egy távoli idegenre, aki megvet, vagy egy ellenségre, akinek hatalmat adtál fölöttem? Ha nem haragszol rám, nem törődöm vele. Ám a Te kegyelmed tágasabb nekem. Orcád világosságánál keresek menedéket – amelytől a sötétség kivilágosodott, és amelyen e világ és a Túlvilág jóléte nyugszik – attól, hogy haragod szálljon rám, vagy nemtetszésed sújtson le rám. Tiéd a jog a dorgálásra, míg elégedett nem leszel, és nincs erő, sem hatalom, csak Benned.”
+„Ó, Allah (ﷻ), Hozzád panaszlom erőm gyengeségét, eszközeim szűkösségét és jelentéktelenségemet az emberek előtt. Te vagy a Legirgalmasabb az irgalmazók között; Te vagy az elnyomottak Ura, és Te vagy az én Uram. Kire bízol engem? Egy távoli idegenre, aki megvet, vagy egy ellenségre, akinek hatalmat adtál fölöttem? Ha nem haragszol rám, nem törődöm vele. Ám a Te kegyelmed tágasabb nekem. Orcád világosságánál keresek menedéket – amelytől a sötétség kivilágosodott, és amelyen e világ és a Túlvilág jóléte nyugszik – attól, hogy haragod szálljon rám, vagy nemtetszésed sújtson le rám. Hozzád fordulok, hogy elnyerjem tetszésedet, amíg elégedett nem leszel, és nincs erő, sem hatalom, csak Benned.”
 
 A rokonság érzései mozdultak meg Rabía fiainak szívében: hívatták egyik keresztény rabszolgájukat, akit Addásznak hívtak, és megkérték, vigyen egy fürt szőlőt a Prófétának (ﷺ).
 
@@ -1802,7 +1802,7 @@ Ennek ellenére, abban a fojtogató légkörben, a Próféta (ﷺ) soha nem enge
 
 ¹ Bukhári és Muszlim beszélte el.
 
-² Egy gyenge hadísz, amelyet al-Tirmidhi beszélt el, aki megemlítette, hogy láncolatáról volt némi vita. A láncban szerepel Júnusz ibn Szalím, és tőle Abd al-Razzák beszélte el. De Júnusz nem ismert. Abd al-Razzákot megkérdezték róla, és ő azt mondta: „Nem hiszem, hogy ő bármi volna.”
+² Gyenge hadísz. Al-Tirmidhi jegyezte le (2/151–152), és megemlítette, hogy lánca körül eltérések vannak. A lánc Júnusz ibn Szulajmon fordul meg; tőle Abd al-Razzák közölte, és ez a Júnusz ismeretlen. Lejegyezte továbbá Ahmad (223. sz.), al-Hákim (1/535 és 2/292) és – ahogyan tőle idézik – al-Naszái, aki azt mondta: „Ez elutasított (munkar) hadísz; nem tudunk senkiről, aki Júnuszon kívül elbeszélte volna, és Júnuszt nem ismerjük.” Al-Hákim azt mondta: „Lánca hiteles” – ez az ő engedékenységéből fakad. Al-Zahabi pedig ellentmondott önmagának: az első helyen egyetértett al-Hákim hitelesítésével – ez vezette félre Ahmad Sákir sejket –, a másik helyen viszont így helyesbítette: „Megjegyzem: Abd al-Razzákot megkérdezték erről a mesteréről, és azt mondta: »Azt hiszem, semmi.«” A Mízánban pedig helybenhagyta al-Naszái szavát: „Ez elutasított hadísz.” Hogy Ibn Hibbán megbízhatónak nyilvánította ezt az Ibn Szulajmot, nem számít, különösen mivel tanítványa, Abd al-Razzák jobban ismerte őt, mint Ibn Hibbán.
 
 ³ Ez annak a hadísznak a jelentése, amelyet Bukhári beszélt el Áisa tekintélyére hivatkozva.
 
@@ -1810,7 +1810,7 @@ Ennek ellenére, abban a fojtogató légkörben, a Próféta (ﷺ) soha nem enge
 
 ⁵ Ez annak a hadísznak a jelentése, amelyet Bukhári beszélt el Zajd ibn Szábit (رضي الله عنه) tekintélyére hivatkozva.
 
-⁶ Egy hiteles hadísz, amely különböző forrásokból ered, mindegyik erősítve a másikat.
+⁶ Hiteles hadísz, több úton érkezett: az első Ibn Maszúdtól, al-Hákim jegyezte le (2/4); a második Abu Umámától, al-Tabaráni jegyezte le az al-Kabírban és Abu Nuajm a Hiljat al-Aulijában (10/27); a harmadik Huzajfától, al-Bazzár jegyezte le, ahogyan az al-Targhíbban (3/7) és al-Hajszami Madzsma al-Zaváidjában (4/71) áll. Ezek az utak erősítik egymást; ezért – Allah tudja a legjobban – Ibn al-Kajjim a Zád al-Maádban határozottan a Prófétának (ﷺ) tulajdonítja a hadíszt.
 
 ⁷ A fizikai testnek a láthatatlan világgal való érintkezése megerőltető az emberi természet számára. Összehasonlítható azzal, amit a médiumok tapasztalnak a hipnózis során, bár nagy a különbség.
 
@@ -1822,17 +1822,17 @@ Ennek ellenére, abban a fojtogató légkörben, a Próféta (ﷺ) soha nem enge
 
 ¹¹ Nem találtam ezt az elbeszélőt az elbeszélők között; csak Dzsafar ibn Abdullah ibn al-Hakam szerepel köztük, aki az Ausz törzsbeli anszári, a Tábiún fiatalabb nemzedékéhez tartozik, és Anasztól (رضي الله عنه) meg a Tábiúntól hagyományozott. Ha ő az, a lánc mursal, és ezért gyenge; a hozzá vezető láncot nem találtam. Ha pedig más, nem ismerem.
 
-¹² Egy jó és hiteles hadísz, amelyet különböző hiteles forrásokból beszéltek el, amelyek erősítik egymást.
+¹² Jó és hiteles (haszan szahíh) hadísz. Ibn Iszhák a Szírában (1/203) lánc nélkül, hallomásként (balágan) közli. Al-Hákim (3/388–389) és al-Tabaráni az al-Auszatban – ahogyan az al-Madzsmában (9/293) áll – összefüggő lánccal közölte Dzsábir ibn Abdullahtól; al-Hákim azt mondta: „Muszlim feltételei szerint hiteles”, és al-Zahabi egyetértett vele. Abu Ahmad al-Hákim is lejegyezte – ahogyan az al-Iszábában áll – Ukajl, al-Zuhri, Iszmaíl ibn Abdullah ibn Dzsafar útján, annak apjától; ez hiteles lánc, a szahábák mursal közlései közé tartozik, és ezeket a tudósok elfogadják. Ahmad (439. sz.) és Abu Nuajm a Hiljában (1/140) Oszmán ibn Affántól jegyezte le; elbeszélői megbízhatók, csakhogy – ahogyan al-Háfiz mondja – a lánc megszakadt. Ezek az utak tanúsítják a hadísz hitelességét.
 
-¹³ Némi kétség van ennek az elbeszélésnek a hitelességéről, mivel a szahába neve, aki a Prófétától (ﷺ) hallotta, nincs megemlítve (azaz mursal hadísz). Nincs kétség azonban afelől, hogy az ája (Korán 16: 106) Ammárról (رضي الله عنه) nyilatkoztatott ki, mert ezt különböző források támasztják alá. Allah (ﷻ) tudja a legjobban.
+¹³ Ennek az elbeszélésnek a hitelessége kétséges; hibája, hogy mursal. Ibn Dzsarír a Tafszírjában (12/113), Abu Nuajm (9/140) és Abu Bakr al-Dzsasszász az Ahkám al-Kuránban (3/236) jegyezte le Abu Ubajda ibn Muhammad ibn Ammár ibn Jászir útján, aki azt mondta: „A bálványimádók elfogták Ammárt, és nem engedték el, amíg el nem szidalmazta Allah Küldöttét (ﷺ), és jót nem mondott isteneikről…” – és így tovább. Al-Hákim (2/357) ettől az Abu Ubajdától, annak apjától jegyezte le, majd azt mondta: „A két Sejk feltételei szerint hiteles”, és al-Zahabi egyetértett vele. Így mondták; régebben engem is megtévesztett a szavuk, most azonban világossá vált számomra a tévedésük, hiszen a többiek mind Abu Ubajdától közlik. És ha el is fogadjuk, hogy Abu Ubajda „apjától” közölte, az apja tábii volt, nem szahába, így a hadísz mursal, ha ugyan nem mudal. Ráadásul sem Abu Ubajdától, sem az apjától nem jegyzett le semmit a két Sejk; az elsőről Ibn Abi Hátim (2/4/405) az apja ítéletét idézi: „Hadíszai elutasítottak (munkar al-hadísz)”, és Ibn Maín meg mások egyetértettek vele. Hogyan lehetne hát ez a hadísz hiteles – nemhogy jó – az ő feltételeik szerint?! Csakis az ája (Korán 16: 106) kinyilatkoztatásának ténye hiteles belőle, mert az Ibn Dzsarír által idézett utakon is érkezett. Allah (ﷻ) tudja a legjobban.
 
 ¹⁴ Egy hiteles hadísz, amelyet Abu Dávúd, al-Tirmidhi és Ibn Mádzsa beszélt el. Al-Tirmidhi azt mondta, hogy jó és hiteles hadísz. Al-Hákim szintén elbeszélte, és azt mondta, hogy Bukhári és Muszlim kritériumai szerint hiteles.
 
-¹⁵ Ibn Iszhák közvetítette az *Al-Magházi*-ban, és Ibn Kathir beszélte el a *Tafszír*-jában; mindkét esetben az elbeszélők lánca jó.
+¹⁵ Ezt a történetet Ibn Iszhák jegyezte le az *al-Magházi*-ban (1/185, Ibn Hisám Szírájából) jó lánccal, Muhammad ibn Kab al-Kurazitól, mursalként; Abd ibn Humajd és Abu Jala al-Baghavi más úton, Dzsábir (رضي الله عنه) hadíszaként összefüggő lánccal közölte, ahogyan Ibn Kathir *Tafszír*-jában (4/9–91) áll. Lánca jó, ha Allah akarja.
 
-¹⁶ Gyenge hadísz, Ibn Iszhák és Ibn Dzsarír beszélte el. Aki e hadíszt közölte, Jakúb ibn Utba, soha nem találkozott egyetlen társsal sem; így a tábiin tanítványa volt. A történetet al-Tabaráni is elbeszéli Akíl ibn Abi Tálib tekintélyére hivatkozva, és ebben a változatban a „ha jobb kezembe tennék…” helyett ez áll: „Nem vagyok inkább képes elhagyni azt, amivel küldettem, mint lángot ragadni a napból.” Így folytatódik: „És Abu Tálib azt mondta: »Allahra (ﷻ), unokaöcsém soha nem hazudott. Menjetek vissza, és legyetek jó kedvvel.«”
+¹⁶ Gyenge hadísz. Ibn Iszhák jegyezte le (1/170), és az ő útján Ibn Dzsarír (2/67), Jakúb ibn Utba ibn al-Mughíra ibn al-Akhnasztól. Ez mudal lánc: Jakúb egyetlen szahábát sem ért meg, a tábiin követőinek nemzedékéhez tartozik. A történetet rövidítve al-Tabaráni is lejegyezte az al-Auszatban és az al-Kabírban Akíl ibn Abi Tálib hadíszaként, és abban a „ha a napot jobb kezembe tennék…” helyén ez áll: „Allahra (ﷻ), nem vagyok inkább képes elhagyni azt, amivel küldettem, mint bárki lángot ragadni ebből a napból.” Utána pedig: „És Abu Tálib azt mondta: »Allahra (ﷻ), unokaöcsém soha nem hazudott. Menjetek vissza jó úton.«” Al-Hajszami az al-Madzsmában (6/15) azt mondja: „Abu Jala is elbeszélte, az elejét kissé rövidítve, és Abu Jala elbeszélői a Szahíh elbeszélői.”
 
-¹⁷ Hol a történelmi bizonyíték arra az okoskodásra, hogy a bálványimádók koholták e vádat és próbálták elterjeszteni? Az ilyen ügyeknek történelmi bizonyítékra van szükségük. Mi zárja ki, hogy ezt a vádat utólag találták ki? Valójában ez a valószínűbb, hiszen nincs róla hiteles elbeszélés egyetlen szahábától sem. Minden forrása megáll a szahábák előtt, és egyetlen elbeszélőjéről sem ismert, hogy a Próféta (ﷺ) idejében élt volna. E történet hamisságát részletesen kifejtettem hamarosan megjelenő könyvemben.
+¹⁷ Hol a történelmi bizonyíték arra az okoskodásra, hogy a bálványimádók koholták e vádat és próbálták elterjeszteni? Az ilyen ügyeknek történelmi bizonyítékra van szükségük. Mi zárja ki, hogy ezt a vádat utólag találták ki? Valójában ez a valószínűbb, hiszen nincs róla hiteles elbeszélés egyetlen szahábától sem. Minden forrása megáll a szahábák előtt, és egyetlen elbeszélőjéről sem ismert, hogy a Próféta (ﷺ) idejében élt volna. E történet hamisságát a hadísztudomány szempontjából részletesen kifejtettem *Naszb al-Madzsánik li-Naszf Kisszat al-Gharánik* című könyvemben, amely még nem jelent meg.
 
 ¹⁸ A régi keresztények különböztek Jézus (عليه السلام) természete felől, és ennek következtében több szektára szakadtak. Volt egy szekta, amely emberi Prófétának tartotta, nem istennek, sem Allah társának. A keresztény Nyugaton máig maradtak emberek, akik ezt az egyistenhívő hitet vallják, jóllehet az egyházi hierarchia teljesen szemben állt vele.
 
@@ -2113,7 +2113,7 @@ Azt mondta: »Társul.«
 
 Abu Bakr (رضي الله عنه) ekkor így szólt: »Allah Prófétája (ﷺ), erre készítettem elő ezt a két hátast.«
 
-Felfogadták hát Abdullah Ibn Urajkitot – aki még bálványimádó volt –, hogy vezetőjük legyen Medinába. Rábízták a két hátast, ő pedig gondozta őket a kijelölt időig.”¹⁴
+Felfogadták hát Abdullah Ibn Urajkitot – aki még bálványimádó volt (!) –, hogy vezetőjük legyen Medinába. Rábízták a két hátast, ő pedig gondozta őket a kijelölt időig.”¹⁴
 
 Ibn Iszhák így folytatta:
 
@@ -2303,13 +2303,13 @@ A legtöbb, amit e hadíszokból levonhatunk: hogy ez a szóhasználat nemkívá
 
 ⁶ Hiteles hadísz, Ibn Iszhák beszélte el *Magházijában*. Az utolsó rész azonban – „Ti népetek gondviselői vagytok…” – mursal, és ezért gyenge.
 
-⁷ Jó hadísz, Ahmad beszélte el.
+⁷ Jó hadísz. Ahmad imám jegyezte le (5/343) Sahr ibn Hausab, Abd al-Rahmán ibn Ghanm, Abu Málik al-Asari útján; Sahrban van némi gyengeség. Al-Munziri (4/48) azt mondja: „Ahmad és Abu Jala jó lánccal beszélte el, és al-Hákim is, aki azt mondta: lánca hiteles.” Megjegyzem: al-Hákim Musztadrakjában nem találtam meg Abu Málik hadíszaként; csak Ibn Omár (رضي الله عنه) hadíszaként jegyezte le (4/170), hasonló szöveggel, és azt mondta: lánca hiteles; al-Zahabi egyetértett vele, és így is van. Ez tehát erős tanúbizonyság Abu Málik hadísza mellett.
 
 ⁸ Ez Kab Ibn Málik (رضي الله عنه) fent említett hadíszából való. Megjegyzendő itt, hogy a szerző a hadísz első részének értelmét adta vissza, nem szavait, amelyek így szólnak: „És amikor letettük az esküt Allah Küldöttének (ﷺ), az ördög Akaba tetejéről a legáthatóbb hangon kiáltott, amelyet valaha hallottam, és a Próféta (ﷺ) így szólt: »Ez Akaba ördöge, ez az ördög fia. Halld, Allah (ﷻ) ellensége: Allahra (ﷻ), hamarosan foglalkozom veled.«” E szövegből nem érthető úgy, hogy „az ördög” a bálványimádók egyikére utalna, és nem is valószínű, hogy a Próféta (ﷺ) azt mondaná egyiküknek: „Allah (ﷻ) ellensége, hamarosan foglalkozom veled.”
 
 Nézetünket támogatja az al-Tabaráni által Urva tekintélyére hivatkozva elbeszélt *mursal* hadísz. Ebben ez a kijelentés áll: „És Allah Küldötte (ﷺ) így szólt: »Ne rémítsen meg benneteket ez a hang. Allah (ﷻ) ellensége az, *Iblisz*. Senki sem hallotta őt azok közül, akiktől féltek.«…”
 
-⁹ Hiteles hadísz, Ibn Hisám beszélte el mursalként. Al-Hákim pótolta a láncszemeket, és azt mondta, Muszlim követelményei szerint hiteles. Támogatja egy hasonló hadísz magától Szuhajbtól.
+⁹ Hiteles hadísz. Ibn Hisám a Szírában (1/289) lánc nélkül, mursalként említi; al-Hákim (3/3983) összefüggő lánccal közölte Szábit, Anasz útján, továbbá Ajjúb, Ikrima útján mursalként, hasonló szöveggel, és azt mondta: „Muszlim feltételei szerint hiteles” – és így is van. Tanúbizonyságul szolgál magának Szuhajbnak a hadísza, amelyet al-Tabaráni jegyzett le, ahogyan az al-Madzsmában (6/60) áll, és al-Bajhaki, ahogyan az al-Bidájában (3/973–979) áll.
 
 ¹⁰ Hiteles hadísz, Bukhári, al-Hákim és al-Bajhaki beszélte el Áisa tekintélyére hivatkozva, valamint Bukhári, Muszlim és Ibn Mádzsa Abu Músza tekintélyére hivatkozva.
 
@@ -2526,13 +2526,13 @@ Szükségesnek éreztük e bevezető megjegyzéseket, mielőtt az azánról (az 
 
 Ibn Iszhák mondta:
 
-Amikor Allah Prófétája (ﷺ) Medinába érkezett, az emberek a kijelölt időkben gyűltek össze imára, anélkül, hogy bárki hirdette volna. A Próféta (ﷺ) ezért olyan kürtöt akart használni, mint a zsidóké, amellyel azok imáikat hirdették. Aztán elvetette a gondolatot. Majd megparancsolta, hogy készítsenek gongot, és azt kovácsolták, hogy az imák idején üssék meg.
+Amikor Allah Prófétája (ﷺ) Medinába érkezett, az emberek a kijelölt időkben gyűltek össze imára, anélkül, hogy bárki hirdette volna. A Próféta (ﷺ) ezért olyan kürtöt akart használni, mint a zsidóké, amellyel azok imáikat hirdették. Aztán elvetette a gondolatot. Majd megparancsolta, hogy készítsenek kereplőt, és kifaragták, hogy az imák idején üssék meg.
 
 Miközben ebben az állapotban voltak, Abdullah ibn Zajd ibn Szalaba álmában látta az imára hívást. Eljött Allah Küldöttéhez (ﷺ), és így szólt:
 
-„Ó, Allah Küldötte (ﷺ), az éjjel álmot láttam. Egy két zöld ruhát viselő férfi haladt el mellettem, kezében gongot vitt.
+„Ó, Allah Küldötte (ﷺ), az éjjel álmot láttam. Egy két zöld ruhát viselő férfi haladt el mellettem, kezében kereplőt vitt.
 
-Azt mondtam: »Ó, Allah (ﷻ) szolgája, eladod-e ezt a gongot?«
+Azt mondtam: »Ó, Allah (ﷻ) szolgája, eladod-e ezt a kereplőt?«
 
 Így felelt: »És mit csinálsz vele?«
 
@@ -2572,7 +2572,7 @@ Al-Zuhri mondja: „Bilál (رضي الله عنه) a reggeli ima azánjához ho
 
 Egy másik hadísz szerint Omár (رضي الله عنه) álmában látta, amint valaki azt mondja:
 
-„Ne a gongot használjátok, hanem hívjátok az embereket imára.” Omár (رضي الله عنه) ekkor elment a Prófétához (ﷺ), hogy elmondja neki ezt az álmot, ám erről már Kinyilatkoztatás jött hozzá. Omár (رضي الله عنه) meglepődött, amikor meghallotta Bilált (رضي الله عنه) imára hívni; és amikor elmondta a Prófétának (ﷺ), mit álmodott, a Próféta (ﷺ) így felelt:
+„Ne a kereplőt használjátok, hanem hívjátok az embereket imára.” Omár (رضي الله عنه) ekkor elment a Prófétához (ﷺ), hogy elmondja neki ezt az álmot, ám erről már Kinyilatkoztatás jött hozzá. Omár (رضي الله عنه) meglepődött, amikor meghallotta Bilált (رضي الله عنه) imára hívni; és amikor elmondta a Prófétának (ﷺ), mit álmodott, a Próféta (ﷺ) így felelt:
 
 „A Kinyilatkoztatás megelőzött téged benne.”¹¹
 
@@ -2774,7 +2774,7 @@ Ezenfelül Medinában kezdett kinyilatkoztatni a részletes törvényhozás, ame
 
 ² Ezt Bukhári és Muszlim beszélte el, meg mások is, Anasz (رضي الله عنه) tekintélyére hivatkozva.
 
-³ A dirá egy könyöknyi: ősi hosszmérték, amely az alkar hosszával egyenlő.
+³ [A dirá egy könyöknyi: ősi hosszmérték, amely az alkar hosszával egyenlő. – a ford.]
 
 ⁴ Ez tévedés. Al-Bajhaki Abu Szalama ibn Abdul-Rahmán ibn Auftól közölte. Így idézte Ibn Kathir az al-Bidájában, majd mursalnak (tehát gyengének) nyilvánította. Ibn Dzsarír hiteles lánccal Szad ibn Abd al-Rahmán al-Dzsumahitól beszélte el, hogy hozzá eljutott a Próféta (ﷺ) első medinai péntekén mondott khutba szövege – ez azonban teljesen különbözik Abu Szalama változatától. Ez az al-Dzsumahi a Tábiún követőitől (pl. Hisám ibn Urvától) hagyományoz, így ez a változat is gyenge, mert mudal.
 
@@ -3068,9 +3068,15 @@ A két sereg egymás felé vonult, és a bálványimádók kezdték a támadást
 
 Egy másik változat szerint maga a Próféta (ﷺ) hívta vissza a három ifjút, mert azt kívánta, hogy ilyen alkalommal először saját rokonai nézzenek szembe az ellenséggel. Így szólt tehát: „Kelj fel, Ubajda ibn al-Hárisz; kelj fel, Hamza; kelj fel, Ali (رضي الله عنه)!” Ubajda Utbával vívott, Hamza Sajbával, Ali (رضي الله عنه) pedig al-Valíddal. Hamza és Ali (رضي الله عنه) megölte ellenfelét, Ubajda és Utba azonban kölcsönösen megsebesítette egymást. Ekkor Hamza és Ali (رضي الله عنه) Ubajda segítségére sietett, végzett ellenfelével, őt magát pedig a vonal mögé vitték. A Próféta (ﷺ) lába elé fektették.
 
-Ubajda arcát a Próféta (ﷺ) lábához hajtotta,¹⁵ és így szólt: „Allah Küldötte (ﷺ), ha Abu Tálib látna engem, tudná, hogy nálánál méltóbb vagyok e szavaira: »Védelmezzük őt, míg mellette el nem esünk, s megfeledkezünk gyermekeinkről és feleségeinkről.«” Azután kilehelte lelkét.¹⁶
+Ubajda arcát a Próféta (ﷺ) lábához hajtotta,¹⁵ és így szólt: „Allah Küldötte (ﷺ), ha Abu Tálib látna engem, tudná, hogy nálánál méltóbb vagyok e szavaira:
 
-A hitetleneket úgy felbőszítette összecsapásuk szomorú kezdete, hogy nyílzáporral árasztották el a muszlimokat. Azután a csata hevesebbé vált, és kardok csaptak össze. A muszlimok azt kiáltották: „Ahad, Ahad!”, a Próféta (ﷺ) pedig megparancsolta nekik, hogy törjék meg az ellenség rohamait. A muszlimok mind a helyükön álltak, ezért azt mondta nekik: ha az ellenség rohamot kísérel meg ellenük, nyilakkal verjék vissza, és ne rontsanak rájuk, míg parancsot nem kapnak.¹⁷
+*»Védelmezzük őt, míg mellette el nem esünk,*
+
+*s megfeledkezünk gyermekeinkről és feleségeinkről.«”*
+
+Azután kilehelte lelkét.¹⁶
+
+A hitetleneket úgy felbőszítette összecsapásuk szomorú kezdete, hogy nyílzáporral árasztották el a muszlimokat. Azután a csata hevesebbé vált, és kardok csaptak össze. A muszlimok azt kiáltották: „Ahad, Ahad!”, a Próféta (ﷺ) pedig megparancsolta nekik, hogy helyükön maradva törjék meg az ellenség rohamait. Azt mondta nekik: ha az ellenség rohamot kísérel meg ellenük, nyilakkal verjék vissza, és ne rontsanak rájuk, míg parancsot nem kapnak.¹⁷
 
 Mire a csata a tetőpontjához közeledett, a muszlimok addigra felőrölték az ellenség erejét, és súlyos veszteségeket okoztak neki. A Próféta (ﷺ), még mindig kunyhójában, Allahhoz (ﷻ) fohászkodott, és figyelte emberei hősies erőfeszítéseit.
 
@@ -3524,7 +3530,7 @@ Ali (رضي الله عنه) elbeszélte: „Utánuk mentem hát, és láttam, h
 
 Ibn Iszhák mondta:
 
-„Amikor Abu Szufján indulni készült, a hegyhez lépett, és torkaszakadtából kiáltotta: »Megkaptam jutalmamat. A háború forgandó. Egy nap a badri napért. Magasztaltassék Hubal!«”
+„Amikor Abu Szufján indulni készült, a hegyhez lépett, és torkaszakadtából kiáltotta: »Megkaptam jutalmamat. A háború forgandó. Egy nap a badri napért. Légy magasztos, Hubal!«”
 
 A Próféta (ﷺ) azt mondta Omárnak (رضي الله عنه), hogy válaszoljon neki: „Mondd: »Allah (ﷻ) magasztosabb és fenségesebb! Nem egyformák vagyunk: a mi halottaink a Paradicsomban, a ti halottaitok a Tűzben vannak!«”
 
@@ -4744,7 +4750,7 @@ Amikor a Próféta (ﷺ) teljes ellenőrzést szerzett, Szalám ibn Miskam feles
 
 Vele volt Bisr ibn al-Bara, aki evett a húsból. A tettest elé vitték, és az asszony bevallotta, mit tett.
 
-Így szólt a Prófétához (ﷺ): „Bizonyos rangot értem el népem között, ami előtted sem titok. Azt mondtam hát: ha király, megszabadulunk tőle, ha pedig próféta, úgyis tudtára adatik.” A Próféta (ﷺ) megkímélte. Azután Bisr belehalt a méregbe,³⁶ és mondják, hogy ezért a Próféta kivégeztette az asszonyt, mások szerint viszont az felvette az iszlámot, ezért megbocsátott neki.
+Így szólt a Prófétához (ﷺ): „Bizonyos rangot értem el népem között, ami előtted sem titok. Azt mondtam hát: ha király, megszabadulunk tőle, ha pedig próféta, úgyis tudtára adatik.” A Próféta (ﷺ) megkímélte. Azután Bisr belehalt a méregbe,³⁶ és mondják, hogy ezért a Próféta (ﷺ) kivégeztette az asszonyt, mások szerint viszont az felvette az iszlámot, ezért megbocsátott neki.
 
 Khajbar zsidói ott maradtak, a földet művelve a termés feléért. A muszlimok iránti gyűlöletük azonban bűnökre ragadtatta őket. Az anszárok egyikét meggyilkolták, és Abdullah ibn Omár kezeit kificamították apja kalifátusának napjaiban.
 
@@ -5340,7 +5346,7 @@ Egy fához szorították, és köntösét is elragadták!
 
 Így szólt: „Ó, emberek, adjátok vissza köntösömet! Arra, Akinek kezében az életem: ha annyi jószágom volna számotokra, mint Tiháma fáinak száma, szétosztanám köztetek, és akkor sem találnátok fösvénynek, sem gyávának, sem hazugnak!” Azután megállt egy teve oldalánál, és szőrcsomót csippentett fel púpjából. Felmutatva így szólt: „Ó, emberek! Allahra (ﷻ), nekem nincs jogom zsákmányotokból még ennyire sem, ezen szőrcsomónyira sem – csak az ötödre, és az ötöd is visszaadatik nektek!”⁹²
 
-Szinte kiestek a szemgolyóik üregükből a világi haszon hajszolásában! Ezek a beduinok, szabadon bocsátottak és törzsfők semmi támaszt nem nyújtottak az iszlámnak nehézségei korai napjaiban. Sőt, ők voltak útjának súlyos akadályai, míg szét nem porlódtak az igaz hívők csákányai alatt, akik a túlvilág jutalmát kívánták, és azt választották, amit Allah (ﷻ) tartogatott számukra. Ma, az iszlámra való áttérésüket kihirdetve, azt követelték, hogy a Próféta nyissa meg nekik a föld kincsestárait, noha megesküdött, hogy semmit sem tart meg magának. Ha az övé lett volna az az egész völgyre való gazdagság, mindet szétosztotta volna nekik.
+Szinte kiestek a szemgolyóik üregükből a világi haszon hajszolásában! Ezek a beduinok, szabadon bocsátottak és törzsfők semmi támaszt nem nyújtottak az iszlámnak nehézségei korai napjaiban. Sőt, ők voltak útjának súlyos akadályai, míg szét nem porlódtak az igaz hívők csákányai alatt, akik a túlvilág jutalmát kívánták, és azt választották, amit Allah (ﷻ) tartogatott számukra. Ma, az iszlámra való áttérésüket kihirdetve, azt követelték, hogy a Próféta (ﷺ) nyissa meg nekik a föld kincsestárait, noha megesküdött, hogy semmit sem tart meg magának. Ha az övé lett volna az az egész völgyre való gazdagság, mindet szétosztotta volna nekik.
 
 Az igazság az, hogy a Próféta (ﷺ) nagylelkűségével utat nyitott a kapzsiságnak és mohóságnak, hogy megmutatkozzék azokban a szívekben, amelyeket az iszlámnak igyekezett megnyerni. Ha ehelyett megbüntette volna őket hunajni gyávaságukért, más lett volna a történet. Ahmad a következő esetet hagyományozta.⁹³
 
@@ -5576,7 +5582,7 @@ A Banú Szalama néhány férfia dühbe gurult, és szidalmakkal követett. Azt 
 
 „Miközben Medina piacán jártam, egy szíriai nabateus, aki élelmet jött eladni Medinába, így szólt: »Ki mutatja meg nekem Kab ibn Málikot (رضي الله عنه)?« Az emberek rám mutattak, ő pedig odajött, és átadott egy levelet Ghasszán királyától. Ezek a szavak álltak benne: »Továbbá: hírét vettem, hogy társad bojkott alá vont. Allah (ﷻ) azonban nem szánt téged a megaláztatás és veszteség helyére. Jöjj hozzánk, és kárpótolunk.« Elolvasva így szóltam: ez is a próbatétel egy fajtája. A kemencébe vetettem, és hamuvá égettem.”
 
-„Amikor az ötvenből negyven nap eltelt, a Próféta küldötte jött hozzám, és így szólt: »Allah Küldötte (ﷺ) megparancsolja, hogy tartsd távol magad feleségedtől.« Megkérdeztem, elváljak-e tőle, vagy sem, és azt mondta: »Nem. Csak tartsd távol magad tőle, és ne közeledj hozzá.«
+„Amikor az ötvenből negyven nap eltelt, a Próféta (ﷺ) küldötte jött hozzám, és így szólt: »Allah Küldötte (ﷺ) megparancsolja, hogy tartsd távol magad feleségedtől.« Megkérdeztem, elváljak-e tőle, vagy sem, és azt mondta: »Nem. Csak tartsd távol magad tőle, és ne közeledj hozzá.«
 
 Hasonló üzenetet kapott két társam is. Így szóltam feleségemhez: »Menj szüleidhez, és maradj náluk, míg Allah (ﷻ) nem dönt ebben az ügyben.«
 

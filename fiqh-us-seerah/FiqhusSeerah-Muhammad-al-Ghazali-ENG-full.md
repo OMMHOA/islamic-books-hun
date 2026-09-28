@@ -50,7 +50,7 @@ The enemies of Islām were able to demolish the structure of Islām and turn it 
 
 I apologize for my inability to do proper justice to the subject. The Prophet's (ﷺ) importance is great, and explaining his life needs a sensitive mind and a sharp intellect. Let it suffice to know that this is my effort.
 
-O Allāh (ﷻ)! bless Muhammad (ﷺ) and the family of Muhammad (ﷺ) just as you blessed Ibrāhīm (Abraham) (عليه السلام) and the family of Ibrāhīm (Abraham) (عليه السلام), and be bountiful to Muhammad (ﷺ) and the family of Muhammad (ﷺ) just as you were bountiful to Ibrāhīm (Abraham) (عليه السلام) and the family of Ibrāhīm (Abraham) (عليه السلام). Verily You are the Praiseworthy, All-Glorious.
+O Allāh (ﷻ)! bless Muhammad (ﷺ) and the family of Muhammad (ﷺ) just as you blessed Ibrāhīm (Abraham) (عليه السلام) and the family of Ibrāhīm (Abraham) (عليه السلام), and pour Your blessings on Muhammad (ﷺ) and the family of Muhammad (ﷺ) just as You poured them on Ibrāhīm (Abraham) (عليه السلام) and the family of Ibrāhīm (Abraham) (عليه السلام). Verily You are the Praiseworthy, All-Glorious.
 
 **Muhammad Al Ghazālī**
 
@@ -526,7 +526,7 @@ Muhammad (ﷺ) and his Companions learnt and taught, fought and made peace, defe
 
 Look how they are ordered, while standing in prayer before Allāh (ﷻ) to be extremely cautious and attentive. Allāh (ﷻ) did not allow any hope to them into thinking that the angels would descend and assist them. If they did not protect themselves, then no-one would protect them. That is what Allāh (ﷻ) said to Muhammad (ﷺ) and his Companions.
 
-When the Muslims failed to heed this lesson in the Battle of Uhud, they were dealt a painful blow, which felled seventy of their heroes and made them taste bitter defeat. On that day the leader of the unbelievers, Abū Sufyān, stood up and shouted "Long live Hubal!" (Their chief god). The Prophet (ﷺ) fought valiantly to save the situation: he fought and killed and was wounded.
+When the Muslims failed to heed this lesson in the Battle of Uhud, they were dealt a painful blow, which felled seventy of their heroes and made them taste bitter defeat. On that day the leader of the unbelievers, Abū Sufyān, stood up and shouted "Exalted be Hubal!" (Their chief god). The Prophet (ﷺ) fought valiantly to save the situation: he fought and killed and was wounded.
 
 Abū Hurairah (رضي الله عنه) narrates that the Messenger of Allāh (ﷺ) said on the day of Uhud:
 
@@ -634,15 +634,15 @@ We ask Allāh's pardon and refuge.
 
 ⁶ He is 'Urwa son of Al Zubayr. He never heard from 'Umar (رضي الله عنه) and in fact, never saw him. This report is therefore broken (munqaṭi') and weak. It is reported in the same manner by Al-Khaṭīb in Taqyīd al-'Ilm through several chains from 'Urwa, with the exception of the version of Rāshid, who reported it from Al-Zuhrī from 'Urwa and made it connected by mentioning 'Abdullāh ibn 'Umar between 'Urwa and 'Umar (رضي الله عنه). However, this version is anomalous (shādh), as Al-Khaṭīb himself indicated.
 
-⁷ Narrated by Bukhārī, Muslim and Ibn Abdul Barr.
+⁷ Narrated by the two Shaykhs (Bukhārī and Muslim) in their Ṣaḥīḥs, and by Abū Dāwūd (1/165, al-Tāzī edition) and Ibn 'Abdul Barr (12/121).
 
 ⁸ This explanation is improbable even impossible, since the Ḥadīth itself as narrated by Muslim says that 'Umar (رضي الله عنه) was the first to meet Abū Huraira (رضي الله عنه) and hear it from him. May be the author should look at it again.
 
 ⁹ What I say is correct. Sheikh Nāṣiruddin has no reasonable objection to my explanation. (Author).
 
-¹⁰ A sound Ḥadīth narrated by Aḥmad and Al-Ṭaḥāwi in Sharḥ Ma'ānī al Āthār from Abdul Rahmān ibn Shibl.
+¹⁰ A sound Ḥadīth narrated by Aḥmad (3/428–444) and Al-Ṭaḥāwī in Sharḥ Ma'ānī al-Āthār (2/10) from 'Abdul Raḥmān ibn Shibl, traced back to the Prophet (ﷺ) (marfū'). Its chain is sound, and al-Ḥāfiẓ considered it strong in al-Fatḥ (9/282).
 
-¹¹ A sound Ḥadīth narrated by Ibn 'Abdul Barr as well as other compilers.
+¹¹ A sound Ḥadīth narrated by Ibn 'Abdul Barr (1/39), and likewise by the authors of the Sunan, Al-Dārimī and Aḥmad, as a ḥadīth of Zayd ibn Thābit. Its chain is sound; Ibn Ḥibbān, Ibn Ḥajar and others declared it sound.
 
 ¹² Narrated by Abū Dāwūd Al-Tirmidhī, Ibn Sa'd and Al Baihaqi through Al-Zuhri. The last said: "Nabhān, freedman of Umm Salamah, reported from Umm Salamah that she said: "I was with the Prophet (ﷺ) and so was Maymūnah and Ibn Umm Maktūm approached. This was after ḥijab was instituted. The Prophet (ﷺ) said: Veil yourselves from him. So we said: "O Messenger of Allāh (ﷺ), isn't he blind and cannot see or recognize us? He replied: "Are you blind? Aren't you seeing him? Al-Tirmidhī said it is a good and sound Ḥadīth, and Ibn Ḥajar declared its chain of narrators to be strong in his Fatḥ al Bari. This is doubtful, however, since Nabhan is accepted as authentic only by Ibn Ḥibbān who is known for his negligence in authenticating the narrators. This fact is pointed out by Ibn Ḥajar himself in his introduction to Lisan al-Mizan. For this reason we see that he did not authenticate Nabhan in Al Taqrib but said of him: "Acceptable", i.e. when corroborated — but he has no corroborator for this Ḥadīth. This statement can only mean that this Ḥadīth is unacceptable. Ibn 'Abdul Barr says: "He is not of those whose ḥadīths are authentic and this Ḥadīth of his is munkar (rejected)", as quoted by Ibn al Turkmani in Al Jawhar Al Naqi.
 
@@ -1453,7 +1453,7 @@ The Quraish realized that their target was far beyond their reach, so they went 
 
 The journey to Abyssinia was a secret procedure so as not to arouse the Quraish, who would try to stop it. Nor did it begin on a large scale. The first batch was made up of a few families, among whom were Ruqayyah, daughter of the Prophet (ﷺ), her husband, 'Uthmān ibn 'Affān (رضي الله عنه), and a small group of other emigrants not exceeding sixteen in total. They headed for the sea where Providence had waiting for them two merchant ships, which took them to Abyssinia. By the time the Quraish had reached the shore in pursuit of their trail, they had already set sail. However, it was not long after they had settled in that land when the news came to them that the idolaters had concluded a truce with Islām and had agreed to leave the Muslims free to practise their religion without molestation. Thus they felt there was no harm in returning to Makkah. This rumour has its effect on the Muslim emigrants and they decided to return to their home-town. When they approached Makkah, thought, the woeful reality became apparent: the idolaters were more bitter than ever in their enmity towards Allāh (ﷻ), His Prophet and the believers, and their aggression had not ceased for one second.
 
-Some simpletons claim that there was actually a truce between Islām and paganism and it all came about because Muhammad (ﷺ) sought to curry favour with the idolaters by praising their idols and recognizing their status. They claim that this truce had brought the Muslims back from Abyssinia, what Muhammad (ﷺ) said in praise of the idols. The simpletons claim that he said: (Those lofty cranes, And surely their intercession is to be sought.)
+Some simpletons claim that there was actually a truce between Islām and paganism and it all came about because Muhammad (ﷺ) sought to curry favour with the idolaters by praising their idols and recognizing their status (!). They claim that this truce had brought the Muslims back from Abyssinia, what Muhammad (ﷺ) said in praise of the idols. The simpletons claim that he said: (Those lofty cranes, And surely their intercession is to be sought.) (?!)
 
 Where did he say these words? In Sūrah Al Najm, between the Qur'ānic āyāt (verses) which mention these idols. Thus it became like this:
 
@@ -1659,7 +1659,7 @@ The Messenger of Allāh (ﷺ) went to Ṭā'if where the Thaqīf lived. It is ab
 
 The Thaqīf, however, were even ruder than expected. They replied, saying: "Get out of our country!" They incited the youngest and street rabble to pelt him with stones. Zayd (رضي الله عنه) tried in vain to defend him and in the process his head was injured. The Prophet (ﷺ) himself sustained such serious injuries that blood began to flow freely from them. The pursuers forced them to take refuge in garden belonging to 'Utbah and Shaybah, sons of Rabi'ah. There he sat in the shade of a grapevine, seeking rest and security. The gardeners, who were around, chased away the rabble, and the Prophet (ﷺ) sat there, reflecting on his miserable condition. Memories of his sufferings at the hands of the Quraish came back to him: he was dragging behind him a heavy chain of consecutive failures. So he cried out:
 
-"O Allāh (ﷻ), to you I complain of the weakness of my strength, the meagreness of my strategy and my insignificance to people. You are the Most Merciful of those who show mercy; You are the Lord of the oppressed and You are my Lord. To a distant person who will despise me, or to an enemy to whom you have granted power over me? If you are not angry with me then I do not care. However, Your pardon is best for me. I seek refuge in the light of Your Countenance, for which darkness has become illuminated and upon which the prosperity of this world and the Hereafter stands, from your anger befalling me, or Your displeasure afflicting me. It is Your right to scold until you are pleased, and there is no strength or power save in You."
+"O Allāh (ﷻ), to you I complain of the weakness of my strength, the meagreness of my strategy and my insignificance to people. You are the Most Merciful of those who show mercy; You are the Lord of the oppressed and You are my Lord. To a distant person who will despise me, or to an enemy to whom you have granted power over me? If you are not angry with me then I do not care. However, Your pardon is best for me. I seek refuge in the light of Your Countenance, for which darkness has become illuminated and upon which the prosperity of this world and the Hereafter stands, from your anger befalling me, or Your displeasure afflicting me. To You I turn, seeking Your pleasure, until You are pleased, and there is no strength or power save in You."
 
 The feelings of kinship stirred in the hearts of Rabi'ah's sons as they summoned a Christian slave of theirs, who was called 'Addās, and asked him to take a handful of grapes to the Prophet (ﷺ).
 
@@ -1843,7 +1843,7 @@ In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never all
 
 ¹ Narrated by Bukhārī and Muslim.
 
-² A weak Ḥadīth, narrated by Al Tirmidhī, who mentioned that there was some dispute about its chain. The chain has Yūnus ibn Sālim in it, and from him 'Abdul Razzaq, narrated it. But Yūnus is not known. 'Abdul Razzaq was asked about him, and he said: "I don't think he is anything."
+² A weak Ḥadīth. Al-Tirmidhī narrated it (2/151–152) and mentioned that there is disagreement over its chain. It hinges on Yūnus ibn Sulaym, from whom 'Abdul Razzāq narrated it, and this Yūnus is unknown. It was also narrated by Aḥmad (no. 223), Al-Ḥākim (1/535 and 2/292) and — as they quote him — Al-Nasā'ī, who said: "This is a munkar (rejected) Ḥadīth; we know of no one who narrated it except Yūnus, and we do not know Yūnus." Al-Ḥākim said: "Its chain is sound" — this is from his laxity. Al-Dhahabī contradicted himself: in the first place he agreed with Al-Ḥākim's authentication, which misled Shaykh Aḥmad Shākir, but in the other place he corrected him, saying: "I say: 'Abdul Razzāq was asked about this teacher of his and said: 'I think he is nothing.'" In al-Mīzān he endorsed Al-Nasā'ī's statement: "This is a munkar Ḥadīth." Ibn Ḥibbān's declaring this Ibn Sulaym reliable counts for nothing, especially as his student 'Abdul Razzāq knew him better than Ibn Ḥibbān did.
 
 ³ This is the meaning of the Ḥadīth narrated by Bukhārī on the authority of 'Ā'ishah.
 
@@ -1851,7 +1851,7 @@ In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never all
 
 ⁵ This is the meaning of the Ḥadīth narrated by Bukhārī on the authority of Zayd ibn Thabit (رضي الله عنه).
 
-⁶ A sound Ḥadīth coming from different sources, each strengthening the other.
+⁶ A sound Ḥadīth that has come by several routes: the first from Ibn Mas'ūd, narrated by Al-Ḥākim (2/4); the second from Abū Umāmah, narrated by Al-Ṭabarānī in al-Kabīr and Abū Nu'aym in Ḥilyat al-Awliyā' (10/27); the third from Ḥudhayfah, narrated by Al-Bazzār as in al-Targhīb (3/7) and Al-Haythamī in Majma' al-Zawā'id (4/71). These routes strengthen one another; that is why — Allāh knows best — Ibn al-Qayyim in Zād al-Ma'ād attributes the Ḥadīth to him (ﷺ) with certainty.
 
 ⁷ Communication of the physical body with the unseen world is strenuous for human nature. It may be compared to what the mediums experience during hypnosis, though there is a great difference.
 
@@ -1863,17 +1863,17 @@ In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never all
 
 ¹¹ I did not find this narrator in the list of narrators. There is only Ja'far ibn 'Abdullāh ibn al-Ḥakam, an Anṣārī of the Aws and a younger Tābi'ī, who narrated from Anas (رضي الله عنه) and the Tābi'ūn. If he is this person, then the chain is mursal and therefore weak; I have not found the chain leading to him. However, if it is someone else, then I have no knowledge of him.
 
-¹² A good and sound Ḥadīth. It is narrated from various authentic sources, which strengthen one another.
+¹² A good, sound (ḥasan ṣaḥīḥ) Ḥadīth. Ibn Is-ḥāq reports it in the Sīrah (1/203) without a chain (balāghan). Al-Ḥākim (3/388–389) and Al-Ṭabarānī in al-Awsaṭ — as in al-Majma' (9/293) — gave it a connected chain from Jābir ibn 'Abdullāh; Al-Ḥākim said: "Sound according to Muslim's conditions," and Al-Dhahabī agreed. Abū Aḥmad al-Ḥākim also narrated it — as in al-Iṣābah — via 'Uqayl from Al-Zuhrī from Ismā'īl ibn 'Abdullāh ibn Ja'far from his father; this is a sound chain, one of the mursal reports of the Companions, which the scholars accept. Aḥmad (no. 439) and Abū Nu'aym in al-Ḥilyah (1/140) narrated it from 'Uthmān ibn 'Affān; its narrators are reliable, but the chain is broken, as al-Ḥāfiẓ said. These routes attest to the soundness of the Ḥadīth.
 
-¹³ There is some doubt about the authenticity of this narration, since the name of the Ṣaḥābī who heard from the Prophet (ﷺ) is not mentioned (i.e. it is a mursal Ḥadīth). There is no doubt though, that the āyah (verse) of the Qur'ān was revealed about 'Ammār (رضي الله عنه), for this is corroborated by various sources. However, Allāh (ﷻ) knows best.
+¹³ The authenticity of this account is doubtful; its defect is that it is mursal. Ibn Jarīr narrated it in his Tafsīr (12/113), Abū Nu'aym (9/140) and Abū Bakr al-Jaṣṣāṣ in Aḥkām al-Qur'ān (3/236), via Abū 'Ubaydah ibn Muḥammad ibn 'Ammār ibn Yāsir, who said: "The idolaters seized 'Ammār and did not let him go until he had reviled the Messenger of Allāh (ﷺ) and spoken well of their gods…" and so on. Al-Ḥākim (2/357) narrated it from this Abū 'Ubaydah from his father, then said: "Sound according to the conditions of the two Shaykhs," and Al-Dhahabī agreed. So they said; long ago I too was misled by their words, but their error has now become clear to me, since all the others narrate it from Abū 'Ubaydah. And even granting that Abū 'Ubaydah's "from his father" is correct, his father was a Tābi'ī, not a Companion, so the Ḥadīth is mursal, if not mu'ḍal. Moreover, the two Shaykhs narrated nothing from either Abū 'Ubaydah or his father; of the former Ibn Abī Ḥātim (2/4/405) quotes his father: "His ḥadīths are munkar," and Ibn Ma'īn and others agreed. How then could this Ḥadīth be sound — let alone good — by their conditions?! Only the revelation of the āyah (16:106) is authentic from it, since that has come through the routes Ibn Jarīr cites. Allāh (ﷻ) knows best.
 
 ¹⁴ A sound Ḥadīth narrated by Abū Dāwūd, Al Tirmidhī and Ibn Mājah. Al Tirmidhī said it was a good and sound Ḥadīth. Al Ḥākim also narrated it and said it was authentic according to the stipulations of Bukhārī and Muslim.
 
-¹⁵ This story is transmitted by Ibn Is-ḥāq in Al Maghāzī. It is also narrated by Ibn Kathīr in his Tafsīr and in both cases the chain of narrators is a good one.
+¹⁵ This story was narrated by Ibn Is-ḥāq in al-Maghāzī (1/185, from Ibn Hishām's Sīrah) with a good chain from Muḥammad ibn Ka'b al-Quraẓī as mursal; 'Abd ibn Ḥumayd and Abū Ya'lā al-Baghawī connected it by another route as a ḥadīth of Jābir (رضي الله عنه), as in Ibn Kathīr's Tafsīr (4/9–91). Its chain is good, in shā' Allāh.
 
-¹⁶ A weak Ḥadīth narrated by Ibn Is-ḥāq and Ibn Jarīr. The person who reported this Ḥadīth, Ya'qub ibn 'Utbah, never met any of the Companions. He was thus a disciple of the Tabi'in. The story is also narrated by Al Ṭabarāni on the authority of 'Aqīl ibn Abi Ṭālib, and in this version, instead of "if they put…" it has, "I am no more capable of abandoning that with which I have been sent than of snatching a flame of fire from the sun." It continues, "And Abū Ṭālib said, 'By God, my nephew has never lied. Go back and be of good cheer.'"
+¹⁶ A weak Ḥadīth narrated by Ibn Is-ḥāq (1/170), and through him by Ibn Jarīr (2/67), from Ya'qūb ibn 'Utbah ibn al-Mughīrah ibn al-Akhnas. This chain is mu'ḍal: Ya'qūb never met any of the Companions; he belongs to the generation after the Tābi'īn. Al-Ṭabarānī narrated the story in abridged form in al-Awsaṭ and al-Kabīr as a ḥadīth of 'Aqīl ibn Abī Ṭālib, and in place of "if they put the sun…" it has: "By Allāh, I am no more able to abandon that with which I have been sent than anyone is to snatch a flame of fire from this sun." After this it has: "And Abū Ṭālib said, 'By Allāh, my nephew has never lied. Go back rightly guided.'" Al-Haythamī says in al-Majma' (6/15): "Abū Ya'lā narrated it with a slight abridgment at the beginning, and Abū Ya'lā's narrators are those of the Ṣaḥīḥ."
 
-¹⁷ Where is the historical proof of this reasoning that it was the idolaters who fabricated this charge and attempted to spread it? Such matters must have historical proof. What is there to rule out that this charge could have been invented afterwards? In fact, this is more plausible since there is no authentic narration of it from a Ṣaḥābī. All of its sources stop short of the Ṣaḥābah and none of the narrators were known to exist at the time of the Prophet (ﷺ). I have explained in detail the falseness of this story in my forthcoming book.
+¹⁷ Where is the historical proof of this reasoning that it was the idolaters who fabricated this charge and attempted to spread it? Such matters must have historical proof. What is there to rule out that this charge could have been invented afterwards? In fact, this is more plausible since there is no authentic narration of it from a Ṣaḥābī. All of its sources stop short of the Ṣaḥābah and none of the narrators were known to exist at the time of the Prophet (ﷺ). I have explained in detail, from the standpoint of ḥadīth science, the falseness of this story in my book Naṣb al-Majānīq li-Nasf Qiṣṣat al-Gharānīq, which has not yet been printed.
 
 ¹⁸ The Christians of old differed over the nature of Issā (Jesus) (عليه السلام) and split into several sects as a result. There was one sect which considered him to be a human Prophet and not a god or partner of God. In the Christian West there still remain some people who profess this monotheistic faith although the church hierarchy totally disagreed with him.
 
@@ -2155,7 +2155,7 @@ He said: "Companionship."
 
 Abū Bakr (رضي الله عنه) then said: "Prophet of Allāh (ﷺ), I have groomed these two mounts for this."
 
-So they hired 'Abdullāh Ibn Urayqit who was still an idolater to be their guide to Madīnah. They entrusted him with the two mounts and he kept them and groomed them until the appointed time.¹⁴
+So they hired 'Abdullāh Ibn Urayqit, who was still an idolater (!), to be their guide to Madīnah. They entrusted him with the two mounts and he kept them and groomed them until the appointed time.¹⁴
 
 Ibn Isḥāq continued:
 
@@ -2345,13 +2345,13 @@ The best that we can derive from these ḥadīths is that this usage is disliked
 
 ⁶ A sound Ḥadīth narrated by Ibn Isḥāq in his *Maghāzī*. However, the last part "You are the guardians…" is mursal and therefore weak.
 
-⁷ A good Ḥadīth narrated by Aḥmad.
+⁷ A good Ḥadīth narrated by Imām Aḥmad (5/343) via Shahr ibn Ḥawshab from 'Abdul Raḥmān ibn Ghanm from Abū Mālik al-Ash'arī; Shahr has some weakness. Al-Mundhirī (4/48) said: "Aḥmad and Abū Ya'lā narrated it with a good chain, and so did Al-Ḥākim, who said: its chain is sound." I say: I did not find it in Al-Ḥākim's Mustadrak as a ḥadīth of Abū Mālik; he narrated it only (4/170) as a ḥadīth of Ibn 'Umar (رضي الله عنه), with similar wording, and said: its chain is sound; Al-Dhahabī agreed, and it is as he said. So this is a strong corroboration of Abū Mālik's ḥadīth.
 
 ⁸ This is from the Ḥadīth of Ka'b Ibn Mālik (رضي الله عنه) mentioned above. An observation here is that the author related the meaning of the first part of the Ḥadīth and not the words, which are as follows: "And when we took the pledge with the Messenger of Allāh (ﷺ), the devil shouted from the head of 'Aqabah in the most piercing tone I had ever heard, and the Prophet (ﷺ) said: 'This is the devil of 'Aqabah this is the son of the devil. Listen, enemy of Allāh (ﷻ), by Allāh (ﷻ), I shall soon apply myself to you.' It cannot be understood from this text that "the devil" refers to one of the idolaters nor is it likely that the Prophet (ﷺ) would say to one of them, "Enemy of Allāh (ﷻ), I shall soon apply myself to you."
 
 Our view is supported by the *mursal* Ḥadīth narrated by Al Ṭabarāni on the authority of 'Urwa. In it is this statement: "And the Messenger of Allāh (ﷺ) said: 'Let not this voice scare you. It is the enemy of Allāh (ﷻ), *Iblis*. No-one whom you fear has heard him.'…"
 
-⁹ A sound Ḥadīth narrated by Ibn Hishām as mursal. Al-Ḥākim supplied the links and said it was sound according to the requirements of Muslim. It is supported by a similar Ḥadīth from Ṣuhayb himself.
+⁹ A sound Ḥadīth. Ibn Hishām mentions it in the Sīrah (1/289) without a chain, as mursal; Al-Ḥākim (3/3983) connected it via Thābit from Anas, and via Ayyūb from 'Ikrimah as mursal, with similar wording, and said: "Sound according to Muslim's conditions" — and it is as he said. It is corroborated by a ḥadīth of Ṣuhayb himself, narrated by Al-Ṭabarānī as in al-Majma' (6/60) and by Al-Bayhaqī as in al-Bidāyah (3/973–979).
 
 ¹⁰ A sound Ḥadīth narrated by Bukhārī, Al-Ḥākim and Al-Bayhaqī on the authority of 'Ā'ishah, and by Bukhārī, Muslim and Ibn Mājah on the authority of Abū Mūsā.
 
@@ -2569,13 +2569,13 @@ We felt it necessary to make these preliminary remarks before discussing the Adh
 
 Ibn Ishāq said:
 
-When the Prophet of Allāh (ﷺ) arrived at Madīnah the people used to assemble for prayers at their prescribed times without there being any announcement. So the Prophet (ﷺ) wanted to use a bugle like that of the Jews with which they announced their prayers. Then he decided against the idea. Then he ordered a gong to be made and it was forged to be struck at the times of prayer.
+When the Prophet of Allāh (ﷺ) arrived at Madīnah the people used to assemble for prayers at their prescribed times without there being any announcement. So the Prophet (ﷺ) wanted to use a bugle like that of the Jews with which they announced their prayers. Then he decided against the idea. Then he ordered a clapper (nāqūs) to be made, and it was carved to be struck at the times of prayer.
 
 While they were in that state, 'Abdullāh ibn Zayd ibn Tha'labah saw the call to prayer in a dream. He came to the Messenger of Allāh (ﷺ) and said:
 
-"O Messenger of Allāh (ﷺ), last night I had a dream. A man wearing two green garments passed by me and he was carrying a gong in his hand.
+"O Messenger of Allāh (ﷺ), last night I had a dream. A man wearing two green garments passed by me and he was carrying a clapper in his hand.
 
-I said: 'O servant of Allāh (ﷻ), will you sell this gong?'
+I said: 'O servant of Allāh (ﷻ), will you sell this clapper?'
 
 He replied: 'And what will you do with it?'
 
@@ -2615,7 +2615,7 @@ Al-Zuhrī says: "Bilal (رضي الله عنه) added to the adhān of the morni
 
 In another Ḥadīth 'Umar (رضي الله عنه) is said to have seen in his dream someone saying:
 
-"Do not use the gong but call people to prayer." 'Umar (رضي الله عنه) then went to the Prophet (ﷺ) to inform him of this dream but Revelation had already come to him about that. 'Umar (رضي الله عنه) was surprised when he heard Bilal (رضي الله عنه) calling to prayer, and when he told the Prophet (ﷺ) of what he dreamt, the Prophet (ﷺ) replied:
+"Do not use the clapper but call people to prayer." 'Umar (رضي الله عنه) then went to the Prophet (ﷺ) to inform him of this dream but Revelation had already come to him about that. 'Umar (رضي الله عنه) was surprised when he heard Bilal (رضي الله عنه) calling to prayer, and when he told the Prophet (ﷺ) of what he dreamt, the Prophet (ﷺ) replied:
 
 "Revelation has preceded you to it.¹¹
 
@@ -2817,7 +2817,7 @@ It is worth mentioning here that 'Ā'ishah started living with the Prophet (ﷺ)
 
 ² This is narrated by Bukhārī and Muslim as well as others on the authority of Anas (رضي الله عنه).
 
-³ A dhirā' is equivalent to a cubit, an ancient linear measure equal to the length of a forearm.
+³ [A dhirā' is equivalent to a cubit, an ancient linear measure equal to the length of a forearm — translator's note]
 
 ⁴ This is a mistake. Al-Bayhaqī reported it from Abū Salamah ibn 'Abdul-Rahmān ibn 'Auf. This is how Ibn Kathīr quoted it in Al-Bidāyah, then he declared it to be mursal (therefore weak). Ibn Jarīr narrated with a sound chain from Sa'd ibn 'Abd al-Raḥmān al-Jumaḥī that the text of the Prophet's (ﷺ) sermon at his first Friday prayer in Madīnah had reached him — and it is totally different from Abū Salamah's version. This al-Jumaḥī narrates from the Followers of the Tābi'ūn (such as Hishām ibn 'Urwah), so this version too is weak, because it is mu'ḍal.
 
@@ -3111,9 +3111,15 @@ They shouted: "Muhammad (ﷺ), send out our equals from our own people."
 
 Another version says that the Prophet (ﷺ) himself recalled the three youths since he wished that the enemy should be faced first by his own relatives on such an occasion. He thus said: "Arise, 'Ubaydah ibn al-Ḥārith; arise, Ḥamzah; arise, 'Alī (رضي الله عنه)." 'Ubaydah fought with 'Utbah, Ḥamzah fought with Shaybah, and 'Alī (رضي الله عنه) fought with Al-Walīd. Ḥamzah and 'Alī (رضي الله عنه) killed their opponents, but 'Ubaydah and 'Utbah both wounded each other. Then Ḥamzah and 'Alī (رضي الله عنه) came to the help of 'Ubaydah, finished off his opponent and took him back behind the line. They laid him at the feet of the Prophet (ﷺ).
 
-He put his cheek against the Prophet's (ﷺ) feet¹⁵ and said: "Messenger of Allāh (ﷺ), if Abū Ṭālib saw me, he would know that I am more worthy of his statement: 'We protect him till we die in the effort though we may neglect our children and wives.'" He then breathed his last.¹⁶
+He put his cheek against the Prophet's (ﷺ) feet¹⁵ and said: "Messenger of Allāh (ﷺ), if Abū Ṭālib saw me, he would know that I am more worthy of his statement:
 
-The unbelievers were so enraged at the sad beginning of their encounter that they bombarded the Muslims with a shower of arrows. Then the battle intensified and swords clashed. The Muslims shouted "Aḥad, Aḥad," and the Prophet (ﷺ) ordered them to break the attacks of the enemy. The Muslims were all fixed in their stations, and so he told them that if the enemy tried to charge them, they should repel them with arrows and not rush towards them unless the order was given.¹⁷
+*'We protect him till we die in the effort,*
+
+*though we may neglect our children and wives.'"*
+
+He then breathed his last.¹⁶
+
+The unbelievers were so enraged at the sad beginning of their encounter that they bombarded the Muslims with a shower of arrows. Then the battle intensified and swords clashed. The Muslims shouted "Aḥad, Aḥad," and the Prophet (ﷺ) ordered them to break the attacks of the enemy while holding their stations. He told them that if the enemy tried to charge them, they should repel them with arrows and not rush towards them unless the order was given.¹⁷
 
 As the battle was nearing its peak, the Muslims had by that time exhausted the enemy's strength and dealt them some heavy losses. The Prophet (ﷺ), still in his hut, was supplicating to Allāh (ﷻ) and watching the heroic efforts of his men.
 

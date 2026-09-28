@@ -52,14 +52,19 @@ and stay.
 | Preface | "…confident that it would not **revive the dead**" | «وهم واثقون أنه لن يحيى **مواتا**» (AR p.6) | would not revive **what is lifeless** (*mawāt*, dead land — not *al-mawtā*) |
 | Preface, new-edition note | "a **sifting** of historical events" | «**ضبط** الوقائع التاريخية» (AR p.7) | the **accurate verification** of historical events |
 | Preface | "is like the one what made [the Jews]…" | «هو الذى جعل اليهود والنصارى يذيعونه» | *is what* made them broadcast it |
+| Preface, closing prayer | "and be **bountiful** to Muhammad… as you were bountiful to Ibrāhīm" | «وبارك على محمد… كما باركت على إبراهيم» | pour Your **blessings** (barakah) on Muhammad… as You poured them on Ibrāhīm |
 | Preface fn1 | "three provinces of Morocco" | «أقطار المغرب الثلاثة» | the three Maghreb countries |
 | ch1 | "hung its **upliftment** on a sacrifice. They turned the ideology of Jesus into a hotchpotch of unnatural beliefs, myths and legends" | «وانتكس بالإنسان، فعلق **همته** بالقرابين، وفكره بالألغاز المعماة» (AR p.16) | caused man to regress, pinning his **aspiration** to sacrificial offerings and his **thought to obscure riddles** (the "hotchpotch" sentence is invented) |
+| ch1 | Abū Sufyān's cry "**Long live** Hubal!" | «اعلُ هبل» | "**Exalted be** Hubal!" (as the edition itself has in ch6) |
 | ch1 | "gateway" of forgiveness | «لم ينصب نفسه "بابا"» | **Pope** (indulgences) |
 | ch1 | "poets and revolutionaries" | «من شعراء وناثرين» | poets and **prose-writers** (ثائرين misread) |
 | ch1 | "the people of this lake (Madīnah)" | «أهل هذه البحيرة» | this **town** |
 | ch1, p.45 | "bull" | كرة | **ball** |
+| ch3, the Ṭā'if prayer | "It is Your right to **scold** until you are pleased" | «لك العتبى حتى ترضى» (AR p.98, scan-checked) | To You I turn, **seeking Your pleasure**, until You are pleased (*ʿutbā*, not *ʿitāb*) |
 | ch3, p.81 | Sumayyah speared in the **heart** | قُبل | in the **pudendum** |
 | ch4 | the Madīnah du'ā': "make it **a good place**… make it free from illness" | «صححها… وانقل حماها واجعلها بالجحفة» (AR p.134) | make it **healthy**… **remove its fever and place it in al-Juḥfah** |
+| ch5 | the Prophet ordered "a **gong**… and it was **forged**" (+3× "gong") | «ثم أمر بالناقوس، فنُحت» | a wooden **clapper** (nāqūs)… it was **carved** |
+| ch6 | "The Muslims were all fixed in their stations, **and so** he told them…" | «أن يكسروا هجمات المشركين؛ وهم مرابطون فى مواقعهم. وقال:» | break the enemy's attacks **while holding their stations**. He said: … |
 | ch6, p.179 | Badr: **313** companions | | **315** |
 | ch6, p.227 | "forty **feet**" | dhirā' | forty **cubits** |
 | ch6, p.246 | Khālid "**migrated**" | | **intended to migrate** |
@@ -149,6 +154,7 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
   قادرا على النفقة اللازمة»; *dayyūth* in «داعر وديوث أو قواد»; Zaynab's brother accepting
   "merely out of obedience"; the end of Q33:36; the eclipse prayer «فقام النبى مصليا بالناس»;
   the Prophet's tail «ويحرموا ما أحل الله» after Q9:37; fn2's *mawqūf* + tadlīs verdict.
+- **The author's (!) and (?!)** — ch3, the cranes story: after "recognizing their status" and after the alleged verse; ch4: after "Ibn Urayqit, who was still an idolater" (AR «وهو مشرك(!)»).
 - **Ch9 / Epilogue:** fn4's grading of the second version (weak, unknown narrator); the
   closing line «تم بحمد الله ومنّته».
 
@@ -167,6 +173,13 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
   126, 129), ch6 +16 (pp.167, 185, 186, 197, 201, 206 ×3, 207 ×2, 208, 209, 210, 219, 220,
   224), ch7 +6 (pp.267, 280, 283, 292 ×2, 301); plus the dropped closing of ch7 fn51 (Musnad
   no. 3536).
+- **Shortened footnotes written out in full (2026-09-28):** the English had cut al-Albānī's sources,
+  gradings and arguments down to a line — ch1 fn7 (Abū Dāwūd and the references), fn10 ("its chain is
+  sound", al-Ḥāfiẓ in al-Fatḥ 9/282), fn11 (the Sunan authors, al-Dārimī, Aḥmad, the authentications);
+  ch3 fn2 (al-Nasā'ī's *munkar*, al-Ḥākim's laxity, al-Dhahabī's contradiction), fn6 (the three routes),
+  fn12, fn13 (why it is mursal), fn15, fn16, and fn17's book title «نصب المجانيق لنسف قصة الغرانيق»; ch4 fn7
+  (Shahr ibn Ḥawshab, al-Mundhirī, Ibn 'Umar's corroborating report) and fn9 (al-Ṭabarānī and al-Bayhaqī).
+  More footnotes are likely shortened (see TODO).
 - **Misanchored markers** moved to the Arabic anchor: ch4 fn14 → Aḥmad's spider-web report;
   ch5 fn1; ch6 fn19 («شاهت الوجوه»), fn43 («نحرى دون نحرك»), fn59 («لأدينَّهما») (numbers as before
   the 2026-09-25 restorations); ch7 fns 56/57 (one slot too early).
@@ -179,6 +192,7 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
 | ch7, ENG ~4907 + fn15 | treaty/story of **Hubaybiyah/Ḥubaybiyah** | **Ḥudaybiyah** «الحديبية» |
 | ch7, ENG ~4369–4377 | **Al-Halis / Al-Halīs / Halīs** | **Al-Ḥulays** «الحليس» |
 | ch7, ENG ~5370 | "another from **Aslaj**" | **Aslam** «أسلم» (AR p.318) |
+| ch3 fn2 | **Yūnus ibn Sālim** | **Yūnus ibn Sulaym** «يونس بن سليم» |
 | ch6 fn36 | "**Mursi ibn 'Aqabah**" | **Mūsā ibn 'Uqbah** «موسى بن عقبة» (AR p.187 fn١) |
 | fns 36/98/108/116 | ***mu'addal*** | ***mu'ḍal*** «معضل» |
 | ch8, ENG ~5906 | **Abū Sufāyn** | **Abū Sufyān** |

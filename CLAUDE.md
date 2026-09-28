@@ -81,6 +81,9 @@ ch7 128, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
   *Muhammad* (Muhammad al-Ghazáli, Muhammad Násziruddín al-Albáni, ḥadīth narrators), as does
   the shahāda (*Muhammadan raszúlu-llah*). **Mekka**, **Medina** (leave the word *mekkora*
   alone).
+- Render the author's word even when the Hungarian has a Christian ring: صلب → **keresztre feszít**
+  (user decision 2026-09-28; crucifixion predates Jesus). This is not the *menny* case below, where
+  the Arabic has neutral words (السماء, الجنة) that *menny* doesn't render.
 - Afterlife: never *menny/mennyország*. السماء → **ég / égi / egek**; الجنة → **Paradicsom**;
   الآخرة → **túlvilág**; **Pokol** capitalised like Paradicsom (derived adjectives lowercase).
   (The unrelated *mennyi, mennyire, mennydörgés, mennykő, mennyezet* are fine.)

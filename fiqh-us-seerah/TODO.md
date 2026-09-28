@@ -16,7 +16,10 @@ Open work only. Finished work is in the git history; the English edition's error
   translation.
 - [ ] ch7: „A Banú Iszráíl hatalmas királyok népe volt…” – *népe* was added when „Izrael fiai
   … voltak” became singular (2026-09-28); check it against the Arabic.
-- [ ] Decide on the Opus 5.5 review's suggestions – decision list below.
+- [ ] Decide on the Opus 5.5 review's suggestions – decision list below (B and C, to go through together).
+- [ ] Compare every footnote with the Arabic: the English edition shortened many of al-Albānī's
+  footnotes (12 written out in full on 2026-09-28; the review noted more in ch5 and did not check
+  the rest one by one). Fix in both files.
 
 ## English transcription (ENG-full)
 
@@ -33,26 +36,10 @@ and are gone. Answer A1–A7 (chat is fine); in B and C, tell me the numbers of 
 line you disagree with. Everything else I then apply to HUN — and to ENG-full where the
 English edition has the same error, per the fidelity policy.
 
-### A. Your call
+### A. Your call — done
 
-- **A1** · **Előszó** · „a részletek összegyűjtésére, a források rostálására” → „az elbeszélések
-  összegyűjtésére, a hagyományláncok gondos megvizsgálására” — «حشد الآثار، وتمحيص الأسانيد»;
-  you disliked *rostál*. My pick: apply.
-- **A2** · **Előszó, closing prayer** · „és légy bőkezű Mohamedhez (ﷺ)…, ahogyan bőkezű voltál
-  Ábrahámhoz…” → „és áraszd áldásodat Mohamedre (ﷺ)…, ahogyan áldásodat árasztottad
-  Ábrahámra…” — «وبارك… كما باركت» is *baraka* (blessing), not generosity. My pick: apply.
-- **A3** · **ch1 and ch6** · „Éljen Hubal!” → „Légy magasztos, Hubal!” — «اعلُ هبل», "be exalted";
-  *éljen* sounds like a modern cheer. My pick: apply.
-- **A4** · **ch5** · „gongot” → „kereplőt” — «الناقوس», the wooden clapper of the Eastern churches.
-  My pick: apply.
-- **A5** · **ch6** · „keresztre feszítsék” → „fára feszítsék” — «ليصلبوه»; *kereszt* has a Christian
-  overtone. My pick: apply.
-- **A6** · **ch5, footnote 3** · the dirá/cubit explanation was added by the English translator; the
-  Arabic has no such footnote. Keep it marked „– a ford.”, or drop it? My pick: keep, marked.
-- **A7** · **ch3, the Ṭā'if prayer** · „Tiéd a jog a dorgálásra, míg elégedett nem leszel” — the
-  Arabic transcription reads «لك العتبى عندى خير ما استطعت», not the well-known «لك العتبى حتى
-  ترضى». I'll check the scan and translate what it says (no decision needed unless you
-  want a say).
+A1–A4, A6 and A7 were applied on 2026-09-28. A5: „keresztre feszítsék” stays – it renders the
+author's word (صلب), and crucifixion predates Jesus (user decision 2026-09-28).
 
 ### B. Fidelity fixes — I'd apply all of these
 
@@ -204,6 +191,10 @@ English edition has the same error, per the fidelity policy.
 120. „pap” → „püspök” — «أسقف»
 121. „Muszajjab” → „Muszajjib” — 1 of 5 spellings
 
+**ch1 (added 2026-09-28)**
+
+129. „(a főistenük)” → *(törölni)* — not in the Arabic («اعلُ هبل» only); the English added „(Their chief god)”
+
 ### C. Text the English edition dropped — to restore
 
 122. **ch3** · «ولا ندرى كيف يقال هذا؟» → „Nem is értjük, hogyan mondhatja ezt bárki.” (the second cranes discussion)
@@ -214,12 +205,8 @@ English edition has the same error, per the fidelity policy.
 127. **ch6** · the herdsmen and «أما أهل الدومة ففروا فى كل وجه» (Dúmat al-Dzsandal) → „…elhajtották jószágaikat és pásztoraikat. Dúma népe pedig szétszéledt minden irányba.”
 128. **ch6** · «فلا شىء بعده» → „…és utána nincs semmi”
 
-### D. Also, unless you say no
+### D. Done (2026-09-28)
 
-- The author's (!) and (؟!) marks that the English dropped (a few places in ch3–4).
-- Al-Albānī's footnotes that the English shortened, translated in full from the Arabic:
-  ch1 (3), ch3 (7, incl. the book title «نصب المجانيق لنسف قصة الغرانيق»), ch4 (2).
-- Small formatting fixes on the way: Abu Tálib's couplet in ch6 set as verse, two dialogues
-  split mid-sentence (ch6, ch7), a missing (ﷺ) in ch7, a stray „ezért” in ch6.
-- Check against the Arabic: ch6 „Nuajm ibn …” in the text vs „al-Numán ibn Málik” in its
-  footnote.
+The author's (!) marks, the 12 shortened footnotes, and the formatting fixes are applied in both
+files; the Nuajm/al-Numán question turned out fine (the body follows the Arabic, al-Albānī's
+footnote corrects it).
