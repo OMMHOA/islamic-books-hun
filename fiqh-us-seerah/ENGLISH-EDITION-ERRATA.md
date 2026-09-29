@@ -8,9 +8,9 @@ Hungarian translation**, except §9, where the Arabic itself errs.
 
 Found in four passes: the chunk-aligned HUN↔Arabic verification (2026-07-17), the name and
 ḥadīth-grade sweep (2026-07-18), the user's read-through (2026-07-20 →) and a complete
-HUN↔Arabic re-read (2026-09-24/25). Locations: "ENG ~NNNN" = line in
-`FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` when the item was found (lines drift — search
-for the quoted text); "p.N" / "AR p.N" = printed page of the Arabic edition. Names are
+HUN↔Arabic re-read (2026-09-24/25), whose suggestions were applied on 2026-09-29.
+Locations: "ENG ~NNNN" = line in `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` when the item
+was found (lines drift — search for the quoted text); "p.N" / "AR p.N" = printed page of the Arabic edition. Names are
 given in the English edition's transliteration.
 
 ## 1. Wrong Qur'ān references
@@ -104,6 +104,89 @@ and stay.
 | Epilogue | "playing upon the split within the ranks of **the Muslims**" | «النفاذ من خلل الصفوف المتناحرة» | the gaps in the (world's) warring ranks — no Muslims in the Arabic |
 | Glossary | *Isrā'*: "The Prophet's ascension" | — | the **Night Journey** Makkah → Jerusalem (the ascension is the Mi'rāj) |
 
+Smaller wording errors, by chapter (English edition → per the Arabic):
+
+- **Preface:** "those who know them" → who **come to** know them «ومن يتعرف عليهم».
+- **Ch1:** Qur'ān revealed over time "to provide a cure for ailing souls… a new social order" → the Wise
+  Lawgiver intended it, **for time itself is part of** the cure of souls, the governance of nations and
+  the establishment of laws «فإن الزمن جزء من علاج النفوس…»; "this fact must never cease to be impressed
+  upon the unbelievers" → the **struggle against** the unbelievers over this truth must never abate
+  «مناجزة الكافرين»; "a den haunted by murder and destruction" → a **wolves' den** ruled by slaughter and
+  assassination «مذأبة»; "It would not be strange if Allāh refused to help them" → **No wonder** Allāh
+  **withdrew His hand** «لا غرابة إذا رفع الله يده»; "the deserts and the jungles, the hills and the
+  plains" → the steppes and barren lands, the valleys and uplands «السهوب والجدوب… الوهاد والنجاد»;
+  "without a proper shirt" → **leaving naked** «ويخرج عاريًا»; "After much speculation… a toothbrush" →
+  after much **wandering**… a ***miswāk*** «بعد طول تطواف… سواك»; ṣalāh "will become absurd" → turns into
+  foolish **pecking** «نقرًا سخيفًا»; "genius is not prophethood" → genius is a rank **below** prophethood
+  «شأن دون النبوة»; "the foundations or girders" → **neither foundation nor plaster** «أساسًا ولا طلاء»;
+  "Shame on the Muslims of today for expecting miracles" → **Woe to** the Muslims of today for
+  **championing** miracles «يا ويل مسلمى اليوم من انتصارهم لخوارق العادات»; fn5 "Originally it should be
+  'from 'Abdullāh ibn Yasār'. This Jabir is Al Ja'fi" → correctly "from **Jābir, from** 'Abdullāh ibn
+  Yasār"; this Jābir is **al-Ju'fī**.
+- **Ch3:** "let him guide the people" → let him **face** the people «وليواجه الناس»; Sumayyah "shouted
+  curses at" Abū Jahl → **spoke harshly** to him «أغلظت القول»; "the intestines of a camel" thrown on him →
+  the **stomach** of a slaughtered camel «بكرش الجزور»; in the Ibn Mas'ūd ḥadīth "the stomach of so and
+  so's camel" → its **afterbirth** «سلا جزور»; Abū Ṭālib's couplet "until I am buried and sealed in the earth" → until I am **laid
+  in the dust**, buried «حتى أوسد فى التراب دفينا»; Ḥamzah's Islām "the reaction of a man who refused to let
+  his protégé be insulted" → the **pride** of a man who would not let his **kinsman** be humiliated «أنفة
+  رجل أبى أن يهان مولاه»; "that iron handhold" → the **most trustworthy** handhold (al-'urwah al-wuthqā);
+  His word "which He inspired into the Virgin Mary" → which He **cast unto** Mary, the pure virgin «ألقاها
+  إلى مريم العذراء البتول»; "the gardeners" → the **owners of the garden** «أصحاب البستان»; "consecutive
+  failures" → successive **tragedies** «المآسى»; Ṭā'if prayer "Your pardon is best for me" → Your
+  **protection** is more ample for me «عافيتك»; the Burāq's step "reached the furthest extremity" → as
+  far as **its eye could see** «عند أقصى طرفه».
+- **Ch4:** "a successful campaign for Islām" → the successful **propagation** «الدعاية»; "the result of these
+  wars" → the **causes** «معروفة الأسباب»; "In the twentieth century" (×2, ch4 and ch6) → **In our own age**
+  «وفى عصرنا هذا»; "between two mountains" → between two **lava fields** «بين لابتين».
+- **Ch5:** "for it will be replaced in it by someone who is better" → no one leaves it **out of aversion**
+  but Allāh puts someone better in his place «ولا يدعها رغبة عنها إلا أبدل الله…»; "feel at ease and
+  humbled" → **settle down and grow calm** «يسكن بعدها ويستكين»; the Anṣār "made their lands targets for
+  all the Arabs" → made **their necks** a target for all, near and far «وأهدفوا أعناقهم للقاصى والدانى»;
+  "despicable creatures" → despicable **animals** «حيوان ذميم»; 'Abd al-Raḥmān "wearing various adornments"
+  → with a **trace of yellow** (perfume) on him «وبه أثر صفرة» (the Arabic's own footnote glosses it
+  «زينة»); "pious saints" → God-fearing men **devoted to their Lord** «الربانيين»; "red-hot rods" → searing
+  **whips** «السياط الكاوية»; perfection "which is usually only a dream" → which people usually **adore**
+  «الذى يعشق عادة»; "Allāh will not… allow its virtuous supporters to deviate" → **your Lord** will not let
+  it **nor its righteous bearers** go to waste «ولا أصحابه الأبرار»; "our hearts began to grieve" → we **no
+  longer recognised** our own hearts «حتى أنكرنا قلوبنا».
+- **Ch6:** Abū Bakr and 'Umar "spoke positively" → spoke, **and spoke well** «فقال وأحسن»; "Accept whom you
+  will and reject whom you will" → **join the ties** of whom you will and **cut** the ties of whom you will
+  «فَصِلْ حبال من شئت واقطع حبال من شئت»; "cries of despair" → **reckless** cries «صيحات الطيش»; Ibn Mas'ūd
+  "jumped upon" Abū Jahl → **knelt on his chest** «فجثم على صدره»; "disputing with him about Allāh" →
+  contending with him **for the sake of** Allāh «يخاصمه فى ذات الله»; "the chapter" on Badr → the
+  **sūrah** (al-Anfāl); "the staunch believers" → the **leading** believers «المؤمنين الكبار»; "scoffing
+  Allāh and His Messenger" → **abusing** «إيذاء»; "civilization" (×2) → **life** «الحياة»; "professed Islām
+  openly" → **outwardly** embraced Islām «ظاهرًا»; "you must have had enough of him" → you **will** surely
+  grow weary of him «لتملنه»; "not a house" → not a **fortress** «حصن»; Abū Sufyān's oath "his head would
+  not touch water" → no water **from janābah** «ماء من جنابة»; horses grazing "in its fields" → on its
+  **crops** «زروعها»; Ṭalḥah "resisted them until he could go on no more" → fought them **until he drove
+  them away** «حتى أجهضهم عنه»; Abū Dujānah shielded "him" → shielded **the Prophet (ﷺ)**; the archers'
+  order "even if they saw the army being defeated" → even if they saw **birds snatching away** the army
+  «ولو رأوا الجيش تتخطفه الطير»; Quraysh "contented themselves with whatever gain they had made and decided
+  to return to Makkah" → contented themselves with the gain of **returning home safely** «فاكتفت مما ظفرت
+  به الإياب»; Abū Sufyān "approached the mountain… 'I have been rewarded'" → went up onto the brow of the
+  mountain «أشرف على الجبل»… "**It has gone well**" «أنعمت»; "directing his Companions to the best
+  positions" → to **what was good** «إلى الخير»; Ibn Ubayy's desertion showed "spite" → **contempt**
+  «استهانة»; bliss "which never grow stale" → which never **changes** «لا يحول»; "the upright" → the
+  **rightly guided** «الراشدين»; tribes that "sheltered under" Islām → that **hypocritically fawned upon**
+  it «أو داهنه»; "carry off their goods" → **drive off their livestock** «واستياق نعمهم»; the slander
+  "became cancerous" → spread **like a deadly plague** «مسير الوباء الفاتك»; "make the chaste… women weep
+  tears" → make their **brows sweat with shame** «يندى لها جبين»; the Ditch "the Prophet and his men
+  executed and perfected it" → the Prophet **went ahead of his men**… **he dug with his own hands**
+  «وتقدم النبى رجاله… فأخذ يحفر بيده»; "sorrow and regret" → sorrow and **grief** «الأسى والغم»; tribes
+  "envious of" the new faith → that **resented** it «الناقمة»; "We have no grievance against you" (×3,
+  also ch7) → **We do not suspect you** «لست عندنا بمتهم»; "from behind the walls of Madīnah" → from
+  behind its **houses and palm groves** «من وراء أسواد المدينة» (Medina had no walls); Ḥudhayfah "seated
+  crosslegged" → **kneeling** «جاث»; "sent down his curse" → His **vengeance** «نقمته»; "If absolute
+  justice was allowed to be meted out" → the situation **became a matter of bare justice** «وتمحض الموقف
+  للعدل المجرد»; "instinctive hatred" → **deep-seated** hatred «النقمة الدفينة».
+- **Ch7:** "chanted praises to Allah" → recited the ***talbiyah*** on their way to the Ancient House
+  «وساروا ملبين يطوون الطريق إلى البيت العتيق» (with a translator's note in both files); "They were led by
+  Khālid" → **their cavalry** was led by Khālid «يقود خيله»; "seek good relations" → uphold **the ties of
+  kinship** «صلة الرحم»; "crowds of people" → a **motley rabble** «أوشاب الناس»; "insulting the Muslims" →
+  **harming** «إيذاء»; the nation "puffed up with pride" → which grows arrogant and insolent **in its
+  freedom** «التى تتكبر مع الحرية وتتبطر».
+
 ## 4. Additions and softenings — removed
 
 The Arabic has no such wording:
@@ -115,6 +198,13 @@ The Arabic has no such wording:
 - Ibn Qamī'ah's line in Abū Sufyān's Uḥud exchange; Q1:5 (the Arabic quotes only 1:6–7);
   "likes and dislikes" (Preface); "cunning" before "Jews" (ch7). (Scan-verified where the
   Arabic transcription was unclear.)
+- Preface: Allāh "'The Exalted'" («آمنت بالله رب العالمين»). Ch1: "(Their chief god)" after «اعلُ هبل»;
+  Q12:3 quoted in full where Ibn Mas'ūd says only «نحن نقص عليك أحسن القصص». Ch3: Bilāl's "One, One"
+  "with more vigour" (he «ما يزيد… عن ترديد»); "in the Sacred Mosque" (the Arabic: while prostrating).
+  Ch4: Ṣuhayb "showed them where he kept his wealth" (AR p.121 has his reply instead, now restored).
+  Ch6: the idolaters "were stunned by" the Prophet (AR p.174: «وراءهم محمد ﷺ», with him behind them);
+  the Prophet "fell to the ground" at Uḥud («فأثقله وتفجر منه الدم»); "at once put a stop to this" (AR
+  p.215: «ونهض النبي ﷺ لمناجزة القوم»); "and sisters" (AR p.243: «فألوف من إخواننا»). All scan-verified.
 
 Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wrote):
 
@@ -125,6 +215,9 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
 - ch6 «يابن مقطعة البظور» — "son of the woman who circumcises girls" → "son of the woman who
   cuts clitorises".
 - Epilogue «الصليبية» ×2 — "Christianity" → "the Crusading power".
+- ch4 «ولا يبالون بأساليب الختل والمكر» — "**Some of them** do not mind using cunning" → "They do not
+  shrink from the methods of guile and deceit".
+- ch4 «حصرتهم الخيانات» — "because of the treacherous acts **of some**" → hemmed in "by betrayals".
 
 ## 5. Dropped text — restored
 
@@ -154,6 +247,14 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
   قادرا على النفقة اللازمة»; *dayyūth* in «داعر وديوث أو قواد»; Zaynab's brother accepting
   "merely out of obedience"; the end of Q33:36; the eclipse prayer «فقام النبى مصليا بالناس»;
   the Prophet's tail «ويحرموا ما أحل الله» after Q9:37; fn2's *mawqūf* + tadlīs verdict.
+- **Also restored (2026-09-29):** Preface «تأخر المسلمين العاطفى والفكرى» ("emotional and
+  intellectual" backwardness); ch1 the second half of Q19:78 «واتخذ عند الرحمن عهدًا», fn5's "(1/26)" and "many like
+  it", fn14's «مبحث النبوات»; ch3 the Ṭā'if «صفين» (two rows) and «فى أقدامه» (his feet), the second
+  half of «ومنع الزلازل من تصعيده», «ولا ندرى كيف يقال هذا؟» (the Haykal paragraph); ch4 the end of Q2:89
+  «فلعنة الله على الكافرين», Ṣuhayb's reply «فإنى قد جعلت لكم مالى», the flight «فهاموا على وجوههم فى
+  الأرض»; ch5 «ثم ينظر قدّامه» and «عليكم» in the first Medina sermon; ch6 «وأشرق وجهه», «ووقف طلحة بن عبيد
+  الله، وسهل بن حنيف، إلى جوار الرسول», the herdsmen and «أما أهل الدومة ففروا فى كل وجه…», «فلا شىء بعده»;
+  ch7 the second report «أو على ألا يفروا».
 - **The author's (!) and (?!)** — ch3, the cranes story: after "recognizing their status" and after the alleged verse; ch4: after "Ibn Urayqit, who was still an idolater" (AR «وهو مشرك(!)»).
 - **Ch9 / Epilogue:** fn4's grading of the second version (weak, unknown narrator); the
   closing line «تم بحمد الله ومنّته».
@@ -214,6 +315,8 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
 | ch7, p.290 | Sālim | **Sulaym** (tribe) |
 | ch7, p.312 | 'Aṭiyah | **'Ulayyah ibn Yazīd** |
 | ch7 fn101 | authority Ibn Ḥajar | **al-'Uqaylī** (p.314) |
+| ch1 | **Quraza** ibn Ka'b (×2) | **Qaraẓah** ibn Ka'b «قرظة بن كعب» |
+| ch3 | Banu al **Naḍr** | Banū al **Naḍīr** «بنو النضير» |
 | ch1 | "**Ibn** Ḥibbān" | **Abū** Ḥibbān, as the Arabic prints it (see §9) |
 | ch7 | "**Abbān**" | **Abān** «أبان» (see §9) |
 | ch7 fn121 and 5 more mentions | the author's book under varying titles | «التعصب والتسامح بين المسيحية والإسلام» → *Intolerance and Tolerance between Christianity and Islām* throughout |

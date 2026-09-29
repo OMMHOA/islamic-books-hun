@@ -26,6 +26,8 @@ How we got here (details in the commits):
   (`6abd248`); the per-item findings log is `review-wip/opus55-findings.md` in that commit.
 - 2026-09-28 Hungarian name forms book-wide (`ad561d3`); the user-reviewed per-name list is
   `review-wip/names.md` in that commit, the old `REVIEW-FLAGS.md` log likewise.
+- 2026-09-29 the review's remaining suggestions applied to both files after the user's go-through
+  (the decision list and what was dropped are in that commit's message).
 
 ## Files
 
