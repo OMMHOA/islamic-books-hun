@@ -12,8 +12,6 @@ Open work only. Finished work is in the git history; the English edition's error
     akiknek szívét meg kellett nyerni, A beduinok megzabolázása
   - ch8: mudzsáhidok, Megszilárdulás, A búcsúzarándoklat, ulama (vallástudósok), a Nagy
     Zarándoklat napja
-- [ ] ch9: Qur'ān 3:144 was translated fresh – compare it with a standard Hungarian Qur'ān
-  translation.
 - [ ] ch7: „A Banú Iszráíl hatalmas királyok népe volt…” – *népe* was added when „Izrael fiai
   … voltak” became singular (2026-09-28); check it against the Arabic.
 - [ ] Compare every footnote with the Arabic: the English edition shortened many of al-Albānī's

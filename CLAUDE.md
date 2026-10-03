@@ -1,7 +1,18 @@
 # islamic-books-hun
 
 Goal: translate Islamic books to Hungarian, published as Markdown in this repo. Each book has
-its own directory; the root holds only `README.md`, `LICENSE` and this file.
+its own directory; the root holds only `README.md`, this file and `koran-mme/`.
+
+**Qur'ān quotes in every book use the MME Hungarian translation** in `koran-mme/`
+(user decision 2026-10-03): `Koran-MME.md` has one verse per line, `S:V text`
+(basmala `S:0`); look up with `koran-mme/koran.py 2:255`, `10:68-70` or `9`. `koran.py build`
+regenerates it from the source `Koran_MME_1-114_Final.doc` (RTF; three verses glued together
+in the source — 8:38, 20:104, 43:54 — are split by the build). Quote it verbatim, the
+translator's [additions] and (glosses) included; for a partial quote take the matching part of
+the verse. Allowed adaptations: punctuation at a cut point (closing a „ the cut leaves open, a
+verse-final comma → period), MME's hyphen-dashes → en dash, „…” → »…« inside a quotation, and
+leaving out a gloss the surrounding text contradicts (Fikh al-Szíra: 4:29 „(egymást)”, 4:33
+„[az örökségből]”, 9:118 „[a Tabúk csatában]”). Fikh al-Szíra was converted 2026-10-04.
 
 Current book: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIFSO Revised 2nd Edition,
 distributed by IIPH, 1420 AH / 1999 CE, English translation, with ḥadīth commentary by Sheikh
@@ -74,7 +85,8 @@ ch7 128, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
 
 ## Hungarian conventions
 
-- Qur'ān quotes: `(… szöveg …) (Korán X: Y)`; en dash in verse ranges (10: 68–70).
+- Qur'ān quotes: `(… szöveg …) (Korán X: Y)`, the text from `koran-mme/` (above); en dash in
+  verse ranges (10: 68–70).
 - Quotation marks „…”, second level »…«, third level '…'. Dashes: spaced en dash ( – ) as
   gondolatjel, unspaced in ranges; no em dashes.
 - **Allah** wherever the Arabic has الله — also from pagans, Jews and Christians (oaths «والله» →
