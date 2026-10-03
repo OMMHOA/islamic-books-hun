@@ -119,6 +119,9 @@ ch7 128, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
     Abu Dávúd, Ibrahim).
   - Known forms: Omár, Oszmán, Ali, Áisa, Khadídzsa, Fátima, Kába, Ibn Kathir, al-Tirmidhi,
     Jathrib, Muád, Szulejmán, Huszrau; *a négus* (lowercase).
+  - Names the MME Qur'ān quotes use take MME's form book-wide (user decision 2026-10-04):
+    **Bedr** (Bedrnél, bedri), **Tamúd**, **Zejd** (Zejdet, Zejdnek; every Zayd), **Hudejbia**
+    (Hudejbiánál, hudejbiai; MME also has „Hudajbijai” in 48:27 – unified to Hudejbia there too).
   - Surahs „a Tauba szúra”; month names lowercase (ramadán, savvál, zul-kada); **a Banú
     Iszráíl** for بنو إسرائيل (collective, singular verb — like „a Banú Kurajza”); book titles by
     the rule (Szahíh al-Bukhári, Fath al-Bári).

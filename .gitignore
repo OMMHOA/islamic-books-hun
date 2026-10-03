@@ -1,5 +1,5 @@
 fiqh-us-seerah/.build-tools/
-fiqh-us-seerah/FiqhusSeerah-HUN.pdf
-fiqh-us-seerah/FiqhusSeerah-HUN.epub
+fiqh-us-seerah/FiqhusSeerah-HUN*.pdf
+fiqh-us-seerah/FiqhusSeerah-HUN*.epub
 __pycache__/
 fiqh-us-seerah/tools/applied.log

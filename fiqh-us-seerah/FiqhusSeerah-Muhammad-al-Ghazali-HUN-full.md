@@ -72,7 +72,7 @@ Az ilyen módon megkezdett harc a muszlimok részéről helytelenítésre talál
 
 A Bukhári és Muszlim által elbeszélt hadísznak nem lehet más magyarázata, mint hogy az esemény második szakaszának leírása. Más szóval: a meglepetésszerű rajtaütés csak azután történt, hogy az ellenségeskedés már megkezdődött a törzs és a muszlimok között, és mindkettő lesben állt a másikra. Így a muszlimok voltak azok, akik meglátták az alkalmat, és lecsaptak ellenségükre – és „a háború csalárdság”. Ez esetben Bukhári és Muszlim elbeszélésének kell legyen valamilyen előzménye, hasonló ahhoz, amit Ibn Dzsarír jegyzett fel, és amit Sejk Násziruddín bírált.
 
-Nem én vagyok az első, aki ilyen megközelítést alkalmaz. Ezt a megközelítést követi a legtöbb tudós, amikor gyenge és hiteles elbeszélésekkel egyaránt szembesül. Egyetértenek abban, hogy a gyenge hadísz elfogadható mindaddig, amíg összhangban van az alapvető általános elvekkel, amelyek természetesen a Koránból és a Szunnából származnak. E kiegyensúlyozott nézet fényében beszéltem el a Próféta (ﷺ) tanácskozását al-Hubábbal a badri ütközet alkalmával – jóllehet a hadísz-tudósok az elbeszélők láncát gyengének nyilvánították –, mert azoknak a jócselekedeteknek a körébe tartozik, amelyeket Allah (ﷻ) és az Ő Küldötte (ﷺ) meghagyott, és elbeszélésében nincs semmi kár. Ennyit a gyenge hadíszokról.
+Nem én vagyok az első, aki ilyen megközelítést alkalmaz. Ezt a megközelítést követi a legtöbb tudós, amikor gyenge és hiteles elbeszélésekkel egyaránt szembesül. Egyetértenek abban, hogy a gyenge hadísz elfogadható mindaddig, amíg összhangban van az alapvető általános elvekkel, amelyek természetesen a Koránból és a Szunnából származnak. E kiegyensúlyozott nézet fényében beszéltem el a Próféta (ﷺ) tanácskozását al-Hubábbal a bedri ütközet alkalmával – jóllehet a hadísz-tudósok az elbeszélők láncát gyengének nyilvánították –, mert azoknak a jócselekedeteknek a körébe tartozik, amelyeket Allah (ﷻ) és az Ő Küldötte (ﷺ) meghagyott, és elbeszélésében nincs semmi kár. Ennyit a gyenge hadíszokról.
 
 Ami a hiteles hadíszokat illeti, Sejk Násziruddín nagyon jól tudja, hogy sokféle jelentésükben tág tere van elfogadásuknak vagy elvetésüknek. Nincs olyan tudós, aki ne vetett volna el néhány hiteles hadíszt annak javára, ami hitelesebbnek tűnik. Óvjon meg bennünket Allah (ﷻ) attól, hogy vitát szítsunk a Szunna körül, amely kétségtelenül az iszlám második forrása.
 
@@ -225,7 +225,7 @@ Azt állítják, hogy al-Valíd ibn al-Mughíra azt mondta Allah Küldöttének 
 
 Az ilyen gőgös ostobaságot nem egyedül Mekka mutatta: Medinában Abdullah ibn Ubajj hitetlensége hasonló okokból fakadt.
 
-A hidzsra után Allah Küldötte (ﷺ) a badri ütközet előtt meglátogatta a beteg Szad ibn Ubádát. Szamáron ült, mögötte Uszáma ibn Zajd. Addig lovagoltak, míg el nem haladtak egy embercsoport mellett, amelyben ott volt Abdullah ibn Ubajj. A gyülekezetben muszlimok, bálványimádók és zsidók keveredtek, s a muszlimok között ott volt Abdullah ibn Raváha.
+A hidzsra után Allah Küldötte (ﷺ) a bedri ütközet előtt meglátogatta a beteg Szad ibn Ubádát. Szamáron ült, mögötte Uszáma ibn Zejd. Addig lovagoltak, míg el nem haladtak egy embercsoport mellett, amelyben ott volt Abdullah ibn Ubajj. A gyülekezetben muszlimok, bálványimádók és zsidók keveredtek, s a muszlimok között ott volt Abdullah ibn Raváha.
 
 Amikor az állat felverte por elérte a gyülekezetet, Abdullah ibn Ubajj köpenyével eltakarta az orrát, és így szólt: „Ne szórjatok ránk port!”
 
@@ -623,7 +623,7 @@ Allah bocsánatát és oltalmát kérjük.
 
 \* Azt mondjuk: a sejk e hadíszt érő bírálata ellenére mi elfogadjuk, mert jelentése összhangban van a verssel [Korán 3: 31], és mert az erények körébe tartozik. (A szerző.)
 
-² Hiteles hadísz, Bukhári beszélte el a Fath al-Bári magyarázatával. Muszlim és Ahmad is elbeszélte Uszáma Ibn Zajd hadíszából.
+² Hiteles hadísz, Bukhári beszélte el a Fath al-Bári magyarázatával. Muszlim és Ahmad is elbeszélte Uszáma Ibn Zejd hadíszából.
 
 ³ Hiteles hadísz, Muszlim és Ibn Mádzsa beszélte el Abu Hurajrától (رضي الله عنه). Ibn al-Sarídtól is elbeszélték a következő hadísz kiegészítéseként.
 
@@ -641,7 +641,7 @@ Allah bocsánatát és oltalmát kérjük.
 
 ¹⁰ Hiteles hadísz. Ahmad (3/428–444) és al-Tahávi a Sarh Maáni al-Ászárban (2/10) jegyezte le Abdul Rahmán ibn Sibl hadíszaként, a Prófétáig (ﷺ) visszavezetve (marfú). Lánca hiteles, és al-Háfiz az al-Fathban (9/282) erősnek ítélte.
 
-¹¹ Hiteles hadísz. Ibn Abdul Barr jegyezte le (1/39), továbbá a Szunan-gyűjtemények szerzői, al-Dárimi és Ahmad, Zajd ibn Szábit egyik hadíszaként. Lánca hiteles; Ibn Hibbán, Ibn Hadzsar és mások hitelesnek nyilvánították.
+¹¹ Hiteles hadísz. Ibn Abdul Barr jegyezte le (1/39), továbbá a Szunan-gyűjtemények szerzői, al-Dárimi és Ahmad, Zejd ibn Szábit egyik hadíszaként. Lánca hiteles; Ibn Hibbán, Ibn Hadzsar és mások hitelesnek nyilvánították.
 
 ¹² Abu Dávúd, al-Tirmidhi, Ibn Szad és al-Bajhaki beszélte el al-Zuhrin keresztül. Az utóbbi azt mondta: „Nabhán, Umm Szalama szabadosa közölte Umm Szalamától, hogy az ezt mondta: »A Prófétánál (ﷺ) voltam, akárcsak Majmúna, és Ibn Umm Maktúm közeledett. Ez a hidzsáb elrendelése után volt. A Próféta (ﷺ) azt mondta: Fátyolozzátok el magatokat előle. Erre azt mondtuk: Ó, Allah Küldötte (ﷺ), hát nem vak ő, aki nem lát és nem ismer fel bennünket? Azt felelte: Hát ti vakok vagytok? Nem látjátok őt?«” al-Tirmidhi szerint jó és hiteles hadísz, és Ibn Hadzsar a Fath al-Báriban erősnek nyilvánította elbeszélőinek láncát. Ez azonban kétséges, mivel Nabhant csak Ibn Hibbán fogadja el hitelesnek, aki köztudottan hanyag az elbeszélők hitelesítésében. Erre a tényre maga Ibn Hadzsar mutat rá a Liszan al-Mízán bevezetőjében. Ezért látjuk, hogy az al-Takríbban nem hitelesítette Nabhant, hanem azt mondta róla: „Elfogadható” – tudniillik megerősítés esetén; e hadísz esetében azonban nincs, aki megerősítené. Ez a kijelentés csak azt jelentheti, hogy ez a hadísz elfogadhatatlan. Ibn Abdul Barr azt mondja: „Nem azok közül való, akiknek hadíszai hitelesek, és ez a hadísza elutasított (munkar)” – ahogyan Ibn al-Turkmani idézi az al-Dzsauhar al-Nakiban.
 
@@ -986,27 +986,27 @@ Elmondtuk, hogy a pogányság hamisságát az igazság látszatával ékesíti, 
 
 Az ilyen ostobaságban való kitartás azonban meghaladta határait, és a tömegek teljesen elmerültek abban, amit örököltek. Elvesztették a szabad elme – sőt az éles elme – áldását, és dicsérték azt, amiről nem volt tudomásuk. Azok pedig, akik rendelkeztek a gondolkodás képességével, gondolkodásuk összeütközött hajlamaik és vágyaik határaival, s talán eltitkolták, amit tudtak, vagy harcoltak is ellene. Csak kevesen mertek szembenézni a társadalomban gyökeret vert hagyományokkal és kimondani az igazságot, és még kevesebben éltek érte vagy áldozták magukat érte.
 
-A Próféta (ﷺ) küldetése előtt voltak olyanok, akik megvetéssel tekintettek az arabok pogányságára, és akik tudták, hogy népük babonás hiedelmekbe merül, de nem találtak módot azok megakadályozására. Bukhári²² elmondja Ibn Omártól (رضي الله عنه), hogy a Próféta (ﷺ) mondta: Találkozott Zajd ibn Amr ibn Nufajllal az alsó Baldahban, mielőtt prófétává lett, és kínált neki húst tartalmazó ételt. Zajd visszautasította az evést, mondván:
+A Próféta (ﷺ) küldetése előtt voltak olyanok, akik megvetéssel tekintettek az arabok pogányságára, és akik tudták, hogy népük babonás hiedelmekbe merül, de nem találtak módot azok megakadályozására. Bukhári²² elmondja Ibn Omártól (رضي الله عنه), hogy a Próféta (ﷺ) mondta: Találkozott Zejd ibn Amr ibn Nufajllal az alsó Baldahban, mielőtt prófétává lett, és kínált neki húst tartalmazó ételt. Zejd visszautasította az evést, mondván:
 
 „Nem eszem abból, amit az oltáraitokon áldoztatok;²³ csak olyat eszem, amelyre Allah (ﷻ) nevét mondták.” Szokta volt elítélni a Kurajs állataik leölésének módját, mondván: „A juhot Allah (ﷻ) teremtette, és Ő bocsátotta le számára az esőt az égből, és Ő sarjasztotta számára a legelőt a földből. Ti azonban valaki más nevén áldozzátok le, nem Allah nevén!”
 
-Egy másik elbeszélésben Zajd ibn Amrról azt mondják, hogy Szíriába ment, és vallást keresett, hogy kövesse azt.
+Egy másik elbeszélésben Zejd ibn Amrról azt mondják, hogy Szíriába ment, és vallást keresett, hogy kövesse azt.
 
-Találkozott egy zsidó tudóssal, és megkérdezte tőle a vallásáról, mondván: „Talán követem vallásodat!” A zsidó azt mondta: „Nem fogod követni vallásunkat, hacsak nem viseled el Allah (ﷻ) haragjának rád eső részét.” Zajd azt mondta: „Csak Allah (ﷻ) haragjától menekülök, és egyáltalán nem vállalom magamra Allah (ﷻ) haragjának semmilyen részét, amíg erre képes vagyok. Mutatsz-e mást?” A zsidó azt mondta: „Nem tudok semmi másról, csak arról, hogy légy haníf.” Zajd megkérdezte: „És mi az a haníf?”
+Találkozott egy zsidó tudóssal, és megkérdezte tőle a vallásáról, mondván: „Talán követem vallásodat!” A zsidó azt mondta: „Nem fogod követni vallásunkat, hacsak nem viseled el Allah (ﷻ) haragjának rád eső részét.” Zejd azt mondta: „Csak Allah (ﷻ) haragjától menekülök, és egyáltalán nem vállalom magamra Allah (ﷻ) haragjának semmilyen részét, amíg erre képes vagyok. Mutatsz-e mást?” A zsidó azt mondta: „Nem tudok semmi másról, csak arról, hogy légy haníf.” Zejd megkérdezte: „És mi az a haníf?”
 
 A zsidó azt felelte: „Ábrahám (عليه السلام) vallása. Se nem zsidó volt, se nem keresztény, és Allahon kívül senkit sem imádott.”
 
-Zajd elment, és találkozott egy keresztény tudóssal, és ugyanezt kérdezte tőle. A keresztény azt felelte: „Nem fogod követni vallásunkat, hacsak nem viseled el Allah (ﷻ) átkának rád eső részét.” Zajd azt mondta: „Mindig menekülni fogok Allah (ﷻ) átkától, amíg erre képes vagyok, tehát mutatsz-e mást?” A keresztény azt felelte: „Nem tudok semmi másról, csak arról, hogy légy haníf.” Zajd megkérdezte: „És mi az a haníf?” A keresztény azt felelte: „Ábrahám (عليه السلام) vallása. Se nem zsidó volt, se nem keresztény, és Allahon kívül senkit sem imádott.”
+Zejd elment, és találkozott egy keresztény tudóssal, és ugyanezt kérdezte tőle. A keresztény azt felelte: „Nem fogod követni vallásunkat, hacsak nem viseled el Allah (ﷻ) átkának rád eső részét.” Zejd azt mondta: „Mindig menekülni fogok Allah (ﷻ) átkától, amíg erre képes vagyok, tehát mutatsz-e mást?” A keresztény azt felelte: „Nem tudok semmi másról, csak arról, hogy légy haníf.” Zejd megkérdezte: „És mi az a haníf?” A keresztény azt felelte: „Ábrahám (عليه السلام) vallása. Se nem zsidó volt, se nem keresztény, és Allahon kívül senkit sem imádott.”
 
-Amikor Zajd ezt hallotta Ábrahámról (عليه السلام), elment, és amikor kijutott, felemelte kezeit és ezt mondta: „Ó, Allah (ﷻ), tanúnak hívlak Téged, hogy fölvettem Ábrahám (عليه السلام) vallását.”
+Amikor Zejd ezt hallotta Ábrahámról (عليه السلام), elment, és amikor kijutott, felemelte kezeit és ezt mondta: „Ó, Allah (ﷻ), tanúnak hívlak Téged, hogy fölvettem Ábrahám (عليه السلام) vallását.”
 
-Ezek az elbeszélések rámutatnak arra a nagy zűrzavarra, amely elterjedt az egész világon az akkori vallások körül. A zsidók azt érezték, hogy üldözik őket a földön, és minden vidéken elutasítják őket, így akárki elfogadta vallásukat, Allah (ﷻ) haragjának terhét kellett viselnie. A keresztények egymás közt vitatkoztak Krisztus természetéről és anyjának a Legfelsőbb Istennel való viszonyáról. Ezek a viták pusztító háborúkat szítottak közöttük, és szektákra szakították őket, amelyek egymást átkozták. A szíriai keresztények, akiket Zajd megkérdezett, jakobiták voltak, és eltértek a római egyház hivatalos hitvallásától. Így nem meglepő, hogy tudatták Zajddal, milyen gyötrelem várna rá, ha belépne vallásukba. Vagy talán ez az átok volt az Ádám (عليه السلام) által elkövetett bűn következménye, amely átszállt az összes utódjára, ahogy a keresztények állítják, akik ezzel igazolják Jézus keresztre feszítését. Zajdnak jogában állt mindannyiukat elhagyni, és visszatérni Ábrahám (عليه السلام) vallásához, hogy gyökereit keresse.
+Ezek az elbeszélések rámutatnak arra a nagy zűrzavarra, amely elterjedt az egész világon az akkori vallások körül. A zsidók azt érezték, hogy üldözik őket a földön, és minden vidéken elutasítják őket, így akárki elfogadta vallásukat, Allah (ﷻ) haragjának terhét kellett viselnie. A keresztények egymás közt vitatkoztak Krisztus természetéről és anyjának a Legfelsőbb Istennel való viszonyáról. Ezek a viták pusztító háborúkat szítottak közöttük, és szektákra szakították őket, amelyek egymást átkozták. A szíriai keresztények, akiket Zejd megkérdezett, jakobiták voltak, és eltértek a római egyház hivatalos hitvallásától. Így nem meglepő, hogy tudatták Zejddel, milyen gyötrelem várna rá, ha belépne vallásukba. Vagy talán ez az átok volt az Ádám (عليه السلام) által elkövetett bűn következménye, amely átszállt az összes utódjára, ahogy a keresztények állítják, akik ezzel igazolják Jézus keresztre feszítését. Zejdnek jogában állt mindannyiukat elhagyni, és visszatérni Ábrahám (عليه السلام) vallásához, hogy gyökereit keresse.
 
 Bukhári Aszma bint Abi Bakrtól (رضي الله عنها) elbeszéli:
 
-„Láttam Zajd ibn Amr ibn Nufajlt állni, hátát a Kábának vetve, és ezt mondta: »Ó, Kurajs népe, Allahra (ﷻ), senki közületek nem követi Ábrahám (عليه السلام) vallását, csak én.« Szokta volt megmenteni az elevenen eltemetett kislányokat, és azt mondani apáiknak, amikor meg akarták ölni kislányaikat: »Gondját viselem én.« Elvette a lányt, és amikor elég nagy lett, azt mondta apjának: »Ha akarod, visszaadom neked; ha nem, én folytatom gondozását.«”²⁴
+„Láttam Zejd ibn Amr ibn Nufajlt állni, hátát a Kábának vetve, és ezt mondta: »Ó, Kurajs népe, Allahra (ﷻ), senki közületek nem követi Ábrahám (عليه السلام) vallását, csak én.« Szokta volt megmenteni az elevenen eltemetett kislányokat, és azt mondani apáiknak, amikor meg akarták ölni kislányaikat: »Gondját viselem én.« Elvette a lányt, és amikor elég nagy lett, azt mondta apjának: »Ha akarod, visszaadom neked; ha nem, én folytatom gondozását.«”²⁴
 
-Zajd egyike volt azoknak a ritka gondolkodóknak, akik megvetették a dzsáhilijja igazságtalanságait; köszönet illeti őt az igazság kereséséért, és sem tőle, sem a többiektől nem vitatható el a népük körében kivívott megbecsülés. A sors azonban kiválasztott egy olyan embert, aki megérezte az igazságot, és rendelkezett azzal a képességgel, hogy az egész világ minden részébe elterjessze – a hamisság életáron és vagyonon való megőrzésére tett erőfeszítések ellenére. A sors éppen azt a magasodó személyiséget készítette elő, hogy betöltse ezt a hatalmas szerepet, és a nagy feladatokat csak nagy személyiségek tudják betölteni.
+Zejd egyike volt azoknak a ritka gondolkodóknak, akik megvetették a dzsáhilijja igazságtalanságait; köszönet illeti őt az igazság kereséséért, és sem tőle, sem a többiektől nem vitatható el a népük körében kivívott megbecsülés. A sors azonban kiválasztott egy olyan embert, aki megérezte az igazságot, és rendelkezett azzal a képességgel, hogy az egész világ minden részébe elterjessze – a hamisság életáron és vagyonon való megőrzésére tett erőfeszítések ellenére. A sors éppen azt a magasodó személyiséget készítette elő, hogy betöltse ezt a hatalmas szerepet, és a nagy feladatokat csak nagy személyiségek tudják betölteni.
 
 ## A Hira barlangjában
 
@@ -1124,7 +1124,7 @@ A hadísz tehát muallal (rejtett hibát tartalmaz) a hadísz-terminológia tudo
 
 ²² Ahmad is elbeszéli Ibn Omár (رضي الله عنه) tekintélyére hivatkozva. A hadísz más forrásból is ered egy kiegészítéssel, amely ellentmond a szerző alábbi magyarázatának. Ez a kiegészítés azonban nem hiteles.
 
-²³ Zajd (رضي الله عنه) azt gondolta, hogy a neki kínált hús Allah (ﷻ) által tiltott fajtából való. Mindazonáltal biztos, hogy a Próféta (ﷺ) háztartása soha nem evett bálványoknak bemutatott áldozatokat. Zajd (رضي الله عنه) biztos akart lenni magáról, és így kinyilvánította vallását. A Próféta (ﷺ) emlékezett erre, és örömmel fogadta.
+²³ Zejd (رضي الله عنه) azt gondolta, hogy a neki kínált hús Allah (ﷻ) által tiltott fajtából való. Mindazonáltal biztos, hogy a Próféta (ﷺ) háztartása soha nem evett bálványoknak bemutatott áldozatokat. Zejd (رضي الله عنه) biztos akart lenni magáról, és így kinyilvánította vallását. A Próféta (ﷺ) emlékezett erre, és örömmel fogadta.
 
 ²⁴ Egy hiteles hadísz.
 
@@ -1151,7 +1151,7 @@ Ezek a határozott, egymást követő parancsok azt hirdették a Prófétának (
 
 Hadd vigye tehát az üzenetet, hadd álljon ki az emberek elé, és keressen támaszt a Kinyilatkoztatásban, mert az az üzenetének forrása és hívásának megerősítése.
 
-A Kinyilatkoztatás a szív megihletése azzal, amit Allah (ﷻ) akar, oly világos módon, amely nem ad helyet a kételynek. Különféle formákat ölt, amelyek közül némelyik könnyebb a többinél. Omár (رضي الله عنه) állítólag azt mondta: valahányszor a Kinyilatkoztatás leszállt a Prófétára (ﷺ), méhek zümmögéséhez hasonló hang hallatszott az arca közelében.² Néha úgy jött, mint egy harang csengése, és ez volt számára a legnehezebb forma. Az angyal úgy jött el hozzá, hogy a homloka bőségesen verejtékezett egy hideg, téli napon,³ és hátasa lefeküdt a földre, ha éppen lovagolt rajta.⁴ Egyszer a Kinyilatkoztatás akkor jött hozzá, amikor a combja Zajd ibn Szábit (رضي الله عنه) combján nyugodott, és olyan nehézzé vált, hogy Zajd (رضي الله عنه) combja majdnem eltört.⁵ Máskor könnyebben és enyhébben jöhetett annál.
+A Kinyilatkoztatás a szív megihletése azzal, amit Allah (ﷻ) akar, oly világos módon, amely nem ad helyet a kételynek. Különféle formákat ölt, amelyek közül némelyik könnyebb a többinél. Omár (رضي الله عنه) állítólag azt mondta: valahányszor a Kinyilatkoztatás leszállt a Prófétára (ﷺ), méhek zümmögéséhez hasonló hang hallatszott az arca közelében.² Néha úgy jött, mint egy harang csengése, és ez volt számára a legnehezebb forma. Az angyal úgy jött el hozzá, hogy a homloka bőségesen verejtékezett egy hideg, téli napon,³ és hátasa lefeküdt a földre, ha éppen lovagolt rajta.⁴ Egyszer a Kinyilatkoztatás akkor jött hozzá, amikor a combja Zejd ibn Szábit (رضي الله عنه) combján nyugodott, és olyan nehézzé vált, hogy Zejd (رضي الله عنه) combja majdnem eltört.⁵ Máskor könnyebben és enyhébben jöhetett annál.
 
 Az ember megkérdezhetné, miért jöttek az első Kinyilatkoztatások ilyen intenzitással, és miért nem kezdődött a Korán kinyilatkoztatása álomban kapott ihletként vagy ébrenlétben kapott ihletként, mint abban az esetben, amelyet a Próféta (ﷺ) leírt:
 
@@ -1207,7 +1207,7 @@ Az ennek az eszmének a hívői elszántsággal gyűltek vezérük köré, és s
 
 A börtönökben most olyan emberek vannak, akik a Nyugat egyetemein végeztek. Életük nagy részét gyilkosokkal és kábítószer-kereskedőkkel töltik. Ez azért van, mert azt a szükséges erőfeszítés részének tekintik, amelyet meg kell tenniük, hogy sikert érjenek el elveiknek. Mennyivel inkább így volt ez, amikor az iszlám hajnalán megjelent hit az Allahba (ﷻ), minden világok Urába vetett hit volt, és a Túlvilágba vetett hit, ahol az emberek találkoznak Urukkal, miután elhagyják ezt a világot, és ahol buja kerteket és pompás palotákat találnak, amelyek alatt folyók folynak? Az első csoport éppen formálódóban volt, és napról napra növekedett.
 
-Természetes volt, hogy a Prófétának (ﷺ) az iszlámot először azoknak kellett bemutatnia, akik a legközelebb álltak hozzá háznépe és barátai közül. Ezek az emberek soha nem kételkedtek Mohamed (ﷺ) nagyságában vagy igazmondásában, így nem csoda, hogy ők voltak az elsők, akik támogatták és követték őt. Felesége, Khadídzsa hitt benne, és így tett felszabadított rabszolgája, Zajd ibn Hárisza [az arab eredeti „Zajd ibn Szábit”-et ír – a ford.] is, valamint unokatestvére, Ali ibn Abi Tálib, aki fiatal fiú volt, és a Próféta (ﷺ) gondozása alatt élt. Bizalmas barátja, Abu Bakr (رضي الله عنه) szintén felvette az iszlámot, és nagyon tevékenyen terjesztette azt, és rávette azokat, akiket szeretett és akikben megbízott, hogy szintén fogadják el. Ezek Oszmán ibn Affán (رضي الله عنه), Talha ibn Ubajdullah és Szad ibn Abi Vakkász voltak. A keresztény tudós, Varaka ibn Naufal szintén hitt benne, és állítólag a Próféta (ﷺ) látta őt egy álomban a halála után, a boldogság állapotában, ami azt jelentette, hogy elnyerte Allah (ﷻ) tetszését.⁸ al-Zubajr ibn al-Avvám, Abu Zarr al-Ghifári, Omár ibn Anbasza [így az arab eredetiben; a korai hívő neve helyesen Amr ibn Abasza – a ford.] és Szaíd ibn al-Ász [így az arab eredetiben; a korai hívő helyesen Khálid ibn Szaíd ibn al-Ász – a ford.] felvette az iszlámot, és az iszlám elterjedt Mekkában azok között, akiknek a szívét Allah (ﷻ) megvilágosította. Az iszlám terjesztése titokban folytatódott, a buzgalom vagy a provokáció bármilyen nyílt megnyilvánulása nélkül.
+Természetes volt, hogy a Prófétának (ﷺ) az iszlámot először azoknak kellett bemutatnia, akik a legközelebb álltak hozzá háznépe és barátai közül. Ezek az emberek soha nem kételkedtek Mohamed (ﷺ) nagyságában vagy igazmondásában, így nem csoda, hogy ők voltak az elsők, akik támogatták és követték őt. Felesége, Khadídzsa hitt benne, és így tett felszabadított rabszolgája, Zejd ibn Hárisza [az arab eredeti „Zejd ibn Szábit”-et ír – a ford.] is, valamint unokatestvére, Ali ibn Abi Tálib, aki fiatal fiú volt, és a Próféta (ﷺ) gondozása alatt élt. Bizalmas barátja, Abu Bakr (رضي الله عنه) szintén felvette az iszlámot, és nagyon tevékenyen terjesztette azt, és rávette azokat, akiket szeretett és akikben megbízott, hogy szintén fogadják el. Ezek Oszmán ibn Affán (رضي الله عنه), Talha ibn Ubajdullah és Szad ibn Abi Vakkász voltak. A keresztény tudós, Varaka ibn Naufal szintén hitt benne, és állítólag a Próféta (ﷺ) látta őt egy álomban a halála után, a boldogság állapotában, ami azt jelentette, hogy elnyerte Allah (ﷻ) tetszését.⁸ al-Zubajr ibn al-Avvám, Abu Zarr al-Ghifári, Omár ibn Anbasza [így az arab eredetiben; a korai hívő neve helyesen Amr ibn Abasza – a ford.] és Szaíd ibn al-Ász [így az arab eredetiben; a korai hívő helyesen Khálid ibn Szaíd ibn al-Ász – a ford.] felvette az iszlámot, és az iszlám elterjedt Mekkában azok között, akiknek a szívét Allah (ﷻ) megvilágosította. Az iszlám terjesztése titokban folytatódott, a buzgalom vagy a provokáció bármilyen nyílt megnyilvánulása nélkül.
 
 A hír leszivárgott a Kurajshoz, bár nem fordítottak rá figyelmet. Talán azt gondolták, hogy Mohamed (ﷺ) egyike azoknak a vallásos embereknek, akik az Istenségről és annak jogairól beszélnek, ahogy Umajja ibn al-Szalt szokta tenni, vagy Kussz ibn Száida, vagy Amr ibn Nufajl és más hozzájuk hasonlók. Mindazonáltal félelmük nőtt, amikor a hírneve kezdett terjedni, így elkezdték megfigyelni őt és hívását. A dáwa titkos terjesztése három évig folytatódott, aztán a parancs kinyilatkoztatott a Prófétának (ﷺ), hogy hirdesse azt népének, és nyíltan szálljon szembe hamisságukkal, és ítélje el bálványaikat.
 
@@ -1614,15 +1614,15 @@ Vakmerővé váltak sértegetésében; még port is szórtak a fejére. Ibn Masz
 
 Abu Dzsahl azt mondta: »Melyikőtök fogja ennek-és-ennek a tevéjének a méhlepényét, és dobja Mohamed (ﷺ) lapockái közé (a hátára), amikor leborul?« A legszerencsétlenebbjük felkelt, és amikor a Próféta (ﷺ) leborult, a hátára dobta; és mind nevettek, egymásnak dőlve. Én ott álltam és néztem, és ha lett volna védelmem, levettem volna a hátáról. A Próféta (ﷺ) azonban leborulásban maradt, nem emelve fel fejét, míg valaki el nem ment és szólt Fátimának. Bár még kislány volt, odajött és eltávolította. Majd feléjük fordult és szidalmazni kezdte őket. Amikor a Próféta (ﷺ) befejezte az imát, felemelte hangját és ellenük fohászkodott. Szokása volt, hogy valahányszor fohászkodott, háromszor fohászkodott, és valahányszor kért, háromszor kért.
 
-Háromszor mondta: »Ó, Allah (ﷻ), ragadd meg a Kurajst.« Amikor ezt meghallották, abbahagyták a nevetést, félve fohászától. Majd így szólt: »Ó, Allah (ﷻ), ragadd meg Abu Dzsahl ibn Hisámot, Utba ibn Rabíát, Sajba ibn Rabíát, al-Valíd ibn Utbát, Umajja ibn Khalafot, Ukba ibn Abi Muitot« – és említette a hetediket, akire nem emlékszem. Arra, Aki Mohamedet (ﷺ) az igazsággal küldte: valóban láttam azokat, akiket megnevezett, holtan Badr napján; aztán a kútba, Badr kútjába vonszolták őket.”²¹
+Háromszor mondta: »Ó, Allah (ﷻ), ragadd meg a Kurajst.« Amikor ezt meghallották, abbahagyták a nevetést, félve fohászától. Majd így szólt: »Ó, Allah (ﷻ), ragadd meg Abu Dzsahl ibn Hisámot, Utba ibn Rabíát, Sajba ibn Rabíát, al-Valíd ibn Utbát, Umajja ibn Khalafot, Ukba ibn Abi Muitot« – és említette a hetediket, akire nem emlékszem. Arra, Aki Mohamedet (ﷺ) az igazsággal küldte: valóban láttam azokat, akiket megnevezett, holtan Bedr napján; aztán a kútba, Bedr kútjába vonszolták őket.”²¹
 
-Mekka addig haladt a hitetlenség útján, míg mélyen belé nem hatolt és el nem érte határait. Most abban lelte örömét, hogy szennyel mocskolja a leborulókat, és kétrét görnyedt a nevetéstől annak láttán, ahogyan az lecsúszik vállukról. Nem maradt hely ezekben a szívekben egy szemernyi jóságnak sem. Az arab társadalomban a leány apjából élt: büszke volt erejére, és élvezte védelmét. Milyen érzések járhatják át egy férfi szívét, aki abban a helyzetben látja magát, hogy leányának kell megvédenie, miközben ő maga tehetetlen? Mohamed (ﷺ) elfojtotta sérelmét, és minden fájdalmat elszenvedett Allahért. Hamarosan azon kezdett gondolkodni, hogy üzenetét egy másik város felé irányítja, amely talán gyorsabban és kedvezőbben válaszol. Magával vitte hát Zajd ibn Háriszát, és a Szakíf törzse felé indult, támogatásukat keresve.
+Mekka addig haladt a hitetlenség útján, míg mélyen belé nem hatolt és el nem érte határait. Most abban lelte örömét, hogy szennyel mocskolja a leborulókat, és kétrét görnyedt a nevetéstől annak láttán, ahogyan az lecsúszik vállukról. Nem maradt hely ezekben a szívekben egy szemernyi jóságnak sem. Az arab társadalomban a leány apjából élt: büszke volt erejére, és élvezte védelmét. Milyen érzések járhatják át egy férfi szívét, aki abban a helyzetben látja magát, hogy leányának kell megvédenie, miközben ő maga tehetetlen? Mohamed (ﷺ) elfojtotta sérelmét, és minden fájdalmat elszenvedett Allahért. Hamarosan azon kezdett gondolkodni, hogy üzenetét egy másik város felé irányítja, amely talán gyorsabban és kedvezőbben válaszol. Magával vitte hát Zejd ibn Háriszát, és a Szakíf törzse felé indult, támogatásukat keresve.
 
 ## Táifban
 
 Allah Küldötte (ﷺ) Táifba ment, ahol a Szakíf élt. Ez mintegy 50 mérföldre van Mekkától, és ő gyalog tette meg az utat oda és vissza. Odaérve a vezető embereket kereste fel, és az iszlámról beszélt nekik, arra híva őket, hogy vessék alá magukat Allahnak (ﷻ). Ám mindnyájan rosszul fogadták és durván válaszoltak. Mintegy tíz napot töltött azzal, hogy otthonaikban látogatta őket, de hiába. Amikor a Próféta (ﷺ) letett a kedvező válasz reményéről, arra kérte őket, tartsák titokban látogatását. Attól félt, hogy ha az ügy a Kurajs fülébe jut, növeli ellenségességüket és rosszindulatukat.
 
-A Szakíf azonban még a vártnál is durvább volt. Azt felelték: „Takarodj országunkból!” Felbujtották a legfiatalabbakat és az utcai csőcseléket, akik két sorba állva kővel dobálták. Zajd (رضي الله عنه) hiába próbálta védeni; közben a fején megsebesült. Maga a Próféta (ﷺ) a lábán szenvedett olyan súlyos sérüléseket, hogy a vér szabadon folyt belőlük. Üldözőik arra kényszerítették őket, hogy egy Utbának és Sajbának, Rabía fiainak tulajdonában lévő kertben keressenek menedéket. Ott leült egy szőlőtő árnyékába, pihenést és biztonságot keresve. A kert tulajdonosai, akik ott voltak, elkergették a csőcseléket, és a Próféta (ﷺ) ott ült, nyomorúságos helyzetén tűnődve. Visszatértek emlékei a Kurajs kezétől elszenvedett gyötrelmeiről: az egymást követő tragédiák súlyos láncát vonszolta maga után. Így kiáltott hát:
+A Szakíf azonban még a vártnál is durvább volt. Azt felelték: „Takarodj országunkból!” Felbujtották a legfiatalabbakat és az utcai csőcseléket, akik két sorba állva kővel dobálták. Zejd (رضي الله عنه) hiába próbálta védeni; közben a fején megsebesült. Maga a Próféta (ﷺ) a lábán szenvedett olyan súlyos sérüléseket, hogy a vér szabadon folyt belőlük. Üldözőik arra kényszerítették őket, hogy egy Utbának és Sajbának, Rabía fiainak tulajdonában lévő kertben keressenek menedéket. Ott leült egy szőlőtő árnyékába, pihenést és biztonságot keresve. A kert tulajdonosai, akik ott voltak, elkergették a csőcseléket, és a Próféta (ﷺ) ott ült, nyomorúságos helyzetén tűnődve. Visszatértek emlékei a Kurajs kezétől elszenvedett gyötrelmeiről: az egymást követő tragédiák súlyos láncát vonszolta maga után. Így kiáltott hát:
 
 „Ó, Allah (ﷻ), Hozzád panaszlom erőm gyengeségét, eszközeim szűkösségét és jelentéktelenségemet az emberek előtt. Te vagy a Legirgalmasabb az irgalmazók között; Te vagy az elnyomottak Ura, és Te vagy az én Uram. Kire bízol engem? Egy távoli idegenre, aki megvet, vagy egy ellenségre, akinek hatalmat adtál fölöttem? Ha nem haragszol rám, nem törődöm vele. Ám a Te oltalmad tágasabb nekem. Orcád világosságánál keresek menedéket – amelytől a sötétség kivilágosodott, és amelyen e világ és a Túlvilág jóléte nyugszik – attól, hogy haragod szálljon rám, vagy nemtetszésed sújtson le rám. Hozzád fordulok, hogy elnyerjem tetszésedet, amíg elégedett nem leszel, és nincs erő, sem hatalom, csak Benned.”
 
@@ -1648,9 +1648,9 @@ Amikor Addász visszatért, megkérdezték, miről volt szó, és ő azt felelte
 
 Mohamed (ﷺ) visszatért Mekkába, a városba, amely kivetette magából népe legjavát: némelyikük Abesszíniába vándorolt, mások kénytelenek voltak elviselni a szüntelen üldöztetést, vagy a hegytetőkre menekülni.
 
-Zajd (رضي الله عنه) megkérdezte: „Hogyan állsz azok elé, akik kivetettek?”
+Zejd (رضي الله عنه) megkérdezte: „Hogyan állsz azok elé, akik kivetettek?”
 
-A Próféta (ﷺ) így felelt: „Ó, Zajd (رضي الله عنه), Allah (ﷻ) szabadulást ad majd abból, amit látsz.”
+A Próféta (ﷺ) így felelt: „Ó, Zejd (رضي الله عنه), Allah (ﷻ) szabadulást ad majd abból, amit látsz.”
 
 A Szakíftól érkező hírek kétségtelenül megelőzték őt a Kurajsnál. A Próféta (ﷺ) ezért úgy látta a legjobbnak, hogy addig nem lép be Mekkába, míg nem tud biztonságot szerezni magának és dáwájának. Üzenetet küldött al-Mutim ibn Adinak, védelemért folyamodva, hogy folytathassa Ura Üzenetének hirdetését. Al-Mutim teljesítette a kérést, és összegyűjtötte fiait, akik felfegyverkeztek, és a Kába sarkaihoz álltak.
 
@@ -1658,7 +1658,7 @@ Maga al-Mutim tevéjére szállt, és így kiáltott: „Ó, Kurajs gyülekezete
 
 Allah Küldötte (ﷺ) belépett, és a Kábához érve két rakátot imádkozott. Azután hazament, al-Mutim és fiai őrizete alatt.²³
 
-Közlik, hogy Abu Dzsahl megkérdezte al-Mutimot: „Menedéket adsz, vagy követő vagy, muszlim?” Ő azt felelte, hogy csak menedéket adott, mire Abu Dzsahl így szólt: „Mi is menedéket adunk annak, akinek te menedéket adtál!” A Próféta (ﷺ) mindig emlékezett al-Mutim e tettére, hiszen Badr napján, amikor a mekkaiak fogságba estek, azt mondta: „Ha al-Mutim élne, az ő kedvéért szabadon engedném ezeket a gazfickókat.”
+Közlik, hogy Abu Dzsahl megkérdezte al-Mutimot: „Menedéket adsz, vagy követő vagy, muszlim?” Ő azt felelte, hogy csak menedéket adott, mire Abu Dzsahl így szólt: „Mi is menedéket adunk annak, akinek te menedéket adtál!” A Próféta (ﷺ) mindig emlékezett al-Mutim e tettére, hiszen Bedr napján, amikor a mekkaiak fogságba estek, azt mondta: „Ha al-Mutim élne, az ő kedvéért szabadon engedném ezeket a gazfickókat.”
 
 Al-Mutim – akárcsak Abu Tálib – ősei vallásában maradt. Hasonlított hozzá bátorságában és mások megsegítésében is. Abu Dzsahl gúnyt akart űzni egy Prófétából (ﷺ), akinek menedékre van szüksége! Talán azon tűnődött, miért nem szállt le egy sereg angyal megvédeni. Így amikor meglátta, azt mondta: „Íme a ti Prófétátok (ﷺ), Abd Manáf nemzetsége!”
 
@@ -1814,7 +1814,7 @@ Ennek ellenére, abban a fojtogató légkörben, a Próféta (ﷺ) soha nem enge
 
 ⁴ Ez annak a hadísznak a jelentése, amelyet Ahmad és al-Hákim beszélt el Áisa tekintélyére hivatkozva.
 
-⁵ Ez annak a hadísznak a jelentése, amelyet Bukhári beszélt el Zajd ibn Szábit (رضي الله عنه) tekintélyére hivatkozva.
+⁵ Ez annak a hadísznak a jelentése, amelyet Bukhári beszélt el Zejd ibn Szábit (رضي الله عنه) tekintélyére hivatkozva.
 
 ⁶ Hiteles hadísz, több úton érkezett: az első Ibn Maszúdtól, al-Hákim jegyezte le (2/4); a második Abu Umámától, al-Tabaráni jegyezte le az al-Kabírban és Abu Nuajm a Hiljat al-Aulijában (10/27); a harmadik Huzajfától, al-Bazzár jegyezte le, ahogyan az al-Targhíbban (3/7) és al-Hajszami Madzsma al-Zaváidjában (4/71) áll. Ezek az utak erősítik egymást; ezért – Allah tudja a legjobban – Ibn al-Kajjim a Zád al-Maádban határozottan a Prófétának (ﷺ) tulajdonítja a hadíszt.
 
@@ -2295,7 +2295,7 @@ E bátorítással és törődéssel a muszlimok szelleme magasra emelkedett; az 
 
 ## Lábjegyzetek
 
-¹ Látom, hogy a szerző a Jathrib szót használja Medina vagy Tiba helyett. Azon túl, hogy ez a szó a dzsáhilijja korából való, itt figyelmen kívül marad, hogy Allah Tibának nevezte el, amint Dzsábir ibn Szamura hadísza kimondja: „Medinát Jathribnak szokták nevezni; azután Allah Küldötte (ﷺ) Tibának nevezte el.” Muszlim és al-Tajáliszi beszélte el; a szöveg az utóbbié. Muszlim szövege: „Allah (ﷻ) bizony Tabának nevezte el Medinát.” Ahmad mindkét formában elbeszélte. E tárgyban Bukhári is elbeszélt hadíszokat Abu Humajdtól, Muszlim Zajd ibn Szábittól, Ahmad pedig Fátima bint Kajsztól, és láncaik mind hitelesek.
+¹ Látom, hogy a szerző a Jathrib szót használja Medina vagy Tiba helyett. Azon túl, hogy ez a szó a dzsáhilijja korából való, itt figyelmen kívül marad, hogy Allah Tibának nevezte el, amint Dzsábir ibn Szamura hadísza kimondja: „Medinát Jathribnak szokták nevezni; azután Allah Küldötte (ﷺ) Tibának nevezte el.” Muszlim és al-Tajáliszi beszélte el; a szöveg az utóbbié. Muszlim szövege: „Allah (ﷻ) bizony Tabának nevezte el Medinát.” Ahmad mindkét formában elbeszélte. E tárgyban Bukhári is elbeszélt hadíszokat Abu Humajdtól, Muszlim Zejd ibn Szábittól, Ahmad pedig Fátima bint Kajsztól, és láncaik mind hitelesek.
 
 A legtöbb, amit e hadíszokból levonhatunk: hogy ez a szóhasználat nemkívánatos (*makrúh*), és a Taba vagy Tiba használata ajánlatos (*musztahabb*). Ahmad valóban elbeszélte al-Bara ibn Ázib tekintélyére hivatkozva, hogy a Próféta (ﷺ) mondta: „Aki Medinát Jathribnak nevezi, kérjen bocsánatot Allahtól (ﷻ): a Taba, a Taba.” al-Hajszami Abu Jala [gyűjteményére] is visszavezeti, és azt mondja, lánca erős. Ahmad láncában azonban ott van Jazíd ibn Abi Zijád, aki gyenge. Ha ez a hadísz gyenge is, az előzőek elegendő bizonyítékok. Az illemet (hogy Medinát helyes nevén nevezzük) a legtöbb ember megsértette, ezért akartam felhívni rá a figyelmet.
 
@@ -2430,7 +2430,7 @@ Ráadásul Mohamed (ﷺ) olyan ember volt, akiben felhalmozódott minden erény,
 
 Az, hogy az iszlám a testvériség építésében a magasztos magatartás értékét hangsúlyozza, nem tagadja a tényt, hogy az uralkodónak rendszert kell felállítania az emberek között, hogy mindenki megkapja jogait és teljesítse kötelességét. Ha valaki ezt nem teszi önként, kényszerítik rá. Hasonló ez a kötelező oktatáshoz, az adókhoz, a katonai szolgálathoz stb.
 
-A testvériségi szerződés az öröklés dolgában elsőbbséget élvezett a vérrokonság jogaival szemben egészen a badri ütközetig, amikor a következő koráni ája nyilatkoztatott ki:
+A testvériségi szerződés az öröklés dolgában elsőbbséget élvezett a vérrokonság jogaival szemben egészen a bedri ütközetig, amikor a következő koráni ája nyilatkoztatott ki:
 
 (Ám a vérrokonok előbbre valók egymás számára [az örökösödést illetően] Allah Írásában. Bizony, Allah minden dologról tudomással bír.) (Korán 8: 75)
 
@@ -2442,7 +2442,7 @@ A testvériségi szerződés az öröklés dolgában elsőbbséget élvezett a v
 
 Más szóval: adjátok meg nekik járandóságukat támogatásban, jóságban és tanácsban – hiszen többé nem örökölhetnek, bár végrendeletetek útján még kaphatnak valamit.
 
-E testvériség részleteiről közlik, hogy a Próféta (ﷺ) Alit (رضي الله عنه) tette testvérévé; Hamzát Zajd testvérévé, Abu Bakrt (رضي الله عنه) Kharidzsa testvérévé, Omárt (رضي الله عنه) pedig Utban ibn Málik testvérévé stb. Egyes tudósoknak kétségeik vannak afelől, hogy a Próféta (ﷺ) és Ali (رضي الله عنه) testvérekké lettek volna. E beszámolót azonban támogatja a hiteles hadísz, amelyben a Próféta (ﷺ) kijelentette, hogy Ali (رضي الله عنه) úgy viszonyul hozzá, ahogyan Áron (عليه السلام) Mózeshez (عليه السلام).⁶ Ez azonban nem von le Abu Bakr (رضي الله عنه) rangjából, sem abból, hogy megérdemelte a vezetést.
+E testvériség részleteiről közlik, hogy a Próféta (ﷺ) Alit (رضي الله عنه) tette testvérévé; Hamzát Zejd testvérévé, Abu Bakrt (رضي الله عنه) Kharidzsa testvérévé, Omárt (رضي الله عنه) pedig Utban ibn Málik testvérévé stb. Egyes tudósoknak kétségeik vannak afelől, hogy a Próféta (ﷺ) és Ali (رضي الله عنه) testvérekké lettek volna. E beszámolót azonban támogatja a hiteles hadísz, amelyben a Próféta (ﷺ) kijelentette, hogy Ali (رضي الله عنه) úgy viszonyul hozzá, ahogyan Áron (عليه السلام) Mózeshez (عليه السلام).⁶ Ez azonban nem von le Abu Bakr (رضي الله عنه) rangjából, sem abból, hogy megérdemelte a vezetést.
 
 ## A nem muszlimok
 
@@ -2534,7 +2534,7 @@ Ibn Iszhák mondta:
 
 Amikor Allah Prófétája (ﷺ) Medinába érkezett, az emberek a kijelölt időkben gyűltek össze imára, anélkül, hogy bárki hirdette volna. A Próféta (ﷺ) ezért olyan kürtöt akart használni, mint a zsidóké, amellyel azok imáikat hirdették. Aztán elvetette a gondolatot. Majd megparancsolta, hogy készítsenek kereplőt, és kifaragták, hogy az imák idején üssék meg.
 
-Miközben ebben az állapotban voltak, Abdullah ibn Zajd ibn Szalaba álmában látta az imára hívást. Eljött Allah Küldöttéhez (ﷺ), és így szólt:
+Miközben ebben az állapotban voltak, Abdullah ibn Zejd ibn Szalaba álmában látta az imára hívást. Eljött Allah Küldöttéhez (ﷺ), és így szólt:
 
 „Ó, Allah Küldötte (ﷺ), az éjjel álmot láttam. Egy két zöld ruhát viselő férfi haladt el mellettem, kezében kereplőt vitt.
 
@@ -2582,7 +2582,7 @@ Egy másik hadísz szerint Omár (رضي الله عنه) álmában látta, amin
 
 „A Kinyilatkoztatás megelőzött téged benne.”¹¹
 
-Ez bizonyítja, hogy a Kinyilatkoztatás azért jött, hogy megerősítse az álmot, amelyet Abdullah Ibn Zajd látott.
+Ez bizonyítja, hogy a Kinyilatkoztatás azért jött, hogy megerősítse az álmot, amelyet Abdullah Ibn Zejd látott.
 
 E kiváló szavakat – amelyek szabályos időközönként zengenek, megütik a fület, felkavarják a szívet, és Allahhoz (ﷻ) hívják az embereket – egy megvilágosodott elme igaz álomban fogta fel. Az a férfi a Prófétához (ﷺ) sietett, hogy pontosan elmondja, amit látott – és ez lett a muszlimok imára hívása mindaddig, amíg ima lesz e föld színén.
 
@@ -2804,7 +2804,7 @@ Aki a többi hadíszt és gyengeségeiket tanulmányozni akarja, forduljon az al
 
 ⁷ Ibn Iszhák ezt az okiratot tulajdonítás (elbeszélői lánc) nélkül közölte.
 
-⁸ Ibn Iszhák beszélte el al-Magházijában. Azt mondta: „Muhammad ibn Ibrahim al-Hárisz közölte velem Muhammad ibn Abdullah ibn Zajd ibn Szalabától, annak apjától…” – és ez jó lánc. Elbeszélte Abu Dávúd, Darimi, Ibn Mádzsa, al-Dárkutni, Bajhaki és Ahmad is, mind Ibn Iszhák útján. Al-Tirmidhi rövidített formában beszélte el, és azt mondta, jó és hiteles hadísz. Számos más tudós is hiteles hadísznak tartja; neveiket említettem Szahíh Szunan Abi Dávúd című könyvemben.
+⁸ Ibn Iszhák beszélte el al-Magházijában. Azt mondta: „Muhammad ibn Ibrahim al-Hárisz közölte velem Muhammad ibn Abdullah ibn Zejd ibn Szalabától, annak apjától…” – és ez jó lánc. Elbeszélte Abu Dávúd, Darimi, Ibn Mádzsa, al-Dárkutni, Bajhaki és Ahmad is, mind Ibn Iszhák útján. Al-Tirmidhi rövidített formában beszélte el, és azt mondta, jó és hiteles hadísz. Számos más tudós is hiteles hadísznak tartja; neveiket említettem Szahíh Szunan Abi Dávúd című könyvemben.
 
 ⁹ Erre a változatra nincs szükség, mivel megfelel az elsőnek.
 
@@ -2912,7 +2912,7 @@ Amikor a muszlimok berendezkedtek, fegyveres portyázó különítményeket kezd
 4. A második év szafarjában maga a Próféta (ﷺ) indult portyára, miután Szad ibn Ubádát nevezte ki helyettesévé Medinában. Vaddánig vonult, ahol a Kurajssal és a Banú Damrával remélt találkozni; a Kurajst ugyan nem találta, a Banú Damrával azonban szövetséget kötött.
 5. Ugyanezen év rabi al-avval havában a Próféta (ﷺ) kétszáz muhádzsirt és anszárt vezetett Buvátba, hogy elfogja a Kurajs egyik karavánját, amelyet Umajja ibn Khalaf vezetett száz emberrel, de az kicsúszott a kezei közül.
 6. Dzsumádában a Janbu völgyében fekvő al-Usajrába ment, ahol egy hónapot töltött, és békeszerződést kötött a Banú Mudliddzsal.
-7. Azután Karz ibn Dzsábir al-Fihri megtámadta Medinát, és elhajtotta jószágát. Bár a Próféta (ﷺ) egészen a Badr melletti Szafván-völgyig üldözte, nem érte utol. A történetírók ezt nevezik „az első badri ütközetnek”.
+7. Azután Karz ibn Dzsábir al-Fihri megtámadta Medinát, és elhajtotta jószágát. Bár a Próféta (ﷺ) egészen a Bedr melletti Szafván-völgyig üldözte, nem érte utol. A történetírók ezt nevezik „az első bedri ütközetnek”.
 
 E portyák egymást követő kiküldésének bölcsessége két pontban foglalható össze.
 
@@ -2962,9 +2962,9 @@ A Korán magasztalta Abdullah és emberei tettét, hiszen hűségesen és merés
 
 (Bizony, akik hisznek [Allah egyedülvalóságában és Mohamed Próféta küldetésében], és akik [vallásukért] kivándoroltak, és küzdöttek Allah útján, azok Allah könyörületét remélik. És Allah Megbocsátó, Irgalmas.) (Korán 2: 218)
 
-A Korán e portya eseményeinek tárgyalásában semmi teret nem hagyott az engedékenységnek a támadást elkövető bálványimádókkal szemben, és ennek messzeható következményei lettek a muszlimokra és ellenségeikre nézve. Azelőtt a portyázó különítményekbe csak muhádzsirokat soroztak; ezután azonban muhádzsirok és anszárok együtt alkották őket. Emellett erősödött az érzés, hogy a várható küzdelem hosszúra nyúlhat, és következményei súlyosak lehetnek. Mindazonáltal kívánatos küzdelem volt ez, azonnali vagy jövőbeli haszonnal párosulva. Végül Mekka felismerte, hogy múltbeli és jövőbeli bűneiért felelősségre vonatik, és hogy szíriai kereskedelme a muszlimok kegyelmétől függ. Így a két csoport közötti szakadék szélesedett, az ellenségesség nőtt. Mintha mindezek az események előszavául szolgáltak volna annak, ami alig egy hónappal később következett be, amikor Mekka színe-java összecsapott Medina színe-javával Badr meg nem beszélt találkozóhelyén.
+A Korán e portya eseményeinek tárgyalásában semmi teret nem hagyott az engedékenységnek a támadást elkövető bálványimádókkal szemben, és ennek messzeható következményei lettek a muszlimokra és ellenségeikre nézve. Azelőtt a portyázó különítményekbe csak muhádzsirokat soroztak; ezután azonban muhádzsirok és anszárok együtt alkották őket. Emellett erősödött az érzés, hogy a várható küzdelem hosszúra nyúlhat, és következményei súlyosak lehetnek. Mindazonáltal kívánatos küzdelem volt ez, azonnali vagy jövőbeli haszonnal párosulva. Végül Mekka felismerte, hogy múltbeli és jövőbeli bűneiért felelősségre vonatik, és hogy szíriai kereskedelme a muszlimok kegyelmétől függ. Így a két csoport közötti szakadék szélesedett, az ellenségesség nőtt. Mintha mindezek az események előszavául szolgáltak volna annak, ami alig egy hónappal később következett be, amikor Mekka színe-java összecsapott Medina színe-javával Bedr meg nem beszélt találkozóhelyén.
 
-## A badri ütközet
+## A bedri ütközet
 
 Jathribba eljutott a hír, hogy a Kurajs hatalmas karavánja tér vissza Szíriából Mekkába, lakosainak mérhetetlen vagyonát szállítva: ezer, áruval megrakott tevét, amelyet Abu Szufján ibn Harb vezetett legfeljebb harminc-negyven emberével. Fájdalmas csapás lett volna Mekka népének, ha elveszíti ezt a vagyont, a muszlimoknak pedig elegendő kárpótlás lett volna azokért a veszteségekért, amelyeket legutóbbi kivándorlásuk során szenvedtek el.
 
@@ -2978,9 +2978,9 @@ A Próféta (ﷺ) minden erejével igyekezett megfékezni az elszántság e lank
 
 Akik nem szívesen néztek szembe a Kurajssal, nem a haláltól féltek, hanem nem értették, mi a bölcsesség abban, hogy előzetes felkészülés nélkül, váratlanul bocsátkozzanak csatába. A Próféta (ﷺ) azonban mérlegelte az ügy minden körülményét, és úgy találta: jobb továbbmenni, mint visszavonulni. Eltökélte hát, hogy előrenyomul, hiszen e fegyveres csapatok mozgósításának értelme hiábavalóan veszett volna el, ha ilyen módon fordulnak vissza.
 
-A bizonytalanság érzése egyszeriben eltűnt, és mindnyájan könnyű szívvel haladtak céljuk felé. A karavánúton Badrig utazni egyáltalán nem volt könnyű. Medina és Badr között több mint száz mérföld volt a távolság, a Prófétának (ﷺ) és társainak pedig csak hetven tevéjük volt, amelyeken felváltva utaztak. Ahmad beszélte el Abdullah ibn Maszúd (رضي الله عنه) tekintélyére hivatkozva, aki azt mondta:¹⁰
+A bizonytalanság érzése egyszeriben eltűnt, és mindnyájan könnyű szívvel haladtak céljuk felé. A karavánúton Bedrig utazni egyáltalán nem volt könnyű. Medina és Bedr között több mint száz mérföld volt a távolság, a Prófétának (ﷺ) és társainak pedig csak hetven tevéjük volt, amelyeken felváltva utaztak. Ahmad beszélte el Abdullah ibn Maszúd (رضي الله عنه) tekintélyére hivatkozva, aki azt mondta:¹⁰
 
-„Badr napján hárman jutottunk egy tevére, vagyis felváltva ültünk rajta. Abu Lubába és Ali ibn Abi Tálib (رضي الله عنه) Allah Küldöttével (ﷺ) osztozott egy tevén.
+„Bedr napján hárman jutottunk egy tevére, vagyis felváltva ültünk rajta. Abu Lubába és Ali ibn Abi Tálib (رضي الله عنه) Allah Küldöttével (ﷺ) osztozott egy tevén.
 
 Amikor a Prófétára (ﷺ) került a sor, így szóltak: »Majd mi gyalogolunk helyetted.«
 
@@ -2990,19 +2990,19 @@ A muszlimok kémeket küldtek ki, hogy megállapítsák a karaván helyzetét é
 
 Damdamnak sikerült az egész várost fellármáznia: tevéje hátára állt, miután levágta annak orrát, megfordította nyergét és megszaggatta ingét. Azután így kiáltott: „Ó, Kurajs népe! A karaván! A karaván! Vagyonotokat Abu Szufjánnal megtámadta Mohamed (ﷺ) és társai! Nem hiszem, hogy időben odaértek! Segítség! Segítség!” Mindenki sietve készülődött, és vagy maga indult el, vagy mást küldött maga helyett. Összesen kilencszázötven harcos vonult ki, és velük kétszáz ló, amelyeken lovagoltak. Énekesnők is velük tartottak, dobolva és gúnydalokat énekelve a muszlimokról. Észak felé fordultak a karaván keresésére, amelynek hazafelé menet Jathrib mellett kellett elhaladnia.
 
-Abu Szufján azonban nem vesztegette az időt a várt segítségre várakozva. A legnagyobb óvatossággal és ügyességgel állt ellen a muszlimoknak, és siklott ki a kezük közül. Karavánjával együtt kis híján hanyatt-homlok a kezükbe esett, miközben Badr felé haladtak, de a szerencse mellé szegődött.
+Abu Szufján azonban nem vesztegette az időt a várt segítségre várakozva. A legnagyobb óvatossággal és ügyességgel állt ellen a muszlimoknak, és siklott ki a kezük közül. Karavánjával együtt kis híján hanyatt-homlok a kezükbe esett, miközben Bedr felé haladtak, de a szerencse mellé szegődött.
 
 Úgy beszélik, találkozott Madzsdi ibn Amrral, és megkérdezte tőle: „Észrevettél-e valakit?”
 
 Madzsdi így felelt: „Nem láttam idegeneket, csak két lovast, akik leszálltak tevéikről ezen a dombocskán, ittak egy edényükből, majd ismét útnak indultak.”
 
-Abu Szufján odament a helyre, ahol leszálltak, kezébe vette a tevék trágyáját, széttörte, és datolyamagot talált benne. Ekkor így szólt: „Allahra (ﷻ), ez Jathrib abrakja.” Rögtön megértette, hogy a két ember Mohamed (ﷺ) társai közül való, és hogy serege a közelben van. Visszatért hát a karavánhoz, és útvonalát a tengerpart felé fordította, Badrt balra hagyva – és így megmenekült. Látva, hogy a karaván immár biztonságban van, üzent a Kurajsnak: „Karavánotok, embereitek és vagyonotok védelmére vonultatok ki. Allah (ﷻ) immár megmentette őket, forduljatok hát vissza.”
+Abu Szufján odament a helyre, ahol leszálltak, kezébe vette a tevék trágyáját, széttörte, és datolyamagot talált benne. Ekkor így szólt: „Allahra (ﷻ), ez Jathrib abrakja.” Rögtön megértette, hogy a két ember Mohamed (ﷺ) társai közül való, és hogy serege a közelben van. Visszatért hát a karavánhoz, és útvonalát a tengerpart felé fordította, Bedrt balra hagyva – és így megmenekült. Látva, hogy a karaván immár biztonságban van, üzent a Kurajsnak: „Karavánotok, embereitek és vagyonotok védelmére vonultatok ki. Allah (ﷻ) immár megmentette őket, forduljatok hát vissza.”
 
-Abu Dzsahl azonban így szólt: „Bizony nem térünk haza, míg Badrhoz nem érünk, három napig ott nem táborozunk, tevéket nem vágunk, nem lakomázunk és bort nem iszunk, s az énekesnők nem muzsikálnak nekünk. Az araboknak hallaniuk kell rólunk és felvonulásunkról, hogy örökké féljenek tőlünk.”
+Abu Dzsahl azonban így szólt: „Bizony nem térünk haza, míg Bedrhez nem érünk, három napig ott nem táborozunk, tevéket nem vágunk, nem lakomázunk és bort nem iszunk, s az énekesnők nem muzsikálnak nekünk. Az araboknak hallaniuk kell rólunk és felvonulásunkról, hogy örökké féljenek tőlünk.”
 
 Abu Dzsahl e kijelentése pontosan az volt, amit a Próféta (ﷺ) meg akart akadályozni. Ha a Kurajs megszilárdítja helyzetét, és kiterjeszti befolyását ezeken a vidékeken azok után, amit a muszlimokkal tett, az az iszlám számára katasztrófának számított volna, és megakaszthatta volna növekedését. Valóban: volt-e más oka a portyák és felderítő csapatok Medinából való kiküldésének, mint hogy magasra emeljék Allah (ﷻ) zászlaját, megszégyenítsék a bálványimádás zászlaját, és leleplezzék, hogy a bálványimádók sem ártani, sem használni nem képesek? Ezért a Próféta (ﷺ) nem fordított annyi figyelmet a menekülő karavánra, mint arra, hogy fegyverrel járja be a vidéket, és a muszlimok iránti félő tiszteletet oltsa a környékbeliek szívébe.
 
-A Kurajs Abu Dzsahl tanácsát követve előrenyomult, míg a badri oázis túlsó partjára nem ért. Időközben a muszlimok fárasztó útjuk után az oázis innenső partján táboroztak le. Így a két haderő közel került egymáshoz, nem tudva, mi lesz e félelmetes találkozás kimenetele.
+A Kurajs Abu Dzsahl tanácsát követve előrenyomult, míg a bedri oázis túlsó partjára nem ért. Időközben a muszlimok fárasztó útjuk után az oázis innenső partján táboroztak le. Így a két haderő közel került egymáshoz, nem tudva, mi lesz e félelmetes találkozás kimenetele.
 
 Leszállt az éj, és a Próféta (ﷺ) kiküldte Alit (رضي الله عنه), al-Zubajrt (رضي الله عنه) és Szadot (رضي الله عنه), hogy fürkésszék ki a környéket, és szerezzenek híreket. A Kurajs két ifjú rabszolgájával találkoztak, akiknek az volt a dolguk, hogy vizet hordjanak nekik.
 
@@ -3048,7 +3048,7 @@ A Próféta (ﷺ) örült Szad (رضي الله عنه) válaszának, és arca f
 
 „Menjetek előre, és legyetek jókedvűek! Allah (ﷻ) megígérte nekem a két csapat egyikét. Allahra (ﷻ), mintha már látnám a helyeket, ahol azok az emberek elesnek.”¹²
 
-A muszlimok felkészültek a csatára, és a badri kutak előtt táboroztak le.
+A muszlimok felkészültek a csatára, és a bedri kutak előtt táboroztak le.
 
 Al-Hubáb ibn al-Munzir odament a Prófétához (ﷺ), és megkérdezte: „Olyan hely ez, ahová Allah (ﷻ) állított téged, és így nem szabad sem előre, sem hátra mozdulnunk? Vagy vélemény ez, háború és hadicsel?”
 
@@ -3134,7 +3134,7 @@ A Kurajs maradéka köréje gyűlt, mondván: „Senki sem éri el Abul Hakamot.
 
 Abdul-Rahmán ibn Auf mondta:
 
-„Badr napján a sorban álltam. Amikor megfordultam, íme, jobbomon és balomon két ifjú állt.
+„Bedr napján a sorban álltam. Amikor megfordultam, íme, jobbomon és balomon két ifjú állt.
 
 Kezdtem magam bizonytalanul érezni közöttük, amikor egyikük halkan, hogy a másik ne hallja, így szólt hozzám: »Bátyám! Mutasd meg nekem Abu Dzsahlt.«
 
@@ -3158,7 +3158,7 @@ A muszlimok szeme előtt feltárult a győzelem örvendetes látványa, amely az
 
 (És bizony, Allah már győzelemre vitt titeket Bedr-nél, amikor gyengék voltatok. Féljétek hát Allahot, hátha hálásak lesztek!) (Korán 3: 123)
 
-A vértanúk száma közöttük tizennégy volt. Allah irgalma kiválasztotta és az Illijjínbe vitte őket. Anasz bin Málik (رضي الله عنه) közölte, hogy Hárisza ibn Szurákát Badr napján eltévedt nyílvessző ölte meg, miközben a nézelődők között volt.
+A vértanúk száma közöttük tizennégy volt. Allah irgalma kiválasztotta és az Illijjínbe vitte őket. Anasz bin Málik (رضي الله عنه) közölte, hogy Hárisza ibn Szurákát Bedr napján eltévedt nyílvessző ölte meg, miközben a nézelődők között volt.
 
 Anyja eljött a Prófétához (ﷺ), és így szólt: „Ó, Allah Küldötte (ﷺ), mondd el nekem, mi van Háriszával. Ha a Paradicsomban van, türelmes leszek; ha pedig nem, Allah (ﷻ) meglátja, mit teszek” (vagyis jajveszékel). A jajveszékelés ugyanis akkor még nem volt tiltott!!
 
@@ -3166,7 +3166,7 @@ A Próféta (ﷺ) így felelt: „Jaj neked! Elment az eszed? Nyolc kert van ott
 
 Ha ez volt a jutalma a nézelődőnek, akit eltévedt nyílvessző talált el, mi jár akkor azoknak, akik a csata sűrűjébe vetették magukat, és ott estek el?
 
-Ebben a csatában apák néztek szembe fiaikkal, és testvérek testvérekkel. Elveken különböztek össze, és kardok döntötték el vitájukat. Korunkban a kommunisták harcoltak saját polgártársaik ellen, és szaggatták szét a legszorosabb emberi kötelékeket meggyőződésükért. Nem volt hát meglepő látni, hogy a hívő fiú haragszik hitetlen apjára, és Allahért (ﷻ) száll szembe vele. A badri ütközet több ilyen esetet is feljegyzett.
+Ebben a csatában apák néztek szembe fiaikkal, és testvérek testvérekkel. Elveken különböztek össze, és kardok döntötték el vitájukat. Korunkban a kommunisták harcoltak saját polgártársaik ellen, és szaggatták szét a legszorosabb emberi kötelékeket meggyőződésükért. Nem volt hát meglepő látni, hogy a hívő fiú haragszik hitetlen apjára, és Allahért (ﷻ) száll szembe vele. A bedri ütközet több ilyen esetet is feljegyzett.
 
 Abu Bakr (رضي الله عنه) a Prófétával (ﷺ) volt, fia, Abd al-Rahmán pedig Abu Dzsahl oldalán harcolt ellene. Utba ibn Rabía volt az első, aki harcra hívta ki a muszlimokat, míg fia, Abu Huzajfa a Próféta (ﷺ) legközelebbi társai közé tartozott. Amikor Utba testét felemelték, hogy a kútba (kalíb) vessék, a Próféta (ﷺ) Abu Huzajfára nézett, és észrevette, hogy sápadt és szomorú.
 
@@ -3184,21 +3184,21 @@ A muszlimok megkérdezték: „Ó, Allah Küldötte (ﷺ), olyan embereket szól
 
 Ő így felelt: „Ti sem vagytok képesebbek náluk meghallani, amit mondok – csak ők nem tudnak válaszolni.”²⁸
 
-A badri esemény a hidzsra utáni második év ramadán 17-én történt. A Próféta (ﷺ) három napot töltött Badrnál. Azután Medina felé indult, maga előtt terelve a foglyokat és a zsákmányt. Tanácsosnak látta, hogy a jó hírt előre megküldje a medinai muszlimoknak, akik mit sem tudtak a történtekről. Abdullah ibn Raváhát és Zajd ibn Háriszát választotta hát ki az örömhír vivőjéül a nép számára.
+A bedri esemény a hidzsra utáni második év ramadán 17-én történt. A Próféta (ﷺ) három napot töltött Bedrnél. Azután Medina felé indult, maga előtt terelve a foglyokat és a zsákmányt. Tanácsosnak látta, hogy a jó hírt előre megküldje a medinai muszlimoknak, akik mit sem tudtak a történtekről. Abdullah ibn Raváhát és Zejd ibn Háriszát választotta hát ki az örömhír vivőjéül a nép számára.
 
-Uszáma ibn Zajd mondta: „A hír éppen akkor ért el hozzánk, amikor elegyengettük a földet Rukajja, a Próféta (ﷺ) leánya fölött.” Férje, Oszmán ibn Affán (رضي الله عنه) a Próféta (ﷺ) parancsára maradt otthon, hogy ápolja, és a Próféta (ﷺ) teljes részt adott neki a Badrnál szerzett jutalomból és zsákmányból.²⁹
+Uszáma ibn Zejd mondta: „A hír éppen akkor ért el hozzánk, amikor elegyengettük a földet Rukajja, a Próféta (ﷺ) leánya fölött.” Férje, Oszmán ibn Affán (رضي الله عنه) a Próféta (ﷺ) parancsára maradt otthon, hogy ápolja, és a Próféta (ﷺ) teljes részt adott neki a Bedrnél szerzett jutalomból és zsákmányból.²⁹
 
 ## Számvetés és dorgálás
 
 Az anszárok és a muhádzsirok kitartása és kölcsönös vigasztalása ellenére, amelyet a történelem feljegyzett, az új társadalom mégis érezte a nélkülözés terheit és a szegénység nehézségeit, amelyek átjárták. Ha az önmegtartóztatás olykor el is fedte, máskor lelepleződött. Azokra a válságokra, amelyek egy állam semmiből való megteremtését kísérik olyan nemzetek között, amelyek összeesküvést szőnek ellene, és minden alkalmat megragadnak a támadásra, számítani kell; el kell szánni magunkat, hogy szembenézzünk velük, és nem szabad engedni, hogy az irántuk támadt éles érzések meggyengítsék az ember jellemét és megtörjék elszántságát.
 
-Allah (ﷻ) Badr előtt és után is felelősségre vonta a muszlimokat bizonyos viselkedésért, amely megnyilvánult közöttük, és amelytől meg kellett tisztulniuk, bármilyen erős okok vagy mentségek szóltak is mellette. Azon a napon, amikor elhagyták Jathribot, hogy megütközzenek Mekka bálványimádóival, vágyaik a kincseket és értékes portékákat szállító karaván elfogása körül forogtak. Igaz, hogy elűzték őket otthonaikból és javaikból, és hogy életüket és gyermekeiket áldozták Allahért (ﷻ). Haladjanak hát tovább az áldozat útján a végső állomásig, és bármennyire marja is őket a szegénység agyaraival, a hitetlenek megbüntetése nyomjon többet mérlegükön, mint a zsákmányszerzés.
+Allah (ﷻ) Bedr előtt és után is felelősségre vonta a muszlimokat bizonyos viselkedésért, amely megnyilvánult közöttük, és amelytől meg kellett tisztulniuk, bármilyen erős okok vagy mentségek szóltak is mellette. Azon a napon, amikor elhagyták Jathribot, hogy megütközzenek Mekka bálványimádóival, vágyaik a kincseket és értékes portékákat szállító karaván elfogása körül forogtak. Igaz, hogy elűzték őket otthonaikból és javaikból, és hogy életüket és gyermekeiket áldozták Allahért (ﷻ). Haladjanak hát tovább az áldozat útján a végső állomásig, és bármennyire marja is őket a szegénység agyaraival, a hitetlenek megbüntetése nyomjon többet mérlegükön, mint a zsákmányszerzés.
 
 (És [emlékezzetek arra] amikor Allah megígérte nektek, hogy a két csapat közül az egyik a ti kezetekre kerül! Ti pedig azt kívántátok, hogy ne a fegyvert forgató kerüljön a kezetekre, ám Allah valóra akarta váltani az igazságot a szava által, és kiirtottuk az utolsó maradékát a hitetleneknek.) (Korán 8: 7)
 
 Ugyanebbe a sorba tartozott versengésük a győzelem után a zsákmány összegyűjtéséért, és minden csoport igyekezete, hogy az oroszlánrészt vigye el. Ubáda ibn-al-Számit közölte:
 
-„Kivonultunk a Prófétával (ﷺ), és vele voltam Badrnál. A seregek összecsaptak, és Allah (ﷻ) legyőzte az ellenséget. Az emberek egy csoportja üldözőbe vette és öldökölte őket, egy másik csoport a zsákmányra vetette magát, magának követelve és összegyűjtve azt. Egy harmadik csoport Allah Küldötte (ﷺ) mellett maradt, védelmezve őt, hogy az ellenség váratlanul meg ne támadhassa.
+„Kivonultunk a Prófétával (ﷺ), és vele voltam Bedrnél. A seregek összecsaptak, és Allah (ﷻ) legyőzte az ellenséget. Az emberek egy csoportja üldözőbe vette és öldökölte őket, egy másik csoport a zsákmányra vetette magát, magának követelve és összegyűjtve azt. Egy harmadik csoport Allah Küldötte (ﷺ) mellett maradt, védelmezve őt, hogy az ellenség váratlanul meg ne támadhassa.
 
 Amikor leszállt az éj, és minden ember összegyűlt, azok, akik a zsákmányt gyűjtötték, így szóltak: »Mi gyűjtöttük össze, senki másnak nincs benne része.«
 
@@ -3212,13 +3212,13 @@ Erre Allah (ﷻ) kinyilatkoztatta:
 
 És a Próféta (ﷺ) szétosztotta a muszlimok között.”³⁰
 
-Ez a szomorú viszály azután támadt, hogy széles körű csapás sújtotta a muhádzsirokat és az anszárokat egyaránt. Allah Küldötte (ﷺ) észrevette e csapás tüneteit társain, miközben Badr felé tartottak, megszánta állapotukat, és Allahhoz (ﷻ) folyamodott, hogy vegye el szerencsétlenségüket. Abdullah ibn Amr (رضي الله عنه) közölte:
+Ez a szomorú viszály azután támadt, hogy széles körű csapás sújtotta a muhádzsirokat és az anszárokat egyaránt. Allah Küldötte (ﷺ) észrevette e csapás tüneteit társain, miközben Bedr felé tartottak, megszánta állapotukat, és Allahhoz (ﷻ) folyamodott, hogy vegye el szerencsétlenségüket. Abdullah ibn Amr (رضي الله عنه) közölte:
 
-„Allah Küldötte (ﷺ) 315 társával indult el Badrhoz. Amikor odaért, így szólt: »Ó, Allah (ﷻ), éhesek, adj hát nekik enni; ó, Allah (ﷻ), mezítláb vannak, adj hát nekik hátasokat; ó, Allah (ﷻ), ruhátlanok, öltöztesd hát fel őket.« Allah (ﷻ) győzelmet adott neki Badr napján, és amikor hazaindultak, egyetlen ember sem volt köztük, aki ne tért volna haza egy vagy két hátassal, felöltözve és jóllakva.”³¹
+„Allah Küldötte (ﷺ) 315 társával indult el Bedrhez. Amikor odaért, így szólt: »Ó, Allah (ﷻ), éhesek, adj hát nekik enni; ó, Allah (ﷻ), mezítláb vannak, adj hát nekik hátasokat; ó, Allah (ﷻ), ruhátlanok, öltöztesd hát fel őket.« Allah (ﷻ) győzelmet adott neki Bedr napján, és amikor hazaindultak, egyetlen ember sem volt köztük, aki ne tért volna haza egy vagy két hátassal, felöltözve és jóllakva.”³¹
 
 Amikor az éhség és a meleg ruha hiánya hosszúra nyúlik, gonosz sebhelyeket hagy a szíven, és sötét, szűk mederbe tereli az ember gondolatait. Mégis meg kell jegyezni: ha az ilyen válságok elárasztják a tömegeket, és arra ösztönzik őket, hogy mohón és hangosan keressenek élelmet és ruhát maguknak és gyermekeiknek, a vezető hívőknek ezzel szemben uralkodniuk kell magukon, el kell fojtaniuk a szorongató éhség kínjait, és nem szabad megengedniük maguknak, hogy bármin is civakodjanak.
 
-Ez az az illem, amelynek felvételére Allah (ﷻ) a muszlimokat szólította, és amellyel megnyitotta azt a szúrát, amely a badri harcról beszél. A kiválasztott kevesek ugyanis példák mások számára, és ha múló nehézségek miatt rossz jellemet mutatnak, akkor a nép tömege annál gyorsabban zuhan a káosz és zűrzavar vermébe. Ott van példának a németeké az első világháborúban és a briteké a másodikban. Ostrom alatt álltak, míg testük le nem soványodott és arcuk el nem sápadt. A tömegek mégis csak azért tudták elviselni ezeket az éhínségeket, mert kitartó vezetőik minden nehézséget magukra vállaltak.
+Ez az az illem, amelynek felvételére Allah (ﷻ) a muszlimokat szólította, és amellyel megnyitotta azt a szúrát, amely a bedri harcról beszél. A kiválasztott kevesek ugyanis példák mások számára, és ha múló nehézségek miatt rossz jellemet mutatnak, akkor a nép tömege annál gyorsabban zuhan a káosz és zűrzavar vermébe. Ott van példának a németeké az első világháborúban és a briteké a másodikban. Ostrom alatt álltak, míg testük le nem soványodott és arcuk el nem sápadt. A tömegek mégis csak azért tudták elviselni ezeket az éhínségeket, mert kitartó vezetőik minden nehézséget magukra vállaltak.
 
 Az egyik ügy, amelyért Allah (ﷻ) komolyan felelősségre vonta a muszlimokat, a foglyokkal szembeni magatartásuk volt. Az a kívánság, hogy életben tartsák őket, és hasznot húzzanak vagyonukból, felülkerekedett a többi véleményen, amely a foglyok megbüntetését követelte korábbi vétkeikért, hogy példák legyenek az előttük és utánuk jövőknek, és intelem a hívőknek.
 
@@ -3250,25 +3250,25 @@ Ahogyan az élet a jó emberek révén halad előre, ugyanúgy a rossz elemek mi
 
 (Egyetek hát abból, ami zsákmányt szereztetek! Az megengedett és jó [számotokra]! És féljétek Allahot! Bizony, Allah Megbocsátó, Irgalmas.) (Korán 8: 69)
 
-## Badr utóhatása
+## Bedr utóhatása
 
-Az arabok mind elámultak azon a döntő győzelmen, amelyet a muszlimok Badrnál arattak. Mekka népe valójában el sem akarta hinni a hírt, amikor először eljutott hozzá, mert egy őrült félrebeszélésének gondolta. Amikor azonban igaznak bizonyult, számos férfi összeesett és ott helyben meghalt, mások pedig úgy összezavarodtak, hogy nem tudták, mit tegyenek.
+Az arabok mind elámultak azon a döntő győzelmen, amelyet a muszlimok Bedrnél arattak. Mekka népe valójában el sem akarta hinni a hírt, amikor először eljutott hozzá, mert egy őrült félrebeszélésének gondolta. Amikor azonban igaznak bizonyult, számos férfi összeesett és ott helyben meghalt, mások pedig úgy összezavarodtak, hogy nem tudták, mit tegyenek.
 
 Ahogyan Mekka népe elutasította vereségének hírét, míg szembe nem került annak szégyenével, ugyanúgy utasították el Medina bálványimádói és zsidói a fülükbe jutott győzelem hírét. Némelyikük odáig ment, hogy azzal vádolta a muszlimokat: maguk koholták győzelmük hírét; és konokok maradtak, míg – nagy csalódásukra – saját szemükkel nem látták a láncra vert foglyok bevonulását.
 
 A hitetlenek különféle csoportjainak a muszlimokkal szembeni magatartása eltérően alakult a győzelem után, amely hatalmat adott az iszlámnak és követőinek, tiszteltté tette tekintélyüket Medinában és környékén, és kiterjesztette befolyásukat a félsziget északi karavánútjaira, ahol többé senki sem haladhatott át engedélyük nélkül. Mekka népe magába húzódott, sebeit nyalogatta, erejét gyűjtögette, és a bosszúra készült. Kihirdették, hogy közel a bosszú napja, és az elszenvedett vereség csak növelte az iszlám iránti gyűlöletüket, a Mohameddel (ﷺ) és társaival szembeni haragjukat, és azok elnyomását, akik újonnan fogadták el hitét. Így aki az iszlám felé hajlott, annak vagy titokban kellett tartania, vagy megvetetten és elnyomottan élnie. Így volt ez Mekkában, ahol az állam a hitetlenségre épült. Ami Medinát illeti, ahol a muszlimok alkották az uralkodó többséget, az iszlámmal szembeni ellenségeskedés a fondorlat, a képmutatás és a csalás alakját öltötte. Így számos bálványimádó és zsidó látszólag felvette az iszlámot, míg szívük forrt a rosszindulattól és a hitetlenségtől. Élükön Abdullah ibn Ubajj állt.
 
-Uszáma ibn Zajd elbeszélte: „Allah Küldötte (ﷺ) és társai elnézőek voltak a bálványimádókkal és a Könyv Népével szemben, ahogyan Allah (ﷻ) parancsolta nekik, és türelemmel viselték sértéseiket.” Allah (ﷻ) azt mondta:
+Uszáma ibn Zejd elbeszélte: „Allah Küldötte (ﷺ) és társai elnézőek voltak a bálványimádókkal és a Könyv Népével szemben, ahogyan Allah (ﷻ) parancsolta nekik, és türelemmel viselték sértéseiket.” Allah (ﷻ) azt mondta:
 
 (Az Írás népe közül sokan szeretnék, ha visszatéríthetnének titeket a hitetlenséghez miután hívők lettetek, magukból támadt irigységből, miután világossá vált előttük az igazság (az, hogy Mohamed Allah küldötte). Nézzétek hát el [nekik] és hagyjatok fel [a büntetésükkel], amíg Allah el nem hozza parancsát! Bizony Allah minden dologra kiterjedő hatalmú.) (Korán 2: 109)
 
 A Próféta (ﷺ) tehát a megbocsátás és elnézés parancsát követte irántuk, míg Allah (ﷻ) meg nem hozta a rájuk vonatkozó végső döntést.³³
 
-Amikor megvívta a badri ütközetet, amelyben Allah (ﷻ) elveszejtette a Kurajs számos előkelőjét, a Próféta (ﷺ) és társai pedig győztesen tértek haza foglyaikkal, Abdullah ibn Ubajj és a vele lévő bálványimádók így szóltak egymáshoz: „Ez az ügy immár eldőlt; esküdjünk hát hűséget a Prófétának (ﷺ), és fogadjuk el az iszlámot.” Így is tettek, és felvették az iszlámot.
+Amikor megvívta a bedri ütközetet, amelyben Allah (ﷻ) elveszejtette a Kurajs számos előkelőjét, a Próféta (ﷺ) és társai pedig győztesen tértek haza foglyaikkal, Abdullah ibn Ubajj és a vele lévő bálványimádók így szóltak egymáshoz: „Ez az ügy immár eldőlt; esküdjünk hát hűséget a Prófétának (ﷺ), és fogadjuk el az iszlámot.” Így is tettek, és felvették az iszlámot.
 
-Mindazonáltal, míg a hitetlenek egyik csoportja a megtévesztéshez folyamodott, ugyanakkor a zsidók egy másik csoportja nyíltan kifejezte haragját Mohamed (ﷺ) iránt és bánatát a Kurajs badri veresége miatt. Sőt, Kab al-Asraf, az egyik zsidó törzsfő ódákat is küldött a Kurajsnak, elsiratva veszteségeiket és bosszúra tüzelve őket. E visszatetsző eset után a muszlimok és a zsidók közötti ellenségeskedés fokozódott. A zsidók ezután megpróbálták kisebbíteni az iszlám győzelmének jelentőségét, ezzel egyengetve az utat a hamarosan bekövetkező erőszakos események felé, amelyekért a zsidók vérükkel fizettek, egyénileg és közösségileg egyaránt.
+Mindazonáltal, míg a hitetlenek egyik csoportja a megtévesztéshez folyamodott, ugyanakkor a zsidók egy másik csoportja nyíltan kifejezte haragját Mohamed (ﷺ) iránt és bánatát a Kurajs bedri veresége miatt. Sőt, Kab al-Asraf, az egyik zsidó törzsfő ódákat is küldött a Kurajsnak, elsiratva veszteségeiket és bosszúra tüzelve őket. E visszatetsző eset után a muszlimok és a zsidók közötti ellenségeskedés fokozódott. A zsidók ezután megpróbálták kisebbíteni az iszlám győzelmének jelentőségét, ezzel egyengetve az utat a hamarosan bekövetkező erőszakos események felé, amelyekért a zsidók vérükkel fizettek, egyénileg és közösségileg egyaránt.
 
-Ami a beduinokat és a Medinán kívül, a karavánutak közelében élő többieket illeti, ők olyan emberek voltak, akik többnyire maguknak éltek. Nem törődtek a hit és a hitetlenség kérdéseivel. Egyetlen gondjuk az élelem megszerzése volt, bármilyen forrásból, és nem bánták, ha lopniuk kellett. Közelmúltjuk – a zarándokkaravánok kifosztása – igaz tanúja annak, hogy sem szentélyt nem tisztelnek, sem mástól nem félnek, csak az erőtől. Ha a szaúdiak nem alkalmaztak volna erőt velük szemben, a haddzs útja nem lett volna biztonságos. Korábban Medina jószágát is elhajtották, és az örökül kapott iszlám előtti dzsáhilijja a félsziget bálványimádói mellé állította szívüket. Megriadtak a muszlimok badri győzelmétől. Bár gyülekezni kezdtek azzal a szándékkal, hogy az első adandó alkalommal rajtaüssenek Medinán, a Próféta (ﷺ) erőivel eléjük vonult, és különösebb ellenállás nélkül szétszórta őket.
+Ami a beduinokat és a Medinán kívül, a karavánutak közelében élő többieket illeti, ők olyan emberek voltak, akik többnyire maguknak éltek. Nem törődtek a hit és a hitetlenség kérdéseivel. Egyetlen gondjuk az élelem megszerzése volt, bármilyen forrásból, és nem bánták, ha lopniuk kellett. Közelmúltjuk – a zarándokkaravánok kifosztása – igaz tanúja annak, hogy sem szentélyt nem tisztelnek, sem mástól nem félnek, csak az erőtől. Ha a szaúdiak nem alkalmaztak volna erőt velük szemben, a haddzs útja nem lett volna biztonságos. Korábban Medina jószágát is elhajtották, és az örökül kapott iszlám előtti dzsáhilijja a félsziget bálványimádói mellé állította szívüket. Megriadtak a muszlimok bedri győzelmétől. Bár gyülekezni kezdtek azzal a szándékkal, hogy az első adandó alkalommal rajtaüssenek Medinán, a Próféta (ﷺ) erőivel eléjük vonult, és különösebb ellenállás nélkül szétszórta őket.
 
 ## A zsidók és a muszlimok közötti viszály kezdete
 
@@ -3280,11 +3280,11 @@ A muszlimok sohasem fontolgatták, hogy megszegjék a zsidókkal kötött szerz�
 
 A zsidók azonban a legrosszabb várakozásoknak feleltek meg. Alig telt el néhány nap azóta, hogy Medinában a muszlimok közé vegyültek, máris a muszlimok bosszantásában és a mások ellenük való bujtogatásában kezdték kedvüket lelni. Ha csak nem hittek volna Mohamedben (ﷺ), ahogyan korábban Jézusban sem hittek; ha meg lettek volna győződve arról, hogy Tórájukon kívül minden hamis; ha beérték volna azzal, hogy zsinagógáikban végzik imáikat, és visszafogták volna nyelvüket Allah (ﷻ) prófétáinak rágalmazásától – a muszlimok békén hagyták volna őket hitetlenkedni a Végső Óráig, háborús viszály nélkül. Mivel azonban a muszlimok minden erejüket megfeszítve építették államukat, míg a zsidók minden tőlük telhetőt megtettek, hogy lerombolják; mivel az iszlám a bálványimádással állt harcban, míg a Banú Iszráíl érzelmeivel, nyelvével és propagandájával Mohamed (ﷺ) és társai ellen fordult – olyan helyzet állt elő, amelyet nem lehetett tovább tűrni.
 
-Miközben a muszlimok badri győzelmüknek örültek, ezek a zsidók nem szégyellték azt mondani a Prófétának (ﷺ): „Ne tévesszen meg, hogy olyan néppel kerültél szembe, amely mit sem értett a hadviseléshez, és így kihasználtad őket. Allahra (ﷻ), ha mi harcoltunk volna ellened, megtudtad volna, kik az igazi férfiak.” A kinyilatkoztatásnak le kellett szállnia, hogy gonosz végükre figyelmeztesse ezeket az embereket:
+Miközben a muszlimok bedri győzelmüknek örültek, ezek a zsidók nem szégyellték azt mondani a Prófétának (ﷺ): „Ne tévesszen meg, hogy olyan néppel kerültél szembe, amely mit sem értett a hadviseléshez, és így kihasználtad őket. Allahra (ﷻ), ha mi harcoltunk volna ellened, megtudtad volna, kik az igazi férfiak.” A kinyilatkoztatásnak le kellett szállnia, hogy gonosz végükre figyelmeztesse ezeket az embereket:
 
 (Mondd [ó Mohamed] azoknak, akik hitetlenné váltak: „Győzelmet fognak aratni felettetek, és a Gyehennába lesztek egybegyűjtve, és mily nyomorúságos fekhely az!” Bizony jel volt számotokra a két seregben, amelyek összecsaptak. Az egyik sereg Allah útján harcolt, míg a másik hitetlen volt, úgy látták [a hívők], hogy a másik sereg szemlátomást kétszer akkora, mint az övék. És Allah azt támogatja meg győzelmével, akit akar. Bizony, ebben tanulság van az éles meglátással bíróknak.) (Korán 3: 12–13)
 
-A második ája emlékeztető arra, ami Badrnál történt.
+A második ája emlékeztető arra, ami Bedrnél történt.
 
 Az elsők, akik leleplezték rosszindulatukat és az iszlámon meg a muszlimokon való gúnyolódásukat, a Banú Kajnuka zsidói voltak, akik magában Medinában laktak. A muszlimok elfojtották haragjukat, és várták, milyen zsidó cselszövések lepleződnek le, ahogy múlnak a napok. A zsidók valójában maguk törekedtek saját gyalázatos végük felé. Történt, hogy egy arab asszony ékszereivel a Banú Kajnuka piacára ment, és leült az aranyműves boltjában. Hamarosan zsidók egy csoportja gyűlt köréje, követelve, hogy fedje fel arcát. Az asszony megtagadta. Ekkor az aranyműves – az asszony tudta nélkül – ruhája szegélyét a hátához tűzte. Amikor felállt, lelepleződött, és a zsidók rajta nevettek. Az asszony felkiáltott, mire egy muszlim férfi az aranyművesre vetette magát, és megölte. A zsidók erre őrá rontottak és megölték, és a szikra háborúvá lobbant a muszlimok és a Banú Kajnuka között. Ez a hidzsra második évének savvál havában, a hónap közepén történt.
 
@@ -3314,7 +3314,7 @@ Mit jelentett akkor, hogy az (állításuk szerint) egyistenhívő zsidók harag
 
 Úgy tűnik, a zsidók arabok között élő csoportjai zsoldosbandák voltak, akik a vallást messzeható gazdasági célok leplének használták. Amikor úgy vélték, hogy e célokat a megsemmisülés fenyegeti, újra előbukkant a rejtett hitetlenség – a hitetlenség Allahban (ﷻ) és minden prófétájában. Az iszlám elleni harcukban semmiféle tisztes eszközt nem ismertek, és az ellene szőtt cselszövéseikben sem határ, sem szerződés nem gátolta őket. Így nem maradt más lehetőség, mint kiűzni őket, és megtisztítani a földet jelenlétüktől.
 
-A muszlimok üldözték mindazokat, akik megszegték fogadalmukat, nyíltan hadat üzentek Allahnak (ﷻ) és Küldöttének (ﷺ), támogatták a Kurajst és nézeteit, és a szomorúság meg az együttérzés jeleit mutatták azért, ami őket (a Kurajst) érte. A zsidó vezetők e csoportját a muszlimok halállal és rettegéssel üldözték. Azok között, akiken az igazságos ítélet végrehajtatott, volt Kab ibn al-Asraf. Ez az ember Medinából Mekkába utazott, hogy részvétét fejezze ki a Badrnál legyőzött bálványimádóknak, akik bosszút esküdtek Mohamed (ﷺ) és társai ellen.
+A muszlimok üldözték mindazokat, akik megszegték fogadalmukat, nyíltan hadat üzentek Allahnak (ﷻ) és Küldöttének (ﷺ), támogatták a Kurajst és nézeteit, és a szomorúság meg az együttérzés jeleit mutatták azért, ami őket (a Kurajst) érte. A zsidó vezetők e csoportját a muszlimok halállal és rettegéssel üldözték. Azok között, akiken az igazságos ítélet végrehajtatott, volt Kab ibn al-Asraf. Ez az ember Medinából Mekkába utazott, hogy részvétét fejezze ki a Bedrnél legyőzött bálványimádóknak, akik bosszút esküdtek Mohamed (ﷺ) és társai ellen.
 
 Ő az, akitől Abu Szufján megkérdezte: „Kérve kérlek, Allahra (ﷻ), mondd meg nekünk: a mi hitünk kedvesebb-e Allahnak (ﷻ), vagy Mohamed (ﷺ) és társai hite? Melyikünk vezéreltetik jobban, és áll közelebb az igazsághoz? Mi kövér tevékkel etetjük [vendégeinket], víz helyett tejet adunk nekik, és etetjük őket, amíg csak fúj a szél.”
 
@@ -3370,13 +3370,13 @@ A Kurajs semmi olyat nem nyert ezen a hiábavaló rajtaütésen, amivel felemelh
 
 Szafván ibn Umajja így szólt a Kurajshoz: „Mohamed (ﷺ) és társai tönkretették kereskedelmünket, és nem tudjuk, mihez kezdjünk társaival, amíg a part mentén maradnak. A part népe szerződéseket kötött velük, és többségük hozzájuk csatlakozott, így nem tudjuk, melyik utat válasszuk. Ha otthonainkban maradunk, feléljük tőkénket, és az elenyészik. Mekkai életünk a nyári szíriai és a téli abesszíniai kereskedelemtől függ.”
 
-Al-Aszvad ibn Abdul Muttalib így felelt: „Kerüld el a parti utat, és fordulj Irak felé.” Bemutatta neki Furát ibn Hajjánt a Banú Bakr ibn Váil törzséből, akit vezetőül fogadhattak arra az útra. Így a Kurajs karavánja Szafván ibn Umajja vezetésével útnak indult az új útvonalon. Ám Nuajm ibn Maszúd Medinába jött, hírt hozva erről a karavánról és tervezett útjáról. Szalít ibn al-Numánnal együtt italozásba merült – még az alkohol tilalma előtt –, és megvallotta neki a titkot. Szalít a Prófétához (ﷺ) sietett, és elmondta neki a történetet. A Próféta (ﷺ) azonnal útnak indította Zajd ibn Háriszát száz lovas élén, hogy fogja el a karavánt. Zajd az al-Kirda nevű kútnál érte utol, és elfogta az egész karavánt, amely nagy mennyiségű ezüstöt szállított. A bálványimádók mind pánikban menekültek, csak Furát ibn Hajján került a muszlimok kezére. Amikor Medinába vitték, felvette az iszlámot.
+Al-Aszvad ibn Abdul Muttalib így felelt: „Kerüld el a parti utat, és fordulj Irak felé.” Bemutatta neki Furát ibn Hajjánt a Banú Bakr ibn Váil törzséből, akit vezetőül fogadhattak arra az útra. Így a Kurajs karavánja Szafván ibn Umajja vezetésével útnak indult az új útvonalon. Ám Nuajm ibn Maszúd Medinába jött, hírt hozva erről a karavánról és tervezett útjáról. Szalít ibn al-Numánnal együtt italozásba merült – még az alkohol tilalma előtt –, és megvallotta neki a titkot. Szalít a Prófétához (ﷺ) sietett, és elmondta neki a történetet. A Próféta (ﷺ) azonnal útnak indította Zejd ibn Háriszát száz lovas élén, hogy fogja el a karavánt. Zejd az al-Kirda nevű kútnál érte utol, és elfogta az egész karavánt, amely nagy mennyiségű ezüstöt szállított. A bálványimádók mind pánikban menekültek, csak Furát ibn Hajján került a muszlimok kezére. Amikor Medinába vitték, felvette az iszlámot.
 
 A Kurajst megdöbbentette ez az újabb csapás, és csak fokozta bosszúszomjukat. Előkészületeket tettek a muszlimokkal való összecsapásra, minden erejük teljes mozgósításával. Ez és a kísérő események vezettek el az uhudi ütközethez a hidzsra harmadik évében.
 
 Az iszlám Medinában töltött első két évének katonai tevékenységéről szólva nem mulaszthatjuk el megemlíteni néhány más fontos eseményt, amely ez idő tájt történt.
 
-Elhunyt Khunajsz ibn Huzáfa al-Szahmi, Hafsza bint Omár (رضي الله عنه) férje. Jó ember volt, és részt vett Badrnál. Amikor letelt a várakozási ideje, apja férjet akart választani neki. Omár (رضي الله عنه) elmondta, mi történt:
+Elhunyt Khunajsz ibn Huzáfa al-Szahmi, Hafsza bint Omár (رضي الله عنه) férje. Jó ember volt, és részt vett Bedrnél. Amikor letelt a várakozási ideje, apja férjet akart választani neki. Omár (رضي الله عنه) elmondta, mi történt:
 
 „Találkoztam Oszmán ibn Affánnal (رضي الله عنه), és felajánlottam neki a házasságot Hafszával. Azt mondtam: Ha kívánod, hozzád adom Hafsza bint Omárt (رضي الله عنه).”
 
@@ -3404,9 +3404,9 @@ Allah (ﷻ) minden idők és helyek Ura, és az, hogy egy nemzetet meghatározot
 
 ## Az uhudi ütközet
 
-Badri vereségük óta a Kurajs nem lelt lelki békét, és a rákövetkező események csak fokozták ellenségességüket. Így mire egy év eltelt, a Kurajs befejezte előkészületeit, szövetségesei köréjük gyűltek, és mindenki hozzájuk csatlakozott, aki haragot táplált az iszlám és a muszlimok iránt. A több mint háromezres bosszúszomjas sereg ezután útnak indult Medina felé. Vezére, Abu Szufján jónak látta, hogy asszonyaikat is magukkal hozzák, hogy azok vitéz harcra buzdítsák a férfiakat becsületük védelmében. A régi ellenségeskedés és az elfojtott harag gyűlöletet szított szívükben, és előrevetítette a kibontakozó harc keserűségét. A harmadik év savvál havának első napjaiban a menetelő sereg elérte Medinát, az Uhud hegye közelében táborozott le, és lovait szabadon engedte legelni Medina ott elterülő vetésein!
+Bedri vereségük óta a Kurajs nem lelt lelki békét, és a rákövetkező események csak fokozták ellenségességüket. Így mire egy év eltelt, a Kurajs befejezte előkészületeit, szövetségesei köréjük gyűltek, és mindenki hozzájuk csatlakozott, aki haragot táplált az iszlám és a muszlimok iránt. A több mint háromezres bosszúszomjas sereg ezután útnak indult Medina felé. Vezére, Abu Szufján jónak látta, hogy asszonyaikat is magukkal hozzák, hogy azok vitéz harcra buzdítsák a férfiakat becsületük védelmében. A régi ellenségeskedés és az elfojtott harag gyűlöletet szított szívükben, és előrevetítette a kibontakozó harc keserűségét. A harmadik év savvál havának első napjaiban a menetelő sereg elérte Medinát, az Uhud hegye közelében táborozott le, és lovait szabadon engedte legelni Medina ott elterülő vetésein!
 
-A muszlimok a Próféta (ﷺ) köré gyűltek, ügyükön gondolkodva. Kivonuljanak-e a nyílt terepre megvívni az ellenséggel, vagy engedjék, hogy az elérje Medina utcáit, és ott harcoljanak ellene, míg az asszonyok a háztetőkről küzdenek? A Próféta (ﷺ) az utóbbi vélemény felé hajlott, és ebben az előrelátásukról ismert férfiak támogatták. Maga Abdullah ibn Ubajj is ezt a véleményt pártolta. Ám azok a férfiak, akik nem voltak ott Badrnál, alig várták, hogy kivonulhassanak.
+A muszlimok a Próféta (ﷺ) köré gyűltek, ügyükön gondolkodva. Kivonuljanak-e a nyílt terepre megvívni az ellenséggel, vagy engedjék, hogy az elérje Medina utcáit, és ott harcoljanak ellene, míg az asszonyok a háztetőkről küzdenek? A Próféta (ﷺ) az utóbbi vélemény felé hajlott, és ebben az előrelátásukról ismert férfiak támogatták. Maga Abdullah ibn Ubajj is ezt a véleményt pártolta. Ám azok a férfiak, akik nem voltak ott Bedrnél, alig várták, hogy kivonulhassanak.
 
 Azt mondták: „Vágyakoztunk e nap után, és fohászkodtunk Allahhoz (ﷻ). Most valóra váltotta nekünk, és eljött az indulás ideje.” Többségük ifjú volt, aki a vértanúságra vágyott, és úgy tűnt, a muszlimok legtöbbje amellett van, hogy kivonuljanak az ellenség elé. A Próféta (ﷺ) tehát bement házába, és páncélját viselve, csatára készen jött ki. Az emberek ekkor kezdték úgy érezni, hogy rákényszerítették a Prófétát (ﷺ) véleményük elfogadására, és jelezték, hogy készek engedni az ő véleményének.
 
@@ -3536,7 +3536,7 @@ Ali (رضي الله عنه) elbeszélte: „Utánuk mentem hát, és láttam, h
 
 Ibn Iszhák mondta:
 
-„Amikor Abu Szufján indulni készült, fellépett a hegy peremére, és torkaszakadtából kiáltotta: »Jól sikerült. A háború forgandó. Egy nap a badri napért. Légy magasztos, Hubal!«”
+„Amikor Abu Szufján indulni készült, fellépett a hegy peremére, és torkaszakadtából kiáltotta: »Jól sikerült. A háború forgandó. Egy nap a bedri napért. Légy magasztos, Hubal!«”
 
 A Próféta (ﷺ) azt mondta Omárnak (رضي الله عنه), hogy válaszoljon neki: „Mondd: »Allah (ﷻ) magasztosabb és fenségesebb! Nem egyformák vagyunk: a mi halottaink a Paradicsomban, a ti halottaitok a Tűzben vannak!«”
 
@@ -3550,7 +3550,7 @@ Omár (رضي الله عنه) így felelt: „Allahra (ﷻ), nem. E pillanatban
 
 Ezután Abu Szufján így kiáltott:
 
-„Halottaitok némelyikét megcsonkították. Allahra (ﷻ), sem nem örültem neki, sem nem haragudtam érte, sem meg nem tiltottam, sem el nem rendeltem.”⁴⁹ Amikor Abu Szufján távozni fordult, ezt kiáltotta: „Találkozónk jövőre Badrnál!”
+„Halottaitok némelyikét megcsonkították. Allahra (ﷻ), sem nem örültem neki, sem nem haragudtam érte, sem meg nem tiltottam, sem el nem rendeltem.”⁴⁹ Amikor Abu Szufján távozni fordult, ezt kiáltotta: „Találkozónk jövőre Bedrnél!”
 
 A Próféta (ﷺ) azt mondta egyik emberének, hogy válaszoljon: „Igen, ez megbeszélt időpont köztetek és köztünk.”⁵⁰
 
@@ -3564,9 +3564,9 @@ A csata Ibn Ubajj dezertálásával kezdődött – e tettben az iszlám jövőj
 
 A gyávaság és a meghátrálás volt az a viselkedés, amely leleplezte a képmutatók igazi természetét, és megalázta őket önmaguk és az emberek előtt, még mielőtt az ég kihirdette volna képmutatásukat. Ha túllépsz az alsó lejtőkön, amelyeken ezek a képmutatók csúsznak-másznak, és figyelmedet a tiszta, mélyen gyökerező hit magas csúcsaira fordítod, azt látod megtestesülni a sikeres támadás szakaszában, amikor a harc megkezdődött, majd a nemes, félelmetes védekezés szakaszában, amelynek terhét a muszlimok azután viselték, hogy a hadiszerencse a bálványimádók javára fordult. Azok a férfiak, akik vérükkel írják a történelmet, és elszántságukkal szabják meg irányát, vívták meg ezt a háborút, és ezzel biztosították az iszlám jövőjét a földön.
 
-Úgy beszélik, Khajszama, akinek fia Badrnál esett el, eljött a Prófétához (ﷺ), mondván:
+Úgy beszélik, Khajszama, akinek fia Bedrnél esett el, eljött a Prófétához (ﷺ), mondván:
 
-Lemaradtam a badri ütközetről, pedig nagyon vágytam ott lenni, Allahra (ﷻ). Sorsot húztam fiammal, ki menjen. Ő volt a szerencsés, és megadatott neki a vértanúság. Múlt éjjel álmomban láttam a legboldogabb állapotban, amint szabadon barangol a Paradicsom gyümölcsfái és folyói között. Azt mondta: „Kövess minket, találkozunk a Paradicsomban. Bizony igaznak találtam Uram ígéretét.”
+Lemaradtam a bedri ütközetről, pedig nagyon vágytam ott lenni, Allahra (ﷻ). Sorsot húztam fiammal, ki menjen. Ő volt a szerencsés, és megadatott neki a vértanúság. Múlt éjjel álmomban láttam a legboldogabb állapotban, amint szabadon barangol a Paradicsom gyümölcsfái és folyói között. Azt mondta: „Kövess minket, találkozunk a Paradicsomban. Bizony igaznak találtam Uram ígéretét.”
 
 Ó, Allah Küldötte (ﷺ), vágyakozom, hogy csatlakozzam hozzá. Előrehaladott korban vagyok, csontjaim gyengék, és szeretnék találkozni Urammal. Imádkozz hát Allahhoz (ﷻ), Allah Küldötte (ﷺ), hogy adja meg nekem a vértanúságot és a fiam közelségét a Paradicsomban.
 
@@ -3612,7 +3612,7 @@ Ekkor sorokba rendeződtek mögötte, és ő így imádkozott:
 
 Ó, Allah (ﷻ), bizony Tőled kérem az örökkévaló boldogságot, amely sohasem változik és nem enyészik el. Ó, Allah (ﷻ), a Te segítségedet kérem a szegénység napján, és a Te oltalmadat a félelem napján. Ó, Allah (ﷻ), Nálad keresek menedéket annak gonoszától, amit nekünk adtál, és annak, amit nem adtál. Ó, Allah (ﷻ), tedd szeretetté számunkra a hitet, és tedd széppé szívünkben, a hitetlenséget pedig tedd gyűlöletessé előttünk, a bűnnel és az engedetlenséggel együtt, és tégy minket az igaz úton járók közül valókká. Ó, Allah (ﷻ), engedj minket muszlimokként meghalni, és muszlimokként támassz fel minket, és bocsáss be az igazak közé, sem meg nem szégyenítve, sem tévútra nem vezetve. Ó, Allah (ﷻ), harcolj a hitetlenek ellen, akik meghazudtolják küldötteidet, és eltérítenek másokat a Te utadtól, és küldj rájuk büntetést és fenyítést. Ó, Allah (ﷻ), harcolj a hitetlenek ellen, akiknek az Írás adatott, ó, igazság Istene.”
 
-A Korán szelíd volt, amikor a muszlimokat ért balszerencsét kommentálta, ellentétben Badr utáni megjegyzéseivel – és nem is csoda, hiszen a győzteseket vétkeikért felelősségre vonni rendszerint keményebb dolog, mint a legyőzötteket. Az első esetben Allah (ﷻ) azt mondta:
+A Korán szelíd volt, amikor a muszlimokat ért balszerencsét kommentálta, ellentétben Bedr utáni megjegyzéseivel – és nem is csoda, hiszen a győzteseket vétkeikért felelősségre vonni rendszerint keményebb dolog, mint a legyőzötteket. Az első esetben Allah (ﷻ) azt mondta:
 
 (Ti az evilág javait akarjátok, ám Allah a túlvilágot akarja [számotokra]. És Allah Méltóságteljes, Bölcs. Ha nem lett volna korábban egy írás (elrendelés) Allahtól, akkor bizony hatalmas gyötrelem érne titeket azért, amit elvettetek [zsákmányként és váltságdíjként]!) (Korán 8: 67–68)
 
@@ -3640,7 +3640,7 @@ Mohamed (ﷺ) munkája az volt, hogy bevilágítsa az emberi gondolkodás és le
 
 (Mohamed csupán egy küldött, már előtte is eltávoztak a küldöttek [az élők sorából]. Hát, hogyha meghalna, vagy megöletne, akkor sarkon fordultok? Ám aki sarkon fordul, az nem árt semmiben Allahnak, és Allah pedig meg fogja adni a fizetségét azoknak, akik hálát adnak.) (Korán 3: 144)
 
-A nemes áják tovább folytatták a hívők felvilágosítását az eset tanulságairól, megtanítva őket, hogyan kerülhetik el a jövőben az ilyen szorult helyzeteket, és megragadva az alkalmat, hogy a muszlimok testéből leválasszák azokat, akik a képmutatás alapján léptek be. Ha a badri ütközet a hitetlenek megalázására szolgált, akkor az uhudi ütközet hasonlóképpen a képmutatókat leplezte le. Sok ártalmas dolog hasznosnak bizonyulhat, és az ember testét betegség is gyógyíthatja.
+A nemes áják tovább folytatták a hívők felvilágosítását az eset tanulságairól, megtanítva őket, hogyan kerülhetik el a jövőben az ilyen szorult helyzeteket, és megragadva az alkalmat, hogy a muszlimok testéből leválasszák azokat, akik a képmutatás alapján léptek be. Ha a bedri ütközet a hitetlenek megalázására szolgált, akkor az uhudi ütközet hasonlóképpen a képmutatókat leplezte le. Sok ártalmas dolog hasznosnak bizonyulhat, és az ember testét betegség is gyógyíthatja.
 
 Talán az e csatában elkövetett parancsmegtagadás eredményeként a muszlimok alapos leckét kaptak az engedelmesség értékéről. Az a csoport ugyanis, amelyet nem egyetlen parancs irányít, vagy amelyet egyénieskedő hajlamok gyötörnek, sohasem lehet sikeres az összecsapásban, sőt sem háborúban, sem békében nem igazolhatja magát. Minden nemzet – hívő és nem hívő egyaránt – tudatában van ennek a valóságnak, és ezért épül a hadsereg a feltétlen engedelmességre. Valahányszor egy nemzet háborúba lép, a különféle pártok mind egyetlen frontba tömörülnek, minden hajlamuk egyetlen kívánsággá válik, és a sorokban minden széthúzást vagy engedetlenséget vasököllel fojtanak el.
 
@@ -3708,15 +3708,15 @@ Eljött a hidzsra negyedik éve, és a muszlimok még mindig nem gyógyultak ki 
 
 Khálid ibn Szufján al-Huzali haderőt próbált gyűjteni a muszlimok megtámadására, de a Próféta (ﷺ) Abdullah ibn Unajszot küldte utána, és őt még akkor ölték meg, amikor a beduin törzseket próbálta Medina ellen mozgósítani.⁶⁸ A Huzajl törzse úgy állt bosszút rokonáért, hogy a radzsi ütközetben elfogott muszlim foglyokat kiszolgáltatta Mekka népének.
 
-Radzsi története azzal kezdődött, hogy az Adal és az al-Kára törzsek küldöttsége kereste fel a Prófétát (ﷺ), és embereket kért, akik megtanítanák nekik az iszlám alapelveit és a Korán recitálását, mert az iszlám híre eljutott hozzájuk. A Próféta (ﷺ) több dáít (hitterjesztőt) küldött velük Ászim ibn Szábit parancsnoksága alatt. Amikor Uszfán és Mekka között jártak, a Huzajl vizeinek közelében, a küldöttség árulást követett el, és a Huzajlt hívta segítségül a hitterjesztők megölésére. Bár azok önvédelemből fegyvert fogtak, mit tehetett egy maroknyi, fél kézen megszámolható ember vagy száz íjásszal szemben, akik mögött ott állt segítségre készen a törzsük? Így Ászim és emberei hamar elestek, hárman pedig fogságba kerültek: Khubajb, Zajd ibn al-Daszna és Abdullah ibn Tárik. A huzajliak Mekkába vitték őket, hogy ott adják el őket – ez pedig annyit jelentett, hogy valószínű gyilkosaiknak szolgáltatják ki őket. A hitterjesztők e csoportja a Prófétával (ﷺ) volt a badri és az uhudi ütközetben, és Mekka népe csak az alkalmat várta, hogy bosszút állhasson rajtuk. Abdullah megpróbált megszökni e sors elől, és megölték. A másik kettőt átadták a mekkaiaknak.
+Radzsi története azzal kezdődött, hogy az Adal és az al-Kára törzsek küldöttsége kereste fel a Prófétát (ﷺ), és embereket kért, akik megtanítanák nekik az iszlám alapelveit és a Korán recitálását, mert az iszlám híre eljutott hozzájuk. A Próféta (ﷺ) több dáít (hitterjesztőt) küldött velük Ászim ibn Szábit parancsnoksága alatt. Amikor Uszfán és Mekka között jártak, a Huzajl vizeinek közelében, a küldöttség árulást követett el, és a Huzajlt hívta segítségül a hitterjesztők megölésére. Bár azok önvédelemből fegyvert fogtak, mit tehetett egy maroknyi, fél kézen megszámolható ember vagy száz íjásszal szemben, akik mögött ott állt segítségre készen a törzsük? Így Ászim és emberei hamar elestek, hárman pedig fogságba kerültek: Khubajb, Zejd ibn al-Daszna és Abdullah ibn Tárik. A huzajliak Mekkába vitték őket, hogy ott adják el őket – ez pedig annyit jelentett, hogy valószínű gyilkosaiknak szolgáltatják ki őket. A hitterjesztők e csoportja a Prófétával (ﷺ) volt a bedri és az uhudi ütközetben, és Mekka népe csak az alkalmat várta, hogy bosszút állhasson rajtuk. Abdullah megpróbált megszökni e sors elől, és megölték. A másik kettőt átadták a mekkaiaknak.
 
-Szafván ibn Umajja megvásárolta Zajdot, hogy apjáért bosszúból megölje. Kivitték a szentélyen kívülre, és egy csoport ember gyűlt köréje.
+Szafván ibn Umajja megvásárolta Zejdet, hogy apjáért bosszúból megölje. Kivitték a szentélyen kívülre, és egy csoport ember gyűlt köréje.
 
-Köztük volt Abu Szufján, aki így szólt: „Kérve kérlek Allahra (ﷻ), Zajd. Nem szeretnéd-e inkább, hogy Mohamed (ﷺ) legyen itt a helyedben közöttünk, lefejezésre várva, te pedig otthon lehess családoddal?”
+Köztük volt Abu Szufján, aki így szólt: „Kérve kérlek Allahra (ﷻ), Zejd. Nem szeretnéd-e inkább, hogy Mohamed (ﷺ) legyen itt a helyedben közöttünk, lefejezésre várva, te pedig otthon lehess családoddal?”
 
 Ő így felelt: „Allahra (ﷻ), még azt sem szeretném, hogy Mohamedet (ﷺ) ott, ahol most van, akár csak egy tövis is megszúrja, azért, hogy én otthon maradhassak családommal.”
 
-Abu Szufján azt mondta: „Sohasem láttam senkit úgy szeretni valakit, ahogyan Mohamed (ﷺ) társai szeretik őt.” Azután Zajdot (رضي الله عنه) megölték.
+Abu Szufján azt mondta: „Sohasem láttam senkit úgy szeretni valakit, ahogyan Mohamed (ﷺ) társai szeretik őt.” Azután Zejdet (رضي الله عنه) megölték.
 
 Ukba ibn al-Hárisz megvásárolta Khubajbot, hogy apjáért bosszúból megölje. Amikor kivitték a szentélyből, hogy keresztre feszítsék, így szólt:
 
@@ -3762,7 +3762,7 @@ Az iszlám sikere az Arab-félszigeten megvetett lába megerősítésében sok s
 
 ([Emlékezzetek arra] amikor a képmutatók, és azok, akiknek a szívében betegség van, azt mondták: „Megtévesztette ezeket a vallásuk!” És aki Allahra hagyatkozik, hát bizony Allah Méltóságteljes, Bölcs!) (Korán 8: 49)
 
-Ez a gyűlölet a badri győzelem után egy ideig szunnyadt. Sőt, ez a győzelem talán a gyenge szívű és bizonytalan elemek jó részét arra bátorította, hogy az új vallás zászlaja alá álljon. Amikor azonban a hadiszerencse a muszlimok ellen fordult, és vereséget vereség után szenvedtek, az elfojtott gyűlölet kirobbant, és az iszlám ellenségei minden fronton támadni kezdték. Mondtuk már, hogy a Próféta (ﷺ) átlátta a helyzetet Uhud után, és ezért nagy erőfeszítéseket tett, hogy visszaszerezze a muszlimok fölényét. Így a két erő közötti küzdelem hevesebbé vált, mint valaha. Egyfelől a bálványimádók minden alkalmat megragadtak, hogy uhudihoz hasonló vagy még keményebb csapást mérjenek a muszlimokra, másfelől a muszlimok annak nyomait igyekeztek örökre eltörölni. Mindazonáltal, mint már kifejtettük, a muszlimok hatalmas veszteségeket szenvedtek Radzsinál és Bir Maúnánál, és a hit egyik megpróbáltatást a másik után állta ki. E tragédiák ellenére azonban a hívő emberek nem veszítették el kapcsolatukat Urukkal, sem a jövőbe vetett bizalmukat. Elkezdtek csapásra csapással felelni, és amikor a zsidók ilyen válságos helyzetben megindították lépéseiket a Próféta (ﷺ) meggyilkolására, ő nem késlekedett gyors büntetést mérni rájuk.
+Ez a gyűlölet a bedri győzelem után egy ideig szunnyadt. Sőt, ez a győzelem talán a gyenge szívű és bizonytalan elemek jó részét arra bátorította, hogy az új vallás zászlaja alá álljon. Amikor azonban a hadiszerencse a muszlimok ellen fordult, és vereséget vereség után szenvedtek, az elfojtott gyűlölet kirobbant, és az iszlám ellenségei minden fronton támadni kezdték. Mondtuk már, hogy a Próféta (ﷺ) átlátta a helyzetet Uhud után, és ezért nagy erőfeszítéseket tett, hogy visszaszerezze a muszlimok fölényét. Így a két erő közötti küzdelem hevesebbé vált, mint valaha. Egyfelől a bálványimádók minden alkalmat megragadtak, hogy uhudihoz hasonló vagy még keményebb csapást mérjenek a muszlimokra, másfelől a muszlimok annak nyomait igyekeztek örökre eltörölni. Mindazonáltal, mint már kifejtettük, a muszlimok hatalmas veszteségeket szenvedtek Radzsinál és Bir Maúnánál, és a hit egyik megpróbáltatást a másik után állta ki. E tragédiák ellenére azonban a hívő emberek nem veszítették el kapcsolatukat Urukkal, sem a jövőbe vetett bizalmukat. Elkezdtek csapásra csapással felelni, és amikor a zsidók ilyen válságos helyzetben megindították lépéseiket a Próféta (ﷺ) meggyilkolására, ő nem késlekedett gyors büntetést mérni rájuk.
 
 ## A Banú al-Nadír száműzetése
 
@@ -3788,11 +3788,11 @@ Ezzel az áldozat nélkül elért győzelemmel a muszlimok fölénye Medinában 
 
 Miután megtörték e törzsek erejét, és véget vetettek fenyegetésüknek, a muszlimok ismét készülődni kezdtek az ellenségükkel való összecsapásra, mert eltelt egy év, és eljött a Kurajssal megbeszélt találkozó ideje. Joggal indult hát ki Mohamed (ﷺ) és társai, hogy szembenézzenek Abu Szufjánnal és népével, és még egyszer megforgassák a háború malomkövét, míg el nem dől, melyik fél jár a helyesebb úton, és melyik méltóbb a fennmaradásra.
 
-## A második Badr
+## A második Bedr
 
-Abu Szufján nem buzgólkodott az Uhudtól távozóban tett ígérete teljesítésén. Nehéz szívvel hagyta el Mekkát, a muszlimokkal való harc következményein töprengve, és még nem is készült fel annyira, amennyire szerette volna. Népe vereséget szenvedett Badrnál számbeli és felszerelésbeli fölénye ellenére, Uhudnál pedig éppen hogy győzelmet tudott aratni, miután kis híján vereséget szenvedett. Ha nem lett volna Allah (ﷻ) seregének hibája, a Kurajs semmit sem nyert volna a csatában. Így Abu Szufján alig ért al-Zahránba, máris a visszavonulás jutott eszébe, és odakiáltott embereinek: „Ó, Kurajs népe! Csak a termékeny esztendő válik javatokra, amelyben a bokrokon legeltettek, és tejet isztok. Ez az év azonban aszályos év, én pedig visszafordulok – forduljatok hát vissza ti is!” Így hátrált ki a Kurajs a várt csatából.
+Abu Szufján nem buzgólkodott az Uhudtól távozóban tett ígérete teljesítésén. Nehéz szívvel hagyta el Mekkát, a muszlimokkal való harc következményein töprengve, és még nem is készült fel annyira, amennyire szerette volna. Népe vereséget szenvedett Bedrnél számbeli és felszerelésbeli fölénye ellenére, Uhudnál pedig éppen hogy győzelmet tudott aratni, miután kis híján vereséget szenvedett. Ha nem lett volna Allah (ﷻ) seregének hibája, a Kurajs semmit sem nyert volna a csatában. Így Abu Szufján alig ért al-Zahránba, máris a visszavonulás jutott eszébe, és odakiáltott embereinek: „Ó, Kurajs népe! Csak a termékeny esztendő válik javatokra, amelyben a bokrokon legeltettek, és tejet isztok. Ez az év azonban aszályos év, én pedig visszafordulok – forduljatok hát vissza ti is!” Így hátrált ki a Kurajs a várt csatából.
 
-A muszlimok azonban teljes hévvel mozgósították magukat a Kurajssal való találkozásra. Elérték Badr kútjait, és köréjük táboroztak, kihirdetve szavuk beváltását és készségüket a megígért harcra. Nyolc napon át várakoztak a Kurajs közeledtére, lemosva hírnevükről az utolsó sárfoltokat is, amelyeket Uhud dobott rá. Ez a hidzsra utáni negyedik év sabán havában történt.
+A muszlimok azonban teljes hévvel mozgósították magukat a Kurajssal való találkozásra. Elérték Bedr kútjait, és köréjük táboroztak, kihirdetve szavuk beváltását és készségüket a megígért harcra. Nyolc napon át várakoztak a Kurajs közeledtére, lemosva hírnevükről az utolsó sárfoltokat is, amelyeket Uhud dobott rá. Ez a hidzsra utáni negyedik év sabán havában történt.
 
 ## Dúmat al-Dzsandal
 
@@ -3814,13 +3814,13 @@ A Próféta (ﷺ) úgy látta, kedvesen kell bánnia velük. Így amikor al-Hár
 
 Ezt a könnyű győzelmet azonban beszennyezték a képmutatók tettei, amelyek elfeledtették a muszlimokkal édes ízét. Omár (رضي الله عنه) egyik szolgája, aki al-Murajszi vizéből merített vizet neki, összeakadt a Khazradzs törzsbeli Banú Auf egy szolgájával, és kis híján összeverekedtek a vízmerésen – megszokott dolog ez az üresfejű szolgák között. Az első így kiáltott: „Ó, muhádzsirok!”, míg a másik azt kiáltotta: „Ó, anszárok!”
 
-Abdullah ibn Ubajj, aki törzsének egy csoportja között tartózkodott, hallgatta a lármát, és látva a kínálkozó alkalmat, hogy felkorbácsolja érzelmeiket, és felélessze a dzsáhilijja lángjait, amelyeket az iszlám elfojtott, így szólt: „No, most megtették! Versengtek velünk, és megpróbáltak túlszárnyalni minket saját hazánkban. Nem, Allahra (ﷻ): ha visszatérünk Medinába, a hatalmasabb hamarosan kiűzi a gyengébbet.” Azután népéhez fordult – akik körében még volt némi tekintélye –, korholva őket, és arra nógatva, hogy tagadják meg a Prófétát (ﷺ) és társait. Zajd ibn Arkam elment a Prófétához (ﷺ), és elmondta neki a történteket, Ibn Ubajj azonban a Prófétához (ﷺ) sietett, hogy a vádak tagadásával tisztázza magát.
+Abdullah ibn Ubajj, aki törzsének egy csoportja között tartózkodott, hallgatta a lármát, és látva a kínálkozó alkalmat, hogy felkorbácsolja érzelmeiket, és felélessze a dzsáhilijja lángjait, amelyeket az iszlám elfojtott, így szólt: „No, most megtették! Versengtek velünk, és megpróbáltak túlszárnyalni minket saját hazánkban. Nem, Allahra (ﷻ): ha visszatérünk Medinába, a hatalmasabb hamarosan kiűzi a gyengébbet.” Azután népéhez fordult – akik körében még volt némi tekintélye –, korholva őket, és arra nógatva, hogy tagadják meg a Prófétát (ﷺ) és társait. Zejd ibn Arkam elment a Prófétához (ﷺ), és elmondta neki a történteket, Ibn Ubajj azonban a Prófétához (ﷺ) sietett, hogy a vádak tagadásával tisztázza magát.
 
-A jelenlévők úgy döntöttek, rangjára való tekintettel elfogadják Ibn Ubajj szavát, és azt mondták: „A fiú (vagyis Zajd) tévedett. Nem emlékezett helyesen arra, amit mondtak.”
+A jelenlévők úgy döntöttek, rangjára való tekintettel elfogadják Ibn Ubajj szavát, és azt mondták: „A fiú (vagyis Zejd) tévedett. Nem emlékezett helyesen arra, amit mondtak.”
 
 A helyzet valósága azonban nem kerülte el a Próféta (ﷺ) figyelmét, és elszomorította az eset. Mégis úgy vélte, a legjobb gyógymód az, ha más dolgokkal foglalja le az embereket, hogy nyomai eltöröltessenek. Parancsot adott hát a táborbontásra és az indulásra olyan órában, amelyben nem volt szokás útra kelni. Egész nap menetelt velük estig, egész éjjel reggelig, és az új napból is egy darabot, míg a nap gyötörni nem kezdte őket. Akkor letáborozott velük, és alig értek földet, máris elaludtak. Később folytatta a menetet, míg Medinába nem értek.
 
-Ekkor jött az al-Munáfikún szúra, „A képmutatók” című fejezet kinyilatkoztatása, amelyben megerősítést nyert, amit Zajd ibn Arkam jelentett:
+Ekkor jött az al-Munáfikún szúra, „A képmutatók” című fejezet kinyilatkoztatása, amelyben megerősítést nyert, amit Zejd ibn Arkam jelentett:
 
 (Ők azt mondják: „Ha visszatérünk Medinába, bizony a méltóságteljesebb ki fogja űzni a megvetettet.” Ám a méltóság Allahé és a Küldöttéjé és a hívőké, de a képmutatók nem rendelkeznek tudással.) (Korán 63: 8)⁷⁸
 
@@ -3852,7 +3852,7 @@ Azt tapasztaltam, hogy valahányszor bejött hozzám, míg anyám ápolt, csak a
 
 Ő így felelt: „Ahogy kívánod.” Így anyám házába vittek, és semmit sem tudtam a történtekről, míg mintegy húsz nap múltán fel nem épültem betegségemből. Arabok voltunk, házainkban nem voltak olyan árnyékszékek, amilyenek a nem araboknál. Utáltuk és megvetettük azokat. Ehelyett Medina nyílt térségeire jártunk ki, és az asszonyok minden éjjel kimentek. Egyik éjjel Umm Misztahhal mentem. Allahra (ﷻ), mellettem lépkedett, amikor megbotlott köntösében, és felkiáltott: „Vesszen Misztah!”
 
-Így szóltam: „Allahra (ﷻ), rossz dolog ilyet mondani egy muhádzsirra, aki harcolt Badrnál!”
+Így szóltam: „Allahra (ﷻ), rossz dolog ilyet mondani egy muhádzsirra, aki harcolt Bedrnél!”
 
 Erre azt mondta: „Hát nem hallottad a hírt, Abu Bakr (رضي الله عنه) leánya?”
 
@@ -3876,7 +3876,7 @@ Amikor Allah Küldötte (ﷺ) elmondta beszédét, Uszajd ibn Hudajr így szólt
 
 Uszajd így felelt: „Te hazudsz, Allahra (ﷻ)! Képmutató vagy, aki a képmutatók védelmében érvel.”
 
-Az indulatok úgy felkorbácsolódtak, hogy kis híján harc tört ki a két nemzetség között. A Próféta (ﷺ) lelépett a szószékről, és bejött hozzám. Hívatta Ali ibn Abi Tálibot (رضي الله عنه) és Uszáma ibn Zajdot (رضي الله عنه), és véleményüket kérdezte.
+Az indulatok úgy felkorbácsolódtak, hogy kis híján harc tört ki a két nemzetség között. A Próféta (ﷺ) lelépett a szószékről, és bejött hozzám. Hívatta Ali ibn Abi Tálibot (رضي الله عنه) és Uszáma ibn Zejdet (رضي الله عنه), és véleményüket kérdezte.
 
 Uszáma csak jót szólt, mondván: „Allah Küldötte (ﷺ), ők a te családod, és csak jót tudunk róluk; ez pedig hazugság és koholmány!” Ali (رضي الله عنه) azonban azt mondta:
 
@@ -4244,7 +4244,7 @@ Abdullah másodszor is lesújtott rá, mire az felkiáltott, felébresztve csal�
 
 A hitetlenség meggyengült e súlyos csapások alatt, az iszlám alapjai pedig megerősödtek, és állama biztonságossá vált. Alig ért véget a hidzsra ötödik éve, a muszlimok számottevő hatalommá lettek. A Kurajs és szövetségesei meggyőződtek arról, hogy lehetetlen őket a bálványok imádatához visszakényszeríteni, a zsidóknak pedig be kellett ismerniük, hogy rosszindulatú szembenállásuk az új hittel és annak végső üzenetével csak kusza zűrzavarba sodorta őket.
 
-Az ez évi Árok-ütközet után egészen a hatodik év második feléig, azaz a hudajbijai umráig, nem történt más jelentős esemény. A Huzajl megkísérelte megtámadni Medinát, de vezérüket, Khálid ibn Szufjánt megölték, ezért elálltak tőle. Azután beduin tolvajok, Ujajna ibn Hiszn vezetésével, néhány ghatafáni lovas társaságában rajtaütöttek Medinán, és elhajtották tevéit. Szalama ibn al-Akva azonban fellármázta Medina népét, és egyedül eredt a portyázók nyomába, nyilakat lőve rájuk, hogy visszaszerezze a tevéket. Hamarosan a muszlim lovasok is utolérték, és láttukra a bálványimádók meghátráltak – bár csak azután, hogy néhányukat megölték, és az ellopott javakat visszaszerezték. Bukhári azt állítja, hogy ez Hudajbija után történt, nem előtte, és talán ez a hitelesebb.
+Az ez évi Árok-ütközet után egészen a hatodik év második feléig, azaz a hudejbiai umráig, nem történt más jelentős esemény. A Huzajl megkísérelte megtámadni Medinát, de vezérüket, Khálid ibn Szufjánt megölték, ezért elálltak tőle. Azután beduin tolvajok, Ujajna ibn Hiszn vezetésével, néhány ghatafáni lovas társaságában rajtaütöttek Medinán, és elhajtották tevéit. Szalama ibn al-Akva azonban fellármázta Medina népét, és egyedül eredt a portyázók nyomába, nyilakat lőve rájuk, hogy visszaszerezze a tevéket. Hamarosan a muszlim lovasok is utolérték, és láttukra a bálványimádók meghátráltak – bár csak azután, hogy néhányukat megölték, és az ellopott javakat visszaszerezték. Bukhári azt állítja, hogy ez Hudejbia után történt, nem előtte, és talán ez a hitelesebb.
 
 Ebben az időszakban vette feleségül a Próféta (ﷺ) Umm Habíbát, Abu Szufján leányát, aki férjével Abesszíniába vándorolt ki. A férfi azonban hitehagyott lett, és ott meghalt, így az asszony egyedül maradt. A Próféta (ﷺ) úgy gondolta, házassággal kell megtisztelnie ezt a hölgyet, aki elhagyta apját – Mekka akkori vezérét –, és úgy döntött, hogy Allah ügyéért vándorol ki, és hű marad Hozzá. Elküldte hát a négusnak az asszony jegyajándékát (mahr), és őt tette meg megbízottjává a házasság megkötésében.
 
@@ -4254,7 +4254,7 @@ Azt is mondják, hogy Amr ibn al-Ász ebben az időszakban kezdett az iszlám fe
 
 Azután azt tanácsolta nekik, menjenek Abesszíniába, ahonnan figyelemmel kísérhetik a muszlimok és népük közötti küzdelem kimenetelét. Amikor Abesszíniába ment, és látta, mennyire tiszteli a négus a Prófétát (ﷺ) és azokat, akik ügyéhez csatlakoztak, hajlani kezdett az iszlám felvételére. Érzéseit azonban rejtegette, míg Mekka meghódítása közel nem került. Találkozott Khálid ibn al-Validdal, aki elhatározta, hogy felveszi az iszlámot, és Medinába szándékozott vándorolni, hogy kövesse őt, és megkérdezte tőle, hová tart.
 
-Khálid így felelt: „Allahra (ﷻ), az út világos. Bizony, az az ember Próféta! Megyek, és felveszem az iszlámot, Allahra (ﷻ) – meddig (folytathatnánk másképp)?” Amr örült, hogy olyan társra lelt, mint Khálid, így ő is feltárta előtte gondolatait, és a két férfi muszlimként és muhádzsirként vette útját Jathrib felé. Iszlámra térésük története közvetlenül Mekka meghódítása előtt volt, ahogy már mondtam, mert Khálid a Kurajs seregének egyik vezére volt a hudajbijai umra idején, amikor akadályozták a muszlimokat az ősi Ház meglátogatásában.
+Khálid így felelt: „Allahra (ﷻ), az út világos. Bizony, az az ember Próféta! Megyek, és felveszem az iszlámot, Allahra (ﷻ) – meddig (folytathatnánk másképp)?” Amr örült, hogy olyan társra lelt, mint Khálid, így ő is feltárta előtte gondolatait, és a két férfi muszlimként és muhádzsirként vette útját Jathrib felé. Iszlámra térésük története közvetlenül Mekka meghódítása előtt volt, ahogy már mondtam, mert Khálid a Kurajs seregének egyik vezére volt a hudejbiai umra idején, amikor akadályozták a muszlimokat az ősi Ház meglátogatásában.
 
 ## Lábjegyzetek
 
@@ -4290,9 +4290,9 @@ Az előző lábjegyzetben említés esett egy hadíszról, amelyet Muszlim besz�
 
 ¹⁵ Idáig Ibn Hisám beszélte el Ibn Iszháktól, lánc nélkül. Elbeszélte Abu Dávúd is Ali (رضي الله عنه) tekintélyére hivatkozva, al-Aszvad története nélkül, de lánca hiteles. Hasonlóképpen Ahmad is elbeszélte.
 
-¹⁶ Ezt a részt Ibn Kathir idézi, aki azt mondta, hogy Sáfii beszélte el. Nem mondta azonban meg, kinek a tekintélyére hivatkozva. Al-Hákim hasonló beszámolót közölt Ibn Siháb (al-Zuhri) tekintélyére hivatkozva mursal formában, és abban nem volt benne az „Azután kilehelte lelkét” kiegészítés. E kiegészítés gyengeségét mutatja, hogy al-Hákim Ibn Abbász tekintélyére hivatkozva azt közölte, hogy Ubajda al-Szafránál halt meg, útban hazafelé Badrból, és a Próféta (ﷺ) ott temette el. E hadísz lánca jó, és al-Hákim meg al-Zahabi hitelesítette.
+¹⁶ Ezt a részt Ibn Kathir idézi, aki azt mondta, hogy Sáfii beszélte el. Nem mondta azonban meg, kinek a tekintélyére hivatkozva. Al-Hákim hasonló beszámolót közölt Ibn Siháb (al-Zuhri) tekintélyére hivatkozva mursal formában, és abban nem volt benne az „Azután kilehelte lelkét” kiegészítés. E kiegészítés gyengeségét mutatja, hogy al-Hákim Ibn Abbász tekintélyére hivatkozva azt közölte, hogy Ubajda al-Szafránál halt meg, útban hazafelé Bedrből, és a Próféta (ﷺ) ott temette el. E hadísz lánca jó, és al-Hákim meg al-Zahabi hitelesítette.
 
-¹⁷ Ibn Iszhák beszélte el lánc nélkül. Bukhári Abu Uszajd tekintélyére hivatkozva közölte: „Badr napján Allah Küldötte (ﷺ) azt mondta nekünk: »Amikor rátok támadnak, lőjétek őket nyilakkal, és maradjatok állásaitokban.«”
+¹⁷ Ibn Iszhák beszélte el lánc nélkül. Bukhári Abu Uszajd tekintélyére hivatkozva közölte: „Bedr napján Allah Küldötte (ﷺ) azt mondta nekünk: »Amikor rátok támadnak, lőjétek őket nyilakkal, és maradjatok állásaitokban.«”
 
 ¹⁸ Az al-Mugházijában, és Ibn Hisám is, lánc nélkül. Al-Amavi azonban teljes lánccal is elbeszélte, amely jó láncnak számít.
 
@@ -4378,7 +4378,7 @@ Az előző lábjegyzetben említés esett egy hadíszról, amelyet Muszlim besz�
 
 ⁵⁹ Ahmad Musznadjában és al-Hákimnál is. Az utóbbi azt mondta, Bukhári és Muszlim kikötései szerint hiteles. Én azonban azt mondom, csak hiteles, mert a láncban ott van Ubajd ibn Rifaa, akitől Bukhári és Muszlim nem közölt.
 
-⁶⁰ Muhammad ibn Abdullah ibn Abd al-Rahmán ibn Abi Szaszaa al-Mázini útján közölte, aki kifejezetten kijelentette, hogy tőle hallotta, ahogyan Ibn Hisám Szírájában áll (2/140–141); ez *mudal* lánc. Al-Hákim (3/201) Muhammad ibn Iszhák útján közölte, hogy Abdullah ibn Abi Szaszaa az apjától [hallotta], hogy Allah Küldötte (ﷺ) mondta – és elmondja. Attól tartok, hogy a láncból kiesett „Muhammad” ibn Abdullah ibn Abd al-Rahmán Ibn Iszhák és Abdullah ibn Abd al-Rahmán között, mert Ibn Iszhákot nem említik azok között, akik Abdullah ibn Abd al-Rahmántól hagyományoztak; így a hadísz mursal, mert ez az Abdullah követő (tábii), apja, Abd al-Rahmán ibn Abi Szaszaa pedig társ (szahába). Ha al-Hákim lánca hiánytalan volna, a hadísz összefüggő volna, és al-Zahabi nem kifogásolta volna mursal volta miatt. Allah tudja jobban. A hadíszt Málik is közölte a Muvattában (2/21) Jahja ibn Szaídtól, *mudal*ként. Al-Szujúti a *Tanvír al-Haválik*ban idézi Ibn Abd al-Barrt: „Ezt a hadíszt nem tudom fejből, és nem is ismerem, csak a szíra-írók körében, akiknél közismert.” Én azt mondom: al-Hákim Zajd ibn Szábit hadíszaként is közölte: „Allah Küldötte (ﷺ) Uhud napján elküldött, hogy keressem meg Szad ibn al-Rabit…”, és al-Hákim azt mondta: „Hiteles lánc”, amiben al-Zahabi egyetértett vele. Láncában azonban ott van Abu Szálih Abdullah ibn Szálih al-Tavíl, akinek életrajzát most nem találtam.
+⁶⁰ Muhammad ibn Abdullah ibn Abd al-Rahmán ibn Abi Szaszaa al-Mázini útján közölte, aki kifejezetten kijelentette, hogy tőle hallotta, ahogyan Ibn Hisám Szírájában áll (2/140–141); ez *mudal* lánc. Al-Hákim (3/201) Muhammad ibn Iszhák útján közölte, hogy Abdullah ibn Abi Szaszaa az apjától [hallotta], hogy Allah Küldötte (ﷺ) mondta – és elmondja. Attól tartok, hogy a láncból kiesett „Muhammad” ibn Abdullah ibn Abd al-Rahmán Ibn Iszhák és Abdullah ibn Abd al-Rahmán között, mert Ibn Iszhákot nem említik azok között, akik Abdullah ibn Abd al-Rahmántól hagyományoztak; így a hadísz mursal, mert ez az Abdullah követő (tábii), apja, Abd al-Rahmán ibn Abi Szaszaa pedig társ (szahába). Ha al-Hákim lánca hiánytalan volna, a hadísz összefüggő volna, és al-Zahabi nem kifogásolta volna mursal volta miatt. Allah tudja jobban. A hadíszt Málik is közölte a Muvattában (2/21) Jahja ibn Szaídtól, *mudal*ként. Al-Szujúti a *Tanvír al-Haválik*ban idézi Ibn Abd al-Barrt: „Ezt a hadíszt nem tudom fejből, és nem is ismerem, csak a szíra-írók körében, akiknél közismert.” Én azt mondom: al-Hákim Zejd ibn Szábit hadíszaként is közölte: „Allah Küldötte (ﷺ) Uhud napján elküldött, hogy keressem meg Szad ibn al-Rabit…”, és al-Hákim azt mondta: „Hiteles lánc”, amiben al-Zahabi egyetértett vele. Láncában azonban ott van Abu Szálih Abdullah ibn Szálih al-Tavíl, akinek életrajzát most nem találtam.
 
 ⁶¹ Hiteles (szahíh) hadísz: Abu Dávúd (2/63), al-Naszái (1/284), Ibn Mádzsa (1/264) és Ahmad (3/297, 308, 397, 398) jegyezte le hiteles lánccal Dzsábirtól.
 
@@ -4408,7 +4408,7 @@ Az előző lábjegyzetben említés esett egy hadíszról, amelyet Muszlim besz�
 
 ⁷⁴ Ez a parancs hiteles. Bukhári és Muszlim, valamint mások beszélték el Ibn Omár tekintélyére hivatkozva.
 
-⁷⁵ Al-Hákim beszélte el Áisa tekintélyére hivatkozva, az áják beiktatásával. Al-Hákim azt mondta, Bukhári és Muszlim kikötése szerint hiteles, és al-Zahabi egyetértett vele. Valójában hiteles, de nem az ő kikötésük szerint, mivel Zajd ibn al-Mubárak al-Szanani és sejkje, Muhammad ibn Szaur nem tartoznak embereik közé.
+⁷⁵ Al-Hákim beszélte el Áisa tekintélyére hivatkozva, az áják beiktatásával. Al-Hákim azt mondta, Bukhári és Muszlim kikötése szerint hiteles, és al-Zahabi egyetértett vele. Valójában hiteles, de nem az ő kikötésük szerint, mivel Zejd ibn al-Mubárak al-Szanani és sejkje, Muhammad ibn Szaur nem tartoznak embereik közé.
 
 ⁷⁶ Hasonlóan jegyezte le Ibn Dzsarír Történetében (2/160–262) Ibn Iszhák útján, láncával, mursalként; ugyanígy Ibn Hisám is a *Szírában* (2/216–218). Ez a lánc – gyengesége mellett – nem tartalmazza, hogy Omár felajánlotta volna az iszlámot. Al-Zurkáni az *Al-Maváhib* kommentárjában (2/97) utalt e kiegészítés gyengeségére, és joggal, hiszen a Prófétától (ﷺ) hitelesen fennmaradt valami, ami gyengeségét maga után vonja: Ibn al-Kajjim a *Zád*ban, miután az itteninél hasonló harcot említ, azt mondja: „Így mondta Abd al-Rahmán ibn Khalaf ibn Khalífa a szírájában és mások is; ez azonban tévedés, mert nem volt köztük harc: a vízforrásnál ütött rajtuk, foglyul ejtette asszonyaikat és gyermekeiket, és elvette javaikat, ahogyan a *Szahíh*ban áll: »Allah Küldötte (ﷺ) rajtaütött a Banú al-Musztalikon, amikor azok gyanútlanok voltak« – és elmondja a hadíszt.” Lásd a *Fath al-Bári*t (7/346).
 
@@ -4466,7 +4466,7 @@ Az előző lábjegyzetben említés esett egy hadíszról, amelyet Muszlim besz�
 
 # Új szakasz
 
-## A hudajbijai umra
+## A hudejbiai umra
 
 A Szent Mecset meglátogatásának gondolata, amely a muszlimokban felötlött, dáwájuk történetének egy rendkívüli szakasza kezdetén érkezett. Íme, fennhangon hirdették elszántságukat, hogy belépnek Mekkába, holott csak tegnap űzték ki őket onnan, és támadták meg őket ott, ahol letelepedtek. A közöttük és a Kurajs közötti háború még nem ért véget, hiszen egyik fél javára sem született döntő kimenetel. Hogyan szándékozhattak hát zarándoklatot (umrát) végezni ilyen körülmények között?
 
@@ -4490,7 +4490,7 @@ A háború kísértete kezdett lebegni a szemük előtt, azzal fenyegetve, hogy 
 
 „Szégyen a Kurajsra! A háború felfalta őket. Mi kárt tenne bennük, ha szabaddá tennék az utat közöttem és a többi arab között? Ha azok megölnek, hát ezt akarták. Ha pedig Allah (ﷻ) győzelmet ad nekem felettük, nagy számban lépnek majd be az iszlámba. Ha pedig nem, hát harcolnak, amíg erejük van. Mit gondol hát a Kurajs? Mert Allahra (ﷻ), én nem hagyom abba a harcot azért, amivel Allah (ﷻ) elküldött, amíg Allah (ﷻ) győzelemre nem viszi, vagy meg nem halok.”¹
 
-A háború elkerülésének vágyához híven, és hogy a tervezett szertartásokat a kihívás minden gyanújától megtisztítsa, a Próféta (ﷺ) megkérdezte, van-e ember, aki más úton vezetné őket, mint amelyet a Kurajs elfoglalt.² Az Aszlam törzsből jelentkezett egy férfi, és egy rögös, kopár csapáson vezette őket, amelyen a muszlimok nehezen jutottak át. Azután a völgy végén egy síkságra vitte őket, és a muszlimok jobbra fordultak, ami Hudajbijához vezette őket, közvetlenül Mekka alá. A Kurajs lovassága észlelte ezt a hadmozdulatot, és sietve visszafordult Mekkába, hogy megakadályozza a muszlimok bevonulását.
+A háború elkerülésének vágyához híven, és hogy a tervezett szertartásokat a kihívás minden gyanújától megtisztítsa, a Próféta (ﷺ) megkérdezte, van-e ember, aki más úton vezetné őket, mint amelyet a Kurajs elfoglalt.² Az Aszlam törzsből jelentkezett egy férfi, és egy rögös, kopár csapáson vezette őket, amelyen a muszlimok nehezen jutottak át. Azután a völgy végén egy síkságra vitte őket, és a muszlimok jobbra fordultak, ami Hudejbiához vezette őket, közvetlenül Mekka alá. A Kurajs lovassága észlelte ezt a hadmozdulatot, és sietve visszafordult Mekkába, hogy megakadályozza a muszlimok bevonulását.
 
 A Próféta (ﷺ) és társai haladtak tovább választott útjukon, amikor nősténytevéje hirtelen letérdelt, és nem volt hajlandó továbbmenni.
 
@@ -4560,11 +4560,11 @@ Oszmán (رضي الله عنه) unokatestvére, Abán ibn Szaíd ibn al-Ász [a
 
 Amikor a hír elérte a Prófétát (ﷺ), így szólt: „Nem távozunk, míg meg nem küzdünk ezekkel az emberekkel.”⁹ Hűségesküre szólította a muszlimokat. Egy fa alatt állt, amelynek ágai egymásba fonódtak. Társai azonnal válaszoltak: hűségesküt tettek neki a halálra, vagy – más közlés szerint – arra, hogy nem futamodnak meg.
 
-Dzsábir ibn Abdullah beszélt erről, miután elveszítette látását. Így szólt: „A Próféta (ﷺ) azt mondta nekünk Hudajbija napján: »Ti vagytok a föld népei közül a legjobbak.« Ezernégyszázan voltunk, és ha ma látnék, megmutatnám nektek a fa helyét.”¹⁰
+Dzsábir ibn Abdullah beszélt erről, miután elveszítette látását. Így szólt: „A Próféta (ﷺ) azt mondta nekünk Hudejbia napján: »Ti vagytok a föld népei közül a legjobbak.« Ezernégyszázan voltunk, és ha ma látnék, megmutatnám nektek a fa helyét.”¹⁰
 
 Dzsábirtól maradt fenn, hogy Hátib egyik rabszolgája panaszra jött ura ellen a Prófétához (ﷺ), mondván: „Hátib bizony a tűzre kerül.”
 
-A Próféta (ﷺ) így felelt: „Tévedsz. Nem kerül oda; hiszen ott volt Badrnál és Hudajbijánál.”¹¹ Ezt a fogadalmat a ridván (tetszés) fogadalmának nevezik, utalással Allah (ﷻ) kijelentésére azokról, akik részt vettek benne:
+A Próféta (ﷺ) így felelt: „Tévedsz. Nem kerül oda; hiszen ott volt Bedrnél és Hudejbiánál.”¹¹ Ezt a fogadalmat a ridván (tetszés) fogadalmának nevezik, utalással Allah (ﷻ) kijelentésére azokról, akik részt vettek benne:
 
 (Bizony, Allah már elégedett lett a hívőkkel [akkor], amikor hűségesküt tettek neked a fa alatt. És tudta, hogy mi volt a szívükben, ezért nyugalmat bocsátott le rájuk és közeli győzelemmel jutalmazta meg őket.) (Korán 48: 18)
 
@@ -4578,7 +4578,7 @@ A Próféta (ﷺ) a béke buzgó vágyával fogadta a Kurajs tárgyalóját, noh
 
 Általános megrökönyödés támadt a muszlim táborban azon, ahogyan a Próféta (ﷺ) barátaival és ellenségeivel bánt. Ami az utóbbiakat illeti, a végletekig elment a szelídségben velük szemben, holott inkább az lett volna helyénvaló, hogy keményen bánjon velük. Ami pedig barátait illeti: velük való szokásos eljárásával ellentétben egyáltalán nem tanácskozott velük a javasolt szerződésről, noha a háború és béke minden korábbi ügyében kikérte véleményüket, sőt ellenvetései dacára el is fogadta azt. Ma azonban egyedül vállalta magára a feladatot, és minden kényszerítő szükség nélkül elfogadta, amitől ők idegenkedtek.
 
-Másutt¹³ már kifejtettük a Próféta (ﷺ) álláspontját kifejezetten a hudajbijai umráról, és megmutattuk, hogy az ügy eldöntése nem a szokásos vélekedésre volt bízva: a felülről jövő sugallat volt a meghatározó tényező. Allah (ﷻ), Aki megakadályozta a tevét a továbbhaladásban, nem engedte, hogy ezek a csapatok folytassák menetelésüket vagy fegyvereiket szegezzék, mert olyan győzelmet arathattak volna, amely az iszlám számára kisebb horderejű lett volna, mint egy áldott következményekkel járó béke. Zuhri mondta:
+Másutt¹³ már kifejtettük a Próféta (ﷺ) álláspontját kifejezetten a hudejbiai umráról, és megmutattuk, hogy az ügy eldöntése nem a szokásos vélekedésre volt bízva: a felülről jövő sugallat volt a meghatározó tényező. Allah (ﷻ), Aki megakadályozta a tevét a továbbhaladásban, nem engedte, hogy ezek a csapatok folytassák menetelésüket vagy fegyvereiket szegezzék, mert olyan győzelmet arathattak volna, amely az iszlám számára kisebb horderejű lett volna, mint egy áldott következményekkel járó béke. Zuhri mondta:
 
 „Amikor az ügy eldőlt, és már csak az írásba foglalás volt hátra, Omár (رضي الله عنه) felpattant, és Abu Bakrhoz (رضي الله عنه) ment. Megkérdezte: »Abu Bakr (رضي الله عنه), hát nem Allah Küldötte (ﷺ) ő?« Abu Bakr (رضي الله عنه) igennel felelt. Azt kérdezte: »Hát nem muszlimok vagyunk?« Abu Bakr (رضي الله عنه) igent mondott. »Hát nem bálványimádók ők?« Igent mondott. Omár (رضي الله عنه) így szólt: »Akkor miért engedünk abból, ami vallásunkat megalázza?«
 
@@ -4618,17 +4618,17 @@ Az asszony így szólt: „Allah Küldötte (ﷺ), szeretnéd, hogy megtegyék? 
 
 Így tett, és amikor a muszlimok ezt látták, visszanyerték lélekjelenlétüket, és megérezték, milyen veszélyes engedetlennek lenni parancsával szemben. Sietve felkeltek hát, levágták állataikat, azután megborotválták egymást. Mérhetetlen bánatukban szinte megölték egymást.¹⁶
 
-Bárcsak a jó és a rossz szándékok olyan gyorsan teremnék meg édes vagy keserű gyümölcseiket, amilyen gyorsan a hudajbijai szerződés eredményei megmutatkoztak! Nem sok nap telt el a szerződés aláírása után, és a bálványimádók által abban tanúsított megátalkodottság visszaütött rájuk. Ők maguk kezdtek panaszkodni azokra a kikötésekre, amelyeket ők diktáltak – vagy amelyeket nyers vakbuzgóságuk diktált. A muszlimok hasonlóképpen ámulattal nézték a Próféta (ﷺ) által tanúsított mélységes béketűrés eredményeit, és annak áldásait olyannyira érezték, hogy nyelvükről feltört Allah (ﷻ) dicsérete.
+Bárcsak a jó és a rossz szándékok olyan gyorsan teremnék meg édes vagy keserű gyümölcseiket, amilyen gyorsan a hudejbiai szerződés eredményei megmutatkoztak! Nem sok nap telt el a szerződés aláírása után, és a bálványimádók által abban tanúsított megátalkodottság visszaütött rájuk. Ők maguk kezdtek panaszkodni azokra a kikötésekre, amelyeket ők diktáltak – vagy amelyeket nyers vakbuzgóságuk diktált. A muszlimok hasonlóképpen ámulattal nézték a Próféta (ﷺ) által tanúsított mélységes béketűrés eredményeit, és annak áldásait olyannyira érezték, hogy nyelvükről feltört Allah (ﷻ) dicsérete.
 
 A félsziget hitetlen erői e szerződés aláírásától fogva gyengültek és lankadtak. A Kurajst tartották a hitetlenség vezetőinek, az új vallással szembeni ellenállás és üldözés zászlóvivőinek. Amikor azonban elterjedt a muszlimokkal kötött szerződésük híre, elhalt a maguk hasznát leső képmutatók fenyegetése, és a pogány törzsek szétszóródtak a félsziget különböző szegleteibe, kivált, hogy a Kurajs mereven kitartott haszonleső politikája mellett, kereskedelmi ügyeivel volt elfoglalva, és nem igyekezett szövetségeseket szerezni. A muszlimok ellenben kiterjesztették nevelő, politikai és katonai tevékenységüket, és hithirdetésüknek sikerült nagyszámú törzset egyesítenie és meggyőznie az iszlám elfogadásáról.
 
-Sok történetíró a hudajbijai szerződést győzelemnek számítja. Al-Zuhri valóban azt mondta:
+Sok történetíró a hudejbiai szerződést győzelemnek számítja. Al-Zuhri valóban azt mondta:
 
 „Nem volt azelőtt az iszlámban ennél nagyobb győzelem. Addig csak harc volt, ahol a népek összecsaptak. Amikor azonban a szerződés megköttetett, a háború félretétetett, és az emberek biztonságban voltak egymástól. Találkoztak és tárgyaltak, megbeszélésekben és vitákban, és mindenki, akinek az iszlámot elmagyarázták, elfogadta azt.”
 
-A Hudajbiját követő két év alatt annyian vették fel az iszlámot, mint az azt megelőző években összesen, vagy még többen.
+A Hudejbiát követő két év alatt annyian vették fel az iszlámot, mint az azt megelőző években összesen, vagy még többen.
 
-Ibn Hisám azt mondta: „Al-Zuhri szavainak bizonysága az, hogy a Próféta (ﷺ) ezernégyszáz emberrel ment Hudajbijához, két évvel később viszont, Mekka meghódításakor, tízezer volt vele.”
+Ibn Hisám azt mondta: „Al-Zuhri szavainak bizonysága az, hogy a Próféta (ﷺ) ezernégyszáz emberrel ment Hudejbiához, két évvel később viszont, Mekka meghódításakor, tízezer volt vele.”
 
 Ami a Mekkában elnyomott muszlimokat illeti: egyikük, név szerint Abu Baszír Ubajd ibn Uszajd, Medinába szökött, remélve, hogy ott maradhat. A Kurajs azonban két embert küldött, hogy a szerződésnek megfelelően követeljék kiadatását.
 
@@ -4658,7 +4658,7 @@ Azt felelték: „Nem. Allah (ﷻ) jutalmazzon meg érte, mert hűségesnek és 
 
 Ő így szólt: „Allahra (ﷻ), egyedül az tartott vissza attól, hogy még hozzátok érkezésem előtt kinyilvánítsam az iszlám felvételét, hogy azt gondolhattátok volna: azért lettem muszlim, hogy vagyonotokat ellopjam. Tanúsítom, hogy nincs más isten Allahon (ﷻ) kívül, és hogy Mohamed (ﷺ) az Ő szolgája és Küldötte.” Visszatért Medinába, ahol a Próféta (ﷺ) visszaadta neki feleségét, Zajnabot.²⁰ Noha a vallás különbözősége elválasztotta őket egymástól, nem kötött számukra új házassági szerződést.
 
-Nem sokkal a hudajbijai szerződés után a muszlimok megtagadták, hogy visszaküldjék gyámjaikhoz a hozzájuk kivándorolt nőket – vagy mert úgy értették, hogy a szerződés kifejezetten a férfiakra vonatkozik, vagy mert attól féltek, hogy az iszlámot felvevő nők megtörnének az üldöztetés alatt, és nem tudnának máshová menni, mint ahogyan Abu Dzsandal, Abu Baszír és mások tették. Bármi volt is az ok, a kivándorolt muszlim nők visszatartása a Korán utasításai szerint történt. A muszlimokra hárult a felelősség, hogy kártalanítsák a nők bálványimádó férjeit, hogy azok újra megházasodhassanak, ha nem kívántak muszlimmá lenni és megtartani eredeti feleségüket.
+Nem sokkal a hudejbiai szerződés után a muszlimok megtagadták, hogy visszaküldjék gyámjaikhoz a hozzájuk kivándorolt nőket – vagy mert úgy értették, hogy a szerződés kifejezetten a férfiakra vonatkozik, vagy mert attól féltek, hogy az iszlámot felvevő nők megtörnének az üldöztetés alatt, és nem tudnának máshová menni, mint ahogyan Abu Dzsandal, Abu Baszír és mások tették. Bármi volt is az ok, a kivándorolt muszlim nők visszatartása a Korán utasításai szerint történt. A muszlimokra hárult a felelősség, hogy kártalanítsák a nők bálványimádó férjeit, hogy azok újra megházasodhassanak, ha nem kívántak muszlimmá lenni és megtartani eredeti feleségüket.
 
 (Ó ti, akik hisztek [Allah egyedülvalóságában és Mohamed Próféta küldetésében]! Amikor hívő nők jönnek hozzátok kivándorlókként, vessétek alá őket próbának. És Allah jobban ismeri a hitüket. És ha megbizonyosodtatok róla, hogy [igaz] hívő nők, akkor ne adjátok őket vissza a hitetleneknek (a férjüknek)! Nem megengedettek ők azoknak (a hitetlen férjeknek), és azok sem megengedettek nekik.) (Korán 60: 10)
 
@@ -4668,7 +4668,7 @@ Az ája a benne foglalt törvények mellett arra is rámutat, milyen gondolatsza
 
 Két megrögzött ellenséges csoport maradt a muszlimokkal szemben. A beduin arabok, akik tevék módjára rótták a sivatagot, keveset értettek. Ha bármi zsákmány mutatkozott, utána vetették magukat. Ritkán vonzotta őket az Allahba (ﷻ) és az Utolsó Napba vetett hitről szóló beszéd. A zsidók pedig, akik úgy gondolták, hogy a prófétaság az ő kizárólagos joguk, és soha nem szűntek meg szembeszegülni a muszlimokkal, meghazudtolták Mohamedet (ﷺ), és elutasították üzenetét. Elámították őket a Tórából örökölt külsőségek, ezért hosszan vitatkoztak a muszlimokkal, és minden erejükkel azon voltak, hogy ne ismerjék el őket. Odáig mentek, hogy másokat is ellenük uszítottak, amint láttad. Így a rosszindulat, a gőg és az álnokság különös keverékét mutatták. A muszlimok elleni küzdelmükben elszenvedett súlyos verések ellenére egy tapodtat sem tágítottak alávaló összeesküvésüktől.
 
-Az iszlám elleni gyűlölet összehozta az együgyű beduinokat és a Könyv népét, a zsidókat. Amikor a szövetségeseknek nem sikerült legyőzniük Medinát, és a Kurajza zsidói learatták árulásuk termését, Khajbar zsidói sem találtak nyugtot, és nem is próbáltak békét kötni a muszlimokkal. Ellenkezőleg: kapcsolatokat kezdtek kiépíteni a Ghatafánnal és a körülöttük élő beduinokkal, hogy újabb frontot alkossanak az iszlám ellen. A muszlimok figyelmét azonban nem kerülték el ezek az összeesküvések: alig tértek vissza Hudajbijából a hatodik év végén, a hetedik év muharram havában már újra útnak indultak Khajbar irányába, hogy szétzúzzák a zsidók hatalmát azon a vidéken.
+Az iszlám elleni gyűlölet összehozta az együgyű beduinokat és a Könyv népét, a zsidókat. Amikor a szövetségeseknek nem sikerült legyőzniük Medinát, és a Kurajza zsidói learatták árulásuk termését, Khajbar zsidói sem találtak nyugtot, és nem is próbáltak békét kötni a muszlimokkal. Ellenkezőleg: kapcsolatokat kezdtek kiépíteni a Ghatafánnal és a körülöttük élő beduinokkal, hogy újabb frontot alkossanak az iszlám ellen. A muszlimok figyelmét azonban nem kerülték el ezek az összeesküvések: alig tértek vissza Hudejbiából a hatodik év végén, a hetedik év muharram havában már újra útnak indultak Khajbar irányába, hogy szétzúzzák a zsidók hatalmát azon a vidéken.
 
 A muszlimok utazás előtt nem feledkeztek meg arról, hogy éket verjenek a Ghatafán és a zsidók egységfrontjába. Elhitették a Ghatafánnal, hogy a támadás ellenük irányul, és a muszlim erők hamarosan rájuk törnek. Ibn Iszhák mondta:
 
@@ -4808,15 +4808,15 @@ Az asszony megharagudott, és így szólt: »Szó sincs róla! Allahra (ﷻ), ti
 
 Erre így szólt: »Nem áll ő közelebb hozzám nálatok. Neki és társainak egy hidzsrája van, nektek pedig, akik hajón utaztatok, kettő.«”⁴⁰
 
-Rövid idő alatt e visszatérők pótolni tudták a Korán és a Szunna ismeretében mindazt, amiről lemaradtak, és csatlakoztak azok soraihoz, akik megelőzték őket az Allahért (ﷻ) való dzsihád hívásában. A Próféta (ﷺ) részt adott nekik Khajbar zsákmányából⁴¹ azokkal együtt, akik ott voltak Hudajbijánál.⁴²
+Rövid idő alatt e visszatérők pótolni tudták a Korán és a Szunna ismeretében mindazt, amiről lemaradtak, és csatlakoztak azok soraihoz, akik megelőzték őket az Allahért (ﷻ) való dzsihád hívásában. A Próféta (ﷺ) részt adott nekik Khajbar zsákmányából⁴¹ azokkal együtt, akik ott voltak Hudejbiánál.⁴²
 
 Rajtuk kívül senki mást nem vett be, mert Allah (ﷻ) Khajbart nagylelkű kárpótlásul ígérte azoknak, akik Mekkába utaztak, és életüket ajánlották fel a ridván-fa alatt.
 
 ## A beduinok megzabolázása
 
-Alighogy a muszlimok megoldották a zsidók problémáját, energiáikat a pogányságban megmaradt beduin arabok felé kezdték fordítani. Már rámutattunk, hogy egységük szertefoszlott, amióta a Kurajs és a muszlimok megkötötték a hudajbijai szerződést. Tegnap még egységes erőként ostromolták az iszlám városát. Ma azonban más volt a helyzet. A Banú Iszráíl vereséget szenvedett, Mekka népe pedig visszavonult. Most lehetővé vált a muszlimok számára, hogy egyenként bánjanak el a beduin törzsekkel, és elfojtsák gonoszságukat. A beduinok kemény és durva emberek voltak. Nem feledhetjük, hogy egészen a huszadik századig örömüket lelték a zarándokkaravánok megtámadásában, sőt néhány dirhamért zarándokot is öltek. A világi dolgokról és a túlvilág jogairól való tudásuk nagy aggodalommal töltötte el tanítóikat.
+Alighogy a muszlimok megoldották a zsidók problémáját, energiáikat a pogányságban megmaradt beduin arabok felé kezdték fordítani. Már rámutattunk, hogy egységük szertefoszlott, amióta a Kurajs és a muszlimok megkötötték a hudejbiai szerződést. Tegnap még egységes erőként ostromolták az iszlám városát. Ma azonban más volt a helyzet. A Banú Iszráíl vereséget szenvedett, Mekka népe pedig visszavonult. Most lehetővé vált a muszlimok számára, hogy egyenként bánjanak el a beduin törzsekkel, és elfojtsák gonoszságukat. A beduinok kemény és durva emberek voltak. Nem feledhetjük, hogy egészen a huszadik századig örömüket lelték a zarándokkaravánok megtámadásában, sőt néhány dirhamért zarándokot is öltek. A világi dolgokról és a túlvilág jogairól való tudásuk nagy aggodalommal töltötte el tanítóikat.
 
-Az iszlám nagy erőfeszítéseket tett anyagi és erkölcsi körülményeik felemelésére. Ám az, hogy lesből támadtak az iszlám hithirdetőire, arra késztette a muszlimokat, hogy erővel lépjenek fel ellenük, és elhárítsák az aggodalomnak ezt a forrását. A muszlimokat attól fogva, hogy a hetedik év szafar havában visszatértek Khajbarból, egészen addig, amíg útra nem keltek a hudajbijai szerződésben megszabott pótló umrára, leginkább az foglalkoztatta, hogy felderítő csapatokat küldjenek ki Nadzsd sivatagjaiba. Nem szükséges tételesen felsorolnunk mindezen csetepaték részleteit, mert bár növelték a muszlimok katonai erejét, inkább hasonlítottak rendőrjárőrökre, mint mozgósított seregekre. Fő céljuk az volt, hogy megerősítsék a biztonságot, megállítsák a Medina elleni rajtaütéseket, és lehetővé tegyék a muszlim hithirdetők számára, hogy az isteni üzenet tanításaival árulástól vagy támadástól való félelem nélkül utazhassanak.
+Az iszlám nagy erőfeszítéseket tett anyagi és erkölcsi körülményeik felemelésére. Ám az, hogy lesből támadtak az iszlám hithirdetőire, arra késztette a muszlimokat, hogy erővel lépjenek fel ellenük, és elhárítsák az aggodalomnak ezt a forrását. A muszlimokat attól fogva, hogy a hetedik év szafar havában visszatértek Khajbarból, egészen addig, amíg útra nem keltek a hudejbiai szerződésben megszabott pótló umrára, leginkább az foglalkoztatta, hogy felderítő csapatokat küldjenek ki Nadzsd sivatagjaiba. Nem szükséges tételesen felsorolnunk mindezen csetepaték részleteit, mert bár növelték a muszlimok katonai erejét, inkább hasonlítottak rendőrjárőrökre, mint mozgósított seregekre. Fő céljuk az volt, hogy megerősítsék a biztonságot, megállítsák a Medina elleni rajtaütéseket, és lehetővé tegyék a muszlim hithirdetők számára, hogy az isteni üzenet tanításaival árulástól vagy támadástól való félelem nélkül utazhassanak.
 
 E törzsek viszonyai erősen emlékeztettek a mi falvainkéra a közelmúlt hűbéri korszakában, amikor a falu ura ezer szavazatot tartott a kezében falujában. Politikai szabadságról beszélni ilyen légkörben nem több tündérmesénél. Hasonlóképpen a régi törzsfők is e nemzetségek teljes támogatását élvezték háborúban és békében, és mindig e főnökök kívánságai érvényesültek. Ha tehát sok olyan esztelen uralkodó volt, akinek vakon engedelmeskedtek, és akiknek politikája az volt, hogy rajtaütnek és elmenekülnek, amint alkalom kínálkozik, ahogyan Durajd ibn al-Szimma mondta:
 
@@ -4834,7 +4834,7 @@ A kinyilatkoztatás meghiúsítására való törekvés veszedelmes dolog. Ha cs
 
 (És amikor a világos jeleink recitáltatnak nekik, akkor felismered a tagadást azoknak az arcán, akik hitetlenné váltak. Majdnem rárontanak azokra, akik recitálják nekik a jeleinket.) (Korán 22: 72)
 
-A muszlimok ezen az igazságos alapon fogtak hozzá a dáwa terjesztéséhez az Arab-félszigeten belül, és a hudajbijai szerződés megkötésétől fogva nem szűntek meg az üzenetet közvetíteni és másokat felvilágosítani. Figyelemre méltó sikert értek el e téren: sok törzs lépett velük szövetségre, míg a beduinok nagy csoportjai elpártoltak a Kurajstól, és velük senki sem lépett szövetségre. Az események menete ebben az irányban tevékenyen egyengette az utat az iszlám felülkerekedéséhez, majd egy későbbi szakaszban magának Mekkának a meghódításához.
+A muszlimok ezen az igazságos alapon fogtak hozzá a dáwa terjesztéséhez az Arab-félszigeten belül, és a hudejbiai szerződés megkötésétől fogva nem szűntek meg az üzenetet közvetíteni és másokat felvilágosítani. Figyelemre méltó sikert értek el e téren: sok törzs lépett velük szövetségre, míg a beduinok nagy csoportjai elpártoltak a Kurajstól, és velük senki sem lépett szövetségre. Az események menete ebben az irányban tevékenyen egyengette az utat az iszlám felülkerekedéséhez, majd egy későbbi szakaszban magának Mekkának a meghódításához.
 
 Az iszlámra hívás az Arab-félszigeten belül nem feledtette el a Prófétával (ﷺ) Allah (ﷻ) egy másik, rajta lévő jogát: hogy az emberiséget értesítse az Allahtól (ﷻ) kapott világos kinyilatkoztatásról. Emeltessék hát magasra a lámpás, hogy vezérlő sugarai még messzebbre hatoljanak azokra a helyekre, amelyek hosszú idők óta sötétségbe merültek.
 
@@ -4972,7 +4972,7 @@ Válaszul a Próféta (ﷺ) így szólt:
 
 Erről az umráról Allah (ﷻ) a következő áját nyilatkoztatta ki:
 
-(Bizony, Allah már beteljesítette Küldöttének a látomását az igazságnak megfelelően: „Be fogtok lépni, ha Allah úgy akarja, a Szent Mecsetbe biztonságban, leborotvált fejjel és rövidre vágott hajjal, anélkül hogy félnétek.” Ő tudta azt, amit ti nem tudtatok. És az előtt egy közeli győzelmet adott nektek (a Hudajbijai egyezmény megkötése által).) (Korán 48: 27)
+(Bizony, Allah már beteljesítette Küldöttének a látomását az igazságnak megfelelően: „Be fogtok lépni, ha Allah úgy akarja, a Szent Mecsetbe biztonságban, leborotvált fejjel és rövidre vágott hajjal, anélkül hogy félnétek.” Ő tudta azt, amit ti nem tudtatok. És az előtt egy közeli győzelmet adott nektek (a Hudejbiai egyezmény megkötése által).) (Korán 48: 27)
 
 ## A mutai hadjárat
 
@@ -4986,7 +4986,7 @@ A muszlimok olyan sereget mozgósítottak, amely hozzájuk képest nagynak szám
 
 *hogy ha elhaladnak sírom mellett, azt mondják: Ó, milyen jó útra vezérelte Allah (ﷻ) e harcost, és ő jó úton is járt!”*
 
-A Próféta (ﷺ) elrendezte a sereg vezéreit: Zajd ibn Háriszát állította az élre. Megparancsolta, hogy ha Zajd elesik, Dzsafar ibn Abi Tálib vegye át a vezetést, és ha Dzsafar elesik, akkor Abdullah ibn Raváha.⁵⁵ A sereg elindult Szíria dombjai felé, de a hír már megelőzte a rómaiaknál. Bizonyára nagy félelem övezte a muszlimok hírnevét és katonai erejét, mert a rómaiak hatalmas sereg mozgósításába fogtak. Amikor a muszlimok Maánba értek, megtudták, hogy százezer római várja őket, és további százezer keresztény arab. Ilyen hatalmas sereget megtámadni súlyos kockázat volt, ezért a muszlimok két éjszakát töltöttek Maánban, azt fontolgatva, mit tegyenek. Némelyek úgy gondolták, írniuk kellene a Prófétának (ﷺ), tudatva vele az ellenséges erők nagyságát, hogy vagy erősítést küldjön, vagy más lehetőség mellett döntsön.
+A Próféta (ﷺ) elrendezte a sereg vezéreit: Zejd ibn Háriszát állította az élre. Megparancsolta, hogy ha Zejd elesik, Dzsafar ibn Abi Tálib vegye át a vezetést, és ha Dzsafar elesik, akkor Abdullah ibn Raváha.⁵⁵ A sereg elindult Szíria dombjai felé, de a hír már megelőzte a rómaiaknál. Bizonyára nagy félelem övezte a muszlimok hírnevét és katonai erejét, mert a rómaiak hatalmas sereg mozgósításába fogtak. Amikor a muszlimok Maánba értek, megtudták, hogy százezer római várja őket, és további százezer keresztény arab. Ilyen hatalmas sereget megtámadni súlyos kockázat volt, ezért a muszlimok két éjszakát töltöttek Maánban, azt fontolgatva, mit tegyenek. Némelyek úgy gondolták, írniuk kellene a Prófétának (ﷺ), tudatva vele az ellenséges erők nagyságát, hogy vagy erősítést küldjön, vagy más lehetőség mellett döntsön.
 
 Abdullah ibn Raváhának azonban nem tetszett ez a gondolat. Harcra buzdította a sereget, mondván: „Ó, emberek, Allahra (ﷻ), az, amitől idegenkedtek, éppen az, aminek kereséséért jöttetek: a vértanúság. Mi nem számbeli erővel vagy felszereléssel harcolunk az emberek ellen. Egyedül ezzel a hittel harcolunk ellenük, amellyel Allah (ﷻ) megtisztelt bennünket. Gyerünk hát! Csak a két lehetőség egyike vár ránk, s mindkettő jó: győzelem vagy vértanúság.”
 
@@ -4994,11 +4994,11 @@ E lelkesítő szavak megtették hatásukat; a tétovázás érzése eltűnt a mu
 
 Abu Hurajra (رضي الله عنه) elbeszélte:
 
-„Ott voltam Mutánál, és amikor a bálványimádók közeledtek, annyi fegyvert, lovat, brokátot, selymet és aranyat láttunk, amennyit még soha. Káprázott a szemem! Ekkor Szábit ibn Arkam így szólt: »Abu Hurajra (رضي الله عنه), talán hatalmas hadakat látsz?« Igent mondtam, mire Szábit így folytatta: »Nem voltál velünk Badrnál. Nem a számbeli erő által győztünk.«”
+„Ott voltam Mutánál, és amikor a bálványimádók közeledtek, annyi fegyvert, lovat, brokátot, selymet és aranyat láttunk, amennyit még soha. Káprázott a szemem! Ekkor Szábit ibn Arkam így szólt: »Abu Hurajra (رضي الله عنه), talán hatalmas hadakat látsz?« Igent mondtam, mire Szábit így folytatta: »Nem voltál velünk Bedrnél. Nem a számbeli erő által győztünk.«”
 
-Abu Hurajra (رضي الله عنه) azok közé tartozott, akik Hudajbija után vették fel az iszlámot.
+Abu Hurajra (رضي الله عنه) azok közé tartozott, akik Hudejbia után vették fel az iszlámot.
 
-A két sereg összecsapott. Hiú remény lett volna azt várni, hogy 3000 hős nyílt mezőn legyőzzön egy hetvenszeres túlerőben lévő sereget. Zajd ibn Hárisza a Próféta (ﷺ) zászlajával harcolt, míg el nem esett az ellenség lándzsáitól. Akkor Dzsafar vette fel a zászlót, és elszántan küzdött. Abu Dávúd egy szemtanú beszámolóját hagyományozta:
+A két sereg összecsapott. Hiú remény lett volna azt várni, hogy 3000 hős nyílt mezőn legyőzzön egy hetvenszeres túlerőben lévő sereget. Zejd ibn Hárisza a Próféta (ﷺ) zászlajával harcolt, míg el nem esett az ellenség lándzsáitól. Akkor Dzsafar vette fel a zászlót, és elszántan küzdött. Abu Dávúd egy szemtanú beszámolóját hagyományozta:
 
 „Néztem Dzsafart, amint leugrott sárga kancájáról és megbénította azt. Azután harcolt az ellenséggel, míg meg nem ölték. Egész idő alatt ezt énekelte:
 
@@ -5024,7 +5024,7 @@ Azt mondták: „Téged!” Ő azonban visszautasította, és akkor megegyeztek 
 
 Khálid átvette a zászlót, és harcba fogott, ügyességét latba vetve, hogy kimenekítse a sereget ebből a válságos szorultságból. Harc közben visszavonulni nehéz dolog volt, kivált, hogy Khálid nem akarta, hogy a rómaiak tudomást szerezzenek szándékáról. Bukhári hagyományozta Khálidtól: „Muta napján kilenc kard tört el a kezemben, és csak egy jemeni széles penge maradt meg a kezemben.” Az éjszaka ráborult a harcoló felekre, és ez ideiglenes fegyverszünetet hozott. Amikor megvirradt, Khálid már újjászervezte csekély erejét: az elővédet utóvéddé, a jobbszárnyat balszárnnyá tette. Célja az volt, hogy úgy kösse le a rómaiakat, hogy a lehető legnagyobb veszteségeket okozza nekik anélkül, hogy az egész egység harcba bocsátkoznék. Ez a hadicsel megmentette a vele maradt néhány ezer ember életét és a muszlimok hírnevét egy világhatalommal való első összecsapásukban. Különös módon ez a csata kimerítette a rómaiakat, és nagy veszteségeket okozott nekik. Sőt, egyes egységeik vereséget szenvedtek, megfordultak és elmenekültek. Khálid megelégedett ezekkel az eredményekkel, és úgy döntött, hazatér embereivel.
 
-Anasz ibn Málik (رضي الله عنه) mondta, hogy a Próféta (ﷺ) még azelőtt bejelentette társainak Zajd, Dzsafar és Ibn Raváha halálát, hogy a hír megérkezett volna. Így szólt: „Zajd fogta a zászlót, és lesújtatott; azután Dzsafar fogta utána, és lesújtatott; azután Ibn Raváha fogta utána, és lesújtatott.” Szeméből folytak a könnyek, amikor így folytatta: „Azután a zászlót Allah (ﷻ) kardjainak egyike vette fel, míg Allah (ﷻ) győzelmet nem adott nekik.”⁵⁶
+Anasz ibn Málik (رضي الله عنه) mondta, hogy a Próféta (ﷺ) még azelőtt bejelentette társainak Zejd, Dzsafar és Ibn Raváha halálát, hogy a hír megérkezett volna. Így szólt: „Zejd fogta a zászlót, és lesújtatott; azután Dzsafar fogta utána, és lesújtatott; azután Ibn Raváha fogta utána, és lesújtatott.” Szeméből folytak a könnyek, amikor így folytatta: „Azután a zászlót Allah (ﷻ) kardjainak egyike vette fel, míg Allah (ﷻ) győzelmet nem adott nekik.”⁵⁶
 
 Ibn Iszhák hagyományozta,⁵⁷ hogy a Próféta (ﷺ) így szólt:
 
@@ -5066,7 +5066,7 @@ A Próféta (ﷺ) nevetett, és nem szólt semmit.⁶¹ Amr helyesen értette ez
 
 ## Mekka meghódítása
 
-A hudajbijai szerződés után a muszlimok a dáwa terjesztésével foglalatoskodtak, és az iszlám tanításainak bemutatásával mindenkinek, akinek volt hozzá értelme. A Kurajs iránti hűségük mindenki számára látható volt, kedvükre való és kedvük ellen való dolgokban egyaránt, és az emberek ennek világos bizonyítékait láthatták. A Kurajs azonban kitartott régi, megcsontosodott politikája mellett, figyelmen kívül hagyva a nagy horderejű eseményeket, amelyek megváltoztatták a viszonyokat az Arab-félszigeten, és készültek megváltoztatni a viszonyokat az egész világon. A belátásnak ez a hiánya vezette a Kurajst egy súlyos ostobaság elkövetésére, amely után a hudajbijai szerződés semmissé vált. Történt ugyanis, hogy a Kurajs, szövetségeseivel, a Banú Bakrral együtt, megtámadta a Khuzáát, a muszlimok szövetségeseit, és megölt néhány emberüket. A Khuzáa a Kába szentélyében keresett menedéket, mert nem voltak felkészülve a harcra. A Banú Bakr ennek ellenére üldözte őket, a Kurajs pedig fegyvert kölcsönzött, és segítette a Banú Bakrt elnyomásukban.
+A hudejbiai szerződés után a muszlimok a dáwa terjesztésével foglalatoskodtak, és az iszlám tanításainak bemutatásával mindenkinek, akinek volt hozzá értelme. A Kurajs iránti hűségük mindenki számára látható volt, kedvükre való és kedvük ellen való dolgokban egyaránt, és az emberek ennek világos bizonyítékait láthatták. A Kurajs azonban kitartott régi, megcsontosodott politikája mellett, figyelmen kívül hagyva a nagy horderejű eseményeket, amelyek megváltoztatták a viszonyokat az Arab-félszigeten, és készültek megváltoztatni a viszonyokat az egész világon. A belátásnak ez a hiánya vezette a Kurajst egy súlyos ostobaság elkövetésére, amely után a hudejbiai szerződés semmissé vált. Történt ugyanis, hogy a Kurajs, szövetségeseivel, a Banú Bakrral együtt, megtámadta a Khuzáát, a muszlimok szövetségeseit, és megölt néhány emberüket. A Khuzáa a Kába szentélyében keresett menedéket, mert nem voltak felkészülve a harcra. A Banú Bakr ennek ellenére üldözte őket, a Kurajs pedig fegyvert kölcsönzött, és segítette a Banú Bakrt elnyomásukban.
 
 A Banú Bakr néhány embere úgy érezte, nem volna szabad a Haramban harcolniuk, és szóltak erről főnöküknek, Naufal ibn Muávijának, mondván: „Beléptünk a Haramba – [gondolj hát] istenedre, istenedre!”
 
@@ -5122,7 +5122,7 @@ A Próféta (ﷺ) így szólt: »Bizony igazat mondott nektek!«”
 
 Omár (رضي الله عنه) felkiáltott: „Ó, Allah Küldötte (ﷺ), hadd csapjam le ennek a képmutatónak a fejét!”
 
-A Próféta (ﷺ) azonban így felelt: „Részt vett Badrnál, és mit tudod te… talán Allah (ﷻ) rátekintett azokra, akik Badrnál részt vettek, és így szólt: Tegyetek, amit akartok, mert én megbocsátottam nektek.” Ekkor nyilatkoztattak ki Allah szavai:
+A Próféta (ﷺ) azonban így felelt: „Részt vett Bedrnél, és mit tudod te… talán Allah (ﷻ) rátekintett azokra, akik Bedrnél részt vettek, és így szólt: Tegyetek, amit akartok, mert én megbocsátottam nektek.” Ekkor nyilatkoztattak ki Allah szavai:
 
 (Ó ti, akik hisztek [Allah egyedülvalóságában és Mohamed Próféta küldetésében]! Ne tegyétek meg az ellenségeimet és az ellenségeiteket [magatoknak] pártfogókká, szeretetet nyilvánítva irántuk, miközben ők [már] hitetlenek [lettek] azzal szemben, ami hozzátok jött az igazságból, kiűzik a Küldöttet (Mohamedet) és titeket [otthonaitokból], mert hisztek Allahban, az Uratokban! Ha [valóban] az Én Utamon küzdve és az Én elégedettségemet keresve vonultok ki, [akkor ne tegyétek meg őket pártfogókká]! Titokban fordultok feléjük szeretettel, miközben Én tudom azt, amit eltitkoltok, és amit kinyilvánítotok! És aki közületek ezt teszi, hát az már [bizony] eltévelyedett az Egyenes Úttól.)⁶⁵ (Korán 60: 1)
 
@@ -5320,7 +5320,7 @@ Kilda ibn al-Dzsunajd felkiáltott: „Íme! Ma megtört a varázslat!” Szafv�
 
 A Prófétát (ﷺ) haragra gerjesztette ez a futás. Így kiáltott: „Hová, emberek? Jöjjetek hozzám! Én Allah Küldötte (ﷺ) vagyok; én Mohamed ibn Abdullah vagyok!” Senki sem válaszolt neki; a tevék egymásra ugráltak, ahogy lovasaik velük együtt menekülésre fordultak.⁸⁴ Ekkor a Próféta (ﷺ) megpillantott egy Havázin-beli férfit vörös tevén, aki hosszú lándzsa hegyén fekete zászlót tartott, mögötte pedig ott volt a Havázin. Valahányszor utolérte valamelyik menekülő muszlimot, lándzsájával átdöfte, és valahányszor elvétette, felemelte kezét a mögötte lévőknek, hogy vegyék üldözőbe.
 
-Akik ezt a szégyenletes látványosságot vezették, a szabadon bocsátott mekkaiak és a beduin csőcselék voltak. A Próféta (ﷺ) teljes nyugalommal állt, hadicselt tervezve az iszlám hírnevének és jövőjének megmentésére. Körülötte a korai muhádzsirok egy csoportja és háza népének tagjai álltak. Megparancsolta hát al-Abbász ibn Abdul Muttalibnak, akinek zengő hangja volt, hogy kiáltsa: „Ó, anszárok! Ti, akik a fogadalmat tettétek Hudajbijánál!”⁸⁵ Az igazság vezette őt, hogy azokat hívja, akiknek eszméjük volt, és akik életüket tették fel egy ügyre, mert csak az ilyen emberek által győzedelmeskedhetett az eszme és kerülhetett ki a válságból. Azoktól a tömegektől, amelyek csak e világra gondoltak és zsákmányért törekedtek, semmit sem lehetett elérni, és helytállni sem tudtak.
+Akik ezt a szégyenletes látványosságot vezették, a szabadon bocsátott mekkaiak és a beduin csőcselék voltak. A Próféta (ﷺ) teljes nyugalommal állt, hadicselt tervezve az iszlám hírnevének és jövőjének megmentésére. Körülötte a korai muhádzsirok egy csoportja és háza népének tagjai álltak. Megparancsolta hát al-Abbász ibn Abdul Muttalibnak, akinek zengő hangja volt, hogy kiáltsa: „Ó, anszárok! Ti, akik a fogadalmat tettétek Hudejbiánál!”⁸⁵ Az igazság vezette őt, hogy azokat hívja, akiknek eszméjük volt, és akik életüket tették fel egy ügyre, mert csak az ilyen emberek által győzedelmeskedhetett az eszme és kerülhetett ki a válságból. Azoktól a tömegektől, amelyek csak e világra gondoltak és zsákmányért törekedtek, semmit sem lehetett elérni, és helytállni sem tudtak.
 
 ## Gyülekezés és győzelem
 
@@ -5538,13 +5538,13 @@ A Próféta (ﷺ) megkérdezte: »Szeretnéd?« Amikor Abu Bakr (رضي الله
 
 Ibn Iszhák mondta: „Volt a seregben egy képmutató, akihez odafordultak, és így szóltak: »Szégyelld magad! Kell-e ennél több?« – mire ő azt felelte: »Egy elvonuló felhő!«”
 
-Útközben elhaladtak a hajlékok mellett, amelyekben egykor a Szamúd lakott. Immár romok voltak, megőrizve, hogy az ember emlékezzék Allah (ﷻ) haragjára azok iránt, akik meghazudtolták küldötteit, és siettették büntetését.
+Útközben elhaladtak a hajlékok mellett, amelyekben egykor a Tamúd lakott. Immár romok voltak, megőrizve, hogy az ember emlékezzék Allah (ﷻ) haragjára azok iránt, akik meghazudtolták küldötteit, és siettették büntetését.
 
 A Próféta (ﷺ) így szólt: „Ne lépjetek be azok hajlékaiba, akik önmaguk ellen vétettek, csak sírva – nehogy az sújtson benneteket, ami őket sújtotta.”¹⁰⁸
 
 Úgy tűnik, a Próféta (ﷺ) azt akarta, hogy a muszlimok teljesen tudatában legyenek az intelem forrásainak, és komolyan fontolják meg az előttük járók példáit. Ha az embereknek alkalmuk nyílik meglátogatni a börtönt és megnézni például a kivégzőtermet, nem lesz méltó hozzájuk, hogy szórakozva, közömbösen nézzék a hurkot. A legkevesebb, hogy megrendülést mutassanak a rabok sorsa és kivégzése felett.
 
-Ahmad hagyományozta Dzsábir tekintélyére hivatkozva, hogy amikor a Próféta (ﷺ) elhaladt al-Hidzsr (a Szamúd lakhelye) mellett, így szólt:
+Ahmad hagyományozta Dzsábir tekintélyére hivatkozva, hogy amikor a Próféta (ﷺ) elhaladt al-Hidzsr (a Tamúd lakhelye) mellett, így szólt:
 
 „Ne kérjetek csodákat, mert Szálih népe kérte őket, és Allah (ﷻ) tevét küldött nekik. Ezen a szoroson jött, és azon a szoroson távozott. Ők azonban fellázadtak Allah (ﷻ) parancsa ellen, és megbénították. Egyik nap az itta vizüket, másik nap ők itták a tejét. Megbénították, és kiáltás ragadta el őket, amellyel Allah (ﷻ) mindnyájukat elpusztította az ég boltozata alatt.”¹⁰⁹
 
@@ -5582,7 +5582,7 @@ Jött Kab ibn Málik (رضي الله عنه), és szalámot köszönt. A Próf�
 
 A Próféta (ﷺ) így szólt: »Ami őt illeti, igazat szólt. Állj hát fel, míg Allah (ﷻ) nem dönt felőled« – és én felálltam.
 
-A Banú Szalama néhány férfia dühbe gurult, és szidalmakkal követett. Azt mondták: »Allahra (ﷻ), nem tudunk rólad korábbi bűnt, és mégsem tudtál olyan mentséget hozni a Prófétának, amilyet a többi hátramaradott hozott. Elég lett volna bűnöd fedezésére, ha a Próféta (ﷺ) bocsánatot kér számodra Allahtól (ﷻ).« Addig-addig korholtak, hogy már vissza akartam menni, és meghazudtolni önmagamat. Azután megkérdeztem, tett-e még valaki úgy, ahogyan én, és azt felelték, van még két férfi, akik ugyanazt mondták, amit én, és ugyanazt a választ kapták, amit én. Megkérdeztem, kik azok, és azt mondták: Murára ibn al-Rabi al-Ámiri és Hilál ibn Umajja al-Vákifi. Két olyan férfit neveztek meg, akik részt vettek Badrnál. Bennük jó példát találtam. Így hát mentem tovább a magam útján.”
+A Banú Szalama néhány férfia dühbe gurult, és szidalmakkal követett. Azt mondták: »Allahra (ﷻ), nem tudunk rólad korábbi bűnt, és mégsem tudtál olyan mentséget hozni a Prófétának, amilyet a többi hátramaradott hozott. Elég lett volna bűnöd fedezésére, ha a Próféta (ﷺ) bocsánatot kér számodra Allahtól (ﷻ).« Addig-addig korholtak, hogy már vissza akartam menni, és meghazudtolni önmagamat. Azután megkérdeztem, tett-e még valaki úgy, ahogyan én, és azt felelték, van még két férfi, akik ugyanazt mondták, amit én, és ugyanazt a választ kapták, amit én. Megkérdeztem, kik azok, és azt mondták: Murára ibn al-Rabi al-Ámiri és Hilál ibn Umajja al-Vákifi. Két olyan férfit neveztek meg, akik részt vettek Bedrnél. Bennük jó példát találtam. Így hát mentem tovább a magam útján.”
 
 „A Próféta (ﷺ) megtiltotta a muszlimoknak, hogy szóljanak hozzánk hármunkhoz az összes hátramaradott közül. Így elkerültek bennünket, és számomra úgy megváltozott a föld, hogy rá sem ismertem többé! Ötven éjszakán át folytatódott ez így. Két társam elcsüggedt, és otthon maradtak sírva; én azonban, aki a legfiatalabb és legerősebb voltam hármunk közül, kijártam, elvégeztem az imákat a muszlimokkal, jártam a piacokat, bár senki sem szólt hozzám. Odamentem a Prófétához (ﷺ), és szalámmal köszöntöttem, amikor ima után gyülekezetében ült, és azt kérdezgettem magamtól: mozdultak-e ajkai a válaszra, vagy sem? Azután a közelében imádkoztam, és lopva rá-rápillantottam. Amikor imámba fordultam, ő felém fordult, és amikor feléje fordultam, elfordult tőlem.”
 
@@ -5676,7 +5676,7 @@ Ibn Iszhák mondta:
 
 Ali (رضي الله عنه) al-Adba hátán, a Próféta (ﷺ) tevéjén indult el, és útközben érte utol Abu Bakrt (رضي الله عنه). Meglátva őt, Abu Bakr (رضي الله عنه) megkérdezte, elöljáróvá tétetett-e (a zarándokok felett), vagy követő. Azt mondta, követő, és továbbmentek.¹¹⁷ Abu Bakr (رضي الله عنه) maradt – ahogyan a Próféta (ﷺ) kinevezte – az, aki a népet a zarándoklat szertartásaiban vezeti, míg Alinak (رضي الله عنه) azt kellett kihirdetnie az embereknek, amivel megbízatott, és az összes arabnak recitálnia a Baráa szúra első szakaszát, amely részletesen velük foglalkozott, és végzett a pogánysággal országukban. Abu Bakr (رضي الله عنه) néhány más kihirdetőt is kijelölt a gyülekezetből, hogy segítsék Alit (رضي الله عنه) kihirdetéseiben.
 
-Zajd ibn Juszaj mondta, hogy megkérdezte Alit (رضي الله عنه), mit küldtek vele a zarándoklatra, és Ali (رضي الله عنه) azt felelte, hogy négy kihirdetéssel küldték: „Hogy csak hívő lép be a Paradicsomba; hogy meztelen ember nem járhatja körül a Kábát; hogy az az év után hitetlenek nem csatlakozhatnak a muszlimokhoz a Haramban; és hogy akinek szerződése van a Prófétával (ﷺ), annak megadatik a szerződés időtartama, akinek pedig nincs szerződése, annak négy hónap adatik.”¹¹⁸
+Zejd ibn Juszaj mondta, hogy megkérdezte Alit (رضي الله عنه), mit küldtek vele a zarándoklatra, és Ali (رضي الله عنه) azt felelte, hogy négy kihirdetéssel küldték: „Hogy csak hívő lép be a Paradicsomba; hogy meztelen ember nem járhatja körül a Kábát; hogy az az év után hitetlenek nem csatlakozhatnak a muszlimokhoz a Haramban; és hogy akinek szerződése van a Prófétával (ﷺ), annak megadatik a szerződés időtartama, akinek pedig nincs szerződése, annak négy hónap adatik.”¹¹⁸
 
 Egy másik könyvünkben, az „Elmélkedések vallásról és életről” címűben szóltunk arról, milyen rangot ad az iszlám a szerződéseknek, és elmagyaráztuk a Tauba szúra elején foglalt törvényeket. Tudja meg mindenki, aki akarja: a pogányság felszámolását célzó törvény kihirdetése – akárcsak az írástudatlanság elleni törvényé – nemes, emberbaráti tett, és nem emelhet ellene kifogást senki, aki az emberiség javát akarja, és fejlődését meg haladását kívánja.
 
@@ -5850,17 +5850,17 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 
 ## Lábjegyzetek
 
-¹ Hiteles hadísz, Ibn Iszhák beszélte el hiteles lánccal Miszvar ibn Makhramától és Marván ibn al-Hakamtól. Ahmad és Ibn Hisám tőle vette át. Egy hosszú, a hudajbijai szerződésről szóló hadísz része, amelyet Bukhári és Ahmad teljes hosszában, másik lánccal beszélt el. Bukhári és Ahmad szerint a Próféta (ﷺ) ezt a kijelentést a nősténytevéről szóló – később következő – történet után tette, amikor Budajl ibn Varaka eljött hozzá, és ő elmondta neki, hogy nem háborúért jött. Ez határozottan hitelesebb Ibn Iszhák elbeszélésénél.
+¹ Hiteles hadísz, Ibn Iszhák beszélte el hiteles lánccal Miszvar ibn Makhramától és Marván ibn al-Hakamtól. Ahmad és Ibn Hisám tőle vette át. Egy hosszú, a hudejbiai szerződésről szóló hadísz része, amelyet Bukhári és Ahmad teljes hosszában, másik lánccal beszélt el. Bukhári és Ahmad szerint a Próféta (ﷺ) ezt a kijelentést a nősténytevéről szóló – később következő – történet után tette, amikor Budajl ibn Varaka eljött hozzá, és ő elmondta neki, hogy nem háborúért jött. Ez határozottan hitelesebb Ibn Iszhák elbeszélésénél.
 
-² Hiteles hadísz, Ibn Iszhák beszélte el a fent említett, Hudajbijáról szóló hadíszban.
+² Hiteles hadísz, Ibn Iszhák beszélte el a fent említett, Hudejbiáról szóló hadíszban.
 
-³ Hiteles hadísz, a Hudajbijáról szóló hadíszból való, Bukháritól és másoktól.
+³ Hiteles hadísz, a Hudejbiáról szóló hadíszból való, Bukháritól és másoktól.
 
-⁴ Hiteles hadísz, a Hudajbijáról szóló hadíszból, Ibn Iszháktól.
+⁴ Hiteles hadísz, a Hudejbiáról szóló hadíszból, Ibn Iszháktól.
 
 ⁵ Az iszlám előtt al-Mughíra ravasz gyilkos volt. Megölt néhány embert, és Urva fizette meg értük a vérdíjat, hogy elfojtsa a viszályt.
 
-⁶ Mindez a Hudajbija-történet része Ibn Iszhák szerint. Bukhári hasonlóan beszélte el.
+⁶ Mindez a Hudejbia-történet része Ibn Iszhák szerint. Bukhári hasonlóan beszélte el.
 
 ⁷ Gyenge: Ibn Hisám beszélte el Ibn Iszháktól, és a lánc egyik tagját nem nevezte meg. Ahmad rövidebb változatot beszélt el Abdullah ibn Mughaffaltól hiteles lánccal, és abban a bálványimádók száma 30 ifjú. Az ája – „És Ő az, aki távol tartotta a kezüket tőletek és a ti kezeteket tőlük…” (Korán 48: 24) – velük kapcsolatban nyilatkoztatott ki.
 
@@ -5876,11 +5876,11 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 
 ¹³ „Az iszlám és a politikai elnyomás” című könyvünkben.
 
-¹⁴ Hiteles hadísz, a Hudajbija-történet része. Al-Zuhri szerepel a láncban, és a hadísz nem tartozik mursaljai közé, ahogyan a szöveg sugallhatná.
+¹⁴ Hiteles hadísz, a Hudejbia-történet része. Al-Zuhri szerepel a láncban, és a hadísz nem tartozik mursaljai közé, ahogyan a szöveg sugallhatná.
 
-¹⁵ Mindez a Hudajbija-történetből való: Ibn Iszháktól (a szavak az övéi), Bukháritól és Ahmadtól.
+¹⁵ Mindez a Hudejbia-történetből való: Ibn Iszháktól (a szavak az övéi), Bukháritól és Ahmadtól.
 
-¹⁶ Hiteles: a Hudajbija-történet része Bukhári és Ahmad szerint.
+¹⁶ Hiteles: a Hudejbia-történet része Bukhári és Ahmad szerint.
 
 ¹⁷ Ibn Iszhák beszélte el lánc nélkül, és Ibn Hisám tőle vette át. Bukhári röviden a következő szavakkal beszélte el: „Abu Baszír, egy Kurajs-beli férfi, aki muszlim volt, eljött hozzá. Két embert küldtek utána, és azt mondták: [tartsd meg] a szerződést, amelyet velünk kötöttél – és ő átadta őt a két embernek.”
 
@@ -5932,7 +5932,7 @@ Segítettek-e ezek a zavargások az északi keresztényeknek az iszlám elleni h
 
 ⁴¹ Jó hadísz, Bukhári beszélte el Abu Músza tekintélyére hivatkozva.
 
-⁴² Jó hadísz, Abu Dávúd, al-Hákim, al-Bajhaki és Ahmad ibn Hanbal beszélte el Madzsma ibn Dzsárija tekintélyére hivatkozva: „hogy Khajbar azok között osztatott fel, akik ott voltak Hudajbijánál, és rajtuk kívül senki más között”. Al-Hákim azt mondta, hiteles lánca van, és al-Zahabi egyetértett vele. Támogatja Abu Hurajra (رضي الله عنه) hadísza, amelyet al-Tajáliszi és al-Bajhaki beszélt el jó lánccal. Ibn Iszhák azt mondja Szírájában: „Khajbar azok között osztatott fel, akik ott voltak Hudajbijánál, akár jelen voltak Khajbarnál, akár nem – kivéve Dzsábir ibn Abdullahot.”
+⁴² Jó hadísz, Abu Dávúd, al-Hákim, al-Bajhaki és Ahmad ibn Hanbal beszélte el Madzsma ibn Dzsárija tekintélyére hivatkozva: „hogy Khajbar azok között osztatott fel, akik ott voltak Hudejbiánál, és rajtuk kívül senki más között”. Al-Hákim azt mondta, hiteles lánca van, és al-Zahabi egyetértett vele. Támogatja Abu Hurajra (رضي الله عنه) hadísza, amelyet al-Tajáliszi és al-Bajhaki beszélt el jó lánccal. Ibn Iszhák azt mondja Szírájában: „Khajbar azok között osztatott fel, akik ott voltak Hudejbiánál, akár jelen voltak Khajbarnál, akár nem – kivéve Dzsábir ibn Abdullahot.”
 
 ⁴³ Hiteles hadísz attól a ponttól, ahol a cézár átvette a levelet, a végéig. Bukhári és Muszlim beszélte el Ibn Abbász tekintélyére hivatkozva.
 
@@ -6168,15 +6168,15 @@ Erre azt feleljük: Van-e helye az élvezetnek egy olyan ember életében, aki e
 
 Azt is mondjuk: Mi helye az élvezetnek egy olyan ember életében, aki azt már ifjúkorában elutasította? Hogyan merülhetett volna el benne öregemberként? A másik öt feleséget övező körülmények bizony azzá tették a velük való életet, ami annak a tehernek volt része, amelyet a Prófétának (ﷺ) államfőként kellett hordoznia – azé az államfőé, aki a közösségért és annak minden egyes tagjáért felelős volt. Része volt annak a felelősségének is, hogy megszilárdítsa a jót és felszámolja a rosszat.
 
-Vegyük például a Zajnab bint Dzsahssal kötött házasságát: ez a házasság súlyos próbatétel volt a Próféta (ﷺ) számára. Allah (ﷻ) parancsolta meg neki, hogy lépjen bele, hogy leromboljon egy, az arabok között széles körben elterjedt hagyományt, és ő csupa zavarral és kényszeredettséggel ment bele. Zajnab egyike volt unokatestvéreinek, akit gyermekkorától ismert. Zajd ibn Háriszához kívánta feleségül adni. Zajnabnak azonban nem tetszett a gondolat, fivére pedig ellenezte a házasságot, mert büszke volt családjuk rangjára. Zajnab a Kurajsból való volt, míg Zajd rabszolga, akit a Próféta (ﷺ) szabadított fel, aki a fogadott fia lett, és akit Zajd ibn Mohamednek hívtak. A Próféta (ﷺ) ragaszkodott ehhez a házassághoz, mert meg akarta törni az arabok származási gőgjét, és Zajnabnak nem volt más választása, mint elfogadni a Próféta (ﷺ) döntését az ügyben – különösen azután, hogy a következő ája kinyilatkoztatott:
+Vegyük például a Zajnab bint Dzsahssal kötött házasságát: ez a házasság súlyos próbatétel volt a Próféta (ﷺ) számára. Allah (ﷻ) parancsolta meg neki, hogy lépjen bele, hogy leromboljon egy, az arabok között széles körben elterjedt hagyományt, és ő csupa zavarral és kényszeredettséggel ment bele. Zajnab egyike volt unokatestvéreinek, akit gyermekkorától ismert. Zejd ibn Háriszához kívánta feleségül adni. Zajnabnak azonban nem tetszett a gondolat, fivére pedig ellenezte a házasságot, mert büszke volt családjuk rangjára. Zajnab a Kurajsból való volt, míg Zejd rabszolga, akit a Próféta (ﷺ) szabadított fel, aki a fogadott fia lett, és akit Zejd ibn Mohamednek hívtak. A Próféta (ﷺ) ragaszkodott ehhez a házassághoz, mert meg akarta törni az arabok származási gőgjét, és Zajnabnak nem volt más választása, mint elfogadni a Próféta (ﷺ) döntését az ügyben – különösen azután, hogy a következő ája kinyilatkoztatott:
 
 (És nem lehet egy hívő férfinak, sem egy hívő nőnek választása valamely dolgukban, ha Allah és a Küldötte [már] döntött abban. Aki ellenszegül Allahnak és a Küldöttének, az bizony nyilvánvaló tévelygéssel tévelyeg.) (Korán 33: 36)
 
-Így hozzáment Zajdhoz, bár vonakodó szívvel, fivére pedig csupán engedelmességből fogadta el. Zajd hamarosan úgy találta, hogy nem tud vele élni, és panaszt tett a Prófétánál (ﷺ), aki időről időre közbelépett, hogy rendbe hozza a dolgokat – de hiába. Ilyen körülmények között nyilatkoztatta ki Allah (ﷻ) a Prófétának (ﷺ), hogy engedje meg Zajdnak a válást, ő maga pedig vegye feleségül Zajnabot. A Prófétát (ﷺ) nagy nyugtalanság fogta el e különös parancs miatt, és magában tartotta, attól félve, hogy az emberek azt mondják majd: a fia feleségét vette el, ami nem volt megengedett. Csakhogy Allah (ﷻ) éppen azt akarta lerombolni, amit az emberek mondtak volna; elkerülhetetlen volt, hogy a Próféta (ﷺ) végrehajtsa a parancsot – és talán remélte, hogy Allah (ﷻ) felmenti alóla. Sőt még tovább is ment: amikor Zajd a feleségére panaszkodva jött hozzá, és elmondta, hogy el akar válni tőle, a Próféta (ﷺ) így szólt hozzá:
+Így hozzáment Zejdhez, bár vonakodó szívvel, fivére pedig csupán engedelmességből fogadta el. Zejd hamarosan úgy találta, hogy nem tud vele élni, és panaszt tett a Prófétánál (ﷺ), aki időről időre közbelépett, hogy rendbe hozza a dolgokat – de hiába. Ilyen körülmények között nyilatkoztatta ki Allah (ﷻ) a Prófétának (ﷺ), hogy engedje meg Zejdnek a válást, ő maga pedig vegye feleségül Zajnabot. A Prófétát (ﷺ) nagy nyugtalanság fogta el e különös parancs miatt, és magában tartotta, attól félve, hogy az emberek azt mondják majd: a fia feleségét vette el, ami nem volt megengedett. Csakhogy Allah (ﷻ) éppen azt akarta lerombolni, amit az emberek mondtak volna; elkerülhetetlen volt, hogy a Próféta (ﷺ) végrehajtsa a parancsot – és talán remélte, hogy Allah (ﷻ) felmenti alóla. Sőt még tovább is ment: amikor Zejd a feleségére panaszkodva jött hozzá, és elmondta, hogy el akar válni tőle, a Próféta (ﷺ) így szólt hozzá:
 
 (Tartsd meg magadnak a feleségedet, és féld Allahot!) (Korán 33: 37)
 
-Erre kinyilatkoztatás érkezett, amely megrótta a Prófétát (ﷺ) habozásáért, sürgette, hogy teljesítse Zajd kívánságát a feleségétől való különválásra, és kötelezte, hogy ő maga vegye feleségül az asszonyt – még ha az emberek fel is emelik szavukat, mondván, hogy a fia elvált asszonyát vette el. Az örökbefogadás ugyanis a hamisítás egy formája volt, amelyet az arabok hagyományként őriztek, és amelynek elhagyására rá kellett kényszeríteni őket. Hadd legyen a Próféta (ﷺ) tette – önmagával és a hozzá közel állókkal – az első, amely lerombolja ezen elterjedt hagyomány dzsáhilijjáját.
+Erre kinyilatkoztatás érkezett, amely megrótta a Prófétát (ﷺ) habozásáért, sürgette, hogy teljesítse Zejd kívánságát a feleségétől való különválásra, és kötelezte, hogy ő maga vegye feleségül az asszonyt – még ha az emberek fel is emelik szavukat, mondván, hogy a fia elvált asszonyát vette el. Az örökbefogadás ugyanis a hamisítás egy formája volt, amelyet az arabok hagyományként őriztek, és amelynek elhagyására rá kellett kényszeríteni őket. Hadd legyen a Próféta (ﷺ) tette – önmagával és a hozzá közel állókkal – az első, amely lerombolja ezen elterjedt hagyomány dzsáhilijjáját.
 
 Ez a történet, ahogyan Allah (ﷻ) elbeszélni kezdte:
 
@@ -6246,7 +6246,7 @@ A Prófétát (ﷺ) mélyen elkeserítette ez a fellépés. Ő volt az első mus
 
 Abu Bakr (رضي الله عنه) és Omár (رضي الله عنه) megriadt e hírre, hiszen mindketten apósai voltak a Prófétának (ﷺ). Elmentek hozzá, és bebocsátást kértek, hogy megbizonyosodjanak a tényekről. Belépve némán találták őt, feleségeit pedig körülötte, csüggedten. Omár (رضي الله عنه) megkérdezte, elvált-e feleségeitől, és ő azt felelte: nem.
 
-A nyomott légkör azonban továbbra is súlyosan ült a helyen, ezért Omár (رضي الله عنه) elhatározta, hogy szól a Prófétához (ﷺ), és megnevetteti. Így szólt: „Ó, Allah (ﷻ) Küldötte, láttad volna Zajd leányát (a saját feleségét), amikor az imént járandósága fölemelését kérte tőlem – és én nyakon ütöttem!”
+A nyomott légkör azonban továbbra is súlyosan ült a helyen, ezért Omár (رضي الله عنه) elhatározta, hogy szól a Prófétához (ﷺ), és megnevetteti. Így szólt: „Ó, Allah (ﷻ) Küldötte, láttad volna Zejd leányát (a saját feleségét), amikor az imént járandósága fölemelését kérte tőlem – és én nyakon ütöttem!”
 
 A Próféta (ﷺ) úgy nevetett, hogy kilátszottak a fogai, majd így szólt: „Ők a járandóságuk fölemelését kérik tőlem.”
 
@@ -6344,7 +6344,7 @@ Azt mondják, hogy amikor kivégzésre vezették, ezt a verset mondta el:
 
 *Mondjátok meg a muszlimok előkelőinek, hogy átadtam Uramnak csontjaimat és véremet.*
 
-Így a Próféta (ﷺ) hatalmas sereget szerelt fel, Uszáma ibn Zajdot tette meg parancsnokává, és megparancsolta neki, hogy vezesse lovasságát a palesztinai al-Balka és al-Dárúm határvidékére, erőt mutatva a rómaiakkal szemben, és hogy visszatérjen az önbizalom a határvidéken élő arabok szívébe. Senki ne gondolhassa, hogy nincs, ami az Egyház túlkapásainak megálljt parancsolna, és hogy az iszlám elfogadása elkerülhetetlen halált jelent.
+Így a Próféta (ﷺ) hatalmas sereget szerelt fel, Uszáma ibn Zejdet tette meg parancsnokává, és megparancsolta neki, hogy vezesse lovasságát a palesztinai al-Balka és al-Dárúm határvidékére, erőt mutatva a rómaiakkal szemben, és hogy visszatérjen az önbizalom a határvidéken élő arabok szívébe. Senki ne gondolhassa, hogy nincs, ami az Egyház túlkapásainak megálljt parancsolna, és hogy az iszlám elfogadása elkerülhetetlen halált jelent.
 
 Mivel Uszáma csak 18 éves volt, egyes tudatlan emberek megütköztek a kinevezésén, és kifogásolták, hogy ő vezesse a nála tapasztaltabb férfiakat. Nem kétséges, hogy a Próféta (ﷺ) az emberek kiválasztásában egyedül a rátermettséget nézte, és akit alkalmasnak talált egy tisztségre, azt oda is állította, korára való tekintet nélkül. A kor nem ad értelmet az ostobának, és a fiatalság nem von le semmit a jámbor erényéből.
 
@@ -6601,6 +6601,7 @@ nélkül, úgy, hogy magyarul olvasva közel járjanak az arab kiejtéshez:
   más személyeknél az átírást (Ibn Iszhák, Abu Músza);
 - néhány név a megszokott magyar alakjában szerepel: Mohamed (a Próféta), Omár, Oszmán, Ali, Áisa,
   Ibn Kathir, al-Tirmidhi, Jathrib, Mekka, Medina.
+- néhány név a Korán-idézetek fordításának (MME) alakját követi: Bedr, Tamúd, Zejd, Hudejbia.
 
 ---
 
@@ -6698,9 +6699,9 @@ nélkül, úgy, hogy magyarul olvasva közel járjanak az arab kiejtéshez:
 
 *Rakát*: Egység. A muszlimok imája több egységből áll; minden egység egy állásból, egy meghajlásból és két leborulásból tevődik össze.
 
-*Ramadán*: A muszlim naptár kilencedik hónapja. Ez a Szaum (böjt) hónapja. Ekkor kezdett kinyilatkoztatni a nemes Korán. Az iszlám történetének első döntő csatája, a badri csata ebben a hónapban zajlott.
+*Ramadán*: A muszlim naptár kilencedik hónapja. Ez a Szaum (böjt) hónapja. Ekkor kezdett kinyilatkoztatni a nemes Korán. Az iszlám történetének első döntő csatája, a bedri csata ebben a hónapban zajlott.
 
-*Ridván*: Elégedettség. A hudajbijai szerződés alkalmával Oszmán ibn Affánt Mekkába küldték tárgyalni. Ott egy időre feltartóztatták. Az a hír járta, hogy a Kurajs megölte. A Próféta (ﷺ) esküt vett a hívőktől, hogy ennek megtorlásaként a végsőkig harcolnak. Ez Bajat al-Ridván néven ismert.
+*Ridván*: Elégedettség. A hudejbiai szerződés alkalmával Oszmán ibn Affánt Mekkába küldték tárgyalni. Ott egy időre feltartóztatták. Az a hír járta, hogy a Kurajs megölte. A Próféta (ﷺ) esküt vett a hívőktől, hogy ennek megtorlásaként a végsőkig harcolnak. Ez Bajat al-Ridván néven ismert.
 
 *Sabán*: A muszlim naptár nyolcadik hónapja.
 
