@@ -14,7 +14,7 @@ verse-final comma → period), MME's hyphen-dashes → en dash, „…” → »
 leaving out a gloss the surrounding text contradicts (Fikh al-Szíra: 4:29 „(egymást)”, 4:33
 „[az örökségből]”, 9:118 „[a Tabúk csatában]”). Fikh al-Szíra was converted 2026-10-04.
 
-Current book: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIFSO Revised 2nd Edition,
+Book 1: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIFSO Revised 2nd Edition,
 distributed by IIPH, 1420 AH / 1999 CE, English translation, with ḥadīth commentary by Sheikh
 Muhammad Naṣiruddīn al-Albānī) — Hungarian title **Fikh al-Szíra**. Everything is in
 `fiqh-us-seerah/`; bare file names below are relative to it.
@@ -56,6 +56,18 @@ How we got here (details in the commits):
 
 Footnote counts (both files, 1:1 body↔list): ch1 21, ch2 27, ch3 35, ch4 25, ch5 23, ch6 100,
 ch7 128, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
+
+## Book 2: The Muslim Home (`muslim-home/`)
+
+**The Muslim Home – 40 recommendations** by Sheikh Muhammad Salih al-Munajjid — Hungarian title
+**A muszlim otthon – negyven tanács**. Source: `The-Muslim-Home-40-recommendations.pdf` (English,
+30 pp., has a text layer — `pdftotext` it, so there is no ENG transcription file). Translated
+2026-10-08 from the English into `MuslimHome-Muhammad-Salih-al-Munajjid-HUN.md` (`##` parts, `###`
+items „(1) …”, hadith references inline in parentheses, no footnotes), under the conventions below.
+The Arabic original («أربعون نصيحة لإصلاح البيوت») is not in the repo yet: checking against it, and
+items 26–36 (headings only in the English), are in `muslim-home/TODO.md`. `build-ebooks.sh` builds
+`MuslimHome-HUN.pdf/.epub` (reuses the Fiqh tools). Extra honorific signs used there:
+(عليها السلام) for Maryam, (رضي الله عنهما), (رحمه الله) / (رحمهما الله) for scholars.
 
 ## Fidelity policy (both files)
 
