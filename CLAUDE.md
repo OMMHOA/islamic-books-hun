@@ -59,15 +59,17 @@ ch7 128, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
 
 ## Book 2: The Muslim Home (`muslim-home/`)
 
-**The Muslim Home – 40 recommendations** by Sheikh Muhammad Salih al-Munajjid — Hungarian title
-**A muszlim otthon – negyven tanács**. Source: `The-Muslim-Home-40-recommendations.pdf` (English,
-30 pp., has a text layer — `pdftotext` it, so there is no ENG transcription file). Translated
-2026-10-08 from the English into `MuslimHome-Muhammad-Salih-al-Munajjid-HUN.md` (`##` parts, `###`
-items „(1) …”, hadith references inline in parentheses, no footnotes), under the conventions below.
-The Arabic original («أربعون نصيحة لإصلاح البيوت») is not in the repo yet: checking against it, and
-items 26–36 (headings only in the English), are in `muslim-home/TODO.md`. `build-ebooks.sh` builds
-`MuslimHome-HUN.pdf/.epub` (reuses the Fiqh tools). Extra honorific signs used there:
-(عليها السلام) for Maryam, (رضي الله عنهما), (رحمه الله) / (رحمهما الله) for scholars.
+**The Muslim Home – 40 recommendations** by Muhammad Salih al-Munajjid — Hungarian title
+**A muszlim otthon – negyven tanács**. Files: `The-Muslim-Home-40-recommendations.pdf` (English, 30
+pp., has a text layer — no ENG transcription file); `MuslimHome-Muhammad-Salih-al-Munajjid-AR.md`
+(the Arabic «أربعون نصيحة لإصلاح البيوت», al-Maktaba al-Shāmila edition from ketabonline.com/ar/books/39009,
+`[صفحة N]` = its 37 pages, typos kept; word-identical to the IslamQA edition, shamela.ws/book/26332);
+`MuslimHome-Muhammad-Salih-al-Munajjid-HUN.md` (`##` parts, `###` items „(1) …”, hadith references
+inline, no footnotes); `TODO.md`; `build-ebooks.sh` (PDF/EPUB, reuses the Fiqh tools). Translated
+2026-10-08 from the English, checked against the Arabic 2026-10-09 under the fidelity policy below
+(the English-edition errors are listed in that commit's message). Items 26–36 are headings only in
+the Arabic too. Extra honorific signs: (عليها السلام) for Maryam, (رضي الله عنهما),
+(رحمه الله) / (رحمهما الله) for scholars.
 
 ## Fidelity policy (both files)
 
