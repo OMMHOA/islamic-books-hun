@@ -6,10 +6,6 @@ Open work only; finished work is in the git history, conventions in `../CLAUDE.m
 
 - [ ] Native read-through. Coined or borrowed words to sanity-check: hangtár, dáija, tavváfín,
   szivák, kavvám, rakáik, mukhannasz, masraba.
-- [ ] (10) 25:59 is quoted as „ő az a hozzáértő, akit kérdezünk”: the author reads the verse as
-  "ask one who knows", MME as "ask Him (Allah)". Keep MME verbatim, or add a translator's note?
-- [ ] (8) Ibn Hadzsar quote: the Arabic has «سهل بن أبي صالح»; Fath al-Bári probably has Suhajl
-  ibn Abi Szálih. Check, and add a `[… – a ford.]` note if so.
 
 ## Possible next
 

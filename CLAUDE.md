@@ -13,6 +13,9 @@ the verse. Allowed adaptations: punctuation at a cut point (closing a „ the cu
 verse-final comma → period), MME's hyphen-dashes → en dash, „…” → »…« inside a quotation, and
 leaving out a gloss the surrounding text contradicts (Fikh al-Szíra: 4:29 „(egymást)”, 4:33
 „[az örökségből]”, 9:118 „[a Tabúk csatában]”). Fikh al-Szíra was converted 2026-10-04.
+**No translator's notes on Qur'ān quotes** (user decision 2026-10-09): MME stays verbatim even
+where the author reads the verse differently — e.g. A muszlim otthon (10), 25:59: the author
+reads „ask one who knows”, MME „kérdezd hát Őt”; the author's own lead-in stays as he wrote it.
 
 Book 1: **Fiqh-us-Seerah** by Muhammad al-Ghazali (IIFSO Revised 2nd Edition,
 distributed by IIPH, 1420 AH / 1999 CE, English translation, with ḥadīth commentary by Sheikh
