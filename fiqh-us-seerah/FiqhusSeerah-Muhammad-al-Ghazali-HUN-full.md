@@ -2891,7 +2891,7 @@ Ukba ibn Ámir (رضي الله عنه) közölte azt is, hogy hallotta Allah K�
 Lőjetek hát és lovagoljatok – és jobb nektek lőnötök, mint lovagolnotok. Minden időtöltés hiábavaló: nincs dicséretes időtöltés, csak három dolog:
 
 1. ha valaki a kancáját idomítja;
-2. ha a feleségével enyeleg; és
+2. ha a feleségével játszadozik; és
 3. ha íjával lő.
 
 Ezek mind az igazsághoz tartoznak; és aki megtanulta a lövést, azután ellenszenvből elhagyja, az olyan adományt hagyott el, amelyért hálátlan lett.”⁵
