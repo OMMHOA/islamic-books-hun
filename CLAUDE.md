@@ -141,7 +141,7 @@ the Arabic too. Extra honorific signs: (عليها السلام) for Maryam, (ر
     aw → eu/au (teuhid, Neufel; Auf, Huszrau), ww → evv/avv. The particles **al-, Abu, Banú**
     don't change. Exception: „Szalla-Allahu Alejhi va **Szallam**” in the signs list (not
     *Szellem*). The per-stem table (each stem with its Arabic) and the script are
-    `fiqh-us-seerah/review-wip/front-vowels/` in the commit that applied the rule.
+    `fiqh-us-seerah/review-wip/front-vowels/` in commit 1c999d3.
   - Prophets get their **biblical names** (Ábrahám, Mózes, Izsák, József, Gábriel, Noé…; but
     **Iszmaíl**); other people with the same name follow the rule (**Ibn Iszhák**, Abu Músza,
     Abu Dávúd, Ibrahim).
