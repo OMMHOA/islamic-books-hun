@@ -320,6 +320,15 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
 | ch1 | "**Ibn** Ḥibbān" | **Abū** Ḥibbān, as the Arabic prints it (see §9) |
 | ch7 | "**Abbān**" | **Abān** «أبان» (see §9) |
 | ch7 fn121 and 5 more mentions | the author's book under varying titles | «التعصب والتسامح بين المسيحية والإسلام» → *Intolerance and Tolerance between Christianity and Islām* throughout |
+| ch6 fn27 | Thābit Al-**Banānī** | Thābit al-**Bunānī** «ثابت البنانى» |
+| ch6, ENG ~2920 | Abū Najīh **Al Salami** | Abū Najīḥ **al-Sulamī** «أبو نجيح السلمى» |
+| ch3 fn23, ch6 fns 13/18/20 | **Al-Amawi** | **Al-Umawī** «الأموى» (Yaḥyā ibn Sa'īd, author of a *Maghāzī*) |
+| ch5, ENG ~2508 | Banū **Jasham** | Banū **Jusham** «بنى جشم» |
+| ch6 fns 13/52, ch7 ~5592 | Banū **Salmah** | Banū **Salimah** «بنى سلمة» |
+| ch2 fn17 | Ibn **Luhai'ah** | Ibn **Lahī'ah** «ابن لهيعة» (the English has it right in ch6 fn66) |
+| ch6 ~3408, ch7 ~4789 | **Salam ibn Mushkim**, **Salām** ibn Mishkam | **Sallām ibn Mishkam** «سلام بن مشكم» |
+| ch6 fn84 | 'Awf **al-Mazni** | 'Awf **al-Muzanī** «المزنى» |
+| ch6 fn99 | "narrated by **Al Khālid**" in *The History of Baghdad* | **Al-Khaṭīb** «الخطيب» |
 
 Inconsistent spellings of one name, unified per the Arabic: Badīl/Budayl → **Budayl** «بديل
 بن ورقاء»; Abū Bukhtari/Abul Bukhturi → **Abul Bukhturi** «البخترى»; Al-Qarrah/Al-Qārrah →

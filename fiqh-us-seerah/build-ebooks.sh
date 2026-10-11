@@ -51,7 +51,7 @@ EOF
 cat > "$TOOLS/meta.yaml" <<'EOF'
 title: "Fikh al-Szíra"
 subtitle: "Mohamed Próféta (ﷺ) életének megértése"
-author: "Muhammad al-Ghazáli"
+author: "Muhammed al-Ghazáli"
 lang: hu
 rights: "Magyar fordítás az angol kiadás alapján (IIFSO, terjeszti: IIPH, átdolgozott 2. kiadás, 1420 AH / 1999), az arab eredetivel egybevetve; ahol a kettő eltér, a fordítás az arab eredetit követi. A hadíszokat Sejk Muhammad Násziruddín al-Albáni látta el megjegyzésekkel."
 EOF

@@ -1152,7 +1152,7 @@ Therefore the Hadīth is mu'allal (contains a hidden defect) according to the ru
 
 ¹⁶Narrated by Ibn Is-hāq and Ibn Hishām in their biographies of the Prophet (ﷺ). Their chains of narrators are sound except that they are mursal [i.e. the Ṣaḥābī who reported it did not say he heard it from the Prophet (ﷺ)]. However, comes from other sources too which strengthen its authenticity. Ahmad narrated it from 'Abdul Rahmān ibn 'Auf, who said he heard it from the Prophet (ﷺ), although it does not contain the statement " If I were called in Islām to participate in it, I should respond". Its chain is authentic.
 
-¹⁷This Hadīth has a weak chain. It is narrated by Al Tirmidhī in his Sunan and Shamā'il. He declared it to be weak because one of its narrators was Ibn Luhai'ah, who is weak because his memory was bad and his books were burnt.
+¹⁷This Hadīth has a weak chain. It is narrated by Al Tirmidhī in his Sunan and Shamā'il. He declared it to be weak because one of its narrators was Ibn Lahī'ah, who is weak because his memory was bad and his books were burnt.
 
 ¹⁸A sound Hadīth narrated by Bukhārī, Muslim, Al Nasā'ī, Ibn Mājah, Al Bayhaqī, Al Tayālisī and Ahmad.
 
@@ -1891,7 +1891,7 @@ In spite of this and in that suffocating atmosphere, the Prophet (ﷺ) never all
 
 ²² This story is narrated by Ibn Isḥāq with a sound chain from Muhammad ibn Ka'b of the Banū Quraydhah as a mursal Ḥadīth. However, the statement "If you refuse, then keep it a secret", and the whole of the du'ā starting "O Allāh (ﷻ) to You I complain…." He quotes without reference. Likewise Ibn Jarīr narrated it through Ibn Is-ḥāq. Al Ṭabarāni also narrated the story from the Ḥadīth of 'Abdullāh Ibn Ja'far (رضي الله عنه) in a shortened form and the du'ā is mentioned in a similar manner. Al Haythami said: "In the chain is Ibn Isḥāq and he is a mudallis (practises tadlīs), but the rest of them in the chain are reliable." Thus the Ḥadīth is weak.
 
-²³ I did not find any claim for this narration. Ibn Jarīr also mentioned something similar without a chain. He said: "Someone mentioned.." and perhaps this someone is Al Amawi in his Maghāzī since Ibn Kathīr also ascribed it to him without a chain.
+²³ I did not find any claim for this narration. Ibn Jarīr also mentioned something similar without a chain. He said: "Someone mentioned.." and perhaps this someone is Al-Umawī in his Maghāzī since Ibn Kathīr also ascribed it to him without a chain.
 
 ²⁴ Ibn Jarīr (2/82–83), without a chain, as mentioned in the sources of the previous Ḥadīth.
 
@@ -2505,7 +2505,7 @@ That the Jews shall spend with the believers as long as they are at war.
 
 That the Jews of the Banū 'Auf are a group of believers, and the Jews shall have the right to keep their religion just as those of the Muslims are entitled to theirs.
 
-That the Jews of the Banū al Najjār, Al-Ḥārith, Sā'idah, Banū Jasham, Banū al-Aws, etc., shall have the same rights as the Banū 'Auf.
+That the Jews of the Banū al Najjār, Al-Ḥārith, Sā'idah, Banū Jusham, Banū al-Aws, etc., shall have the same rights as the Banū 'Auf.
 
 That the Jews shall bear their own financial burdens and that Muslims shall bear their own, and that they (the Jews and the Muslims) shall assist each other against anyone who wages war on the signatories to this agreement.
 
@@ -2917,7 +2917,7 @@ He said: "I heard him saying: 'Whoever learns to shoot and then abandons it, is 
 
 Look at how the old men continued to practise shooting at their targets, keeping their aim accurate and their bodies agile. Islām expects everyone to have the ability to fight and makes it compulsory for young and old to acquire such a skill.
 
-Abū Najīh Al Salami (رضي الله عنه) reported:
+Abū Najīḥ Al-Sulamī (رضي الله عنه) reported:
 
 I heard the Messenger of Allāh (ﷺ) saying:
 
@@ -3405,7 +3405,7 @@ The stick proved useful where advice and exhortation failed. The Jews kept to th
 
 ## Skirmishes with the Quraish
 
-The Muslims were not deluded by the victory which they had achieved nor did they cease to observe their enemies and prepare for them. They were absolutely certain that Makkah would not fail to seek revenge for itself and would not yield to the catastrophe which had befallen it. To safeguard the status of his people and show their strength, Abū Sufyān thought it wise to strike Madīnah in a swift attack and withdraw immediately, having regained some of the Quraish's reputation for themselves and causing some losses to the Muslims. Moreover, Abū Sufyān had vowed that no water for washing after *janābah* (sexual impurity) would touch his head until he attacked Muhammad (ﷺ) and he had to fulfill his oath. He therefore led two hundred horsemen until they arrived under cover of night at the dwelling of the Banū al Naḍīr on the outskirts of Madīnah. He stayed with Salam ibn Mushkim, one of the Jewish leaders, and obtained information from him about the Muslims. Together they studied the best way of hurting them and escaping from their patrols. Abū Sufyān thought of a scheme which would satisfy his oath and achieve his aim. With his men he raided an area which was called Al 'Arid, burnt the fences of its date-palm groves, found one of the Anṣār and his ally in their plantation and killed them, and took off in the direction of Makkah.
+The Muslims were not deluded by the victory which they had achieved nor did they cease to observe their enemies and prepare for them. They were absolutely certain that Makkah would not fail to seek revenge for itself and would not yield to the catastrophe which had befallen it. To safeguard the status of his people and show their strength, Abū Sufyān thought it wise to strike Madīnah in a swift attack and withdraw immediately, having regained some of the Quraish's reputation for themselves and causing some losses to the Muslims. Moreover, Abū Sufyān had vowed that no water for washing after *janābah* (sexual impurity) would touch his head until he attacked Muhammad (ﷺ) and he had to fulfill his oath. He therefore led two hundred horsemen until they arrived under cover of night at the dwelling of the Banū al Naḍīr on the outskirts of Madīnah. He stayed with Sallām ibn Mishkam, one of the Jewish leaders, and obtained information from him about the Muslims. Together they studied the best way of hurting them and escaping from their patrols. Abū Sufyān thought of a scheme which would satisfy his oath and achieve his aim. With his men he raided an area which was called Al 'Arid, burnt the fences of its date-palm groves, found one of the Anṣār and his ally in their plantation and killed them, and took off in the direction of Makkah.
 
 The Muslims heard about what had happened and they pursued Abū Sufyān and his men. As soon as the idolaters noticed the posse chasing them they quickened their pace. When Abū Sufyān felt they were in danger, he began shedding the provisions which they had brought with them until he was able to put a good distance between himself and the Muslims. On the way the Muslims came across these provisions, most of which were Sawīq (parched barley or wheat meal) and so they called this skirmish the Sawīq Battle!
 
@@ -4319,7 +4319,7 @@ Khālid replied: "By Allāh (ﷻ), the path is clear. Surely the man is a Prophe
 
 In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on the authority of Anas (رضي الله عنه). In this Ḥadīth the Prophet (ﷺ) was reported as saying: "This is the place where so and so shall die." The narrator added that he put his hand on the ground in various places, and, continued, not one of them was found in any other position.
 
-¹³ Narrated by Ibn Hishām from Ibn Isḥāq, who said: "So I was told of the men from the Banū Salmah that they mentioned that Al-Ḥubāb..." This is a weak chain since the link between Ibn Isḥāq and the men from the Banū Salmah is not known. Al-Ḥākim narrated it with a complete chain, although there was someone in it whom I could not recognize, and Al Dhahabī said it was a rejected Ḥadīth. Also Al-Amawi narrated it on the authority of Ibn 'Abbās, as was reported in Al-Bidayah. However, there is Al-Kalbi in the chain and he was a liar.
+¹³ Narrated by Ibn Hishām from Ibn Isḥāq, who said: "So I was told of the men from the Banū Salimah that they mentioned that Al-Ḥubāb..." This is a weak chain since the link between Ibn Isḥāq and the men from the Banū Salimah is not known. Al-Ḥākim narrated it with a complete chain, although there was someone in it whom I could not recognize, and Al Dhahabī said it was a rejected Ḥadīth. Also Al-Umawī narrated it on the authority of Ibn 'Abbās, as was reported in Al-Bidayah. However, there is Al-Kalbi in the chain and he was a liar.
 
 ¹⁴ A sound Ḥadīth narrated by Muslim and Aḥmad on the authority of 'Umar Ibn-al Khaṭṭāb (رضي الله عنه). Part of it is in Bukhārī on the authority of Ibn 'Abbās.
 
@@ -4329,11 +4329,11 @@ In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on
 
 ¹⁷ Narrated by Ibn Isḥāq without a chain. Bukhārī reported on the authority of Abū Usayd: "On the day of Badr the Messenger of Allāh (ﷺ) said to us: 'When they attack you, shoot them with arrows and remain in your positions.'"
 
-¹⁸ In his Al-Mughāzī and also by Ibn Hishām without a chain. However, Al-Amawi also narrated with a full chain which is considered a good chain.
+¹⁸ In his Al-Mughāzī and also by Ibn Hishām without a chain. However, Al-Umawī also narrated with a full chain which is considered a good chain.
 
 ¹⁹ In his Musnad without the couplets of poetry. Similarly, it was narrated by Muslim and Al-Ḥākim, all three narrating it on the authority of Anas (رضي الله عنه). Muslim has a shorter version also from Al-Barra ibn 'Azib. As for the couplets, Ibn Kathīr ascribed them to Ibn Jarīr.
 
-²⁰ A good Ḥadīth, which is part of the above-mentioned Ḥadīth narrated by Al-Amawi. There is another Ḥadīth which supports it and it is that of Ḥakīm ibn Ḥizām. Al-Haythami says: "Al Ṭabarānī narrated it and its chain is good."
+²⁰ A good Ḥadīth, which is part of the above-mentioned Ḥadīth narrated by Al-Umawī. There is another Ḥadīth which supports it and it is that of Ḥakīm ibn Ḥizām. Al-Haythami says: "Al Ṭabarānī narrated it and its chain is good."
 
 ²¹ A sound Ḥadīth narrated by Bukhārī, Muslim and Aḥmad. Al-Ḥākim mistakenly included it in his Mustadrak (his compilation of sound Ḥadīth not mentioned by Bukhārī or Muslim). The statement "They were the sons of 'Afrā" was mentioned like this in one of Bukhārī's versions, whereas the others had "and the two men were Mu'ādh ibn 'Amr ibn-ul Jamūh and Mu'ādh ibn 'Afrā." This was also one of Bukhārī's versions. Perhaps the first version mentioned the sons of 'Afrā by way of brevity. See also Fatḥ-al Bari.
 
@@ -4347,7 +4347,7 @@ In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on
 
 ²⁶ A weak Ḥadīth narrated by Ibn Hishām from Ibn Isḥāq, who said: "Some learned people informed me." Aḥmad also reported it by way of Ibrāhīm on the authority of 'Ā'ishah, who quoted the Prophet (ﷺ) as saying: "May Allāh (ﷻ) reward you with evil, from the people of a prophet (ﷺ). How evil was your dismissal (of him) and how strong was the disbelief and refutation." Narrators are trustworthy but there is the breach between Ibrāhīm, who is Al Nakhā'ī, and 'Ā'ishah.
 
-²⁷ A sound Ḥadīth narrated by Ibn Isḥāq from Ḥumayd from Anas (رضي الله عنه). Ḥumayd is known for his Tadlis (i.e. reporting from someone from whom he did not hear directly). However, whenever he reported from Anas (رضي الله عنه), then there was Thābit Al-Banānī in between, and he was a trustworthy source of Bukhārī and Muslim. Aḥmad narrated it also from various sources from Ḥumayd, and Ibn Kathīr said it was according to the criteria of Bukhārī and Muslim. As for 'Ā'ishah's rejection of this Ḥadīth, it is rejected by the scholars, who explain that logic is on the side of those who narrates this Ḥadīth. See Al-Bidayah of Ibn Kathīr and Al-Fatḥ of Ibn Hajr. In my opinion there is no contradiction between their narration and hers. This has been explained in Aḥkam al-Janā'iz wa Bida'uha (forthcoming).
+²⁷ A sound Ḥadīth narrated by Ibn Isḥāq from Ḥumayd from Anas (رضي الله عنه). Ḥumayd is known for his Tadlis (i.e. reporting from someone from whom he did not hear directly). However, whenever he reported from Anas (رضي الله عنه), then there was Thābit Al-Bunānī in between, and he was a trustworthy source of Bukhārī and Muslim. Aḥmad narrated it also from various sources from Ḥumayd, and Ibn Kathīr said it was according to the criteria of Bukhārī and Muslim. As for 'Ā'ishah's rejection of this Ḥadīth, it is rejected by the scholars, who explain that logic is on the side of those who narrates this Ḥadīth. See Al-Bidayah of Ibn Kathīr and Al-Fatḥ of Ibn Hajr. In my opinion there is no contradiction between their narration and hers. This has been explained in Aḥkam al-Janā'iz wa Bida'uha (forthcoming).
 
 ²⁸ 'Ā'ishah rejected this Ḥadīth, using as an argument the Qur'ānic āyah (verse): "You cannot reach those who are in the graves" (Qur'ān 35: 22). She said that the words used by the Prophet (ﷺ) were: "You have no more knowledge than they of what I say."
 
@@ -4397,7 +4397,7 @@ In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on
 
 ⁵¹ I have not encountered this Ḥadīth.
 
-⁵² Narrated by Ibn Hishām from Ibn Isḥāq, who said: "It was told to me by Abū Isḥāq ibn Yasar, who narrated from some elders from the Banū Salmah." This chain is good (ḥasan) if the elders are Ṣaḥābah, otherwise it is mursal. Part of it is in the Musnad of Aḥmad on the authority of Abū Qatādah with the addition: "They were all killed at Uḥud: he, his brother's son and a slave of theirs. The Prophet (ﷺ) passed by his dead body and said: 'It is as though I am seeing you walking with your leg healed in paradise."
+⁵² Narrated by Ibn Hishām from Ibn Isḥāq, who said: "It was told to me by Abū Isḥāq ibn Yasar, who narrated from some elders from the Banū Salimah." This chain is good (ḥasan) if the elders are Ṣaḥābah, otherwise it is mursal. Part of it is in the Musnad of Aḥmad on the authority of Abū Qatādah with the addition: "They were all killed at Uḥud: he, his brother's son and a slave of theirs. The Prophet (ﷺ) passed by his dead body and said: 'It is as though I am seeing you walking with your leg healed in paradise."
 
 ⁵³ The correct name is Nu'mān ibn Mālik. This Ḥadīth is mursal.
 
@@ -4461,7 +4461,7 @@ In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on
 
 ⁸³ A sound Ḥadīth narrated by Bukhārī.
 
-⁸⁴ Very weak in this form. It is narrated by Ibn Jarīr in his History by way of Kathīr ibn 'Abdullāh ibn 'Amr ibn 'Awf al-Mazni from his father and from his grandfather. This Kathīr was rejected, and Al Shāfi'i and Abū Dāwūd said that he was a cornerstone of lies. Ibn Kathīr said it was a strange Ḥadīth. However, the story of the rock is to be found in Bukhārī in an abridged form on the authority of Al-Bara, and in Aḥmad's book fully by the same authority. The latter's isnād is good (ḥasan) as Ibn Ḥajar says in Fatḥ-al Bari. It is therefore better to use this version instead of Kathīr's.
+⁸⁴ Very weak in this form. It is narrated by Ibn Jarīr in his History by way of Kathīr ibn 'Abdullāh ibn 'Amr ibn 'Awf al-Muzanī from his father and from his grandfather. This Kathīr was rejected, and Al Shāfi'i and Abū Dāwūd said that he was a cornerstone of lies. Ibn Kathīr said it was a strange Ḥadīth. However, the story of the rock is to be found in Bukhārī in an abridged form on the authority of Al-Bara, and in Aḥmad's book fully by the same authority. The latter's isnād is good (ḥasan) as Ibn Ḥajar says in Fatḥ-al Bari. It is therefore better to use this version instead of Kathīr's.
 
 ⁸⁵ A sound Ḥadīth narrated by the two Sheikhs and others on the authority of 'Alī. Al-Miqrīzi "It is sound through various chains from him."
 
@@ -4491,7 +4491,7 @@ In the previous footnote, mentioned is made of a Ḥadīth narrated by Muslim on
 
 ⁹⁸ A sound Ḥadīth narrated by Ibn Isḥāq from whom Ibn Hishām took it on the authority of Alqamah ibn Waqqās as mursal. However, Bukhārī and Muslim also narrated it from Abū Sa'id al-Khudrī without the phrase "from above the seven heavens." Thus this portion is weak.
 
-⁹⁹ A weak Ḥadīth narrated by Al Khālid in "The History of Baghdad". He said it was a very strange Ḥadīth.
+⁹⁹ A weak Ḥadīth narrated by Al-Khaṭīb in "The History of Baghdad". He said it was a very strange Ḥadīth.
 
 ¹⁰⁰ A sound Ḥadīth narrated by Bukhārī on the authority of Al Bara ibn Azib.
 
@@ -4786,7 +4786,7 @@ He replied: "With the blessings of Allāh (ﷻ).³⁴
 
 Ṣafīyah, the daughter of Ḥuyayy ibn Akhtab, the Jewish chief, was among the women captured at Khaybar. She fell into the hands of one of the Ṣaḥābah as spoils of war. However, the Prophet (ﷺ) took her back then freed her and married her, making her dowry her freedom.³⁵
 
-When the prophet (ﷺ) had gained total control, the wife of Salām ibn Mishkam offered him poisoned roasted sheep. She put a large amount of poison in the leg since she knew that the Prophet (ﷺ) had a special liking for that joint.
+When the prophet (ﷺ) had gained total control, the wife of Sallām ibn Mishkam offered him poisoned roasted sheep. She put a large amount of poison in the leg since she knew that the Prophet (ﷺ) had a special liking for that joint.
 
 He took a bite from it and then threw it aside, saying: "This bone is telling me that it is poisoned."
 
@@ -5589,7 +5589,7 @@ Ka'b ibn Mālik (رضي الله عنه) came and offered *salām*. The Prophet 
 
 The Prophet (ﷺ) said: "As for him, he has spoken the truth. So stand up, until Allāh (ﷻ) decides about you," and I stood up.
 
-Some men from the Banū Salmah flew into a rage, and followed me with a scolding. They said: "By Allāh (ﷻ), we do not know of you having committed a sin before this, and yet you were unable to offer an excuse to the Prophet similar to the excuse of the others who remained behind. It would have been enough to cover your sin if the Prophet (ﷺ) had prayed to Allāh (ﷻ) for your forgiveness." They continued to scold me so much that I wanted to go back and contradict myself. Then I asked if anyone else had done the same as I, and they replied that there were two more men who have spoken as I had spoken, and had been given the same answer as I had. I asked who they were and they said that they were Murārah ibn al Rabī' al-'Āmirī and Hilāl ibn Umayyah al-Wāqifī. The two names mentioned were men who had taken part in Badr. In them I had a good example. So I continued on my way."
+Some men from the Banū Salimah flew into a rage, and followed me with a scolding. They said: "By Allāh (ﷻ), we do not know of you having committed a sin before this, and yet you were unable to offer an excuse to the Prophet similar to the excuse of the others who remained behind. It would have been enough to cover your sin if the Prophet (ﷺ) had prayed to Allāh (ﷻ) for your forgiveness." They continued to scold me so much that I wanted to go back and contradict myself. Then I asked if anyone else had done the same as I, and they replied that there were two more men who have spoken as I had spoken, and had been given the same answer as I had. I asked who they were and they said that they were Murārah ibn al Rabī' al-'Āmirī and Hilāl ibn Umayyah al-Wāqifī. The two names mentioned were men who had taken part in Badr. In them I had a good example. So I continued on my way."
 
 "The Prophet (ﷺ) forbade the Muslims to speak to us three from among all those who had remained behind. So they kept away from us, and for me the earth changed so much that I could not recognize it again! We continued like that for fifty nights. My two companions felt dejected and remained at home, weeping; However, I who was the youngest and strongest of the three, used to go out and observe the prayers with the Muslims and walk about the markets, though no-one would speak to me. I would come to the Prophet (ﷺ) and say *salām* to him while he was in his assembly after prayers, and I would say to myself: "Did he move his lips in reply to me or not? Then I would pray near him and steal glances at him. When I turned to my prayer he would turn to me, and when I turned towards him he would turn away from me."
 

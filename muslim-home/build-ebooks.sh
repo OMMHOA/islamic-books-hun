@@ -44,7 +44,7 @@ EOF
 cat > "$TOOLS/meta.yaml" <<'EOF'
 title: "A muszlim otthon"
 subtitle: "Negyven tanács"
-author: "Sejk Muhammad Szálih al-Munaddzsid"
+author: "Sejk Muhammed Szálih al-Muneddzsid"
 lang: hu
 rights: "Magyar fordítás az angol kiadás (The Muslim Home – 40 recommendations) alapján. Az arab eredeti címe: أربعون نصيحة لإصلاح البيوت. A Korán-idézetek a Korán magyar fordítását (MME) követik."
 EOF

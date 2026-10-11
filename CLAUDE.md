@@ -108,10 +108,10 @@ the Arabic too. Extra honorific signs: (عليها السلام) for Maryam, (ر
   gondolatjel, unspaced in ranges; no em dashes.
 - **Allah** wherever the Arabic has الله — also from pagans, Jews and Christians (oaths «والله» →
   „Allahra (ﷻ)”); *isten/Isten* only for إله.
-- The Prophet is **Mohamed** (Mohamedet, Mohameddel…); everyone else named Muhammad keeps
-  *Muhammad* (Muhammad al-Ghazáli, Muhammad Násziruddín al-Albáni, ḥadīth narrators), as does
-  the shahāda (*Muhammadan raszúlu-llah*). **Mekka**, **Medina** (leave the word *mekkora*
-  alone).
+- The Prophet is **Mohamed** (Mohamedet, Mohameddel…); everyone else named Muhammad is
+  *Muhammed* by the vowel rule (Muhammed al-Ghazáli, Muhammed Násziruddín al-Albáni, ḥadīth
+  narrators), as is the shahāda (*Muhammeden raszúlu-llah*). **Mekka**, **Medina** (leave the
+  word *mekkora* alone).
 - Render the author's word even when the Hungarian has a Christian ring: صلب → **keresztre feszít**
   (user decision 2026-09-28; crucifixion predates Jesus). This is not the *menny* case below, where
   the Arabic has neutral words (السماء, الجنة) that *menny* doesn't render.
@@ -120,28 +120,42 @@ the Arabic too. Extra honorific signs: (عليها السلام) for Maryam, (ر
   (The unrelated *mennyi, mennyire, mennydörgés, mennykő, mennyezet* are fine.)
 - Ḥadīth grades: ṣaḥīḥ/"sound"/"authentic" → **hiteles** (al-Albānī's labels: `Hiteles
   (szahíh):`); ḥasan → **jó**; ḍaʿīf → **gyenge**. *ép* is NOT a grade (it means "intact").
-- Terms: Korán, hadísz, umma, tauhid, **dzsáhilijja** (not italic; "dzsáhilijja kori"), **ája /
+- Terms: Korán, hadísz, umma, teuhid, **dzsáhilijja** (not italic; "dzsáhilijja kori"), **ája /
   áják** (singular after quantifiers: „néhány ája”), **dáwa**, **szahába** (pl. szahábák),
-  **azán**, **ima** (ṣalāh), **zakát**, **rakát**, **haddzs**, **umra**, **müezzin**, **könyök**
-  (dhirāʿ), **anszár(ok)**, **muhádzsir(ok)**; ḥadīth-science terms by the name rule (szahíh,
-  haszan, gharíb, murszal, mudal, isznád, tadlísz…).
+  **azán**, **ima** (ṣalāh), **zekát**, **rakát**, **haddzs**, **umra**, **szelám**, **tefszír**,
+  **könyök** (dhirāʿ), **anszár(ok)**, **muhádzsir(ok)**; ḥadīth-science terms by the name rule
+  (szahíh, haszen, gharíb, murszel, mudal, isznád, tedlísz, mutevátir…). Words Hungarian
+  dictionaries have keep their Hungarian form (user decision 2026-10-11): Korán, kalifa,
+  **müezzin**, **dirham**, **fatva**; *ulema* is both the dictionary form and the rule's.
 - **Names** (user decisions 2026-09-25/28) — Hungarian transcription, no diacritics:
   - ā ī ū → á í ú, but a **word-final long vowel is short** (al-Bukhári, Músza, Iszra; the
     particle Banú excepted); ḥ ṭ ḍ ẓ ṣ → h t d z sz; sh→s, s→sz, th→sz, dh→z, j→dzs, y→j, w→v,
-    q→k, aw→au, ay→aj; **kh and gh stay** (Khálid, Ghatafán); ʿayn/hamza dropped (Szad, Kab);
-    final -ah → -a (Hamza); **al-** never assimilated (al-Zubajr); Abū → Abu, Banū → Banú.
-    Allah compounds keep *-llah* (Abdullah).
+    q→k; **kh and gh stay** (Khálid, Ghatafán); ʿayn/hamza dropped (Szad, Kab); final -ah → -a
+    (Hamza); **al-** never assimilated (al-Zubejr); Abū → Abu, Banū → Banú. Allah compounds keep
+    *-llah* (Abdullah).
+  - **Front-vowel rule** (user decision 2026-10-11): a short fatḥa is **e** (Abu Bekr, Zejneb,
+    szelám, sevvál, Muhammed), but stays **a** next to a heavy letter ص ض ط ظ ق خ غ ر, a throat
+    letter ح ع ء (hamza too, so word-initial a stays: Anesz, anszár, azán), the l of Allah
+    (Szubhánallah), and word-finally (Medina, Szelema, Hudejbia). Only the letter right before or
+    after counts (Tufejl, Szuhejb). Long ā stays á. Diphthongs: ay → ej/aj (Zubejr, Khajbar),
+    aw → eu/au (teuhid, Neufel; Auf, Huszrau), ww → evv/avv. The particles **al-, Abu, Banú**
+    don't change. Exception: „Szalla-Allahu Alejhi va **Szallam**” in the signs list (not
+    *Szellem*). The per-stem table (each stem with its Arabic) and the script are
+    `fiqh-us-seerah/review-wip/front-vowels/` in the commit that applied the rule.
   - Prophets get their **biblical names** (Ábrahám, Mózes, Izsák, József, Gábriel, Noé…; but
     **Iszmaíl**); other people with the same name follow the rule (**Ibn Iszhák**, Abu Músza,
     Abu Dávúd, Ibrahim).
-  - Known forms: Omár, Oszmán, Ali, Áisa, Khadídzsa, Fátima, Kába, Ibn Kathir, al-Tirmidhi,
-    Jathrib, Muád, Szulejmán, Huszrau; *a négus* (lowercase).
+  - Known forms: Omár, Oszmán, Ali, Áisa, Khadídzsa, Fátima, Kába, Ibn Kethir and Jethrib (th
+    kept, vowel rule applied), al-Tirmidhi, Muád, Szulejmán, Huszrau, Hadramaut; *a négus*
+    (lowercase).
   - Names the MME Qur'ān quotes use take MME's form book-wide (user decision 2026-10-04):
     **Bedr** (Bedrnél, bedri), **Tamúd**, **Zejd** (Zejdet, Zejdnek; every Zayd), **Hudejbia**
-    (Hudejbiánál, hudejbiai; MME also has „Hudajbijai” in 48:27 – unified to Hudejbia there too).
-  - Surahs „a Tauba szúra”; month names lowercase (ramadán, savvál, zul-kada); **a Banú
+    (Hudejbiánál, hudejbiai; MME also has „Hudajbijai” in 48:27 – unified to Hudejbia there too),
+    **Kurejs** (Kurejsnek, Kurejssel; 2026-10-11, although ر would keep the a), **Manát**.
+  - Surahs „a Teuba szúra”; month names lowercase (ramadán, sevvál, zul-kada, radzseb); **a Banú
     Iszráíl** for بنو إسرائيل (collective, singular verb — like „a Banú Kurajza”); book titles by
-    the rule (Szahíh al-Bukhári, Fath al-Bári).
-  - Endings follow the Hungarian form and its vowel harmony (Áisától, Kurajssal, Mózesnek).
+    the rule (Szahíh al-Bukhári, Feth al-Bári, al-Muszned).
+  - Endings follow the Hungarian form and its vowel harmony (Áisától, Kurejssel, Mózesnek,
+    Bekrrel, Zejnebet; a last vowel e makes the endings front: Musznedjében, Tefszírjében).
   - Glossary headwords use the same forms; where the text uses a Hungarian word (ima,
-    Paradicsom), the headword is the Arabic term (*Szaláh*, *Dzsanna*).
+    Paradicsom), the headword is the Arabic term (*Szaláh*, *Dzsenna*).

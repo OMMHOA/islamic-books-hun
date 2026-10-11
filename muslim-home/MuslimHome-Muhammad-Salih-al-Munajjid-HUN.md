@@ -1,6 +1,6 @@
 # A muszlim otthon – negyven tanács
 
-**Muhammad Szálih al-Munaddzsid**
+**Muhammed Szálih al-Muneddzsid**
 
 *Magyar fordítás az angol kiadás (The Muslim Home – 40 recommendations) alapján, az arab eredetivel (أربعون نصيحة لإصلاح البيوت – Negyven tanács az otthonok megjobbításához) egybevetve; ahol a kettő eltér, a fordítás az arab eredetit követi. A Korán-idézetek a Korán magyar fordítását (MME) követik.*
 
@@ -16,7 +16,7 @@ Minden dicséret Allahot illeti; Őt dicsérjük, Tőle kérünk segítséget é
 
 Allah (ﷻ) mondja: (És Allah a házaitokat nyugalom helyévé tette számotokra…) (Korán 16: 80)
 
-Ibn Kathir (رحمه الله) azt mondta: „Itt Allah (ﷻ) teljes áldását említi, amellyel szolgáit elhalmozta: otthonokat adott nekik, amelyek nyugalmas lakhelyül szolgálnak, ahová mint menedékbe húzódhatnak vissza, amely eltakarja őket, és mindenféle haszonnal jár számukra.”
+Ibn Kethir (رحمه الله) azt mondta: „Itt Allah (ﷻ) teljes áldását említi, amellyel szolgáit elhalmozta: otthonokat adott nekik, amelyek nyugalmas lakhelyül szolgálnak, ahová mint menedékbe húzódhatnak vissza, amely eltakarja őket, és mindenféle haszonnal jár számukra.”
 
 Mit jelent az otthon mindannyiunk számára? Nem az a hely, ahol az ember eszik, ahol meghitt együttlétben van a feleségével, ahol alszik és pihen? Nem az a hely, ahol egyedül lehet, és ahol együtt lehet a feleségével és a gyermekeivel?
 
@@ -66,11 +66,11 @@ A ház urának jóravaló feleséget kell választania, a következő feltétele
 
 „Az evilág egésze élvezet, és az evilág legjobb élvezete a jóravaló asszony.” (Muszlim jegyezte le, 1468.)
 
-„Legyen mindegyikőtöknek hálás szíve, Allahra emlékező nyelve és hívő felesége, aki segíti őt a túlvilág dolgaiban.” (Ahmad [5/282], al-Tirmidhi és Ibn Mádzsa jegyezte le Szaubántól; Szahíh al-Dzsámi, 5231.)
+„Legyen mindegyikőtöknek hálás szíve, Allahra emlékező nyelve és hívő felesége, aki segíti őt a túlvilág dolgaiban.” (Ahmed [5/282], al-Tirmidhi és Ibn Mádzsa jegyezte le Szeubántól; Szahíh al-Dzsámi, 5231.)
 
-Egy másik változat szerint: „…és jóravaló feleség, aki segít neked evilági és vallási dolgaidban – ez a legjobb, amit az emberek kincsként gyűjthetnek.” (Al-Bajhaki jegyezte le; Szahíh al-Dzsámi, 4285.)
+Egy másik változat szerint: „…és jóravaló feleség, aki segít neked evilági és vallási dolgaidban – ez a legjobb, amit az emberek kincsként gyűjthetnek.” (Al-Bejhaki jegyezte le; Szahíh al-Dzsámi, 4285.)
 
-„Szerető és termékeny nőt vegyetek feleségül, mert a Feltámadás Napján a többi próféta előtt büszke leszek arra, hogy ilyen sokan vagytok.” (Ahmad jegyezte le; hiteles: Irva al-Ghalíl, 6/195.)
+„Szerető és termékeny nőt vegyetek feleségül, mert a Feltámadás Napján a többi próféta előtt büszke leszek arra, hogy ilyen sokan vagytok.” (Ahmed jegyezte le; hiteles: Irva al-Ghalíl, 6/195.)
 
 „Szüzeket vegyetek feleségül, mert méhük termékenyebb, szájuk édesebb, és kevesebbel is beérik.” Egy másik elbeszélés szerint: „…és kevésbé álnokok.” (Ibn Mádzsa jegyezte le; al-Szilszila al-Szahíha, 623.)
 
@@ -98,7 +98,7 @@ A feleség helyes útra vezetésének különféle eszközei vannak, például:
 
 - Gondot fordítani arra, hogy Allah iránti istenszolgálatát minden vonatkozásában helyesbítse – erről alább részletesen szólunk.
 - Törekedni a hitének (ímánjának) megerősítésére, például:
-  - buzdítani az éjszakai imára (kijám al-lajl);
+  - buzdítani az éjszakai imára (kijám al-lejl);
   - buzdítani a Korán olvasására;
   - buzdítani, hogy tanulja meg a zikreket (az Allahra emlékező fohászokat), és jegyezze meg, mikor és milyen alkalommal kell mondani őket;
   - buzdítani az adakozásra;
@@ -129,19 +129,19 @@ Allah (ﷻ) mondja: (És azt sugalltuk Mózesnek és a testvérének, hogy: „J
 
 Ibn Abbász (رضي الله عنهما) azt mondta: „Azt a parancsot kapták, hogy tegyék őket mecsetekké.”
 
-Ibn Kathir (رحمه الله) azt mondta: „Ez – és Allah tudja a legjobban – azért volt, mert igen súlyos lett a megpróbáltatás, amelyet a Fáraó és a népe részéről szenvedtek, és szorongatták őket; ezért azt a parancsot kapták, hogy sokat imádkozzanak, ahogyan Allah (ﷻ) mondja: (Ó ti, akik hisztek [Allah egyedülvalóságában és Mohamed Próféta küldetésében]! Leljetek segítségre a türelemben és az imádkozásban!…) (Korán 2: 153), és ahogyan a hadíszban áll, hogy Allah Küldötte (ﷺ), ha valami szorongatta, imádkozott.”
+Ibn Kethir (رحمه الله) azt mondta: „Ez – és Allah tudja a legjobban – azért volt, mert igen súlyos lett a megpróbáltatás, amelyet a Fáraó és a népe részéről szenvedtek, és szorongatták őket; ezért azt a parancsot kapták, hogy sokat imádkozzanak, ahogyan Allah (ﷻ) mondja: (Ó ti, akik hisztek [Allah egyedülvalóságában és Mohamed Próféta küldetésében]! Leljetek segítségre a türelemben és az imádkozásban!…) (Korán 2: 153), és ahogyan a hadíszban áll, hogy Allah Küldötte (ﷺ), ha valami szorongatta, imádkozott.”
 
 Ez megmagyarázza, milyen fontos az otthoni istenszolgálat, különösen olyankor, amikor a muszlimok gyenge helyzetben vannak, ahogyan egyes helyeken megesik, ahol a muszlimok nem imádkozhatnak nyíltan a hitetlenek szeme láttára. Ebben az összefüggésben gondolhatunk Mária (عليها السلام) mihrábjára (imafülkéjére), amely az istenszolgálatának helye volt, ahogyan Allah (ﷻ) mondja: (…Akárhányszor bement hozzá Zakariás a szentélybe, ellátást talált nála…) (Korán 3: 37)
 
-A szahábák (رضي الله عنهم) buzgón imádkoztak otthon – a kötelező imákon kívül –, és van erről egy megindító történet. Mahmúd ibn al-Rabí al-Anszári elbeszélte, hogy Itbán ibn Málik (رضي الله عنه) – aki Allah Küldöttének (ﷺ) társai közül való volt, és azok közül az anszárok közül, akik részt vettek a bedri csatában – elment Allah Küldöttéhez (ﷺ), és azt mondta: „Romlik a látásom, és én vezetem a népemet az imában. Amikor esik az eső, a köztem és köztük lévő völgyet elönti a víz, és nem tudok eljutni a mecsetjükbe, hogy imában vezessem őket. Allah Küldötte, szeretném, ha eljönnél, és imádkoznál a házamban, hogy imahellyé tehessem.” Allah Küldötte (ﷺ) azt mondta: „Megteszem, ha Allah is úgy akarja.” Itbán (رضي الله عنه) mondta: „Másnap, amikor a nap már magasan járt, eljött Allah Küldötte (ﷺ) és Abu Bakr. Allah Küldötte (ﷺ) engedélyt kért a belépésre, és én megadtam neki. Amikor belépett a házba, le sem ült, hanem azt kérdezte: »Hol szeretnéd, hogy imádkozzam a házadban?« Megmutattam neki a ház egyik sarkát, Allah Küldötte (ﷺ) pedig odaállt, takbírt mondott [Allahu akbar], mi sorba álltunk mögötte, ő pedig két rakátot imádkozott, és az ima végén szalámot mondott.” (Al-Bukhári jegyezte le; al-Fath, 1/519.)
+A szahábák (رضي الله عنهم) buzgón imádkoztak otthon – a kötelező imákon kívül –, és van erről egy megindító történet. Mahmúd ibn al-Rabí al-Anszári elbeszélte, hogy Itbán ibn Málik (رضي الله عنه) – aki Allah Küldöttének (ﷺ) társai közül való volt, és azok közül az anszárok közül, akik részt vettek a bedri csatában – elment Allah Küldöttéhez (ﷺ), és azt mondta: „Romlik a látásom, és én vezetem a népemet az imában. Amikor esik az eső, a köztem és köztük lévő völgyet elönti a víz, és nem tudok eljutni a mecsetjükbe, hogy imában vezessem őket. Allah Küldötte, szeretném, ha eljönnél, és imádkoznál a házamban, hogy imahellyé tehessem.” Allah Küldötte (ﷺ) azt mondta: „Megteszem, ha Allah is úgy akarja.” Itbán (رضي الله عنه) mondta: „Másnap, amikor a nap már magasan járt, eljött Allah Küldötte (ﷺ) és Abu Bekr. Allah Küldötte (ﷺ) engedélyt kért a belépésre, és én megadtam neki. Amikor belépett a házba, le sem ült, hanem azt kérdezte: »Hol szeretnéd, hogy imádkozzam a házadban?« Megmutattam neki a ház egyik sarkát, Allah Küldötte (ﷺ) pedig odaállt, tekbírt mondott [Allahu akbar], mi sorba álltunk mögötte, ő pedig két rakátot imádkozott, és az ima végén szelámot mondott.” (Al-Bukhári jegyezte le; al-Feth, 1/519.)
 
 ### (5) A háznép lelki nevelése
 
-Áisa (رضي الله عنها) azt mondta: „Allah Küldötte (ﷺ) éjszaka imádkozott (kijám), és amikor a vitrt (az éjszakát lezáró, páratlan számú rakátból álló imát) imádkozta, azt mondta: »Kelj fel, és imádkozd el a vitrt, Áisa!«” (Muszlim jegyezte le; Muszlim bi Sarh al-Navavi, 6/23.)
+Áisa (رضي الله عنها) azt mondta: „Allah Küldötte (ﷺ) éjszaka imádkozott (kijám), és amikor a vitrt (az éjszakát lezáró, páratlan számú rakátból álló imát) imádkozta, azt mondta: »Kelj fel, és imádkozd el a vitrt, Áisa!«” (Muszlim jegyezte le; Muszlim bi Sarh al-Nevevi, 6/23.)
 
-A Próféta (ﷺ) mondta: „Allah könyörüljön azon a férfin, aki éjjel felkel és imádkozik, aztán felkelti a feleségét, hogy imádkozzon, és ha az vonakodik, vizet fröcsköl az arcába.” (Ahmad és Abu Dávúd jegyezte le; Szahíh al-Dzsámi, 3488.)
+A Próféta (ﷺ) mondta: „Allah könyörüljön azon a férfin, aki éjjel felkel és imádkozik, aztán felkelti a feleségét, hogy imádkozzon, és ha az vonakodik, vizet fröcsköl az arcába.” (Ahmed és Abu Dávúd jegyezte le; Szahíh al-Dzsámi, 3488.)
 
-A háznép nőtagjainak buzdítása az adakozásra a hit gyarapításának másik eszköze. Ez igen fontos dolog, amelyre a Próféta (ﷺ) buzdított, amikor azt mondta: „Asszonyok! Adakozzatok, mert láttam, hogy ti vagytok a Pokol lakóinak többsége.” (Al-Bukhári jegyezte le; al-Fath, 1/405.)
+A háznép nőtagjainak buzdítása az adakozásra a hit gyarapításának másik eszköze. Ez igen fontos dolog, amelyre a Próféta (ﷺ) buzdított, amikor azt mondta: „Asszonyok! Adakozzatok, mert láttam, hogy ti vagytok a Pokol lakóinak többsége.” (Al-Bukhári jegyezte le; al-Feth, 1/405.)
 
 Az újszerű ötletek egyike, hogy otthon legyen egy persely a szegények és a rászorulók javára: ami a perselybe kerül, az az övék, mert ez az ő edényük a muszlim otthonban.
 
@@ -153,11 +153,11 @@ Például:
 
 **Fohászok a házba lépéskor**
 
-Muszlim a Szahíhjában közölte, hogy Allah Küldötte (ﷺ) mondta: „Ha az ember belép a házába, és megemlíti Allah (ﷻ) nevét, amikor belép és amikor eszik, a Sátán azt mondja: »Nincs itt számotokra sem szállás, sem vacsora.« Ha belép, és belépéskor nem említi Allah nevét, [a Sátán] azt mondja: »Megvan a szállásotok.« Ha pedig evéskor nem említi Allah nevét, [a Sátán azt mondja:] »Megvan a szállásotok és a vacsorátok.«” (Imám Ahmad jegyezte le, al-Musznad, 3/346; Muszlim, 3/1599.)
+Muszlim a Szahíhjában közölte, hogy Allah Küldötte (ﷺ) mondta: „Ha az ember belép a házába, és megemlíti Allah (ﷻ) nevét, amikor belép és amikor eszik, a Sátán azt mondja: »Nincs itt számotokra sem szállás, sem vacsora.« Ha belép, és belépéskor nem említi Allah nevét, [a Sátán] azt mondja: »Megvan a szállásotok.« Ha pedig evéskor nem említi Allah nevét, [a Sátán azt mondja:] »Megvan a szállásotok és a vacsorátok.«” (Imám Ahmed jegyezte le, al-Muszned, 3/346; Muszlim, 3/1599.)
 
 **Fohászok a házból való kilépéskor**
 
-Abu Dávúd (رحمه الله) a Szunanjában közölte, hogy Allah Küldötte (ﷺ) mondta: „Ha valaki kilép a házából, és azt mondja: »Biszmillah, tavakkaltu ala Allah, la haula va la kuvvata illa billah [Allah nevében; Allahra hagyatkozom; nincs erő és nincs hatalom, csak Allah által]«, azt mondják neki: »Elég ez neked: az igaz útra vezettettél, gondoskodtak rólad, és oltalmat nyertél.« A Sátán félreáll az útjából, egy másik sátán pedig azt mondja neki: »Mit tehetnél egy olyan emberrel, aki az igaz útra vezettetett, akiről gondoskodtak, és aki oltalmat nyert?«” (Abu Dávúd és al-Tirmidhi jegyezte le; Szahíh al-Dzsámi, 499.)
+Abu Dávúd (رحمه الله) a Szunenjében közölte, hogy Allah Küldötte (ﷺ) mondta: „Ha valaki kilép a házából, és azt mondja: »Biszmillah, tevekkeltu ala Allah, la haula va la kuvveta illa billah [Allah nevében; Allahra hagyatkozom; nincs erő és nincs hatalom, csak Allah által]«, azt mondják neki: »Elég ez neked: az igaz útra vezettettél, gondoskodtak rólad, és oltalmat nyertél.« A Sátán félreáll az útjából, egy másik sátán pedig azt mondja neki: »Mit tehetnél egy olyan emberrel, aki az igaz útra vezettetett, akiről gondoskodtak, és aki oltalmat nyert?«” (Abu Dávúd és al-Tirmidhi jegyezte le; Szahíh al-Dzsámi, 499.)
 
 **Szivák (miszvák, fogtisztító ágacska)**
 
@@ -169,15 +169,15 @@ Erről több elbeszélés is szól, például:
 
 Allah Küldötte (ﷺ) mondta: „Ne tegyétek házaitokat sírokká! A Sátán elmenekül abból a házból, amelyben a Bakara szúrát recitálják.” (Muszlim jegyezte le, 1/539.)
 
-Allah Küldötte (ﷺ) mondta: „Recitáljátok a Bakara szúrát a házaitokban, mert a Sátán nem lép be abba a házba, amelyben a Bakara szúrát recitálják.” (Al-Hákim jegyezte le az al-Musztadrakban, 1/561; Szahíh al-Dzsámi, 1170.)
+Allah Küldötte (ﷺ) mondta: „Recitáljátok a Bakara szúrát a házaitokban, mert a Sátán nem lép be abba a házba, amelyben a Bakara szúrát recitálják.” (Al-Hákim jegyezte le az al-Musztedrakban, 1/561; Szahíh al-Dzsámi, 1170.)
 
-E szúra utolsó két ájájának kiválóságáról és arról, milyen hatása van, ha valaki a házában recitálja őket, ő (ﷺ) azt mondta: „Allah kétezer évvel azelőtt, hogy megteremtette az egeket és a földet, megírt egy írást, amelyet a Trónus mellett őriznek, és abból két áját nyilatkoztatott ki, amelyekkel a Bakara szúrát lezárta. Ha három egymást követő éjszakán recitálják őket egy házban, a Sátán nem közelít hozzá.” (Imám Ahmad jegyezte le az al-Musznadban, 4/274, és mások; Szahíh al-Dzsámi, 1799.)
+E szúra utolsó két ájájának kiválóságáról és arról, milyen hatása van, ha valaki a házában recitálja őket, ő (ﷺ) azt mondta: „Allah kétezer évvel azelőtt, hogy megteremtette az egeket és a földet, megírt egy írást, amelyet a Trónus mellett őriznek, és abból két áját nyilatkoztatott ki, amelyekkel a Bakara szúrát lezárta. Ha három egymást követő éjszakán recitálják őket egy házban, a Sátán nem közelít hozzá.” (Imám Ahmed jegyezte le az al-Musznedben, 4/274, és mások; Szahíh al-Dzsámi, 1799.)
 
 ## Iszlám tudás az otthonban
 
 ### (8) A család tanítása
 
-Ez kötelesség, amelyet a családfőnek vállalnia kell, engedelmeskedve Allah parancsának: (Ó ti, akik hisztek [Allah egyedülvalóságában és Mohamed Próféta küldetésében]! Óvjátok magatokat és a családotokat a [Pokol-]tűztől, amelynek tüzelője az emberek és a [bálvány]kövek…) (Korán 66: 6). Ez az ája az alapelv a család tanítását és nevelését illetően, és abban, hogy a jóra szólítsuk, a rossztól pedig eltiltsuk őket. Az alábbiakban következik néhány a Korán-magyarázók (mufasszirok) e ájához fűzött megjegyzései közül, amennyiben a családfő kötelességeire vonatkoznak.
+Ez kötelesség, amelyet a családfőnek vállalnia kell, engedelmeskedve Allah parancsának: (Ó ti, akik hisztek [Allah egyedülvalóságában és Mohamed Próféta küldetésében]! Óvjátok magatokat és a családotokat a [Pokol-]tűztől, amelynek tüzelője az emberek és a [bálvány]kövek…) (Korán 66: 6). Ez az ája az alapelv a család tanítását és nevelését illetően, és abban, hogy a jóra szólítsuk, a rossztól pedig eltiltsuk őket. Az alábbiakban következik néhány a Korán-magyarázók (mufesszirek) e ájához fűzött megjegyzései közül, amennyiben a családfő kötelességeire vonatkoznak.
 
 Katáda (رحمه الله) azt mondta: „Parancsolja meg nekik, hogy engedelmeskedjenek Allahnak, tiltsa meg nekik, hogy engedetlenek legyenek Iránta, irányítsa őket Allah parancsai szerint, és segítse őket ebben.”
 
@@ -195,7 +195,7 @@ A férfi minden tevékenysége, munkája és egyéb elfoglaltsága közepette el
 
 Al-Bukhári (رحمه الله) a könyvének „Kijelölhető-e egy nap kizárólag a nőknek, hogy tudást szerezzenek?” című fejezetében idézte Abu Szaíd al-Khudri (رضي الله عنه) hadíszát: „Az asszonyok azt mondták a Prófétának (ﷺ): »A férfiak mindig kiszorítanak minket, és nem jutunk el hozzád, ezért jelölj ki számunkra egy napot, amikor eljöhetünk hozzád.« Ő pedig megígért nekik egy napot, amelyen találkozott velük, intette és utasította őket.”
 
-Ibn Hadzsar (رحمه الله) azt mondta: „Szahl ibn Abi Szálih elbeszélésében, az apjától, Abu Hurajrától, hasonló történet szerepel, amelyben [a Próféta (ﷺ)] azt mondta: »Találkozótok ennek és ennek a házában lesz«, és elment hozzájuk, és beszélt nekik.” (Fath al-Bári, 1/195.)
+Ibn Hadzsar (رحمه الله) azt mondta: „Szehl ibn Abi Szálih elbeszélésében, az apjától, Abu Hurajrától, hasonló történet szerepel, amelyben [a Próféta (ﷺ)] azt mondta: »Találkozótok ennek és ennek a házában lesz«, és elment hozzájuk, és beszélt nekik.” (Feth al-Bári, 1/195.)
 
 Ebből megtanuljuk, hogy a nőket a házaikban kell tanítani, és látjuk, mennyire vágytak a szahábák asszonyai a tanulásra. Ha a tanítás csak a férfiaknak szól, a nőknek nem, az súlyos mulasztás a dáiják és a családfők részéről.
 
@@ -203,11 +203,11 @@ Néhány olvasó megkérdezheti: tegyük fel, hogy kijelölünk egy napot, és t
 
 Erre válaszul, kedves olvasó testvérem, egy egyszerű tanmenetet javaslok a háznép általában, a nők pedig különösen történő tanítására:
 
-- A nagy tudós Ibn Szadi (رحمه الله) tafszírja (Korán-magyarázata), a *Tajszír al-Karím al-Rahmán fi Tafszír Kalám al-Mannán*, amely hét kötetből áll, részletes és könnyen érthető stílusú; egyes szúráit és szakaszait fel lehet olvasni vagy el lehet magyarázni.
-- A *Rijád al-Szálihín*, hadíszaihoz néhány megjegyzést, intelmet és a belőlük levonható tanulságokat fűzve; ehhez a *Nuzhat al-Muttakín* című könyv nyújt segítséget.
-- A *Huszn al-Uszva bima szabata an Allah va Raszúlihi fi al-Niszva*, a nagy tudós Sziddík Haszan Khán műve.
+- A nagy tudós Ibn Szadi (رحمه الله) tefszírje (Korán-magyarázata), a *Tejszír al-Karím al-Rahmán fi Tefszír Kelám al-Mennán*, amely hét kötetből áll, részletes és könnyen érthető stílusú; egyes szúráit és szakaszait fel lehet olvasni vagy el lehet magyarázni.
+- A *Rijád al-Szálihín*, hadíszaihoz néhány megjegyzést, intelmet és a belőlük levonható tanulságokat fűzve; ehhez a *Nuzhet al-Muttakín* című könyv nyújt segítséget.
+- A *Huszn al-Uszva bima szebeta an Allah va Raszúlihi fi al-Niszva*, a nagy tudós Sziddík Haszen Khán műve.
 
-Fontos az is, hogy a nőket megtanítsuk a fikh (az iszlám jog) egyes szabályaira, például a tisztaság (tahára), a menstruációs és a gyermekágyi vérzés, az ima, a zakát, a böjt és – ha módja van rá – a haddzs szabályaira; az ételre és italra, a ruházatra és az ékességekre vonatkozó szabályok egy részére, a természetes tisztaság szunnáira (szunan al-fitra), a mahramokra vonatkozó szabályokra (ki számít mahram rokonnak és ki nem), az énekre és a fényképezésre vonatkozó szabályokra és így tovább. Az ilyen ismeretek fontos forrásai közé tartoznak a tudósok fatvái (jogi véleményei), például Sejk Abd al-Azíz ibn Báz és Sejk Muhammad ibn Szálih al-Uszajmín (رحمهما الله) és más tudósok fatvagyűjteményei, akár írott fatvákról, akár kazettára rögzítettekről van szó.
+Fontos az is, hogy a nőket megtanítsuk a fikh (az iszlám jog) egyes szabályaira, például a tisztaság (tahára), a menstruációs és a gyermekágyi vérzés, az ima, a zekát, a böjt és – ha módja van rá – a haddzs szabályaira; az ételre és italra, a ruházatra és az ékességekre vonatkozó szabályok egy részére, a természetes tisztaság szunnáira (szunen al-fitra), a mahramokra vonatkozó szabályokra (ki számít mahram rokonnak és ki nem), az énekre és a fényképezésre vonatkozó szabályokra és így tovább. Az ilyen ismeretek fontos forrásai közé tartoznak a tudósok fatvái (jogi véleményei), például Sejk Abd al-Azíz ibn Báz és Sejk Muhammed ibn Szálih al-Uszejmín (رحمهما الله) és más tudósok fatvagyűjteményei, akár írott fatvákról, akár kazettára rögzítettekről van szó.
 
 A nők és a családtagok tanításának tananyagába az is bekerülhet, hogy emlékeztetjük őket a megbízható tudósok és tudáskeresők óráira és nyilvános előadásaira, amelyeken részt vehetnek, hogy a tanulás kiváló forrásainak sokféleségéhez jussanak. Ne feledkezzünk meg ebben a tekintetben a Korán Rádió (Izáat al-Kurán al-Karím) számos műsoráról sem, és irányítsuk rájuk a figyelmet. A tanítás eszközeinek biztosításához az is hozzátartozik, hogy emlékeztetjük a háznépet azokra a napokra, amelyeken az iszlám könyvvásárokat a nők látogathatják, és elvisszük őket oda, a saría feltételei szerint.
 
@@ -217,93 +217,93 @@ A család tanításában az is segít – abban is, hogy megértsék vallásukat
 
 A könyveket elhelyezheted a nappali egy tiszta és rendes sarkában, vagy egy hálószoba vagy vendégszoba alkalmas helyén; így a család bármely tagja könnyen olvashat folyamatosan.
 
-Ahhoz, hogy a könyvtárat jól építsd fel – és Allah szereti, ha a dolgokat jól végzik –, kézikönyveket is be kell szerezned, hogy a családtagok utánanézhessenek különféle kérdéseknek, a gyermekek pedig használhassák őket a tanulmányaikhoz. Különböző szintű könyveket is érdemes beszerezni, hogy idősek és fiatalok, férfiak és nők egyaránt használhassák őket. Legyenek könyveid arra is, hogy vendégeknek, a gyermekek barátainak és a család látogatóinak ajándékozd őket; de igyekezz olyan könyveket beszerezni, amelyek tetszetős kiállításúak, gondosan szerkesztettek, és amelyekben a hadíszok forrását és minősítését megfelelően feltüntették. Az otthoni könyvtár építéséhez kihasználhatod a könyvvásárokat, miután tanácsot kértél azoktól, akiknek tapasztalatuk van a könyvek terén. Egy módja annak, hogy a családtagok megtalálják a keresett könyvet, ha a könyveket téma szerint rendezed el: a tafszír könyvei az egyik polcon, a hadísz könyvei egy másikon, a fikh könyvei egy harmadikon, és így tovább. A családtagok egyike betűrendes mutatót vagy tárgymutatót is készíthet a könyvtárról, hogy könnyebb legyen a keresés.
+Ahhoz, hogy a könyvtárat jól építsd fel – és Allah szereti, ha a dolgokat jól végzik –, kézikönyveket is be kell szerezned, hogy a családtagok utánanézhessenek különféle kérdéseknek, a gyermekek pedig használhassák őket a tanulmányaikhoz. Különböző szintű könyveket is érdemes beszerezni, hogy idősek és fiatalok, férfiak és nők egyaránt használhassák őket. Legyenek könyveid arra is, hogy vendégeknek, a gyermekek barátainak és a család látogatóinak ajándékozd őket; de igyekezz olyan könyveket beszerezni, amelyek tetszetős kiállításúak, gondosan szerkesztettek, és amelyekben a hadíszok forrását és minősítését megfelelően feltüntették. Az otthoni könyvtár építéséhez kihasználhatod a könyvvásárokat, miután tanácsot kértél azoktól, akiknek tapasztalatuk van a könyvek terén. Egy módja annak, hogy a családtagok megtalálják a keresett könyvet, ha a könyveket téma szerint rendezed el: a tefszír könyvei az egyik polcon, a hadísz könyvei egy másikon, a fikh könyvei egy harmadikon, és így tovább. A családtagok egyike betűrendes mutatót vagy tárgymutatót is készíthet a könyvtárról, hogy könnyebb legyen a keresés.
 
 Sok buzgó ember kérdezheti, milyen iszlám könyvek kerüljenek az otthoni könyvtárba. Íme, kedves olvasó testvérem, néhány javaslat:
 
-**Tafszír:**
+**Tefszír:**
 
-- *Tafszír Ibn Kathir*
-- *Tafszír Ibn Szadi*
-- *Zubdat al-Tafszír* – al-Askar
-- *Badái al-Tafszír* – Ibn al-Kajjim
-- *Uszúl al-Tafszír* – Ibn Uszajmín
-- *Lamahát fi Ulúm al-Kurán* – Muhammad al-Szabbágh
+- *Tefszír Ibn Kethir*
+- *Tefszír Ibn Szadi*
+- *Zubdet al-Tefszír* – al-Askar
+- *Bedái al-Tefszír* – Ibn al-Kajjim
+- *Uszúl al-Tefszír* – Ibn Uszejmín
+- *Lemahát fi Ulúm al-Kurán* – Muhammed al-Szabbágh
 
 **Hadísz:**
 
 - *Szahíh al-Kalim al-Tajjib*
-- *Amal al-Muszlim fi al-Jaum va al-Lajla* (vagy: *al-Szahíh al-Musznad min Azkár al-Jaum va al-Lajla*)
-- *Rijád al-Szálihín* és kommentárja, a *Nuzhat al-Muttakín*
-- *Mukhtaszar Szahíh al-Bukhári* – al-Zubajdi
+- *Amal al-Muszlim fi al-Jeum va al-Lejla* (vagy: *al-Szahíh al-Muszned min Azkár al-Jeum va al-Lejla*)
+- *Rijád al-Szálihín* és kommentárja, a *Nuzhet al-Muttakín*
+- *Mukhtaszar Szahíh al-Bukhári* – al-Zubejdi
 - *Mukhtaszar Szahíh Muszlim* – al-Munziri és al-Albáni
 - *Szahíh al-Dzsámi al-Szaghír*
 - *Daíf al-Dzsámi al-Szaghír*
 - *Szahíh al-Targhíb va al-Tarhíb*
-- *Al-Szunna va Makánatuha fi al-Tasrí*
-- *Kaváid va Faváid min al-Arbaín al-Navavijja* – Názim Szultán
+- *Al-Szunna va Mekánetuha fi al-Tesrí*
+- *Kaváid va Feváid min al-Arbaín al-Nevevijja* – Názim Szultán
 
 **Akída (hitelvek):**
 
-- *Fath al-Madzsíd Sarh Kitáb al-Tauhíd* (al-Arnaút gondozásában)
-- *Alám al-Szunna al-Mansúra* – al-Hakami (gondozott kiadás)
+- *Feth al-Madzsíd Sarh Kitáb al-Teuhíd* (al-Arnaút gondozásában)
+- *Alám al-Szunna al-Mensúra* – al-Hakemi (gondozott kiadás)
 - *Sarh al-Akída al-Tahávijja*, al-Albáni gondozásában
 - Omár Szulejmán al-Askar akídáról szóló sorozata, 8 részben
 - *Asrát al-Száa* – Dr. Júszuf al-Vábil
 
 **Fikh:**
 
-- *Manár al-Szabíl* – Ibn Duvajján, al-Albáni *Irva al-Ghalíl* című művével együtt
+- *Menár al-Szebíl* – Ibn Duvejján, al-Albáni *Irva al-Ghalíl* című művével együtt
 - *Zád al-Maád*
 - *Al-Mughni* – Ibn Kudáma
 - *Fikh al-Szunna*
-- *Al-Mulakhkhasz al-Fikhi* – Szálih al-Fauzán
-- Különböző tudósok fatvagyűjteményei (Abd al-Azíz ibn Báz, Muhammad Szálih al-Uszajmín, Abdullah ibn Dzsibrín)
-- *Szifat Szalát al-Nabi* (ﷺ) – Sejk al-Albáni és Sejk Abd al-Azíz ibn Báz
-- *Mukhtaszar Ahkám al-Dzsanáiz* – al-Albáni
+- *Al-Mulakhkhasz al-Fikhi* – Szálih al-Feuzán
+- Különböző tudósok fatvagyűjteményei (Abd al-Azíz ibn Báz, Muhammed Szálih al-Uszejmín, Abdullah ibn Dzsibrín)
+- *Szifet Szalát al-Nabi* (ﷺ) – Sejk al-Albáni és Sejk Abd al-Azíz ibn Báz
+- *Mukhtaszar Ahkám al-Dzsenáiz* – al-Albáni
 
 **Jó erkölcs és a lélek megtisztítása:**
 
-- *Tahzíb Madáridzs al-Szálikín*
-- *Al-Faváid*
-- *Al-Dzsaváb al-Káfi*
-- *Tarík al-Hidzsratajn va Báb al-Szaádatajn*
+- *Tehzíb Medáridzs al-Szálikín*
+- *Al-Feváid*
+- *Al-Dzseváb al-Káfi*
+- *Tarík al-Hidzsratejn va Báb al-Szaádetejn*
 - *Al-Vábil al-Szajjib va Ráfi al-Kalim al-Tajjib* – Ibn al-Kajjim
-- *Latáif al-Maárif* – Ibn Radzsab
-- *Tahzíb Mauizat al-Muminín*
+- *Latáif al-Maárif* – Ibn Radzseb
+- *Tehzíb Meuizat al-Muminín*
 - *Ghiza al-Albáb*
 
 **Szíra és életrajzok:**
 
-- *Al-Bidája va al-Nihája* – Ibn Kathir
-- *Mukhtaszar al-Samáil al-Muhammadijja* – al-Tirmidhi, al-Albáni rövidítésében
+- *Al-Bidája va al-Nihája* – Ibn Kethir
+- *Mukhtaszar al-Semáil al-Muhammedijja* – al-Tirmidhi, al-Albáni rövidítésében
 - *Al-Rahík al-Makhtúm* – al-Mubárakpúri
 - *Al-Avászim min al-Kavászim* – Ibn al-Arabi, al-Khatíb és al-Isztanbúli gondozásában
-- *Al-Mudzstama al-Madani* (1–2. kötet) – Sejk Akram al-Umari
-- *Szijar Alám al-Nubala*
-- *Manhadzs Kitábat al-Táríkh al-Iszlámi* – Muhammad ibn Számil al-Szulami
+- *Al-Mudzstema al-Madani* (1–2. kötet) – Sejk Akram al-Umari
+- *Szijar Alám al-Nubela*
+- *Menhedzs Kitábet al-Táríkh al-Iszlámi* – Muhammed ibn Számil al-Szulami
 
 Számos jó könyv van más területeken is, például:
 
-- a megújító imám, Sejk Muhammad ibn Abd al-Vahháb könyvei
+- a megújító imám, Sejk Muhammed ibn Abd al-Vehháb könyvei
 - a nagy tudós, Sejk Abd al-Rahmán ibn Nászir al-Szadi könyvei
 - Sejk Omár ibn Szulejmán al-Askar könyvei
-- Sejk Muhammad ibn Ahmad ibn Iszmáíl al-Mukaddam könyvei
-- Muhammad Muhammad Huszajn professzor könyvei
-- Sejk Muhammad Dzsamíl Zínu könyvei
-- Huszajn al-Avájisa professzor könyvei a rakáikról (a szívet lágyító intelmekről)
-- *Al-Ímán* – Muhammad Naím Jászín
-- *Al-Vala va al-Bara* – Sejk Muhammad Szaíd al-Kahtáni
-- *Al-Inhiráfát al-Akadijja fi al-Karnajn al-Száni Asar va al-Szálisz Asar* – Ali ibn Bukhajt al-Zahráni
-- *Al-Muszlimún va Záhirat al-Hazíma al-Nafszijja* – Abdullah al-Sabána
+- Sejk Muhammed ibn Ahmed ibn Iszmáíl al-Mukaddem könyvei
+- Muhammed Muhammed Huszejn professzor könyvei
+- Sejk Muhammed Dzsemíl Zínu könyvei
+- Huszejn al-Avájisa professzor könyvei a rakáikról (a szívet lágyító intelmekről)
+- *Al-Ímán* – Muhammed Naím Jászín
+- *Al-Vala va al-Bara* – Sejk Muhammed Szaíd al-Kahtáni
+- *Al-Inhiráfát al-Akadijja fi al-Karnejn al-Száni Asar va al-Szálisz Asar* – Ali ibn Bukhajt al-Zehráni
+- *Al-Muszlimún va Záhirat al-Hezíma al-Nefszijja* – Abdullah al-Sebána
 - *Al-Mara bajn al-Fikh va al-Kánún* – Musztafa al-Szibái
 - *Al-Uszra al-Muszlima amám al-fídiju va al-tilifizjun* – Marván Kidzsik
-- *Al-Mara al-Muszlima: Idádátuha va Maszúlijjátuha* – Ahmad Aba Batín
-- *Maszúlijjat al-Ab al-Muszlim fi Tarbijat Valadihi* – Adnán Báhárisz
-- *Hidzsáb al-Muszlima* – Ahmad al-Bárázi
-- *Va Dzsáa Daur al-Madzsúsz* – Abdullah Muhammad al-Gharíb
-- Sejk Bakr Abu Zejd könyvei
-- Sejk Mashúr Haszan Szalmán tanulmányai
+- *Al-Mara al-Muszlima: Idádátuha va Maszúlijjátuha* – Ahmed Aba Batín
+- *Meszúlijjet al-Ab al-Muszlim fi Tarbijet Veledihi* – Adnán Báhárisz
+- *Hidzsáb al-Muszlima* – Ahmed al-Bárázi
+- *Va Dzsáa Deur al-Medzsúsz* – Abdullah Muhammed al-Gharíb
+- Sejk Bekr Abu Zejd könyvei
+- Sejk Meshúr Haszen Szelmán tanulmányai
 
 Sok más hasznos, jó könyv is létezik – amit említettünk, az csak példa, és korántsem teljes lista. Sok hasznos füzet és brosúra is van, de túl hosszú volna mindent felsorolni. A muszlim kérjen tanácsot, és válogasson alaposan megfontolva. Akinek Allah jót akar, annak megadja, hogy megértse a vallását.
 
@@ -315,18 +315,18 @@ Ennek egyik módja, hogy otthoni hangtárat alakítunk ki, amelyben tudósok, Ko
 
 Ha egyes imámok áhítatos Korán-recitálásának felvételeit hallgatjuk – például a taravíh imák alatt rögzítetteket –, az nagy hatással lesz a családtagokra: akár úgy, hogy a kinyilatkoztatás jelentését vési beléjük, akár úgy, hogy az ismételt hallgatás révén segít nekik a Korán megtanulásában. Védelmet is nyújt nekik, mert a Sátán zenéje és éneke helyett a Korán recitálását hallják; nem helyes ugyanis, hogy a fülekben és a szívekben a Könyörületes (al-Rahmán) szava a Sátán sípjával keveredjen.
 
-A fatvákat tartalmazó kazetták nagy hatással lehetnek a családtagokra, és segíthetik őket különféle szabályok megértésében, ami kihat a mindennapi életükre. Azt javasoljuk, hallgassanak olyan tudósok fatváit tartalmazó kazettákat, mint Sejk Abd al-Azíz ibn Báz, Sejk Muhammad Násziruddín al-Albáni, Sejk Muhammad al-Uszajmín, Sejk Szálih al-Fauzán és más, tudásban és vallásban megbízható tudósok.
+A fatvákat tartalmazó kazetták nagy hatással lehetnek a családtagokra, és segíthetik őket különféle szabályok megértésében, ami kihat a mindennapi életükre. Azt javasoljuk, hallgassanak olyan tudósok fatváit tartalmazó kazettákat, mint Sejk Abd al-Azíz ibn Báz, Sejk Muhammed Násziruddín al-Albáni, Sejk Muhammed al-Uszejmín, Sejk Szálih al-Feuzán és más, tudásban és vallásban megbízható tudósok.
 
-A muszlimoknak arra is ügyelniük kell, milyen forrásokból veszik a fatvákat, mert ez a vallás dolga – nézd meg tehát, kitől veszed a vallásodat. Attól kell venni, akiről ismert, hogy jóravaló, istenfélő és óvatos, aki hiteles hadíszokra támaszkodik, nem elfogult a jogi iskolája (mazhabja) iránt, a bizonyítékot követi, és a középutat tartja, se nem szigorúskodik, se nem engedékenykedik: ő az a hozzáértő, akit kérdezünk: (…A Könyörületes, kérdezd hát Őt, a mindent jól Ismerőt!) (Korán 25: 59)
+A muszlimoknak arra is ügyelniük kell, milyen forrásokból veszik a fatvákat, mert ez a vallás dolga – nézd meg tehát, kitől veszed a vallásodat. Attól kell venni, akiről ismert, hogy jóravaló, istenfélő és óvatos, aki hiteles hadíszokra támaszkodik, nem elfogult a jogi iskolája (mezhebje) iránt, a bizonyítékot követi, és a középutat tartja, se nem szigorúskodik, se nem engedékenykedik: ő az a hozzáértő, akit kérdezünk: (…A Könyörületes, kérdezd hát Őt, a mindent jól Ismerőt!) (Korán 25: 59)
 
 Az olyanok előadásainak hallgatása, akik az umma tudatosságának felkeltésére, a bizonyíték felállítására és a rossz elítélésére törekszenek, igen fontos a muszlim otthonban élő egyéniségek formálásához. Sok kazetta és előadás létezik, és a muszlimnak ismernie kell a helyes módszer ismertetőjegyeit, hogy meg tudja különböztetni a helyes úton járó előadókat a többiektől, és az ő kazettáikat keresse, amelyeket bizalommal hallgathat. Ezen ismertetőjegyek közé tartozik:
 
-- Az előadó higgyen a Megmenekült Csoport, az Ahl al-Szunna va al-Dzsamáa akídájában, ragaszkodjon a szunnához, és határozottan utasítsa el a bidát (a vallási újítást). Az előadó legyen mértéktartó, se nem szélsőséges, se nem engedékeny.
+- Az előadó higgyen a Megmenekült Csoport, az Ahl al-Szunna va al-Dzsemáa akídájában, ragaszkodjon a szunnához, és határozottan utasítsa el a bidát (a vallási újítást). Az előadó legyen mértéktartó, se nem szélsőséges, se nem engedékeny.
 - Előadásait hiteles hadíszokra alapozza, és óvakodjon a gyenge és a kitalált hadíszoktól.
 - Lásson bele az emberek helyzetébe és az umma valóságába, és minden problémára a megfelelő orvosságot kínálja, megadva az embereknek azt, amire szükségük van.
 - Mondja ki az igazságot, amennyire csak tudja, ne mondjon hamisat, és ne keresse az emberek tetszését Allah haragjának árán.
 
-Gyakran tapasztaljuk, hogy a gyermekeknek szóló kazetták nagy hatással vannak rájuk: akár úgy, hogy segítenek nekik megtanulni a Koránt egy fiatal recitáló hangját hallgatva, akár a nappal és az éjszaka különböző időpontjaiban mondandó fohászok (duák), az iszlám illemszabályok vagy hasznos üzenetet hordozó nasídok (hangszeres kíséret nélküli vallásos „énekek”) révén, és így tovább.
+Gyakran tapasztaljuk, hogy a gyermekeknek szóló kazetták nagy hatással vannak rájuk: akár úgy, hogy segítenek nekik megtanulni a Koránt egy fiatal recitáló hangját hallgatva, akár a nappal és az éjszaka különböző időpontjaiban mondandó fohászok (duák), az iszlám illemszabályok vagy hasznos üzenetet hordozó nesídek (hangszeres kíséret nélküli vallásos „énekek”) révén, és így tovább.
 
 Ha a kazettákat rendezetten, fiókokban tartjuk, könnyebb lesz megtalálni őket, és ez megóvja őket a sérüléstől, és attól is, hogy a kisgyermekek játsszanak velük. A jó kazettákat terjesszük is: miután meghallgattuk őket, ajándékozzuk vagy adjuk kölcsön másoknak. A konyhában elhelyezett magnó igen hasznos a háziasszony számára, a hálószobában lévő pedig segít abban, hogy az ember a nap utolsó perceiig jól hasznosítsa az idejét.
 
@@ -342,9 +342,9 @@ Ezek közé tartoznak:
 
 **Ima a házban**
 
-A férfiakra vonatkozóan a Próféta (ﷺ) mondta: „A legjobb ima a férfi imája a házában – az előírt imák kivételével.” (Al-Bukhári jegyezte le; al-Fath, 731. sz.)
+A férfiakra vonatkozóan a Próféta (ﷺ) mondta: „A legjobb ima a férfi imája a házában – az előírt imák kivételével.” (Al-Bukhári jegyezte le; al-Feth, 731. sz.)
 
-A kötelező imát tehát a mecsetben kell elvégezned, hacsak nincs mentséged. Allah Küldötte (ﷺ) azt is mondta: „A férfi önkéntes imája a házában több jutalmat hoz, mint az önkéntes imája mások helyén, ahogyan a kötelező imája az emberekkel együtt jobb, mint a kötelező imája egyedül.” (Ibn Abi Sajba jegyezte le; Szahíh al-Dzsámi, 2953.)
+A kötelező imát tehát a mecsetben kell elvégezned, hacsak nincs mentséged. Allah Küldötte (ﷺ) azt is mondta: „A férfi önkéntes imája a házában több jutalmat hoz, mint az önkéntes imája mások helyén, ahogyan a kötelező imája az emberekkel együtt jobb, mint a kötelező imája egyedül.” (Ibn Abi Sejba jegyezte le; Szahíh al-Dzsámi, 2953.)
 
 A nőkre vonatkozóan: minél beljebb van az otthonában az imahelye, annál jobb, mert a Próféta (ﷺ) mondta: „A nők legjobb imája [az, amelyet] házuk legbelső részében [végeznek].” (Al-Tabaráni jegyezte le; Szahíh al-Dzsámi, 3311.)
 
@@ -360,19 +360,19 @@ Szabad engedély nélkül belépni azokba a házakba, ahol senki sem lakik, ha a
 
 Ne szégyenkezzünk enni a barátok és a rokonok házában, valamint olyan házakban, amelyeknek a kulcsa nálunk van, ha a gazdáiknak nincs kifogása ellene. Allah (ﷻ) mondja: (Ne érezzen feszélyezettséget a vak, sem a sánta, sem a beteg [amiért mások házában eszik], és ti magatok se [érezzetek feszélyezettséget], amiért [velük együtt vagy külön] esztek a házaitokban (az azokban talált ételekből), vagy atyáitok házaiban, vagy anyáitok házaiban, vagy fivéreitek házaiban, vagy lánytestvéreitek házaiban, vagy apai nagybátyáitok házaiban, vagy apai nagynénjeitek házaiban, vagy anyai nagybátyáitok házaiban, vagy anyai nagynénjeitek házaiban, vagy [olyan házakban], amelyeknek a kulcsai a tulajdonotokban vannak, vagy a barátaitokéban. Nem terhel titeket vétség, ha együtt esztek, vagy külön…) (Korán 24: 61)
 
-Meg kell mondani a gyermekeknek és a szolgáknak, hogy ne rontsanak be engedély nélkül a szülők hálószobájába azokban az időszakokban, amikor az emberek alszanak, vagyis a hajnali (fadzsr) ima előtt, a déli pihenő idején és az esti (isa) ima után, nehogy valami illetlent lássanak. Ha más időpontokban véletlenül meglátnak valamit, az megbocsátható, mert ők „tavváfín” (akik a házban járnak-kelnek), és nehéz őket ebben megakadályozni. Allah (ﷻ) mondja: (Ó ti, akik hisztek [Allah egyedvalóságában és Mohamed Próféta küldetésében]! Kérjenek tőletek [a hozzátok való belépésre] engedélyt azok, akiket a jobbotok birtokol, és azok, akik nem érték el közületek a serdülőkort, három alkalommal: a hajnali imádkozás előtt, és amikor leveszitek a ruháitok a déli időszakban, és az esti imádkozás után! [Ez a] három [időszak, amelyben felfedődhet] a szemérmetek. Ezeken túl nem terhel vétség sem titeket, sem őket [ha engedély nélkül] egyikőtök bejár a másikhoz. Ekképpen teszi Allah világossá nektek a jeleket, és Allah Mindentudó, Bölcs.) (Korán 24: 58)
+Meg kell mondani a gyermekeknek és a szolgáknak, hogy ne rontsanak be engedély nélkül a szülők hálószobájába azokban az időszakokban, amikor az emberek alszanak, vagyis a hajnali (fedzsr) ima előtt, a déli pihenő idején és az esti (isa) ima után, nehogy valami illetlent lássanak. Ha más időpontokban véletlenül meglátnak valamit, az megbocsátható, mert ők „tavváfín” (akik a házban járnak-kelnek), és nehéz őket ebben megakadályozni. Allah (ﷻ) mondja: (Ó ti, akik hisztek [Allah egyedvalóságában és Mohamed Próféta küldetésében]! Kérjenek tőletek [a hozzátok való belépésre] engedélyt azok, akiket a jobbotok birtokol, és azok, akik nem érték el közületek a serdülőkort, három alkalommal: a hajnali imádkozás előtt, és amikor leveszitek a ruháitok a déli időszakban, és az esti imádkozás után! [Ez a] három [időszak, amelyben felfedődhet] a szemérmetek. Ezeken túl nem terhel vétség sem titeket, sem őket [ha engedély nélkül] egyikőtök bejár a másikhoz. Ekképpen teszi Allah világossá nektek a jeleket, és Allah Mindentudó, Bölcs.) (Korán 24: 58)
 
-Tilos mások házába benézni az engedélyük nélkül. Allah Küldötte (ﷺ) mondta: „Aki engedélyük nélkül benéz valakiknek a házába, annak szúrjátok ki a szemét, és ezért nem jár sem vérdíj (díja), sem megtorlás (kiszász).” (Ahmad jegyezte le, al-Musznad, 2/385; Szahíh al-Dzsámi, 6046.)
+Tilos mások házába benézni az engedélyük nélkül. Allah Küldötte (ﷺ) mondta: „Aki engedélyük nélkül benéz valakiknek a házába, annak szúrjátok ki a szemét, és ezért nem jár sem vérdíj (díja), sem megtorlás (kiszász).” (Ahmed jegyezte le, al-Muszned, 2/385; Szahíh al-Dzsámi, 6046.)
 
 A visszavonható válással (talák radzsi) elvált asszony a várakozási idő (idda) teljes tartama alatt ne hagyja el az otthonát, és ne is küldjék el onnan, és továbbra is el kell tartani. Allah (ﷻ) mondja: (Ó Próféta! Amikor [ti, muszlimok] elváltok az asszonyoktól, váljatok el tőlük várakozási idejükre (megtisztulásukat követően), és tartsátok számon a várakozási időt, és féljétek Allahot, az Uratokat! Ne űzzétek ki őket a házaikból és ők se menjenek ki [onnan], kivéve, ha ők nyilvánvaló erkölcstelenséget követtek el (paráználkodtak)! És ezek az Allah [által kijelölt] határok, és aki áthágja az Allah [által kijelölt] határokat, az igazságtalanságot követ el magával szemben. Nem tudhatod, hátha Allah [új] helyzetet hoz elő.) (Korán 65: 1)
 
-A férfi a saría által az adott esetben előírt érdekek szerint otthon vagy az otthonon kívül is kerülheti az engedetlen feleségét. Az otthonon belüli kerülés bizonyítéka az ája: (…kerüljétek őket az ágyakban…) (Korán 4: 34). Ami a nők otthonon kívüli kerülését illeti: így történt, amikor Allah Küldötte (ﷺ) kerülte a feleségeit; a szobáikban hagyta őket, ő maga pedig a feleségei házain kívül egy felső szobába (masraba) vonult vissza. (Al-Bukhári jegyezte le; Kitáb al-Talák, Báb fi al-Íla.)
+A férfi a saría által az adott esetben előírt érdekek szerint otthon vagy az otthonon kívül is kerülheti az engedetlen feleségét. Az otthonon belüli kerülés bizonyítéka az ája: (…kerüljétek őket az ágyakban…) (Korán 4: 34). Ami a nők otthonon kívüli kerülését illeti: így történt, amikor Allah Küldötte (ﷺ) kerülte a feleségeit; a szobáikban hagyta őket, ő maga pedig a feleségei házain kívül egy felső szobába (mesraba) vonult vissza. (Al-Bukhári jegyezte le; Kitáb al-Talák, Báb fi al-Íla.)
 
-Ne töltse az ember az éjszakát egyedül a házban. Ibn Omár (رضي الله عنه) elbeszélte, hogy a Próféta (ﷺ) megtiltotta az egyedüllétet, és azt mondta, hogy a férfi ne töltse egyedül az éjszakát, és ne utazzon egyedül. (Ahmad jegyezte le az al-Musznadban, 2/91.) Ez a tilalom az egyedüllét magányossága és hasonló dolgok miatt van, például ha ellenség vagy tolvaj támad rá, vagy megbetegszik: ha van vele társ, az elveszi az ellenség és a tolvaj kedvét, és segítségére siet, ha megbetegszik. (Lásd: al-Fath al-Rabbáni, 5/64.)
+Ne töltse az ember az éjszakát egyedül a házban. Ibn Omár (رضي الله عنه) elbeszélte, hogy a Próféta (ﷺ) megtiltotta az egyedüllétet, és azt mondta, hogy a férfi ne töltse egyedül az éjszakát, és ne utazzon egyedül. (Ahmed jegyezte le az al-Musznedben, 2/91.) Ez a tilalom az egyedüllét magányossága és hasonló dolgok miatt van, például ha ellenség vagy tolvaj támad rá, vagy megbetegszik: ha van vele társ, az elveszi az ellenség és a tolvaj kedvét, és segítségére siet, ha megbetegszik. (Lásd: al-Feth al-Rabbáni, 5/64.)
 
-Ne aludjunk olyan háztetőn, amelynek nincs mellvédje, nehogy leessünk. Allah Küldötte (ﷺ) mondta: „Aki olyan háztetőn tölti az éjszakát, amelynek nincs mellvédje, arról lekerül az oltalom.” (Abu Dávúd jegyezte le, al-Szunan, 5041. sz.; Szahíh al-Dzsámi, 6113; kommentárja az Aun al-Mabúdban, 13/384.) Ennek oka, hogy az alvó ember álmában átfordulhat, és ha a tetőn nincs mellvéd vagy korlát, amely visszatartaná, lezuhanhat és meghalhat; ilyenkor senkit sem vonnak felelősségre a haláláért, és így lekerül róla az oltalom. Vagy pedig a hanyagságával maga okozta, hogy Allah nem vigyázott rá és nem óvta meg, mert nem élt az óvintézkedésekkel.
+Ne aludjunk olyan háztetőn, amelynek nincs mellvédje, nehogy leessünk. Allah Küldötte (ﷺ) mondta: „Aki olyan háztetőn tölti az éjszakát, amelynek nincs mellvédje, arról lekerül az oltalom.” (Abu Dávúd jegyezte le, al-Szunen, 5041. sz.; Szahíh al-Dzsámi, 6113; kommentárja az Aun al-Mabúdban, 13/384.) Ennek oka, hogy az alvó ember álmában átfordulhat, és ha a tetőn nincs mellvéd vagy korlát, amely visszatartaná, lezuhanhat és meghalhat; ilyenkor senkit sem vonnak felelősségre a haláláért, és így lekerül róla az oltalom. Vagy pedig a hanyagságával maga okozta, hogy Allah nem vigyázott rá és nem óvta meg, mert nem élt az óvintézkedésekkel.
 
-A házi macskák nem teszik tisztátalanná (nadzsisz) az edényt, ha isznak belőle, sem az ételt, ha esznek belőle. Abdullah ibn Abi Katáda elbeszélte az apjától, hogy vizet készítettek ki neki a rituális mosakodáshoz (vudu), és jött egy macska, és lefetyelt a vízből. Ő fogta a vizet, és megmosakodott belőle, mire azt mondták: „Abu Katáda! A macska ivott belőle!” Ő azt mondta: „Hallottam, amint Allah Küldötte (ﷺ) azt mondta: »A macskák a háznéphez tartoznak; azok közül valók, akik a házaitokban járnak-kelnek.«” (Ahmad jegyezte le az al-Musznadban, 5/309; Szahíh al-Dzsámi, 3694.) Egy másik elbeszélés szerint ő (ﷺ) azt mondta: „Ők [a macskák] nem tisztátalanok (nadzsisz); azok közül valók, akik a házaitokban járnak-kelnek [al-tavváfín va al-tavváfát – a gyermekekre, a szolgákra stb. vonatkozik].” (Ahmad jegyezte le az al-Musznadban, 5/309; Szahíh al-Dzsámi, 2437.)
+A házi macskák nem teszik tisztátalanná (nedzsisz) az edényt, ha isznak belőle, sem az ételt, ha esznek belőle. Abdullah ibn Abi Katáda elbeszélte az apjától, hogy vizet készítettek ki neki a rituális mosakodáshoz (vudu), és jött egy macska, és lefetyelt a vízből. Ő fogta a vizet, és megmosakodott belőle, mire azt mondták: „Abu Katáda! A macska ivott belőle!” Ő azt mondta: „Hallottam, amint Allah Küldötte (ﷺ) azt mondta: »A macskák a háznéphez tartoznak; azok közül valók, akik a házaitokban járnak-kelnek.«” (Ahmed jegyezte le az al-Musznedben, 5/309; Szahíh al-Dzsámi, 3694.) Egy másik elbeszélés szerint ő (ﷺ) azt mondta: „Ők [a macskák] nem tisztátalanok (nedzsisz); azok közül valók, akik a házaitokban járnak-kelnek [al-tavváfín va al-tavváfát – a gyermekekre, a szolgákra stb. vonatkozik].” (Ahmed jegyezte le az al-Musznedben, 5/309; Szahíh al-Dzsámi, 2437.)
 
 ## Összejövetelek az otthonban
 
@@ -388,7 +388,7 @@ Ritka, hogy emberek egy fedél alatt éljenek veszekedés nélkül, de a kibék�
 
 ### (15) Ne engedjünk be a házba senkit, akinek a vallásosságával nem vagyunk elégedettek
 
-Allah Küldötte (ﷺ) mondta: „A rossz társ olyan, mint aki a fújtatót kezeli” (Abu Dávúd által közölt elbeszélésből, 4829). Az al-Bukhári által közölt elbeszélés szerint azt mondta: „…a fújtató kezelője vagy felgyújtja a házadat vagy a ruhádat, vagy rossz szagot érzel tőle.” (Al-Bukhári jegyezte le; al-Fath, 4/323.)
+Allah Küldötte (ﷺ) mondta: „A rossz társ olyan, mint aki a fújtatót kezeli” (Abu Dávúd által közölt elbeszélésből, 4829). Az al-Bukhári által közölt elbeszélés szerint azt mondta: „…a fújtató kezelője vagy felgyújtja a házadat vagy a ruhádat, vagy rossz szagot érzel tőle.” (Al-Bukhári jegyezte le; al-Feth, 4/323.)
 
 Bizony, Allahra (ﷻ), felgyújtja a házadat a romlás és a megrontás mindenféle fajtájával. Hányszor volt már a romlott és gyanús emberek belépése egy otthonba az oka a családtagok közötti ellenségeskedésnek vagy a férj és a feleség közötti meghasonlásnak! Allah megátkozza azt, aki a feleséget a férje ellen vagy a férjet a felesége ellen fordítja, vagy ellenségeskedést szít az apa és a gyermekei között. Így kerül be a varázslás (szihr) az emberek otthonaiba, ezért lopnak el néha dolgokat, és ezért romlik meg oly gyakran az erkölcs: mert olyasvalakit engednek be az otthonba, akinek a vallásossága semmit sem ér.
 
@@ -407,7 +407,7 @@ Muszlim nő! Ne bosszankodj, ha a férjed vagy az apád nem enged be a házba va
 - Mit hoznak haza a gyermekeid kintről?
 - Hová megy a lányod, és kivel?
 
-Egyes szülők nem tudják, hogy a gyermekeiknél rossz képek, pornográf filmek, sőt kábítószerek vannak. Némelyikük nem tudja, hogy a lánya a (női) szolgálóval megy a piacra, aztán megkéri a szolgálót, hogy várjon a sofőrrel, amíg ő elmegy a találkájára vagy „randevújára” valamelyik sátánnal (ördöggel), egy másik lány pedig elmegy egy rossz barátnőjéhez, hogy vele cigarettázzon és léhaságokat űzzön. Akik szabadjára engedik a gyermekeiket, maguk nem szabadulnak egy hatalmas Nap színe elől, és nem menekülhetnek az Ítélet Napjának borzalmai elől: „Allah minden pásztort kérdőre von arról, amit a gondjára bízott: megőrizte-e, vagy elveszni hagyta, egészen addig, hogy a férfit is kérdőre vonja a háza népéről.” (Jó [haszan] hadísz; al-Naszái, 292, és Ibn Hibbán jegyezte le Anasztól; Szahíh al-Dzsámi, 1775; al-Szilszila al-Szahíha, 1636.)
+Egyes szülők nem tudják, hogy a gyermekeiknél rossz képek, pornográf filmek, sőt kábítószerek vannak. Némelyikük nem tudja, hogy a lánya a (női) szolgálóval megy a piacra, aztán megkéri a szolgálót, hogy várjon a sofőrrel, amíg ő elmegy a találkájára vagy „randevújára” valamelyik sátánnal (ördöggel), egy másik lány pedig elmegy egy rossz barátnőjéhez, hogy vele cigarettázzon és léhaságokat űzzön. Akik szabadjára engedik a gyermekeiket, maguk nem szabadulnak egy hatalmas Nap színe elől, és nem menekülhetnek az Ítélet Napjának borzalmai elől: „Allah minden pásztort kérdőre von arról, amit a gondjára bízott: megőrizte-e, vagy elveszni hagyta, egészen addig, hogy a férfit is kérdőre vonja a háza népéről.” (Jó [haszen] hadísz; al-Neszái, 292, és Ibn Hibbán jegyezte le Anesztől; Szahíh al-Dzsámi, 1775; al-Szilszila al-Szahíha, 1636.)
 
 Néhány fontos szempont:
 
@@ -425,7 +425,7 @@ Ismerek olyanokat is, akik a másik végletbe esnek: egyáltalán nem hajlandók
 
 Ennek sok vonatkozása van, például:
 
-- A Korán és az iszlám történetek megtanítása. Nincs szebb annál, mint amikor az apa és a gyermekei összegyűlnek, hogy egyszerű magyarázattal olvassák a Koránt, és ő jutalmat ígér a szakaszok megtanulásáért. Kisgyermekek megtanulták már a Kahf szúrát abból, hogy az apjuk minden pénteken újra meg újra recitálta. Megtaníthatod a gyermekeknek az iszlám akída alapjait, például ahogyan abban a hadíszban áll, amelyben Allah Prófétája (ﷺ) azt mondta: „Tartsd meg Allah parancsait, és Ő megóv téged.” Megtaníthatod nekik a jó modort és az iszlám által előírt zikreket, például evéskor, alváskor, tüsszentéskor, köszönéskor és a belépésre való engedélykéréskor.
+- A Korán és az iszlám történetek megtanítása. Nincs szebb annál, mint amikor az apa és a gyermekei összegyűlnek, hogy egyszerű magyarázattal olvassák a Koránt, és ő jutalmat ígér a szakaszok megtanulásáért. Kisgyermekek megtanulták már a Kehf szúrát abból, hogy az apjuk minden pénteken újra meg újra recitálta. Megtaníthatod a gyermekeknek az iszlám akída alapjait, például ahogyan abban a hadíszban áll, amelyben Allah Prófétája (ﷺ) azt mondta: „Tartsd meg Allah parancsait, és Ő megóv téged.” Megtaníthatod nekik a jó modort és az iszlám által előírt zikreket, például evéskor, alváskor, tüsszentéskor, köszönéskor és a belépésre való engedélykéréskor.
 - Semmi sem vonzóbb és hatásosabb a gyermekek számára, mint ha iszlám történeteket mesélünk nekik, például Noé (عليه السلام) és az özönvíz történetét; Ábrahám (عليه السلام) történetét, aki összetörte a bálványokat, és a tűzbe vetették; Mózes (عليه السلام) történetét, aki megmenekült a Fáraótól, a Fáraó pedig vízbe fulladt; Jónás (عليه السلام) történetét a cethal gyomrában; röviden József (عليه السلام) történetét.
 
   Elmesélhetjük nekik Mohamed (ﷺ) életrajzát is, például küldetésének kezdetét és hidzsráját; néhány iszlám csatát, például a bedri csatát és az Árok-ütközetet; a Próféta (ﷺ) életének más történeteit, például annak a tevének a történetét, amelyet a gazdája nem etetett rendesen, hanem túldolgoztatással gyötört; jóravaló emberek történeteit, például Omár ibn al-Khattáb (رضي الله عنه) és a sátorban élő asszony meg éhes gyermekei történetét; az árok (al-Ukhdúd) népének történetét; a kert népének történetét a Nún (Kalam) szúrában, és a barlangba zárt három ember történetét. Sok jó történetet elmondhatsz röviden és egyszerűen, néhány megjegyzéssel. Ezek jobbak nekünk, és nincs szükségünk arra a sok történetre, amely ellentmond az akídának, vagy azokra a rémisztő mítoszokra, amelyek eltorzítják a gyermekek valóságképét, gyávává és félőssé teszik őket.
@@ -435,11 +435,11 @@ Ennek sok vonatkozása van, például:
 - A fiúk és a lányok ágyának, fekhelyének különválasztása. Ez is azok közé a dolgok közé tartozik, amelyek megkülönböztetik a vallásukhoz hűségeseket azoktól, akik nem törődnek vele.
 - Tréfálkozás és a szeretet kimutatása. Allah Küldötte (ﷺ) játszott a gyermekekkel, és megsimogatta a fejüket; kedvesen és szelíden szólt hozzájuk, a legkisebbnek adta az első gyümölcsöt, sőt néha a hátára is felültette őket.
 
-  Íme két példa arra, hogyan játszott ő (ﷺ) al-Haszannal és al-Huszajnnal (رضي الله عنهما):
+  Íme két példa arra, hogyan játszott ő (ﷺ) al-Haszennel és al-Huszejnnel (رضي الله عنهما):
 
-  Abu Hurajra (رضي الله عنه) azt mondta: „Allah Küldötte (ﷺ) kiöltötte a nyelvét Haszan ibn Alira, a gyermek pedig látta a nyelve pirosságát, megörült neki, és odaszaladt hozzá.” (Abu al-Sajkh jegyezte le az *Akhlák al-Nabi (ﷺ) va Ádábuhu* című művében; lásd al-Szilszila al-Szahíha, 70. sz.)
+  Abu Hurajra (رضي الله عنه) azt mondta: „Allah Küldötte (ﷺ) kiöltötte a nyelvét Haszen ibn Alira, a gyermek pedig látta a nyelve pirosságát, megörült neki, és odaszaladt hozzá.” (Abu al-Sejkh jegyezte le az *Akhlák al-Nabi (ﷺ) va Ádábuhu* című művében; lásd al-Szilszila al-Szahíha, 70. sz.)
 
-  Jala ibn Murra (رضي الله عنه) azt mondta: „Kimentünk a Prófétával (ﷺ), meghívtak minket enni, és láttuk Huszajnt, amint az utcán játszott. A Próféta (ﷺ) az emberek elé sietett, kitárt karokkal, a gyermek pedig ide-oda szaladgált; a Próféta (ﷺ) nevetett vele, míg el nem kapta, aztán egyik kezét a gyermek álla alá, a másikat a feje tetejére tette, és megcsókolta.” (Al-Bukhári jegyezte le az al-Adab al-Mufradban, 364. sz.; Szahíh Ibn Mádzsa, 1/29.)
+  Jala ibn Murra (رضي الله عنه) azt mondta: „Kimentünk a Prófétával (ﷺ), meghívtak minket enni, és láttuk Huszejnt, amint az utcán játszott. A Próféta (ﷺ) az emberek elé sietett, kitárt karokkal, a gyermek pedig ide-oda szaladgált; a Próféta (ﷺ) nevetett vele, míg el nem kapta, aztán egyik kezét a gyermek álla alá, a másikat a feje tetejére tette, és megcsókolta.” (Al-Bukhári jegyezte le az al-Adeb al-Mufradban, 364. sz.; Szahíh Ibn Mádzsa, 1/29.)
 
 ### (18) Szigorúan tartsuk be az étkezések és a lefekvés rendjét
 
@@ -488,29 +488,29 @@ Ez több dolgot is magában foglal, többek között:
 
 Ami az elsőt illeti, a tiltottság bizonyítéka az a hadísz, amelyben Allah Prófétája (ﷺ) azt mondta: „A Feltámadás Napján Allah előtt a legrosszabb emberek közé tartozik az a férfi, aki egyesül a feleségével, és a felesége egyesül vele, aztán kifecsegi a titkát.” (Muszlim jegyezte le, 4/157.) Az egymással való egyesülés azt jelenti, hogy a férfi a feleségéhez közeledik és közösül vele, ahogyan az ájában áll: (…miután egymással háltatok…) (Korán 4: 21).
 
-További bizonyíték Aszma bint Jazíd (رضي الله عنها) hadísza, aki elmondta, hogy Allah Küldöttével (ﷺ) volt, amikor férfiak és nők ültek nála, és ő (ﷺ) azt mondta: „Talán van férfi, aki elmondja, mit tesz a feleségével, és talán van nő, aki elbeszéli, mit tett a férjével.” Az emberek elhallgattak. Erre én [Aszma (رضي الله عنها)] azt mondtam: „De bizony, Allahra (ﷻ), Allah Küldötte, [a nők] megteszik, és [a férfiak] is megteszik!” Ő (ﷺ) azt mondta: „Ne tegyétek ezt, mert ez olyan, mintha egy hím sátán találkozna egy nőstény sátánnal az utcán, és közösülne vele, miközben az emberek nézik.” (Imám Ahmad jegyezte le, 6/457; al-Albáni is közli az *Ádáb al-Zifáf* című művében, 144. o.)
+További bizonyíték Aszma bint Jezíd (رضي الله عنها) hadísza, aki elmondta, hogy Allah Küldöttével (ﷺ) volt, amikor férfiak és nők ültek nála, és ő (ﷺ) azt mondta: „Talán van férfi, aki elmondja, mit tesz a feleségével, és talán van nő, aki elbeszéli, mit tett a férjével.” Az emberek elhallgattak. Erre én [Aszma (رضي الله عنها)] azt mondtam: „De bizony, Allahra (ﷻ), Allah Küldötte, [a nők] megteszik, és [a férfiak] is megteszik!” Ő (ﷺ) azt mondta: „Ne tegyétek ezt, mert ez olyan, mintha egy hím sátán találkozna egy nőstény sátánnal az utcán, és közösülne vele, miközben az emberek nézik.” (Imám Ahmed jegyezte le, 6/457; al-Albáni is közli az *Ádáb al-Zifáf* című művében, 144. o.)
 
 Abu Dávúd (رحمه الله) közlése szerint ő (ﷺ) azt mondta: „Vannak-e köztetek férfiak, akik, amikor a feleségükkel közösülnek, bezárják az ajtajukat, leeresztik a függönyüket, és Allah takarásába rejtőznek?” Azt mondták: „Igen.” Ő (ﷺ) azt mondta: „És aztán leülnek, és azt mondják: »Ezt és ezt tettem, ezt és ezt tettem«?” Hallgattak. Aztán ő (ﷺ) az asszonyok felé fordult, és azt mondta: „Van-e köztetek, aki beszél [a meghitt dolgokról]?” – és ők is hallgattak. Ekkor egy fiatal lány felemelkedett az egyik térdére, és kinyújtotta a nyakát, hogy Allah Küldötte (ﷺ) láthassa és hallhassa, és azt mondta: „Allah Küldötte, bizony a férfiak is beszélnek, és a nők is beszélnek.” Ő (ﷺ) azt mondta: „Tudjátok, mihez hasonló ez? Olyan, mint amikor egy nőstény sátán találkozik egy hím sátánnal az utcán, és közösül vele, miközben az emberek nézik.” (Abu Dávúd jegyezte le, 2/627; Szahíh al-Dzsámi, 7037.)
 
 Ami a második dolgot illeti, vagyis a házastársi veszekedések kiteregetését az otthonon kívül: ez sok esetben csak ront a helyzeten. Ha kívülállókat vonnak be egy házastársi viszályba, az rendszerint elmélyíti a szakadást, és odáig jut, hogy a házaspár csak közvetítőkön keresztül érintkezik, holott ők kellene, hogy minden ember közül a legközelebb álljanak egymáshoz. Ehhez nem szabad folyamodni, kivéve azokat az eseteket, amikor négyszemközt nem tudják megoldani a dolgot; ilyenkor az ája szerint kell eljárni: (…küldjetek (válasszatok ki) egy döntőbírót a férfi családjából és egy döntőbírót a nő családjából! Ha ők ketten (a döntőbírók) a [kapcsolat] javítását akarják, akkor Allah békét hoz közéjük…) (Korán 4: 35)
 
-Ami a harmadikat illeti, vagyis a család vagy valamely tagja megkárosítását – titkaik kiteregetésével –, ez nem megengedett, mert a Próféta (ﷺ) szavai vonatkoznak rá: „Ne legyen sem károkozás, sem viszonzott károkozás.” (Imám Ahmad jegyezte le, 1/313; al-Szilszila al-Szahíha, 250. sz.) Erre példa az, amit ennek az ájának a tafszírjában közöltek: (Allah példát állított azoknak, akik hitetlenek: Noé feleségét és Lót feleségét, akik szolgáim közül két jó szolgám alatt voltak (hozzájuk tartoztak feleségként), de mindketten elárulták őket…) (Korán 66: 10)
+Ami a harmadikat illeti, vagyis a család vagy valamely tagja megkárosítását – titkaik kiteregetésével –, ez nem megengedett, mert a Próféta (ﷺ) szavai vonatkoznak rá: „Ne legyen sem károkozás, sem viszonzott károkozás.” (Imám Ahmed jegyezte le, 1/313; al-Szilszila al-Szahíha, 250. sz.) Erre példa az, amit ennek az ájának a tefszírjében közöltek: (Allah példát állított azoknak, akik hitetlenek: Noé feleségét és Lót feleségét, akik szolgáim közül két jó szolgám alatt voltak (hozzájuk tartoztak feleségként), de mindketten elárulták őket…) (Korán 66: 10)
 
-Ibn Kathir (رحمه الله) ennek az ájának a tafszírjában a következőt közölte: „Noé felesége tudott a titkairól, és valahányszor valaki hitt benne, elárulta ezt Noé népe zsarnokainak. Lót felesége pedig, valahányszor Lót vendégül látott valakit, szólt a város népének, akik gonoszságokat műveltek” (Tafszír Ibn Kathir, 8/198), vagyis hogy jöjjenek, és tegyenek erkölcstelen dolgokat a vendégekkel.
+Ibn Kethir (رحمه الله) ennek az ájának a tefszírjében a következőt közölte: „Noé felesége tudott a titkairól, és valahányszor valaki hitt benne, elárulta ezt Noé népe zsarnokainak. Lót felesége pedig, valahányszor Lót vendégül látott valakit, szólt a város népének, akik gonoszságokat műveltek” (Tefszír Ibn Kethir, 8/198), vagyis hogy jöjjenek, és tegyenek erkölcstelen dolgokat a vendégekkel.
 
 ## Erkölcs az otthonban
 
 ### (21) A szelídség terjesztése az otthonban
 
-Áisa (رضي الله عنها) azt mondta: „Allah Küldötte (ﷺ) azt mondta: »Ha Allah (ﷻ) jót akar egy háznépnek, szelídséget visz közéjük.«” (Imám Ahmad jegyezte le az al-Musznadban, 6/71; Szahíh al-Dzsámi, 303.) Egy másik elbeszélés szerint ő (ﷺ) azt mondta: „Ha Allah szeret egy háznépet, szelídséget visz közéjük.” (Ibn Abi al-Dunja és mások jegyezték le; Szahíh al-Dzsámi, 1704. sz.) Más szóval: elkezdenek kedvesek lenni egymáshoz. Ez az otthoni boldogság elérésének egyik eszköze, mert a szelídség igen hasznos a házastársak között és a gyermekekkel, és olyan eredményeket hoz, amelyeket durvasággal nem lehet elérni, ahogyan a Próféta (ﷺ) mondta: „Allah szereti a szelídséget, és olyasmit ad érte jutalmul, amit nem ad a durvaságért, sem semmi másért.” (Muszlim jegyezte le, Kitáb al-Birr va al-Szila va al-Ádáb, 2593. sz.)
+Áisa (رضي الله عنها) azt mondta: „Allah Küldötte (ﷺ) azt mondta: »Ha Allah (ﷻ) jót akar egy háznépnek, szelídséget visz közéjük.«” (Imám Ahmed jegyezte le az al-Musznedben, 6/71; Szahíh al-Dzsámi, 303.) Egy másik elbeszélés szerint ő (ﷺ) azt mondta: „Ha Allah szeret egy háznépet, szelídséget visz közéjük.” (Ibn Abi al-Dunja és mások jegyezték le; Szahíh al-Dzsámi, 1704. sz.) Más szóval: elkezdenek kedvesek lenni egymáshoz. Ez az otthoni boldogság elérésének egyik eszköze, mert a szelídség igen hasznos a házastársak között és a gyermekekkel, és olyan eredményeket hoz, amelyeket durvasággal nem lehet elérni, ahogyan a Próféta (ﷺ) mondta: „Allah szereti a szelídséget, és olyasmit ad érte jutalmul, amit nem ad a durvaságért, sem semmi másért.” (Muszlim jegyezte le, Kitáb al-Birr va al-Szila va al-Ádáb, 2593. sz.)
 
 ### (22) Segíteni a háznépnek a házimunkában
 
 Sok férfi úgy gondolja, hogy a házimunka a méltóságán aluli, és némelyikük úgy véli, hogy aláásná a rangját és a tekintélyét, ha beállna a háznépe mellé a munkájukba.
 
-Allah Küldötte (ﷺ) azonban „maga varrta meg a ruháját, maga foltozta a saruját, és elvégzett minden más munkát, amelyet a férfiak az otthonukban végeznek”. (Imám Ahmad jegyezte le az al-Musznadban, 6/121; Szahíh al-Dzsámi, 4927.)
+Allah Küldötte (ﷺ) azonban „maga varrta meg a ruháját, maga foltozta a saruját, és elvégzett minden más munkát, amelyet a férfiak az otthonukban végeznek”. (Imám Ahmed jegyezte le az al-Musznedben, 6/121; Szahíh al-Dzsámi, 4927.)
 
-Ezt a felesége, Áisa (رضي الله عنها) mondta, amikor megkérdezték, mit szokott Allah Küldötte (ﷺ) csinálni a házában; válasza azt írta le, amit ő maga látott. Egy másik elbeszélés szerint azt mondta: „Olyan volt, mint bármely más ember: tisztította a ruháját, megfejte a juhát, és kiszolgálta önmagát.” (Imám Ahmad jegyezte le az al-Musznadban, 6/256; al-Szilszila al-Szahíha, 671.) Őt (رضي الله عنها) azt is megkérdezték, mit szokott Allah Küldötte (ﷺ) csinálni a házában, és azt mondta: „A háznépét szolgálta, aztán amikor eljött az ima ideje, elment imádkozni.” (Al-Bukhári jegyezte le; al-Fath, 2/162.)
+Ezt a felesége, Áisa (رضي الله عنها) mondta, amikor megkérdezték, mit szokott Allah Küldötte (ﷺ) csinálni a házában; válasza azt írta le, amit ő maga látott. Egy másik elbeszélés szerint azt mondta: „Olyan volt, mint bármely más ember: tisztította a ruháját, megfejte a juhát, és kiszolgálta önmagát.” (Imám Ahmed jegyezte le az al-Musznedben, 6/256; al-Szilszila al-Szahíha, 671.) Őt (رضي الله عنها) azt is megkérdezték, mit szokott Allah Küldötte (ﷺ) csinálni a házában, és azt mondta: „A háznépét szolgálta, aztán amikor eljött az ima ideje, elment imádkozni.” (Al-Bukhári jegyezte le; al-Feth, 2/162.)
 
 Ha mi is így tennénk manapság, három dolgot érnénk el:
 
@@ -522,19 +522,19 @@ Vannak férfiak, akik azonnal ételt követelnek a feleségüktől, amikor a faz
 
 ### (23) Szeretetteljes és tréfálkozó viselkedés a családtagokkal
 
-A feleség és a gyermekek iránti szeretet kimutatása azok közé a dolgok közé tartozik, amelyek a boldogság és a barátságosság légkörét teremtik meg az otthonban. Ezért tanácsolta Allah Küldötte (ﷺ) Dzsábirnak (رضي الله عنه), hogy szüzet vegyen feleségül, mondván: „Miért nem vettél el egy szüzet, hogy játszhass vele, és ő is játszhasson veled, megnevettethesd őt, és ő is megnevettethessen téged?” (A hadíszt al-Bukhári és Muszlim könyveinek több helyén közlik, például al-Bukhári, al-Fath, 9/121.) A Próféta (ﷺ) azt is mondta: „Minden, amiben nem említik Allah nevét, hiábavalóság és játék, négy dolog kivételével: ha a férfi a feleségével játszik…” (Al-Naszái jegyezte le az *Israt al-Nisza* című művében, 87. o.; a Szahíh al-Dzsámiban is szerepel.)
+A feleség és a gyermekek iránti szeretet kimutatása azok közé a dolgok közé tartozik, amelyek a boldogság és a barátságosság légkörét teremtik meg az otthonban. Ezért tanácsolta Allah Küldötte (ﷺ) Dzsábirnak (رضي الله عنه), hogy szüzet vegyen feleségül, mondván: „Miért nem vettél el egy szüzet, hogy játszhass vele, és ő is játszhasson veled, megnevettethesd őt, és ő is megnevettethessen téged?” (A hadíszt al-Bukhári és Muszlim könyveinek több helyén közlik, például al-Bukhári, al-Feth, 9/121.) A Próféta (ﷺ) azt is mondta: „Minden, amiben nem említik Allah nevét, hiábavalóság és játék, négy dolog kivételével: ha a férfi a feleségével játszik…” (Al-Neszái jegyezte le az *Israt al-Nisza* című művében, 87. o.; a Szahíh al-Dzsámiban is szerepel.)
 
-A Próféta (ﷺ) szeretetteljesen bánt a feleségével, Áisával (رضي الله عنها), amikor vele együtt végezte a teljes mosakodást (ghuszl), ahogyan ő (رضي الله عنها) mondta: „Allah Küldötte és én egyetlen edényből szoktunk együtt ghuszlt végezni, és ő megelőzött engem [a vízért], úgyhogy azt mondtam: »Hagyj nekem is, hagyj nekem is!«” – és mindketten dzsanába (nemi tisztátalanság) állapotában voltak. (Muszlim bi Sarh al-Navavi, 4/6.)
+A Próféta (ﷺ) szeretetteljesen bánt a feleségével, Áisával (رضي الله عنها), amikor vele együtt végezte a teljes mosakodást (ghuszl), ahogyan ő (رضي الله عنها) mondta: „Allah Küldötte és én egyetlen edényből szoktunk együtt ghuszlt végezni, és ő megelőzött engem [a vízért], úgyhogy azt mondtam: »Hagyj nekem is, hagyj nekem is!«” – és mindketten dzsenába (nemi tisztátalanság) állapotában voltak. (Muszlim bi Sarh al-Nevevi, 4/6.)
 
-Az, ahogyan a Próféta (ﷺ) a kisgyermekek iránti szeretetét kimutatta, túlságosan is közismert ahhoz, hogy említeni kellene. Gyakran kimutatta szeretetét Haszan és Huszajn (رضي الله عنهما) iránt, ahogyan fentebb említettük. Valószínűleg ez az egyik oka annak, hogy a gyermekek örültek, amikor hazatért útjairól; elébe siettek, hogy köszöntsék, ahogyan a hiteles hadísz közli: „Valahányszor hazatért egy útjáról, a háza népének gyermekeit vitték elébe.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfat al-Ahvaziban, 8/56.) Ő (ﷺ) magához ölelte őket, ahogyan Abdullah ibn Dzsafar (رضي الله عنهما) mondta: „Valahányszor a Próféta (ﷺ) hazatért egy útjáról, minket vittek elébe. Egyszer engem és al-Haszant vagy al-Huszajnt vittek elébe; egyikünket maga elé ültette, a másikat maga mögé, míg be nem értünk Medinába.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfat al-Ahvaziban, 8/56.)
+Az, ahogyan a Próféta (ﷺ) a kisgyermekek iránti szeretetét kimutatta, túlságosan is közismert ahhoz, hogy említeni kellene. Gyakran kimutatta szeretetét Haszen és Huszejn (رضي الله عنهما) iránt, ahogyan fentebb említettük. Valószínűleg ez az egyik oka annak, hogy a gyermekek örültek, amikor hazatért útjairól; elébe siettek, hogy köszöntsék, ahogyan a hiteles hadísz közli: „Valahányszor hazatért egy útjáról, a háza népének gyermekeit vitték elébe.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfet al-Ahvaziban, 8/56.) Ő (ﷺ) magához ölelte őket, ahogyan Abdullah ibn Dzsafar (رضي الله عنهما) mondta: „Valahányszor a Próféta (ﷺ) hazatért egy útjáról, minket vittek elébe. Egyszer engem és al-Haszent vagy al-Huszejnt vittek elébe; egyikünket maga elé ültette, a másikat maga mögé, míg be nem értünk Medinába.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfet al-Ahvaziban, 8/56.)
 
-Hasonlítsuk ezt össze egyes nyomorúságos otthonok helyzetével, ahol nincs igaz tréfa [vagyis olyan tréfa, amelyben nincs hazugság], nincs szeretet és nincs irgalom. Aki úgy gondolja, hogy a gyermekei megcsókolása ellentétes az apai méltósággal, olvassa el a következő hadíszt: Abu Hurajra (رضي الله عنه) elbeszélte: „Allah Küldötte (ﷺ) megcsókolta al-Haszan ibn Alit, és al-Akra ibn Hábisz al-Tamími ott ült nála. Al-Akra azt mondta: »Tíz gyermekem van, és egyiket sem csókoltam meg soha.« Allah Küldötte (ﷺ) ránézett, és azt mondta: »Aki nem irgalmaz, annak nem irgalmaznak.«”
+Hasonlítsuk ezt össze egyes nyomorúságos otthonok helyzetével, ahol nincs igaz tréfa [vagyis olyan tréfa, amelyben nincs hazugság], nincs szeretet és nincs irgalom. Aki úgy gondolja, hogy a gyermekei megcsókolása ellentétes az apai méltósággal, olvassa el a következő hadíszt: Abu Hurajra (رضي الله عنه) elbeszélte: „Allah Küldötte (ﷺ) megcsókolta al-Haszen ibn Alit, és al-Akra ibn Hábisz al-Temími ott ült nála. Al-Akra azt mondta: »Tíz gyermekem van, és egyiket sem csókoltam meg soha.« Allah Küldötte (ﷺ) ránézett, és azt mondta: »Aki nem irgalmaz, annak nem irgalmaznak.«”
 
 ### (24) Fellépés a rossz tulajdonságok ellen az otthonban
 
 A háztartás minden tagjának óhatatlanul vannak rossz tulajdonságai, például a hazugság, a megszólás, a pletykálkodás és így tovább. Ezekkel a rossz tulajdonságokkal szemben fel kell lépni, és szembe kell szállni velük.
 
-Vannak, akik úgy gondolják, hogy a testi fenyítés az egyetlen módja az ilyen dolgok kezelésének. A következő hadísz igen tanulságos ebben a kérdésben: Áisa (رضي الله عنها) elbeszélte: „Ha Allah Küldötte (ﷺ) tudomására jutott, hogy a háza népéből valaki hazudott, elfordult tőle, amíg meg nem bánta.” (Lásd Imám Ahmad al-Musznadját, 6/152. A hadísz szövege a Szahíh al-Dzsámiban is szerepel, 4675. sz.)
+Vannak, akik úgy gondolják, hogy a testi fenyítés az egyetlen módja az ilyen dolgok kezelésének. A következő hadísz igen tanulságos ebben a kérdésben: Áisa (رضي الله عنها) elbeszélte: „Ha Allah Küldötte (ﷺ) tudomására jutott, hogy a háza népéből valaki hazudott, elfordult tőle, amíg meg nem bánta.” (Lásd Imám Ahmed al-Musznedjét, 6/152. A hadísz szövege a Szahíh al-Dzsámiban is szerepel, 4675. sz.)
 
 A hadíszból világos, hogy az elfordulás és a kerülés – ha nem szólunk hozzá, és ügyet sem vetünk rá – az ilyen helyzetben a hatásos büntetések közé tartozik, és talán hatásosabb is a testi fenyítésnél; gondolkodjanak el ezen az otthonokban nevelők.
 
@@ -544,7 +544,7 @@ A hadíszból világos, hogy az elfordulás és a kerülés – ha nem szólunk 
 
 A büntetés kilátásba helyezése a nevelés kifinomult eszközei közé tartozik; ezért az ostor vagy a bot kiakasztásának okát egy másik elbeszélés magyarázza meg, amelyben a Próféta (ﷺ) azt mondta: „Akasszátok ki az ostort oda, ahol a háznép láthatja, mert ez hatásosabb a nevelésükben.” (Al-Tabaráni jegyezte le, 10/344–345; al-Szilszila al-Szahíha, 1447. sz.)
 
-Ha a büntetés eszközét kiakasztva látják, az visszatartja a rossz szándékúakat attól, hogy rossz viselkedésbe merüljenek, nehogy megízleljék a büntetést. Arra ösztönzi őket, hogy jól viselkedjenek és jó modorúak legyenek. Ibn al-Anbári (رحمه الله) azt mondta: „Nem azt akarta vele, hogy üssenek vele, mert ezt [a Próféta (ﷺ)] senkinek sem parancsolta meg; csupán azt akarta mondani: ne vegyétek le róluk nevelő kezeteket.” (Lásd al-Munávi *Fajd al-Kadír* című művét, 4/325.)
+Ha a büntetés eszközét kiakasztva látják, az visszatartja a rossz szándékúakat attól, hogy rossz viselkedésbe merüljenek, nehogy megízleljék a büntetést. Arra ösztönzi őket, hogy jól viselkedjenek és jó modorúak legyenek. Ibn al-Anbári (رحمه الله) azt mondta: „Nem azt akarta vele, hogy üssenek vele, mert ezt [a Próféta (ﷺ)] senkinek sem parancsolta meg; csupán azt akarta mondani: ne vegyétek le róluk nevelő kezeteket.” (Lásd al-Munávi *Fejd al-Kadír* című művét, 4/325.)
 
 Az ütés soha nem az alapeset; nem szabad hozzá folyamodni, csak ha a nevelés más eszközei kimerültek, vagy ha valakit a kötelező engedelmességi cselekedetekre kell rászorítani, ahogyan Allah (ﷻ) mondja: (…És azon feleségeket, akik nyakasságától (engedetlen, lenéző viselkedésétől) tartotok, intsétek hát meg, [ha ez nem használ, akkor] kerüljétek őket az ágyakban, és [végső esetben] üssetek rájuk [ha ez nem rontana a helyzeten]!…) (Korán 4: 34) – ebben a sorrendben. Ott van az a hadísz is, amelyben Allah Prófétája (ﷺ) azt mondta: „Parancsoljátok meg gyermekeiteknek, hogy imádkozzanak, amikor hétévesek, és üssétek meg őket, ha nem teszik, amikor tízévesek.” (Abu Dávúd jegyezte le, 1/334; lásd még Irva al-Ghalíl, 1/266.)
 
@@ -600,7 +600,7 @@ A mellékhelyiségeket ne úgy helyezzék el, hogy használatukkor az ember a ki
 
 Tágas, kényelmes ház választása. Ennek több oka is van:
 
-Allah Prófétája (ﷺ) mondta: „Allah szereti látni a szolgáján az áldásainak nyomát.” (Al-Tirmidhi jegyezte le, 2819. sz. Azt mondta: jó [haszan] hadísz.)
+Allah Prófétája (ﷺ) mondta: „Allah szereti látni a szolgáján az áldásainak nyomát.” (Al-Tirmidhi jegyezte le, 2819. sz. Azt mondta: jó [haszen] hadísz.)
 
 Allah Prófétája (ﷺ) azt is mondta: „A boldogságnak három eleme van, és a nyomorúságnak is három. A boldogság elemei: a jóravaló feleség, aki ha ránézel, örömet szerez neked, és ha távol vagy tőle, érzed, hogy megbízhatsz benne, ami őt magát és a vagyonodat illeti; a kezes hátas, amely segít, hogy lépést tarts a társaiddal; és a ház, amely tágas és kényelmes. A nyomorúság elemei: a feleség, aki ha ránézel, bosszúságot érzel, folyton a nyelvével támad rád, és ha távol vagy tőle, nem érzed, hogy megbízhatsz benne, ami őt magát és a vagyonodat illeti; a makacs hátas, amely ha ostorozod, belefáradsz, ha pedig nem ostorozod, nem segít, hogy lépést tarts a társaiddal; és a ház, amelyben kevés a kényelem.” (Al-Hákim jegyezte le, 3/262; Szahíh al-Dzsámi, 3056. sz.)
 
@@ -612,9 +612,9 @@ Ez olyan kérdés, amelyet fontossága miatt külön kell tárgyalni.
 
 Manapság a szomszédok nagyobb hatással vannak egymásra, mert a házak közelebb vannak egymáshoz, és az emberek együtt élnek épületekben, lakásokban és lakóparkokban.
 
-Allah Küldötte (ﷺ) elmondta nekünk, hogy a boldogságnak négy oka van, amelyek egyike a jóravaló szomszéd, és a nyomorúságnak is négy oka van, amelyek egyike a rossz szomszéd. (Abu Nuajm jegyezte le az al-Hiljában, 8/388; Szahíh al-Dzsámi, 887.) Ez utóbbi veszélye miatt a Próféta (ﷺ) a fohászában menedéket keresett ellene, mondván: „Allahumma inni aúzu bika min dzsár al-szú fi dár al-mukáma [Ó, Allah, Nálad keresek menedéket a rossz szomszéd elől az állandó lakóhelyen]” – vagyis attól, aki állandó helyen a szomszédod –, „fa-inna dzsár al-bádija jatahavval [mert a pusztai szomszéd továbbáll].” (Al-Hákim jegyezte le, 1/532; Szahíh al-Dzsámi, 1290.)
+Allah Küldötte (ﷺ) elmondta nekünk, hogy a boldogságnak négy oka van, amelyek egyike a jóravaló szomszéd, és a nyomorúságnak is négy oka van, amelyek egyike a rossz szomszéd. (Abu Nuajm jegyezte le az al-Hiljában, 8/388; Szahíh al-Dzsámi, 887.) Ez utóbbi veszélye miatt a Próféta (ﷺ) a fohászában menedéket keresett ellene, mondván: „Allahumma inni aúzu bika min dzsár al-szú fi dár al-mukáma [Ó, Allah, Nálad keresek menedéket a rossz szomszéd elől az állandó lakóhelyen]” – vagyis attól, aki állandó helyen a szomszédod –, „fa-inna dzsár al-bádija jetahavvel [mert a pusztai szomszéd továbbáll].” (Al-Hákim jegyezte le, 1/532; Szahíh al-Dzsámi, 1290.)
 
-A muszlimoknak is megparancsolta, hogy keressenek menedéket ettől, mondván: „Keressetek menedéket Allahnál a rossz szomszéd elől az állandó lakóhelyen, mert a pusztai szomszéd továbbáll tőled.” (Al-Bukhári jegyezte le az al-Adab al-Mufradban, 117. sz.; a szöveg a Szahíh al-Dzsámiban, 2967.)
+A muszlimoknak is megparancsolta, hogy keressenek menedéket ettől, mondván: „Keressetek menedéket Allahnál a rossz szomszéd elől az állandó lakóhelyen, mert a pusztai szomszéd továbbáll tőled.” (Al-Bukhári jegyezte le az al-Adeb al-Mufradban, 117. sz.; a szöveg a Szahíh al-Dzsámiban, 2967.)
 
 Itt nincs hely arról beszélni, milyen hatással lehet a rossz szomszéd egy házaspárra és a gyermekeikre, milyen kellemetlenségeket okozhat, és milyen nyomorúság mellette élni. De ha az ember a fent idézett hadíszokat a saját életére alkalmazza, az elég annak, akinek van esze. Egy másik gyakorlati megoldás az, amelyet néhány jó ember alkalmaz: szomszédos lakásokat bérelnek a családjuk számára, hogy megoldják a szomszédproblémát. Ez drága megoldás lehet, de a jó szomszéd megfizethetetlen.
 
@@ -634,11 +634,11 @@ Ha valaki megbetegedett a családjából, Allah Prófétája (ﷺ) levest kért,
 
 A megelőzés és a biztonság néhány intézkedéséről:
 
-Allah Küldötte (ﷺ) mondta: „Amikor beesteledik, tartsátok bent a gyermekeiteket, mert a sátánok ilyenkor szétszélednek. Aztán amikor elmúlt az éjszaka egy órája, engedjétek el a gyermekeiteket; zárjátok be az ajtókat, és említsétek Allah nevét; takarjátok le az edényeiteket, és említsétek Allah nevét, még ha csak egy pálcát fektettek is keresztbe az edény tetején; és oltsátok el a lámpáitokat.” (Al-Bukhári jegyezte le; al-Fath, 10/88–89.)
+Allah Küldötte (ﷺ) mondta: „Amikor beesteledik, tartsátok bent a gyermekeiteket, mert a sátánok ilyenkor szétszélednek. Aztán amikor elmúlt az éjszaka egy órája, engedjétek el a gyermekeiteket; zárjátok be az ajtókat, és említsétek Allah nevét; takarjátok le az edényeiteket, és említsétek Allah nevét, még ha csak egy pálcát fektettek is keresztbe az edény tetején; és oltsátok el a lámpáitokat.” (Al-Bukhári jegyezte le; al-Feth, 10/88–89.)
 
-Muszlim közlése szerint Allah Prófétája (ﷺ) azt mondta: „Zárjátok be az ajtóitokat, takarjátok le az edényeiteket, oltsátok el a lámpáitokat, és kössétek be a tömlőitek száját [vagyis kössétek meg szorosan a szájukat], mert a Sátán nem nyit ki zárt ajtót, nem vesz le fedőt, és nem old ki kötést, a kis kártevő [az egér] pedig rágyújtja a házat a lakóira [vagyis kihúzza a lámpa kanócát, és a ház lángra kap].” (Imám Ahmad jegyezte le az al-Musznadban, 3/301; Szahíh al-Dzsámi, 1080.)
+Muszlim közlése szerint Allah Prófétája (ﷺ) azt mondta: „Zárjátok be az ajtóitokat, takarjátok le az edényeiteket, oltsátok el a lámpáitokat, és kössétek be a tömlőitek száját [vagyis kössétek meg szorosan a szájukat], mert a Sátán nem nyit ki zárt ajtót, nem vesz le fedőt, és nem old ki kötést, a kis kártevő [az egér] pedig rágyújtja a házat a lakóira [vagyis kihúzza a lámpa kanócát, és a ház lángra kap].” (Imám Ahmed jegyezte le az al-Musznedben, 3/301; Szahíh al-Dzsámi, 1080.)
 
-A Próféta (ﷺ) mondta: „Ne hagyjatok égő tüzet a házaitokban, amikor aludni mentek.” (Al-Bukhári jegyezte le; al-Fath, 11/85.)
+A Próféta (ﷺ) mondta: „Ne hagyjatok égő tüzet a házaitokban, amikor aludni mentek.” (Al-Bukhári jegyezte le; al-Feth, 11/85.)
 
 Allah tudja a legjobban. Allah áldása és békéje legyen Prófétánkon, Mohameden, a családján és a társain.
 
@@ -646,13 +646,13 @@ Allah tudja a legjobban. Allah áldása és békéje legyen Prófétánkon, Moha
 
 ## A könyvben használt jelek
 
-(ﷻ): Szubhánahu va Taála – „A Magasztos”
+(ﷻ): Szubhánehu va Taála – „A Magasztos”
 
-(ﷺ): Szalla-Allahu Alajhi va Szallam – „Allah áldása és békéje legyen vele”
+(ﷺ): Szalla-Allahu Alejhi va Szallam – „Allah áldása és békéje legyen vele”
 
-(عليه السلام): Alajhisz-Szalám – „Béke legyen vele” (prófétáról)
+(عليه السلام): Alejhisz-Szelám – „Béke legyen vele” (prófétáról)
 
-(عليها السلام): Alajhasz-Szalám – „Béke legyen vele” (nőről)
+(عليها السلام): Alejhesz-Szelám – „Béke legyen vele” (nőről)
 
 (رضي الله عنه): Radija Allahu Anhu – „Allah legyen elégedett vele” (férfiról)
 
@@ -662,9 +662,9 @@ Allah tudja a legjobban. Allah áldása és békéje legyen Prófétánkon, Moha
 
 (رضي الله عنهم): Radija Allahu Anhum – „Allah legyen elégedett velük”
 
-(رحمه الله): Rahimahu-llah – „Allah könyörüljön rajta”
+(رحمه الله): Rahimehu-llah – „Allah könyörüljön rajta”
 
-(رحمهما الله): Rahimahuma-llah – „Allah könyörüljön rajtuk” (két személyről)
+(رحمهما الله): Rahimehuma-llah – „Allah könyörüljön rajtuk” (két személyről)
 
 ---
 
@@ -674,11 +674,15 @@ A magyar szövegben az arab neveket és szakkifejezéseket egyszerűsített magy
 nélkül, úgy, hogy magyarul olvasva közel járjanak az arab kiejtéshez:
 
 - a hosszú magánhangzót ékezet jelöli (á, í, ú), a szó végén azonban rövid (al-Bukhári, Ata);
+- a rövid a helyén – ahogyan az arab ejti – e áll (Abu Bekr, Szehl, szelám, tefszír); a marad azonban a
+  „vastag” mássalhangzók (ص ض ط ظ ق خ غ ر), a torokhangok (ح ع ء) és Allah nevének l-je mellett (Ramadán,
+  Szalát, Ahmed, Ali, Abdullah), valamint a szó végén (Medina, Katáda); a kettőshangzó ennek
+  megfelelően ej vagy aj, eu vagy au (Huszejn, Ibn al-Kajjim, Teuhíd, haula);
 - ث sz, ج dzs, ح h, خ kh, ذ z, ش s, ص sz, ض d, ط t, ظ z, غ gh, ق k, و v, ي j; a szóvégi ة -a (Katáda);
 - az ajn (ع) és a hamza (ء) jelét elhagyjuk (Ibn Szadi, Ali);
-- a névelő mindig al-, akkor is, ha a kiejtésben hasonul (al-Tirmidhi);
+- a névelő mindig al-, akkor is, ha a kiejtésben hasonul (al-Tirmidhi); az Abu és a Banú szó sem változik;
 - a prófétáknál a magyarul meghonosodott bibliai nevet használjuk (Noé, Ábrahám, Mózes, József, Jónás,
   Zakariás, Mária);
-- néhány név a megszokott magyar alakjában szerepel: Mohamed (a Próféta), Omár, Ali, Áisa, Ibn Kathir,
-  al-Tirmidhi, Medina;
+- néhány név a megszokott magyar alakjában szerepel: Mohamed (a Próféta), Omár, Ali, Áisa, Ibn Kethir,
+  al-Tirmidhi, Medina; a magyarban meghonosodott szavak (Korán, fatva) magyar alakjukban;
 - néhány név a Korán-idézetek fordításának (MME) alakját követi: Bedr, Zejd.

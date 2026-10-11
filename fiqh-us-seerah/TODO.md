@@ -17,7 +17,9 @@ Open work only. Finished work is in the git history; the English edition's error
 - [ ] Compare every footnote with the Arabic: the English edition shortened many of al-Albānī's
   footnotes (12 written out in full on 2026-09-28; the review noted more in ch5 and did not check
   the rest one by one). Fix in both files. Also missing: the Arabic's two word-gloss footnotes on
-  AR p.138 («زينة», «سؤال عن ماله», ch5 'Abd al-Raḥmān ibn 'Awf).
+  AR p.138 («زينة», «سؤال عن ماله», ch5 'Abd al-Raḥmān ibn 'Awf). Seen 2026-10-11: ch4 fn8 stops
+  before al-Ṭabarānī's version and al-Haythamī's grade (AR p.118, «وفيه ابن لهيعة…»); ch7 fn99
+  lacks «رواه ابن لهيعة عن أبى الأسود عن عروة، وهو مع إرساله ضعيف» (AR p.307 fn٢).
 
 ## English transcription (ENG-full)
 
