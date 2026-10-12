@@ -74,6 +74,19 @@ inline, no footnotes); `TODO.md`; `build-ebooks.sh` (PDF/EPUB, reuses the Fiqh t
 the Arabic too. Extra honorific signs: (عليها السلام) for Maryam, (رضي الله عنهما),
 (رحمه الله) / (رحمهما الله) for scholars.
 
+## Proofreading site (`../cogit-reader`)
+
+Built 2026-10-11, live once deployed per its README (Next.js on Vercel + Supabase). Invited
+proofreaders read the books there, **edit paragraphs** — each save is a commit on origin/master
+authored `Name <…@lektor.invalid>` — and **ask questions** about passages. So: `git pull` before
+working, push after committing (the site reads origin/master; unpushed work makes their edits
+conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
+- every pending edit (`edits`) is checked against the conventions and the Arabic like a pasted
+  comment: fine → `keep <id>`; breaks a rule → revert it in git, push, `revert <id> "<why>"`;
+- open questions (`questions`): `answer <id> "…"` in Hungarian, plain text, short, with the
+  reason (the rule, the Arabic word, the user's decision and its date). What needs the user's
+  decision goes to the user; the answer then says so.
+
 ## Fidelity policy (both files)
 
 - **The Arabic original is the sole source of truth** (user decision 2026-07-16). English-
