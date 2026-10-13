@@ -2718,7 +2718,7 @@ Iránta való szeretetük csak azért volt, mert az a tökéletesség, amelyet �
 
 Szeubán, a Próféta (ﷺ) közeli kísérője, módfelett szerette őt, és nem bírta elviselni, hogy megváljon társaságától. Egy nap, amikor odament hozzá, arca sápadt volt és szomorúnak látszott. A Próféta (ﷺ) megkérdezte, mi a baja, és ő így felelt:
 
-„Ó, Allah Küldötte (ﷺ), nincs se fájdalmam, se betegségem – csak az, hogy valahányszor nem látlak, végtelenül nyomorultnak érzem magam, míg nem találkozhatom veled. Ráadásul, valahányszor a Túlvilágra gondolok, félni kezdek, hogy nem láthatlak majd, mert téged a magas hajlékokba (illijín) emelnek a Prófétákkal; és ha a Paradicsomba lépek, alacsonyabb szinten leszek nálad, ha pedig nem lépek be, soha többé nem lesz alkalmam látni téged.”
+„Ó, Allah Küldötte (ﷺ), nincs se fájdalmam, se betegségem – csak az, hogy valahányszor nem látlak, végtelenül nyomorultnak érzem magam, míg nem találkozhatom veled. Ráadásul, valahányszor a Túlvilágra gondolok, félni kezdek, hogy nem láthatlak majd, mert téged az Illijjínbe [Illijjín: a legmagasabb égi hely, ahol a Korán szerint a jóságosak könyve van (83: 18–21; az MME fordításában »Magas hely«), és ahová a hagyomány szerint a hívők lelke halála után feljut – a ford.] emelnek a prófétákkal; és ha a Paradicsomba lépek, alacsonyabb szinten leszek nálad, ha pedig nem lépek be, soha többé nem lesz alkalmam látni téged.”
 
 Erre a következő koráni ája nyilatkoztatott ki:
 
@@ -3158,7 +3158,7 @@ A muszlimok szeme előtt feltárult a győzelem örvendetes látványa, amely az
 
 (És bizony, Allah már győzelemre vitt titeket Bedr-nél, amikor gyengék voltatok. Féljétek hát Allahot, hátha hálásak lesztek!) (Korán 3: 123)
 
-A vértanúk száma közöttük tizennégy volt. Allah irgalma kiválasztotta és az Illijjínbe vitte őket. Anesz bin Málik (رضي الله عنه) közölte, hogy Hárisza ibn Szurákát Bedr napján eltévedt nyílvessző ölte meg, miközben a nézelődők között volt.
+A vértanúk száma közöttük tizennégy volt. Allah (ﷻ) irgalma kiválasztotta és az Illijjínbe [Illijjín: a legmagasabb égi hely, ahol a Korán szerint a jóságosak könyve van (83: 18–21; az MME fordításában „Magas hely”), és ahová a hagyomány szerint a hívők lelke halála után feljut – a ford.] vitte őket. Anesz ibn Málik (رضي الله عنه) közölte, hogy Hárisza ibn Szurákát Bedr napján eltévedt nyílvessző ölte meg, miközben a nézelődők között volt.
 
 Anyja eljött a Prófétához (ﷺ), és így szólt: „Ó, Allah Küldötte (ﷺ), mondd el nekem, mi van Háriszával. Ha a Paradicsomban van, türelmes leszek; ha pedig nem, Allah (ﷻ) meglátja, mit teszek” (vagyis jajveszékel). A jajveszékelés ugyanis akkor még nem volt tiltott!!
 

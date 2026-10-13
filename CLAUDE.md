@@ -104,10 +104,11 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
   Arabian places, people, events or Islamic concepts. The Hungarian text of every book may
   explain one in a short note `[… – a ford.]`, right after the word, or after the sentence
   when the note explains the whole sentence. Examples: Birk al-Ghimád, „a két csapat” at Bedr,
-  dirá, telbija. These notes are HUN only, never in ENG, and their facts must come from the
-  sīra/ḥadīth/tafsīr literature. A note explains; it doesn't argue with the author or soften
-  him. A term gets its note at its first occurrence; one that recurs all through the book goes
-  in the Szójegyzék instead. Qur'ān quotes still get no notes (2026-10-09, above).
+  dirá, telbija, Illijjín. These notes are HUN only, never in ENG, and their facts must come
+  from the sīra/ḥadīth/tafsīr literature. A note explains; it doesn't argue with the author or soften
+  him. A term gets its note at its first occurrence, and again in a later chapter where the
+  reader needs it (Illijjín: ch5 and ch6); one that recurs all through the book goes in the
+  Szójegyzék instead. Qur'ān quotes still get no notes (2026-10-09, above).
 
 ## Conventions (both files)
 
