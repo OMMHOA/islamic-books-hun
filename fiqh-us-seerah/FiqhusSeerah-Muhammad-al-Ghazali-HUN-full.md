@@ -3100,7 +3100,7 @@ A túlvilág szemlélése a próféták portékája. És vajon van-e nyugalom a 
 
 Ahmed elbeszélte,¹⁹ hogy amikor a bálványimádók közeledtek, a Próféta (ﷺ) így szólt társaihoz: „Keljetek fel egy olyan Paradicsom felé, amelynek kiterjedése az egeké és a földé!”
 
-Ennek hallatán Umejr ibn al-Humám al-Anszári felkiáltott: „Ó, Allah Küldötte (ﷺ), olyan Paradicsom, amelynek kiterjedése az egeké és a földé?” Amikor a Próféta (ﷺ) igennel felelt, azt mondta: „Bakh, bakh!” (a csodálkozás és tetszés kifejezése). A Próféta (ﷺ) megkérdezte, miért mondja: „Bakh, bakh,” mire ő így felelt: „Allahra (ﷻ), ó, Allah Küldötte (ﷺ), csakis abban a reményben, hogy lakói közé tartozom majd.”
+Ennek hallatán Umejr ibn al-Humám al-Anszári felkiáltott: „Ó, Allah Küldötte (ﷺ), olyan Paradicsom, amelynek szélessége olyan, mint az egeké és a földé?” Amikor a Próféta (ﷺ) igennel felelt, azt mondta: „Bakh, bakh!” (a csodálkozás és tetszés kifejezése). A Próféta (ﷺ) megkérdezte, miért mondja: „Bakh, bakh,” mire ő így felelt: „Allahra (ﷻ), ó, Allah Küldötte (ﷺ), csakis abban a reményben, hogy lakói közé tartozom majd.”
 
 A Próféta (ﷺ) így válaszolt: „Akkor bizonnyal közéjük fogsz tartozni.”
 
