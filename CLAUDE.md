@@ -138,8 +138,15 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
   (user decision 2026-09-28; crucifixion predates Jesus). This is not the *menny* case below, where
   the Arabic has neutral words (السماء, الجنة) that *menny* doesn't render.
 - Afterlife: never *menny/mennyország*. السماء → **ég / égi / egek**; الجنة → **Paradicsom**;
-  الآخرة → **túlvilág**; **Pokol** capitalised like Paradicsom (derived adjectives lowercase).
-  (The unrelated *mennyi, mennyire, mennydörgés, mennykő, mennyezet* are fine.)
+  الآخرة → **Túlvilág**. (The unrelated *mennyi, mennyire, mennydörgés, mennykő, mennyezet*
+  are fine.)
+- **Capitals follow MME** (user decision 2026-10-13): the afterlife's places and days are
+  capitalised – **Túlvilág, Paradicsom, Pokol, Gyehenna, Feltámadás Napja, Ítélet Napja,
+  Számadás Napja, Utolsó Nap** – but derived adjectives (túlvilági, paradicsombeli, pokoli),
+  the bare concept („nem hittek a feltámadásban”) and *e világ / evilág* are lowercase. MME
+  itself mostly writes *túlvilág*; we capitalise it like Pokol (the user's call). **a Sátán**
+  for Iblis, *sátán / sátánok* for devils in general (MME: mostly lowercase). Qur'ān
+  quotes keep MME's own casing.
 - Ḥadīth grades: ṣaḥīḥ/"sound"/"authentic" → **hiteles** (al-Albānī's labels: `Hiteles
   (szahíh):`); ḥasan → **jó**; ḍaʿīf → **gyenge**. *ép* is NOT a grade (it means "intact").
 - Terms: Korán, hadísz, umma, teuhid, **dzsáhilijja** (not italic; "dzsáhilijja kori"), **ája /

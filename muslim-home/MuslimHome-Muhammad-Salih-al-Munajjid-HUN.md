@@ -66,7 +66,7 @@ A ház urának jóravaló feleséget kell választania, a következő feltétele
 
 „Az evilág egésze élvezet, és az evilág legjobb élvezete a jóravaló asszony.” (Muszlim jegyezte le, 1468.)
 
-„Legyen mindegyikőtöknek hálás szíve, Allahra emlékező nyelve és hívő felesége, aki segíti őt a túlvilág dolgaiban.” (Ahmed [5/282], al-Tirmidhi és Ibn Mádzsa jegyezte le Szeubántól; Szahíh al-Dzsámi, 5231.)
+„Legyen mindegyikőtöknek hálás szíve, Allahra emlékező nyelve és hívő felesége, aki segíti őt a Túlvilág dolgaiban.” (Ahmed [5/282], al-Tirmidhi és Ibn Mádzsa jegyezte le Szeubántól; Szahíh al-Dzsámi, 5231.)
 
 Egy másik változat szerint: „…és jóravaló feleség, aki segít neked evilági és vallási dolgaidban – ez a legjobb, amit az emberek kincsként gyűjthetnek.” (Al-Bejhaki jegyezte le; Szahíh al-Dzsámi, 4285.)
 
