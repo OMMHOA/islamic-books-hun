@@ -3244,7 +3244,7 @@ Azért talán, mert volt vagyonuk kiváltani magukat? Nem volt helyes, hogy a mu
 
 (Vajon nem gondolkodtál-e el azoknak [a hírén], akik Allah jótéteményét hitetlenségre cserélték, és népüket a veszedelmes lakhelyre telepítették? A Gyehennába! Ott fognak égni. És milyen nyomorúságos tartózkodási hely.) (Korán 14: 28–29)
 
-Vannak más szövegek, amelyek úgy rendelkeznek, hogy a foglyokkal szépen kell bánni és rendesen kell táplálni őket, és irgalmas törvények hirdettettek ki e célból. Ezek a törvények azonban a foglyok tömegeire vonatkoznak, akik követők. Akik viszont háborúval üzérkednek, hogy személyes vágyaikat elégítsék ki, azokat ki kell irtani – ezt jelenti az öldöklés a földön.
+Vannak más szövegek, amelyek úgy rendelkeznek, hogy a foglyokkal szépen kell bánni és rendesen kell táplálni őket, és irgalmas törvények hirdettettek ki e célból. Ezek a törvények azonban a foglyok tömegeire vonatkoznak, akik követők. Akik viszont háborúval üzérkednek, hogy személyes vágyaikat elégítsék ki, azokat ki kell irtani – ezt jelenti az, hogy »végleges csapást mér a földön«.
 
 Ahogyan az élet a jó emberek révén halad előre, ugyanúgy a rossz elemek miatt szenved késedelmet. Ha helyes a fát megmetszeni, hogy növekedjék, akkor helyes az életet is – hogy fejlődhessék – megtisztítani az ostoba, gőgös emberektől és a bűnösöktől. Semmiféle múló haszon nem léphet e jog helyébe, még tonnányi arany sem. Allah (ﷻ) meghallgattatta ezt a leckét Prófétájával (ﷺ) és társaival, és amikor megértették, megbocsátott nekik, és irántuk való irgalmából megengedte nekik, hogy éljenek a kapott váltságdíjjal. Azt mondta (ﷻ):
 
