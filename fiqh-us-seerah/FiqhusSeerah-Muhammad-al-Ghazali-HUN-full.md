@@ -3046,7 +3046,7 @@ Egy másik változat szerint e szavakat mondta: „Talán egy céllal indultál 
 
 A Próféta (ﷺ) örült Szad (رضي الله عنه) válaszának, és arca felragyogott. Majd így szólt:
 
-„Menjetek előre, és legyetek jókedvűek! Allah (ﷻ) megígérte nekem a két csapat egyikét. Allahra (ﷻ), mintha már látnám a helyeket, ahol azok az emberek elesnek.”¹²
+„Menjetek előre, és legyetek jókedvűek! Allah (ﷻ) megígérte nekem a két csapat egyikét. Allahra (ﷻ), mintha már látnám a helyeket, ahol azok az emberek elesnek.”¹² [A két csapat: Abu Szufján Szíriából hazatérő kurejsita karavánja és a védelmére Mekkából kivonult kurejsita sereg. Allah azt ígérte, hogy egyikük a muszlimok kezére kerül (vö. Korán 8: 7). A karaván ekkorra már elmenekült, így a sereg maradt. – a ford.]
 
 A muszlimok felkészültek a csatára, és a bedri kutak előtt táboroztak le.
 
