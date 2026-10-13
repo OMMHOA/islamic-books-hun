@@ -82,7 +82,7 @@ authored `Name <…@lektor.invalid>` — and **ask questions** about passages. S
 working, push after committing (the site reads origin/master; unpushed work makes their edits
 conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
 - every pending edit (`edits`) is checked against the conventions and the Arabic like a pasted
-  comment: fine → `keep <id>`; breaks a rule → revert it in git, push, `revert <id> "<why>"`;
+  comment (an added explanatory note: its facts too): fine → `keep <id>`; breaks a rule → revert it in git, push, `revert <id> "<why>"`;
 - open questions (`questions`): `answer <id> "…"` in Hungarian, plain text, short, with the
   reason (the rule, the Arabic word, the user's decision and its date). What needs the user's
   decision goes to the user; the answer then says so.
@@ -100,6 +100,14 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
 - **No softening** (user decision 2026-09-25): render the author as bluntly as he wrote —
   generalisations (e.g. about the Jews) and insults included, even where he is wrong.
   Qualifiers the English added ("some of", "among") are removed.
+- **Explanatory notes** (user decision 2026-10-13): don't assume the Hungarian reader knows
+  Arabian places, people, events or Islamic concepts. The Hungarian text of every book may
+  explain one in a short note `[… – a ford.]`, right after the word, or after the sentence
+  when the note explains the whole sentence. Examples: Birk al-Ghimád, „a két csapat” at Bedr,
+  dirá, telbija. These notes are HUN only, never in ENG, and their facts must come from the
+  sīra/ḥadīth/tafsīr literature. A note explains; it doesn't argue with the author or soften
+  him. A term gets its note at its first occurrence; one that recurs all through the book goes
+  in the Szójegyzék instead. Qur'ān quotes still get no notes (2026-10-09, above).
 
 ## Conventions (both files)
 
