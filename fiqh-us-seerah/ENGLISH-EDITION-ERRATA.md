@@ -329,6 +329,7 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
 | ch6 ~3408, ch7 ~4789 | **Salam ibn Mushkim**, **Salām** ibn Mishkam | **Sallām ibn Mishkam** «سلام بن مشكم» |
 | ch6 fn84 | 'Awf **al-Mazni** | 'Awf **al-Muzanī** «المزنى» |
 | ch6 fn99 | "narrated by **Al Khālid**" in *The History of Baghdad* | **Al-Khaṭīb** «الخطيب» |
+| ch6, ENG ~3312 | **Ka'b Al-Ashraf** | **Ka'b ibn al-Ashraf** «كعب بن الأشرف» (AR p.183; the English has it right later in ch6) |
 
 Inconsistent spellings of one name, unified per the Arabic: Badīl/Budayl → **Budayl** «بديل
 بن ورقاء»; Abū Bukhtari/Abul Bukhturi → **Abul Bukhturi** «البخترى»; Al-Qarrah/Al-Qārrah →

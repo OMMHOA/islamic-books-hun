@@ -153,15 +153,20 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
   áják** (singular after quantifiers: „néhány ája”), **dáwa**, **szahába** (pl. szahábák),
   **azán**, **ima** (ṣalāh), **zekát**, **rakát**, **haddzs**, **umra**, **szelám**, **tefszír**,
   **könyök** (dhirāʿ), **anszár(ok)**, **muhádzsir(ok)**; ḥadīth-science terms by the name rule
-  (szahíh, haszen, gharíb, murszel, mudal, isznád, tedlísz, mutevátir…). Words Hungarian
+  (szahíh, haszen, gharíb, murszel, muudal, isznád, tedlísz, mutevátir…). Words Hungarian
   dictionaries have keep their Hungarian form (user decision 2026-10-11): Korán, kalifa,
   **müezzin**, **dirham**, **fatva**; *ulema* is both the dictionary form and the rule's.
 - **Names** (user decisions 2026-09-25/28) — Hungarian transcription, no diacritics:
   - ā ī ū → á í ú, but a **word-final long vowel is short** (al-Bukhári, Músza, Iszra; the
     particle Banú excepted); ḥ ṭ ḍ ẓ ṣ → h t d z sz; sh→s, s→sz, th→sz, dh→z, j→dzs, y→j, w→v,
-    q→k; **kh and gh stay** (Khálid, Ghatafán); ʿayn/hamza dropped (Szad, Kab); final -ah → -a
+    q→k; **kh and gh stay** (Khálid, Ghatafán); hamza dropped (Muta, Bir Maúna); final -ah → -a
     (Hamza); **al-** never assimilated (al-Zubejr); Abū → Abu, Banū → Banú. Allah compounds keep
     *-llah* (Abdullah).
+  - **ʿayn** (user decision 2026-10-14): between a short vowel and a consonant inside a word it
+    doubles the vowel – Szaad, Kaab, Dzsaafar, Jaala, saabán, zul-kaada, and after u/i too: Suuba,
+    al-Nuumán, Miirádzs, muudal, al-Muudzsem. Anywhere else it is dropped: word-initial (Ali,
+    Ubáda), before a vowel (Szaíd, Muád, Abu Nuajm), word-final (Ráfi, Náfi, al-Akva).
+    Kába and dáwa keep their forms.
   - **Front-vowel rule** (user decision 2026-10-11): a short fatḥa is **e** (Abu Bekr, Zejneb,
     szelám, sevvál, Muhammed), but stays **a** next to a heavy letter ص ض ط ظ ق خ غ ر, a throat
     letter ح ع ء (hamza too, so word-initial a stays: Anesz, anszár, azán), the l of Allah
@@ -181,7 +186,7 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
     **Bedr** (Bedrnél, bedri), **Tamúd**, **Zejd** (Zejdet, Zejdnek; every Zayd), **Hudejbia**
     (Hudejbiánál, hudejbiai; MME also has „Hudajbijai” in 48:27 – unified to Hudejbia there too),
     **Kurejs** (Kurejsnek, Kurejssel; 2026-10-11, although ر would keep the a), **Manát**.
-  - Surahs „a Teuba szúra”; month names lowercase (ramadán, sevvál, zul-kada, radzseb); **a Banú
+  - Surahs „a Teuba szúra”; month names lowercase (ramadán, sevvál, saabán, zul-kaada, radzseb); **a Banú
     Iszráíl** for بنو إسرائيل (collective, singular verb — like „a Banú Kurajza”); book titles by
     the rule (Szahíh al-Bukhári, Feth al-Bári, al-Muszned).
   - Endings follow the Hungarian form and its vowel harmony (Áisától, Kurejssel, Mózesnek,

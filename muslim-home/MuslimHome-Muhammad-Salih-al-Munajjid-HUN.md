@@ -145,7 +145,7 @@ A háznép nőtagjainak buzdítása az adakozásra a hit gyarapításának mási
 
 Az újszerű ötletek egyike, hogy otthon legyen egy persely a szegények és a rászorulók javára: ami a perselybe kerül, az az övék, mert ez az ő edényük a muszlim otthonban.
 
-Ha a családtagok látják, hogy valaki közülük böjtöl a „fehér napokon” (al-ajjám al-bíd: minden hidzsri [hold]hónap 13., 14. és 15. napján), hétfőn és csütörtökön, Tászúa és Ásúra napján (muharram 9. és 10. napján), Arafa napján, valamint gyakran muharram és sabán havában, ez arra indítja őket, hogy ők is így tegyenek.
+Ha a családtagok látják, hogy valaki közülük böjtöl a „fehér napokon” (al-ajjám al-bíd: minden hidzsri [hold]hónap 13., 14. és 15. napján), hétfőn és csütörtökön, Tászúa és Ásúra napján (muharram 9. és 10. napján), Arafa napján, valamint gyakran muharram és saabán havában, ez arra indítja őket, hogy ők is így tegyenek.
 
 ### (6) Figyelmet fordítani a szunnából való, otthonnal kapcsolatos zikrekre és fohászokra
 
@@ -203,7 +203,7 @@ Néhány olvasó megkérdezheti: tegyük fel, hogy kijelölünk egy napot, és t
 
 Erre válaszul, kedves olvasó testvérem, egy egyszerű tanmenetet javaslok a háznép általában, a nők pedig különösen történő tanítására:
 
-- A nagy tudós Ibn Szadi (رحمه الله) tefszírje (Korán-magyarázata), a *Tejszír al-Karím al-Rahmán fi Tefszír Kelám al-Mennán*, amely hét kötetből áll, részletes és könnyen érthető stílusú; egyes szúráit és szakaszait fel lehet olvasni vagy el lehet magyarázni.
+- A nagy tudós Ibn Szaadi (رحمه الله) tefszírje (Korán-magyarázata), a *Tejszír al-Karím al-Rahmán fi Tefszír Kelám al-Mennán*, amely hét kötetből áll, részletes és könnyen érthető stílusú; egyes szúráit és szakaszait fel lehet olvasni vagy el lehet magyarázni.
 - A *Rijád al-Szálihín*, hadíszaihoz néhány megjegyzést, intelmet és a belőlük levonható tanulságokat fűzve; ehhez a *Nuzhet al-Muttakín* című könyv nyújt segítséget.
 - A *Huszn al-Uszva bima szebeta an Allah va Raszúlihi fi al-Niszva*, a nagy tudós Sziddík Haszen Khán műve.
 
@@ -224,7 +224,7 @@ Sok buzgó ember kérdezheti, milyen iszlám könyvek kerüljenek az otthoni kö
 **Tefszír:**
 
 - *Tefszír Ibn Kethir*
-- *Tefszír Ibn Szadi*
+- *Tefszír Ibn Szaadi*
 - *Zubdet al-Tefszír* – al-Askar
 - *Bedái al-Tefszír* – Ibn al-Kajjim
 - *Uszúl al-Tefszír* – Ibn Uszejmín
@@ -286,7 +286,7 @@ Sok buzgó ember kérdezheti, milyen iszlám könyvek kerüljenek az otthoni kö
 Számos jó könyv van más területeken is, például:
 
 - a megújító imám, Sejk Muhammed ibn Abd al-Vehháb könyvei
-- a nagy tudós, Sejk Abd al-Rahmán ibn Nászir al-Szadi könyvei
+- a nagy tudós, Sejk Abd al-Rahmán ibn Nászir al-Szaadi könyvei
 - Sejk Omár ibn Szulejmán al-Askar könyvei
 - Sejk Muhammed ibn Ahmed ibn Iszmáíl al-Mukaddem könyvei
 - Muhammed Muhammed Huszejn professzor könyvei
@@ -370,7 +370,7 @@ A férfi a saría által az adott esetben előírt érdekek szerint otthon vagy 
 
 Ne töltse az ember az éjszakát egyedül a házban. Ibn Omár (رضي الله عنه) elbeszélte, hogy a Próféta (ﷺ) megtiltotta az egyedüllétet, és azt mondta, hogy a férfi ne töltse egyedül az éjszakát, és ne utazzon egyedül. (Ahmed jegyezte le az al-Musznedben, 2/91.) Ez a tilalom az egyedüllét magányossága és hasonló dolgok miatt van, például ha ellenség vagy tolvaj támad rá, vagy megbetegszik: ha van vele társ, az elveszi az ellenség és a tolvaj kedvét, és segítségére siet, ha megbetegszik. (Lásd: al-Feth al-Rabbáni, 5/64.)
 
-Ne aludjunk olyan háztetőn, amelynek nincs mellvédje, nehogy leessünk. Allah Küldötte (ﷺ) mondta: „Aki olyan háztetőn tölti az éjszakát, amelynek nincs mellvédje, arról lekerül az oltalom.” (Abu Dávúd jegyezte le, al-Szunen, 5041. sz.; Szahíh al-Dzsámi, 6113; kommentárja az Aun al-Mabúdban, 13/384.) Ennek oka, hogy az alvó ember álmában átfordulhat, és ha a tetőn nincs mellvéd vagy korlát, amely visszatartaná, lezuhanhat és meghalhat; ilyenkor senkit sem vonnak felelősségre a haláláért, és így lekerül róla az oltalom. Vagy pedig a hanyagságával maga okozta, hogy Allah nem vigyázott rá és nem óvta meg, mert nem élt az óvintézkedésekkel.
+Ne aludjunk olyan háztetőn, amelynek nincs mellvédje, nehogy leessünk. Allah Küldötte (ﷺ) mondta: „Aki olyan háztetőn tölti az éjszakát, amelynek nincs mellvédje, arról lekerül az oltalom.” (Abu Dávúd jegyezte le, al-Szunen, 5041. sz.; Szahíh al-Dzsámi, 6113; kommentárja az Aun al-Maabúdban, 13/384.) Ennek oka, hogy az alvó ember álmában átfordulhat, és ha a tetőn nincs mellvéd vagy korlát, amely visszatartaná, lezuhanhat és meghalhat; ilyenkor senkit sem vonnak felelősségre a haláláért, és így lekerül róla az oltalom. Vagy pedig a hanyagságával maga okozta, hogy Allah nem vigyázott rá és nem óvta meg, mert nem élt az óvintézkedésekkel.
 
 A házi macskák nem teszik tisztátalanná (nedzsisz) az edényt, ha isznak belőle, sem az ételt, ha esznek belőle. Abdullah ibn Abi Katáda elbeszélte az apjától, hogy vizet készítettek ki neki a rituális mosakodáshoz (vudu), és jött egy macska, és lefetyelt a vízből. Ő fogta a vizet, és megmosakodott belőle, mire azt mondták: „Abu Katáda! A macska ivott belőle!” Ő azt mondta: „Hallottam, amint Allah Küldötte (ﷺ) azt mondta: »A macskák a háznéphez tartoznak; azok közül valók, akik a házaitokban járnak-kelnek.«” (Ahmed jegyezte le az al-Musznedben, 5/309; Szahíh al-Dzsámi, 3694.) Egy másik elbeszélés szerint ő (ﷺ) azt mondta: „Ők [a macskák] nem tisztátalanok (nedzsisz); azok közül valók, akik a házaitokban járnak-kelnek [al-tavváfín va al-tavváfát – a gyermekekre, a szolgákra stb. vonatkozik].” (Ahmed jegyezte le az al-Musznedben, 5/309; Szahíh al-Dzsámi, 2437.)
 
@@ -439,7 +439,7 @@ Ennek sok vonatkozása van, például:
 
   Abu Hurajra (رضي الله عنه) azt mondta: „Allah Küldötte (ﷺ) kiöltötte a nyelvét Haszen ibn Alira, a gyermek pedig látta a nyelve pirosságát, megörült neki, és odaszaladt hozzá.” (Abu al-Sejkh jegyezte le az *Akhlák al-Nabi (ﷺ) va Ádábuhu* című művében; lásd al-Szilszila al-Szahíha, 70. sz.)
 
-  Jala ibn Murra (رضي الله عنه) azt mondta: „Kimentünk a Prófétával (ﷺ), meghívtak minket enni, és láttuk Huszejnt, amint az utcán játszott. A Próféta (ﷺ) az emberek elé sietett, kitárt karokkal, a gyermek pedig ide-oda szaladgált; a Próféta (ﷺ) nevetett vele, míg el nem kapta, aztán egyik kezét a gyermek álla alá, a másikat a feje tetejére tette, és megcsókolta.” (Al-Bukhári jegyezte le az al-Adeb al-Mufradban, 364. sz.; Szahíh Ibn Mádzsa, 1/29.)
+  Jaala ibn Murra (رضي الله عنه) azt mondta: „Kimentünk a Prófétával (ﷺ), meghívtak minket enni, és láttuk Huszejnt, amint az utcán játszott. A Próféta (ﷺ) az emberek elé sietett, kitárt karokkal, a gyermek pedig ide-oda szaladgált; a Próféta (ﷺ) nevetett vele, míg el nem kapta, aztán egyik kezét a gyermek álla alá, a másikat a feje tetejére tette, és megcsókolta.” (Al-Bukhári jegyezte le az al-Adeb al-Mufradban, 364. sz.; Szahíh Ibn Mádzsa, 1/29.)
 
 ### (18) Szigorúan tartsuk be az étkezések és a lefekvés rendjét
 
@@ -526,7 +526,7 @@ A feleség és a gyermekek iránti szeretet kimutatása azok közé a dolgok kö
 
 A Próféta (ﷺ) szeretetteljesen bánt a feleségével, Áisával (رضي الله عنها), amikor vele együtt végezte a teljes mosakodást (ghuszl), ahogyan ő (رضي الله عنها) mondta: „Allah Küldötte és én egyetlen edényből szoktunk együtt ghuszlt végezni, és ő megelőzött engem [a vízért], úgyhogy azt mondtam: »Hagyj nekem is, hagyj nekem is!«” – és mindketten dzsenába (nemi tisztátalanság) állapotában voltak. (Muszlim bi Sarh al-Nevevi, 4/6.)
 
-Az, ahogyan a Próféta (ﷺ) a kisgyermekek iránti szeretetét kimutatta, túlságosan is közismert ahhoz, hogy említeni kellene. Gyakran kimutatta szeretetét Haszen és Huszejn (رضي الله عنهما) iránt, ahogyan fentebb említettük. Valószínűleg ez az egyik oka annak, hogy a gyermekek örültek, amikor hazatért útjairól; elébe siettek, hogy köszöntsék, ahogyan a hiteles hadísz közli: „Valahányszor hazatért egy útjáról, a háza népének gyermekeit vitték elébe.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfet al-Ahvaziban, 8/56.) Ő (ﷺ) magához ölelte őket, ahogyan Abdullah ibn Dzsafar (رضي الله عنهما) mondta: „Valahányszor a Próféta (ﷺ) hazatért egy útjáról, minket vittek elébe. Egyszer engem és al-Haszent vagy al-Huszejnt vittek elébe; egyikünket maga elé ültette, a másikat maga mögé, míg be nem értünk Medinába.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfet al-Ahvaziban, 8/56.)
+Az, ahogyan a Próféta (ﷺ) a kisgyermekek iránti szeretetét kimutatta, túlságosan is közismert ahhoz, hogy említeni kellene. Gyakran kimutatta szeretetét Haszen és Huszejn (رضي الله عنهما) iránt, ahogyan fentebb említettük. Valószínűleg ez az egyik oka annak, hogy a gyermekek örültek, amikor hazatért útjairól; elébe siettek, hogy köszöntsék, ahogyan a hiteles hadísz közli: „Valahányszor hazatért egy útjáról, a háza népének gyermekeit vitték elébe.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfet al-Ahvaziban, 8/56.) Ő (ﷺ) magához ölelte őket, ahogyan Abdullah ibn Dzsaafar (رضي الله عنهما) mondta: „Valahányszor a Próféta (ﷺ) hazatért egy útjáról, minket vittek elébe. Egyszer engem és al-Haszent vagy al-Huszejnt vittek elébe; egyikünket maga elé ültette, a másikat maga mögé, míg be nem értünk Medinába.” (Szahíh Muszlim, 4/1885–2772; lásd a kommentárt a Tuhfet al-Ahvaziban, 8/56.)
 
 Hasonlítsuk ezt össze egyes nyomorúságos otthonok helyzetével, ahol nincs igaz tréfa [vagyis olyan tréfa, amelyben nincs hazugság], nincs szeretet és nincs irgalom. Aki úgy gondolja, hogy a gyermekei megcsókolása ellentétes az apai méltósággal, olvassa el a következő hadíszt: Abu Hurajra (رضي الله عنه) elbeszélte: „Allah Küldötte (ﷺ) megcsókolta al-Haszen ibn Alit, és al-Akra ibn Hábisz al-Temími ott ült nála. Al-Akra azt mondta: »Tíz gyermekem van, és egyiket sem csókoltam meg soha.« Allah Küldötte (ﷺ) ránézett, és azt mondta: »Aki nem irgalmaz, annak nem irgalmaznak.«”
 
@@ -658,7 +658,7 @@ Allah tudja a legjobban. Allah áldása és békéje legyen Prófétánkon, Moha
 
 (رضي الله عنها): Radija Allahu Anha – „Allah legyen elégedett vele” (nőről)
 
-(رضي الله عنهما): Radija Allahu Anhuma – „Allah legyen elégedett velük” (két személyről; Ibn Abbász és Abdullah ibn Dzsafar után: vele és az apjával)
+(رضي الله عنهما): Radija Allahu Anhuma – „Allah legyen elégedett velük” (két személyről; Ibn Abbász és Abdullah ibn Dzsaafar után: vele és az apjával)
 
 (رضي الله عنهم): Radija Allahu Anhum – „Allah legyen elégedett velük”
 
@@ -679,7 +679,8 @@ nélkül, úgy, hogy magyarul olvasva közel járjanak az arab kiejtéshez:
   Szalát, Ahmed, Ali, Abdullah), valamint a szó végén (Medina, Katáda); a kettőshangzó ennek
   megfelelően ej vagy aj, eu vagy au (Huszejn, Ibn al-Kajjim, Teuhíd, haula);
 - ث sz, ج dzs, ح h, خ kh, ذ z, ش s, ص sz, ض d, ط t, ظ z, غ gh, ق k, و v, ي j; a szóvégi ة -a (Katáda);
-- az ajn (ع) és a hamza (ء) jelét elhagyjuk (Ibn Szadi, Ali);
+- a hamza (ء) jelét elhagyjuk, és az ajnét (ع) is (Ali, Szaíd, Ráfi), kivéve ha a szó belsejében rövid
+  magánhangzó és mássalhangzó között áll: ilyenkor a magánhangzót kettőzzük (Ibn Szaadi, Dzsaafar);
 - a névelő mindig al-, akkor is, ha a kiejtésben hasonul (al-Tirmidhi); az Abu és a Banú szó sem változik;
 - a prófétáknál a magyarul meghonosodott bibliai nevet használjuk (Noé, Ábrahám, Mózes, József, Jónás,
   Zakariás, Mária);
