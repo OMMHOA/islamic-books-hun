@@ -3246,7 +3246,7 @@ Azért talán, mert volt vagyonuk kiváltani magukat? Nem volt helyes, hogy a mu
 
 Vannak más szövegek, amelyek úgy rendelkeznek, hogy a foglyokkal szépen kell bánni és rendesen kell táplálni őket, és irgalmas törvények hirdettettek ki e célból. Ezek a törvények azonban a foglyok tömegeire vonatkoznak, akik követők. Akik viszont háborúval üzérkednek, hogy személyes vágyaikat elégítsék ki, azokat ki kell irtani – ezt jelenti az, hogy „végleges csapást mér a földön”.
 
-Ahogyan az élet a jó emberek révén halad előre, ugyanúgy a rossz elemek miatt szenved késedelmet. Ha helyes a fát megmetszeni, hogy növekedjék, akkor helyes az életet is – hogy fejlődhessék – megtisztítani az ostoba, gőgös emberektől és a bűnösöktől. Semmiféle múló haszon nem léphet e jog helyébe, még tonnányi arany sem. Allah (ﷻ) meghallgattatta ezt a leckét Prófétájával (ﷺ) és társaival, és amikor megértették, megbocsátott nekik, és irántuk való irgalmából megengedte nekik, hogy éljenek a kapott váltságdíjjal. Azt mondta (ﷻ):
+Ahogyan az életet a jó emberek viszik előre, úgy a gonosz elemek visszavetik. Ha helyes a fát megmetszeni, hogy növekedjék, akkor helyes az életet is – hogy fejlődhessék – megtisztítani az ostoba, gőgös emberektől és a bűnösöktől. Semmiféle múló haszon nem léphet e jog helyébe, még tonnányi arany sem. Allah (ﷻ) ezt a leckét adta Prófétájának (ﷺ) és társainak, és amikor megértették és átgondolták, megbocsátott nekik, és irántuk való irgalmából megengedte nekik, hogy éljenek a kapott váltságdíjjal. Azt mondta (ﷻ):
 
 (Egyetek hát abból, ami zsákmányt szereztetek! Az megengedett és jó [számotokra]! És féljétek Allahot! Bizony, Allah Megbocsátó, Irgalmas.) (Korán 8: 69)
 
