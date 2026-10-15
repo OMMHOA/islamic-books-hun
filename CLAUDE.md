@@ -139,12 +139,21 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
   the Arabic has neutral words (السماء, الجنة) that *menny* doesn't render.
 - **No luck the Arabic doesn't have** (user decision 2026-10-15): *szerencse* and its family
   (szerencsés, szerencsétlen(ség), balszerencse, hadiszerencse) only where the Arabic itself
-  speaks of luck – الحظ / الحظوظ, جَدّ (Fikh al-Szíra: „غير أن الحظ أسعفه”, „من سوء حظ الإسلام”,
-  „هذا جدكم”). Elsewhere render the Arabic word: بركة / أيمن → áldás, موفق → jó ítéletű, أشقى →
+  speaks of luck – and there it is said, we only translate (Fikh al-Szíra: „غير أن الحظ أسعفه”,
+  „لم يسعفها الحظ”, „من سوء حظ الإسلام”, „ما وضعته الحظوظ”, „هذا جدكم”). حظ meaning a share is
+  *osztályrész / részesedés* (MME), worldly الحظوظ *javak*. Elsewhere render the Arabic word: بركة / أيمن → áldás, موفق → jó ítéletű, أشقى →
   legnyomorultabb (as MME 91:12), تعساء → nyomorult, نكبة → csapás, كربات → nyomorúság; a battle
   that „turns” (الدائرة، الكرة، تقلبت الليالي) → the battle / the times turned, never *hadiszerencse*;
   يتربصون الدوائر → MME 9:98's „rosszra forduljon a sorsotok”. *szerencsejáték* stays for قمار
   (gambling is the Arabic's own word).
+- **No faceless fate acting** (user decision 2026-10-15): fate is an Islamic concept, so where the
+  author says القدر / القضاء as a plain noun – accepted, escaped, fought, befalling („beletörődött a
+  sorsba”, „megbirkózhat a sorssal”) – *sors* is fine. But where القدر / الأقدار **acts** (chooses,
+  prepares, guards, ends, brings: „القدر يتخير”, „قيضت لهم الأقدار”), *sors*, *végzet*, *Gondviselés*
+  or *természet* would leave a vague power where Islam names one → **az isteni elrendelés** (MME
+  97:1 „az Elrendelés éjszakája”). العناية → **az isteni gondviselés**; القدرة العليا → az isteni
+  hatalom; الدهر → idő („az idő csapásai”). *sors* also stays for someone's lot or end (مصير، عاقبة:
+  „a muszlimok sorsa”, as MME 9:98) and for drawing lots (قرعة، أزلام).
 - Afterlife: never *menny/mennyország*. السماء → **ég / égi / egek**; الجنة → **Paradicsom**;
   الآخرة → **Túlvilág**. (The unrelated *mennyi, mennyire, mennydörgés, mennykő, mennyezet*
   are fine.)
