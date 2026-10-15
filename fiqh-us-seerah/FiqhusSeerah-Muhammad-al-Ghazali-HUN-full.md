@@ -3424,7 +3424,7 @@ Azután ezer ember élén haladt, míg Uhudhoz nem ért.
 
 A muszlimok az Uhud melletti völgyben táboroztak le, háttal a hegynek. A Próféta (ﷺ) elkészítette a csata megnyerésének tervét, és az mesteri volt. Az íjászokat helyükre állította, és Abdullah ibn Dzsubejrt tette parancsnokukká.
 
-Ötvenen voltak, és így látta el őket tanáccsal: Tartsátok távol tőlünk a lovasságot nyilaitokkal, és ne engedjétek, hogy hátulról közelítsenek meg minket. Akár mellettünk fordul a hadiszerencse, akár ellenünk, maradjatok helyeteken. A ti irányotokból nem érhet minket meglepetés.⁴⁰
+Ötvenen voltak, és így látta el őket tanáccsal: Tartsátok távol tőlünk a lovasságot nyilaitokkal, és ne engedjétek, hogy hátulról közelítsenek meg minket. Akár mellettünk dől el a csata, akár ellenünk, maradjatok a helyeteken. A ti irányotokból nem érhet minket meglepetés.⁴⁰
 
 Egy másik elbeszélés szerint azt mondta: „Védjétek hátunkat. Ha látjátok, hogy öldökölnek minket, ne siessetek segítségünkre, és ha látjátok, hogy győzünk, ne csatlakozzatok hozzánk.”
 
