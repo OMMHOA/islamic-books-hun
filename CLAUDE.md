@@ -137,6 +137,14 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
 - Render the author's word even when the Hungarian has a Christian ring: صلب → **keresztre feszít**
   (user decision 2026-09-28; crucifixion predates Jesus). This is not the *menny* case below, where
   the Arabic has neutral words (السماء, الجنة) that *menny* doesn't render.
+- **No luck the Arabic doesn't have** (user decision 2026-10-15): *szerencse* and its family
+  (szerencsés, szerencsétlen(ség), balszerencse, hadiszerencse) only where the Arabic itself
+  speaks of luck – الحظ / الحظوظ, جَدّ (Fikh al-Szíra: „غير أن الحظ أسعفه”, „من سوء حظ الإسلام”,
+  „هذا جدكم”). Elsewhere render the Arabic word: بركة / أيمن → áldás, موفق → jó ítéletű, أشقى →
+  legnyomorultabb (as MME 91:12), تعساء → nyomorult, نكبة → csapás, كربات → nyomorúság; a battle
+  that „turns” (الدائرة، الكرة، تقلبت الليالي) → the battle / the times turned, never *hadiszerencse*;
+  يتربصون الدوائر → MME 9:98's „rosszra forduljon a sorsotok”. *szerencsejáték* stays for قمار
+  (gambling is the Arabic's own word).
 - Afterlife: never *menny/mennyország*. السماء → **ég / égi / egek**; الجنة → **Paradicsom**;
   الآخرة → **Túlvilág**. (The unrelated *mennyi, mennyire, mennydörgés, mennykő, mennyezet*
   are fine.)
