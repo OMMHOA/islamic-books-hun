@@ -1,7 +1,8 @@
 # islamic-books-hun
 
 Goal: translate Islamic books to Hungarian, published as Markdown in this repo. Each book has
-its own directory; the root holds only `README.md`, this file and `koran-mme/`.
+its own directory; the root holds only `README.md`, this file, `FORDITASI-ELVEK.md` (the rules
+for the proofreaders, see below) and `koran-mme/`.
 
 **Qur'ān quotes in every book use the MME Hungarian translation** in `koran-mme/`
 (user decision 2026-10-03): `Koran-MME.md` has one verse per line, `S:V text`
@@ -86,6 +87,12 @@ conflict). Each session, `node ../cogit-reader/scripts/review.mjs status`, then:
 - open questions (`questions`): `answer <id> "…"` in Hungarian, plain text, short, with the
   reason (the rule, the Arabic word, the user's decision and its date). What needs the user's
   decision goes to the user; the answer then says so.
+
+**`FORDITASI-ELVEK.md`** is what the proofreaders see of the rules (the site's *Szabályok* page):
+a Hungarian summary of the fidelity policy and the conventions below, informal (*te*). A
+convention that changes or comes in changes there too, in the same commit, with a dated line
+under *Változások* if it changes text the proofreaders may have read. This file stays the full
+record; where the two disagree, this one is right and the summary gets fixed.
 
 ## Fidelity policy (both files)
 
