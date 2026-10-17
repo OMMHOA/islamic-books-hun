@@ -3549,15 +3549,7 @@ He pounced upon the Prophet (ﷺ) with his sword, and the Prophet (ﷺ) said: "I
 
 The Prophet (ﷺ) continued calling the Muslims to him and he was able to climb the mountain with the few men who were with him. Those who had sought shelter on the mountain then rejoined him and he was greatly pleased to find the reminder of his men with whom he could put up some resistance. They in turn were relieved to find that he was alive and so they regained their composure.
 
-Apparently the rumour of the Prophet's (ﷺ) death had spread on many lips: Anas ibn al-Naḍr passed by a group of Muslims who had given up all hope. He asked them: "What are you waiting for?"
-
-"The Messenger of Allāh (ﷺ) has been killed,"
-
-They replied. "What will you do with your lives after him?" he asked.
-
-"Get up and die for the cause he died for."
-
-He then faced the idolaters and fought till he was killed.
+Apparently the rumour of the Prophet's (ﷺ) death had spread on many lips: Anas ibn al-Naḍr passed by a group of Muslims who had given up all hope. He asked them: "What are you waiting for?" "The Messenger of Allāh (ﷺ) has been killed," they replied. "What will you do with your lives after him?" he asked. "Get up and die for the cause he died for." He then faced the idolaters and fought till he was killed.
 
 The Quraish for their part did not tire of attacking the Prophet (ﷺ) and the Ṣaḥabah who had rallied with him, intent on finishing them all off. One of the most crucial and trying hours in the history of this world passed as the idolatrous cavalry and archers waged attack after attack to achieve their goal. A great number of men fell before the eyes of the Prophet (ﷺ) as they were defending him. Ṭalḥah fought them until he drove them away from him; then he fell, halfway between life and death. Abū Dujānah shielded the Prophet (ﷺ) with his back, and as the arrows penetrated him he did not flinch.
 

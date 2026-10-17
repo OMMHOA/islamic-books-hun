@@ -3506,15 +3506,7 @@ Kardjával a Prófétára (ﷺ) rontott, mire a Próféta (ﷺ) így szólt: „
 
 A Próféta (ﷺ) tovább hívta magához a muszlimokat, és a vele lévő néhány emberrel sikerült felkapaszkodnia a hegyre. Akik a hegyen kerestek menedéket, ekkor újra csatlakoztak hozzá, és ő nagyon megörült, hogy megtalálta embereinek maradékát, akikkel némi ellenállást fejthetett ki. Azok pedig megkönnyebbültek, hogy életben találták, és visszanyerték lélekjelenlétüket.
 
-A Próféta (ﷺ) halálhíre szemlátomást sok ajkon terjedt: Anesz ibn al-Nadr elhaladt egy csoport muszlim mellett, akik már minden reményt feladtak. Megkérdezte tőlük: „Mire vártok?”
-
-„Allah Küldöttét (ﷺ) megölték” –
-
-felelték. „Mit kezdetek életetekkel utána?” – kérdezte.
-
-„Keljetek fel, és haljatok meg azért az ügyért, amelyért ő meghalt.”
-
-Azután szembefordult a bálványimádókkal, és harcolt, míg el nem esett.
+A Próféta (ﷺ) halálhíre szemlátomást sok ajkon terjedt: Anesz ibn al-Nadr elhaladt egy csoport muszlim mellett, akik már minden reményt feladtak. Megkérdezte tőlük: „Mire vártok?” „Allah Küldöttét (ﷺ) megölték” – felelték. „Mit kezdtek az élettel őutána?” – kérdezte. „Keljetek fel, és haljatok meg azért, amiért ő meghalt!” Azután szembefordult a bálványimádókkal, és harcolt, míg el nem esett.
 
 A Kurejs a maga részéről nem fáradt bele a Próféta (ﷺ) és a köréje gyűlt szahábák támadásába, eltökélve, hogy mindnyájukkal végez. Nehéz óra telt el, e világ történetének egyik legválságosabb órája, miközben a bálványimádó lovasság és íjászok támadást támadás után indítottak céljuk eléréséért. Nagyszámú férfi esett el a Próféta (ﷺ) szeme láttára, miközben őt védelmezték. Talha addig küzdött velük, amíg el nem űzte őket tőle; azután elesett, félúton élet és halál között. Abu Dudzsána a hátával fedezte a Prófétát (ﷺ), és bár a nyilak átjárták, meg sem rezzent.
 
