@@ -3466,7 +3466,7 @@ Ekkor Sziba ibn Abdul Uzza került elém, és amikor Hamza meglátta, így kiál
 
 A nagy veszteség ellenére, amely Hamza halálával érte a muszlimokat, kis seregük továbbra is ura maradt a helyzetnek. A muszlimok zászlaját Muszab ibn Umejr, a jeles dáija vitte. Amikor vértanú lett, helyét Ali ibn Abi Tálib vette át. A muhádzsirok az anszárokkal vetélkedtek a becsület helyéért ebben a csatában, és az iszlám zászlaja lépésről lépésre haladt előre. Csatakiáltásuk ez volt: „Amit, amit!” (Ölj, ölj!)
 
-A Kurejs asszonyai minden tőlük telhetőt megtettek férfiaik buzdítására. Dobokat vertek, és csatába nógatták a férfiakat. Hind bint Utba, Abu Szufján felesége vezette őket, aki verssorokat szavalt, a Banú Abd al-Dárt tüzelve, hogy tartsák magasan Mekka zászlaját:
+A Kurejs asszonyai minden tőlük telhetőt megtettek férfiaik buzdítására. Dobokat vertek, és harcra serkentették a férfiakat. Hind bint Utba, Abu Szufján felesége vezette őket, aki verssorokat szavalt, a Banú Abd al-Dárt tüzelve, hogy tartsák magasan Mekka zászlaját:
 
 *„Rajta, Abd al-Dár fiai!*
 
