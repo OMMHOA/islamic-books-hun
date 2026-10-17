@@ -3580,9 +3580,7 @@ A Próféta (ﷺ) megkérdezte: „Mi alapján?”
 
 „Allah (ﷻ) és Küldötte (ﷺ) iránti szeretetem alapján, és mert nem hagyom el a csatateret.”
 
-„Igazat szóltál” –
-
-felelte a Próféta (ﷺ), és ő azon a napon vértanú lett.
+„Igazat szóltál” – felelte a Próféta (ﷺ), és ő azon a napon vértanú lett.
 
 Ez alkalommal Abdullah ibn Dzsahs így szólt:
 
@@ -3980,9 +3978,7 @@ Kaab így felelt: „Baljós ember vagy. Egyezséget kötöttem Mohameddel (ﷺ)
 
 Hujejj azt mondta: „Szégyelld magad! Nyisd ki, hadd beszéljek veled!”
 
-„Nem nyitom ki” –
-
-felelte Kaab.
+„Nem nyitom ki” – felelte Kaab.
 
 „Allahra (ﷻ), csak azért zártad rám ajtódat, mert félsz, hogy veled eszem a búzakásádból!” Ez felingerelte, és ajtót nyitott. Hujejj belépett, mondván: „Szégyelld magad, Kaab! Az örökkévalóság dicsőségét hoztam neked, és túláradó tengert.”
 
@@ -4848,9 +4844,7 @@ Ibn Hibbán hagyományozta, hogy a Próféta (ﷺ) így szólt:
 
 Egy férfi megkérdezte: „Akkor is, ha nem fogadja el?”
 
-„Akkor is, ha nem fogadja el” –
-
-felelte a Próféta (ﷺ). Dihja fogta a levelet, és római területre utazott, ahol éppen Jeruzsálem felé tartó útján találkozott Hérakleiosszal, aki a perzsák felett aratott győzelméért hálaadó zarándoklatot készült tenni. A cézár átvette a levelet, és elolvasta:
+„Akkor is, ha nem fogadja el” – felelte a Próféta (ﷺ). Dihja fogta a levelet, és római területre utazott, ahol éppen Jeruzsálem felé tartó útján találkozott Hérakleiosszal, aki a perzsák felett aratott győzelméért hálaadó zarándoklatot készült tenni. A cézár átvette a levelet, és elolvasta:
 
 „Allah (ﷻ), a Könyörületes, az Irgalmas nevében. Mohamedtől (ﷺ), Allah Küldöttétől Hérakleiosznak, Róma császárának: béke azokra, akik a vezérletet követik. Továbbá: ezennel felszólítalak, hogy fogadd el az iszlámot. Ha megteszed, biztonságban leszel, és Allah (ﷻ) kétszeresen adja meg jutalmadat. Ha azonban elfordulsz, alattvalóid bűne a te válladat terheli.”⁴³
 
@@ -5090,9 +5084,7 @@ A Kurejs utóbb belátta hibáját, és Abu Szufjánt küldte, hogy jóvátegye.
 
 „Ez Allah Küldöttének (ﷺ) ágya” – vágott vissza az –, „te pedig tisztátalan bálványimádó vagy.”
 
-„Allahra (ﷻ), rossz ért téged utánam” –
-
-mondta. Azután távozott, a Prófétához (ﷺ) ment és beszélt hozzá, de nem kapott választ.⁶³ Abu Szufján ekkor Abu Bekr (رضي الله عنه) segítségét kérte, könyörögve, hogy szóljon érdekében a Prófétánál (ﷺ), de az visszautasította. Elment Omárhoz (رضي الله عنه), de ő így szólt: „Hogy én járjak közben értetek Allah Küldöttjénél (ﷺ)? Allahra (ﷻ), ha csak a hangyákat találnám, azokkal is harcolnék ellenetek!” Mindkettőjüket otthagyva Alihoz (رضي الله عنه) ment. Ali (رضي الله عنه) azonban így szólt: „Allahra (ﷻ), Abu Szufján, Allah Küldötte (ﷺ) olyan dologban döntött, amelyről nem beszélhetünk vele.” Azt tanácsolta neki, térjen vissza oda, ahonnan jött, és Abu Szufján visszaindult a Kurejshez, hogy beszámoljon a fogadtatásról, amelyben részesült.
+„Allahra (ﷻ), rossz ért téged utánam” – mondta. Azután távozott, a Prófétához (ﷺ) ment és beszélt hozzá, de nem kapott választ.⁶³ Abu Szufján ekkor Abu Bekr (رضي الله عنه) segítségét kérte, könyörögve, hogy szóljon érdekében a Prófétánál (ﷺ), de az visszautasította. Elment Omárhoz (رضي الله عنه), de ő így szólt: „Hogy én járjak közben értetek Allah Küldöttjénél (ﷺ)? Allahra (ﷻ), ha csak a hangyákat találnám, azokkal is harcolnék ellenetek!” Mindkettőjüket otthagyva Alihoz (رضي الله عنه) ment. Ali (رضي الله عنه) azonban így szólt: „Allahra (ﷻ), Abu Szufján, Allah Küldötte (ﷺ) olyan dologban döntött, amelyről nem beszélhetünk vele.” Azt tanácsolta neki, térjen vissza oda, ahonnan jött, és Abu Szufján visszaindult a Kurejshez, hogy beszámoljon a fogadtatásról, amelyben részesült.
 
 A Próféta (ﷺ) megparancsolta az embereknek, hogy készüljenek fel, és közölte, hogy Mekkába megy. Komolyságra és gyorsaságra intette őket. Így fohászkodott: „Ó, Allah (ﷻ), vedd el a Kurejs szemét és híreit, hogy meglepjük őket földjükön.”⁶⁴ A muszlimok hallgattak a Próféta (ﷺ) parancsára, és mozgósítani kezdték erőiket a várható összecsapásra. Tudták, hogy közel a döntő óra köztük és a Kurejs között.
 
@@ -5456,9 +5448,7 @@ Mivel pedig Mekka népe új volt az iszlámban, és nem sok ismerete volt törv�
 
 Attáb gyors eszű ifjú volt, egyszersmind bátor és igénytelen. Napi egy dirham járandóságot kapott a kincstárból, és elégedett volt vele. Beszédet intézett az emberekhez, amelyben így szólt: „Ó, emberek! Allah (ﷻ) éheztesse azt az embert, aki egy dirham mellett éhezik. Allah Küldötte (ﷺ) napi egy dirhamot rendelt nekem, így nincs szükségem senkire.”
 
-A Próféta (ﷺ) a nyolcadik év utolsó hónapjában érkezett Medinába. Mekkora különbség volt mostani megérkezése – a nyilvánvaló győzelem után – és nyolc évvel azelőtti megérkezése között, amikor hidzsráját tette erre a nemes földre! Menedéket kereső bujdosóként jött ide, és barátságot kereső idegenként. A lakosok megbecsülték, és kényelmes hajlékot adtak neki; megsegítették, és követték a fényt, amelyet Allah (ﷻ) kinyilatkoztatott neki;
-
-az emberek ellenségeskedését semmiségnek tekintették az ő ügyéért. Most újra bevonult Medinába – Mekka meghódolt előtte, gőgjét és dzsáhilijjáját lába elé vetette, ő pedig felemelte rangját az iszlámmal, és megbocsátotta neki korábbi bűnét.
+A Próféta (ﷺ) a nyolcadik év utolsó hónapjában érkezett Medinába. Mekkora különbség volt mostani megérkezése – a nyilvánvaló győzelem után – és nyolc évvel azelőtti megérkezése között, amikor hidzsráját tette erre a nemes földre! Menedéket kereső bujdosóként jött ide, és barátságot kereső idegenként. A lakosok megbecsülték, és kényelmes hajlékot adtak neki; megsegítették, és követték a fényt, amelyet Allah (ﷻ) kinyilatkoztatott neki; az emberek ellenségeskedését semmiségnek tekintették az ő ügyéért. Most újra bevonult Medinába – Mekka meghódolt előtte, gőgjét és dzsáhilijjáját lába elé vetette, ő pedig felemelte rangját az iszlámmal, és megbocsátotta neki korábbi bűnét.
 
 (Bizony, aki istenfélő és türelmes, nos Allah nem hagyja kárba veszni a jótevők jutalmát.) (Korán 12: 90)
 

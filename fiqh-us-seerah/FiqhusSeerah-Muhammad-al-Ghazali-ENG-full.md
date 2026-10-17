@@ -3623,9 +3623,7 @@ Then Prophet (ﷺ) replied: "On what account?"
 
 "On account of my love for Allāh (ﷻ) and His Messenger (ﷺ) and my not deserting the battlefield."
 
-"You have spoken the truth,"
-
-replied the Prophet (ﷺ), and he was martyred on that day.
+"You have spoken the truth," replied the Prophet (ﷺ), and he was martyred on that day.
 
 On that occasion 'Abdullāh ibn Jaḥsh said:
 
@@ -4023,9 +4021,7 @@ Ka'b replied; "You are a man of bad omen. I have made a pact with Muhammad (ﷺ)
 
 Ḥuyayy said: Shame on you! Open up so that I can speak to you!"
 
-I shall not,
-
-Ka'b replied.
+"I shall not," Ka'b replied.
 
 "By God, you have locked your door on me only because you are afraid that I shall eat your porridge of coarse-ground wheat with you!" This roused him and he opened the door. Ḥuyayy came in, saying: Shame on you, Ka'b! I have brought to you the honour of eternity and an overflowing sea."
 
@@ -4882,9 +4878,7 @@ Ibn Hibbān narrated that the Prophet (ﷺ) said:
 
 A man asked: "Even if he does not accept?"
 
-"Even if he does not accept,"
-
-The Prophet (ﷺ) replied. Diḥyah took the letter and travelled to Roman territory, where he happened to meet Heraclius on his way to Jerusalem to make a pilgrimage in thanksgiving for his victory over the Persians. Caesar took the letter and read it:
+"Even if he does not accept," the Prophet (ﷺ) replied. Diḥyah took the letter and travelled to Roman territory, where he happened to meet Heraclius on his way to Jerusalem to make a pilgrimage in thanksgiving for his victory over the Persians. Caesar took the letter and read it:
 
 In the Name of Allāh (ﷻ), the Compassionate, the Merciful. From Muhammad (ﷺ), the Messenger of Allāh, to Heraclius, emperor of Rome: peace be on those who follow the guidance. To proceed: I hereby call you to accept Islām. If you do you will be safe and Allāh (ﷻ) give you your reward twice over. If you turn away, however, you will have the sin of your subjects on your shoulders.⁴³
 
@@ -5119,8 +5113,7 @@ Afterwards the Quraish realized their mistake and sent Abū Sufyān to make amen
 
 "It's the bed of Allāh's Messenger (ﷺ)," she retorted, "and you are a polluted idolater."
 
-"By God, evil has befallen you after me."
-He said. Then left, and went to the Prophet (ﷺ) and spoke to him but he received no reply.⁶³ Abū Sufyān then sought the help of Abū Bakr (رضي الله عنه) and begged him to speak to the Prophet (ﷺ) on his behalf, but he refused. He went to 'Umar (رضي الله عنه), who said: "Should I intercede for you with the Messenger of Allāh (ﷺ)? By Allāh (ﷻ), if I found nothing but ants, I would fight you with them!" Leaving both of them, he went to 'Alī (رضي الله عنه). However, 'Alī (رضي الله عنه) said: "By Allāh (ﷻ), Abū Sufyān, Allāh's Messenger (ﷺ) has decided upon a matter about which we cannot speak to him." He advised him to return whence he came, and Abū Sufyān made his way back to the Quraish to inform them of the reception he had received.
+"By God, evil has befallen you after me," he said. Then he left, and went to the Prophet (ﷺ) and spoke to him but he received no reply.⁶³ Abū Sufyān then sought the help of Abū Bakr (رضي الله عنه) and begged him to speak to the Prophet (ﷺ) on his behalf, but he refused. He went to 'Umar (رضي الله عنه), who said: "Should I intercede for you with the Messenger of Allāh (ﷺ)? By Allāh (ﷻ), if I found nothing but ants, I would fight you with them!" Leaving both of them, he went to 'Alī (رضي الله عنه). However, 'Alī (رضي الله عنه) said: "By Allāh (ﷻ), Abū Sufyān, Allāh's Messenger (ﷺ) has decided upon a matter about which we cannot speak to him." He advised him to return whence he came, and Abū Sufyān made his way back to the Quraish to inform them of the reception he had received.
 
 The Prophet (ﷺ) ordered the people to prepare themselves and said that he was going to Makkah. He urged them to be serious and brisk. He supplicated: "O Allāh (ﷻ), take away the eyes and the news from the Quraish until we surprise them in their land."⁶⁴ The Muslims listened to the Prophet's (ﷺ) order and began mobilizing their forces for the expected encounter. They knew that the decisive hour between them and the Quraish was close.
 
@@ -5463,9 +5456,7 @@ Now, since the people of Makkah were new to Islām and did not have much knowled
 
 'Attāb was a quick-witted youth who was also brave and contented. He was given stipend of one dirham every day from the treasury and he was satisfied with it. He delivered a speech to the people in which he said: "O people! May Allāh (ﷻ) cause to starve the man who goes hungry with one dirham. Allāh's Messenger (ﷺ) has provided me one dirham a day so I have no need of anyone."
 
-The Prophet (ﷺ) reached Madīnah in the last month of the eighth year. What a difference there was in his arrival this time after the manifest victory and his arrival eight years ago when he made the Hijrah to this noble country. He had come to it as a fugitive seeking refuge and as a stranger in search of friendship. The residents had honoured him and given him a comfortable abode; they had helped him and followed the light which Allāh (ﷻ) had revealed to him;
-
-They had considered the enmity of the people as insignificant for his cause. Now he was re-entering Madīnah, Makkah having submitted to him and thrown its pride and *jahilīyah* at his feet, and he having raised its status with Islām and forgiven it of its previous sin.
+The Prophet (ﷺ) reached Madīnah in the last month of the eighth year. What a difference there was in his arrival this time after the manifest victory and his arrival eight years ago when he made the Hijrah to this noble country. He had come to it as a fugitive seeking refuge and as a stranger in search of friendship. The residents had honoured him and given him a comfortable abode; they had helped him and followed the light which Allāh (ﷻ) had revealed to him; they had considered the enmity of the people as insignificant for his cause. Now he was re-entering Madīnah, Makkah having submitted to him and thrown its pride and *jahilīyah* at his feet, and he having raised its status with Islām and forgiven it of its previous sin.
 
 (Truly! He who wards off [evil] and endures [finds favour]; for indeed Allah does not lose the wages of the kindly.) (Qur'ān 12: 90)
 
