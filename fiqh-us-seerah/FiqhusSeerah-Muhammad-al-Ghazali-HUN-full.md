@@ -2932,7 +2932,7 @@ Az egyik brit katona így jellemezte ezeket az afrikaiakat a másiknak: „Vadá
 
 A hidzsra második évének radzseb havában a Próféta (ﷺ) Abdullah ibn Dzsahst küldte ki egy kis muhádzsir-csapat élén. Levelet adott át neki, és megparancsolta, hogy csak kétnapi járóföld után nyissa fel; amikor elolvasta, járjon el a benne foglalt parancs szerint, és egyetlen emberét se kényszerítse, hogy vele tartson.
 
-Abdullah tehát útnak indult, és két nap múltán felnyitotta a levelet, amelyben ez állt: „Haladj tovább, míg a Mekka és Táif közötti Nakhlába nem érsz; ott állj lesben a Kurejsre, és gyűjts nekünk híreket róluk.”
+Abdullah tehát útnak indult, és két nap múltán felnyitotta a levelet, amelyben ez állt: „Haladj tovább, míg a Mekka és Táif közötti Nakhlába [völgy neve – a ford.] nem érsz; ott állj lesben a Kurejsre, és gyűjts nekünk híreket róluk.”
 
 Abdullah így szólt: „Hallom és engedelmeskedem.”
 
