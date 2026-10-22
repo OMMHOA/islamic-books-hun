@@ -186,6 +186,55 @@ Smaller wording errors, by chapter (English edition → per the Arabic):
   kinship** «صلة الرحم»; "crowds of people" → a **motley rabble** «أوشاب الناس»; "insulting the Muslims" →
   **harming** «إيذاء»; the nation "puffed up with pride" → which grows arrogant and insolent **in its
   freedom** «التى تتكبر مع الحرية وتتبطر».
+- **Ch6 re-read (2026-10-22), English → Arabic (AR page):** health is valued "until struck by sickness" →
+  only after **recovering** from it (p.159); "this is not blind supposition" → **we need not look far**
+  (p.159); the wars were "necessary" → a **duty** «فريضة», the claim that the Muslims "**first** used force"
+  → used force where unjustified, "all lies" → **reckless nonsense** «لغو طائش» (p.160); the paraphrase "A
+  time comes when fighting becomes obligatory… the only alternative for survival" → **no days on which
+  fighting is more obligatory** than when Islām is threatened, forces gang up and **even sworn enemies
+  reconcile** against it; "recent times" → **our own days**; "those who sacrifice… looked upon with disdain"
+  → the **summoning of the brave** to sacrifice (p.160); "better **for you** to shoot" → **dearer to me**
+  (p.161); the "necks" of horses → their **forelocks**, a sea "battle" → **expedition** «غزوة» (p.162);
+  "one-track" orientalism → **biased** «المغرض», Islām "and its origin" → **its people** (p.164); "all"
+  the columns were muhājirūn → **most** (p.166); "100 miles" → **160 km**, an "able-bodied" Muslim → any
+  Muslim (p.167); 200 horses "which they rode" → which they **led** «يقودونها», Abū Sufyān stirring
+  passions "against the Muslims" → to march out in a force that **repels any attack**, the two riders
+  "drank from a container" → **drew water in a skin** (p.168); the Quraysh on "the far bank of the
+  **oasis**" → the far side of the **valley** «العدوة القصوى», the water boys "questioned painfully" →
+  **beaten**, "nine or ten a day" → **one day nine, another day ten** (p.169); "its choicest sons" →
+  **the pieces of its liver**, the "long-awaited" → **impending** confrontation (p.170); "the
+  Almighty" → **the Most Merciful** «الرحمن», Abū Bakr "stood behind him" → **embraced him from behind**,
+  "taking one of his legs off" → **half his shank**, "three" youths → young men «فتية», "laid him at the
+  feet" → the Prophet **spread out his foot as a pillow** for him (p.172); Gabriel "spurring it into the
+  midst of the battle" → leading it **over the dust**, "contemplation" → **hope** in the Hereafter
+  (p.173); "the leaders of the Quraish wallowing" → **the pride of unbelief** rolling in the dust (p.174);
+  "Have you tasted the humiliation" → **Has Allāh disgraced you** (p.175); "a number of men" died of the
+  news → **a few** «نفر» (p.181); the Prophet's answer "almost the cause of their punishment" → **your
+  punishment was shown to me closer than this tree** (p.180); the bedouin "kept mainly to themselves" →
+  **an unruly, masterless people** «همل», "did not mind stealing" → **robbery and plunder** (p.183);
+  Ibn Ubayy fears "the consequences" → **the turns of fortune** «الدوائر» (p.185); the envoys may say
+  they had "disavowed" Islām → that they were **discontented** with it (p.187); Ḥafṣah's "waiting period"
+  → she was **widowed** «تأيمت» (p.189); the eager men "were mostly youths" → **were backed by** the
+  youths «وظاهرهم», "patient at misfortune" → **steadfast in battle** «عند البأس» (p.191); "a helmet" →
+  his **armour** «لأمته», al-Zubayr "jumping onto his camel" → leapt onto **Ṭalḥah's** camel and slaughtered
+  him (p.193); "nothing capturing them" → **nothing stood in the way of capturing** them (p.195); "front
+  teeth" → **a front tooth** «رباعيته», Ṭalḥah hit in "the arm" → **the hand**, "two of the Muhajirīn" →
+  **two men of Quraysh** (pp.196–197); "left the horses aside" → **led them alongside** «جنبوا الخيل»
+  (p.198); "the spikes of his helmet" → **the rings of his mail coif** «حلقات المغفر» (p.201); "he died
+  before I could move" → **I did not leave him until he died** (p.206); "you had them in your grasp… they
+  still have men" → **you broke their strength… some of their leaders are left** (p.208); Ḥarām's "heavy
+  blow" → a **spear-thrust** through back and chest, 'Āmir ibn al-Ṭufayl misprinted "'Amr" (pp.212–213);
+  the two men "killed accidentally" → killed **on the way back from Bi'r Ma'ūnah**, the "stone" → a
+  **millstone** «الرحى», "never to return" → **not to live in Madīnah alongside him** (pp.214–215); "the
+  army of Allāh" → **the army of tawḥīd** «جيش التوحيد» (p.217); "resting during the day" → **lying hidden**
+  by day, fifteen "days" → **nights** (p.218); al-Muraysī' an "oasis" → a **watering place** (p.219);
+  'Ā'ishah "**past** the stage of innocent childhood" → who had **not yet passed** it «لم تجاوز» (p.221);
+  Quraysh "leading ten thousand of their own men" → **ten thousand in all**, with their followers, the
+  verse's "confederates" → **those who wronged us** «الألى» (p.226); 'Amr ibn 'Awf's report ends at the
+  third blow — the rest is the author's (p.228); "Shame on you" → **Woe to you** «ويحك» (p.230); "defeat
+  the allies" → the epithet **Who defeats the confederates** «هازم الأحزاب» (p.233); "out of faith and
+  obedience" → **faith and hope of reward** «احتساب» (p.239); Ḥuyayy's "I have nothing against the order
+  of God" → **there is no harm in God's command: a decree written and destined** «كتاب وقدر» (p.243).
 
 ## 4. Additions and softenings — removed
 
@@ -215,6 +264,7 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
 - ch6 «يابن مقطعة البظور» — "son of the woman who circumcises girls" → "son of the woman who
   cuts clitorises".
 - Epilogue «الصليبية» ×2 — "Christianity" → "the Crusading power".
+- ch6 «أكلت أير أبيك» (AR pp.230, 243) — "Eat your father's...!" → written out in full.
 - ch4 «ولا يبالون بأساليب الختل والمكر» — "**Some of them** do not mind using cunning" → "They do not
   shrink from the methods of guile and deceit".
 - ch4 «حصرتهم الخيانات» — "because of the treacherous acts **of some**" → hemmed in "by betrayals".
@@ -258,6 +308,10 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
 - **The author's (!) and (?!)** — ch3, the cranes story: after "recognizing their status" and after the alleged verse; ch4: after "Ibn Urayqit, who was still an idolater" (AR «وهو مشرك(!)»).
 - **Ch9 / Epilogue:** fn4's grading of the second version (weak, unknown narrator); the
   closing line «تم بحمد الله ومنّته».
+- **Ch6 (2026-10-22):** «بل يصطلح ضده الخصوم الألداء» (p.160); «وانطلق سواد مكة وهو يغلى، يمتطى الصعب
+  والذلول» (p.168); «دارت عليهم كئوس الردى فتجرعوها صاغرين» (p.176); Abū Sufyān's «عملاً قليل المغارم ظاهر
+  الأثر» (p.188); the women «يهمن فى الجبل» and the booty of three thousand (p.195); the standard raised «بعد أن
+  سقط وصرع حملته» (p.196); the herdsmen's «والله إن لهذه الطير لشأنًا» (p.212); 'Amr's «أجل» (p.229).
 
 ## 6. Dropped footnotes — restored
 
@@ -281,6 +335,13 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
   fn12, fn13 (why it is mursal), fn15, fn16, and fn17's book title «نصب المجانيق لنسف قصة الغرانيق»; ch4 fn7
   (Shahr ibn Ḥawshab, al-Mundhirī, Ibn 'Umar's corroborating report) and fn9 (al-Ṭabarānī and al-Bayhaqī).
   More footnotes are likely shortened (see TODO).
+- **Ch6, all 100 footnotes checked against the scan (2026-10-22):** 72 written out in full — sources,
+  volume/page references, gradings and al-Albānī's arguments (e.g. fn5's *iḍṭirāb*, fn8, fn12, fn27, fn49,
+  fn91); errors fixed: fn11 "'Alī ibn Ṭālib" → ibn **Abī** Ṭālib; fn17 "stay in your positions" → **conserve
+  your arrows** «واستبقوا نبلكم»; fn20 "part of al-Umawī's ḥadīth" → of **'Abdullāh ibn Tha'labah's**
+  narration; fn52 "Abū Isḥāq ibn Yasār" → **my father, Isḥāq ibn Yasār**, and the dropped brother («هو
+  وأخيه»); fn96 the Successor 'Ubaydullāh ibn Ka'b given (رضي الله عنه) — removed. fn15's marker moved to
+  «فعل على مع خصمه(٢)».
 - **Misanchored markers** moved to the Arabic anchor: ch4 fn14 → Aḥmad's spider-web report;
   ch5 fn1; ch6 fn19 («شاهت الوجوه»), fn43 («نحرى دون نحرك»), fn59 («لأدينَّهما») (numbers as before
   the 2026-09-25 restorations); ch7 fns 56/57 (one slot too early).
@@ -376,3 +437,7 @@ form is kept, with the note.
   scan-verified); «عبدالله بن أوفى» for Ibn Abī Awfā; Abū Mūsā «ابن عمه» (the sources: his
   nephew); the Farewell Sermon's «دم ربيعة بن الحارث» (the ḥadīth: the blood of Rabī'ah's son —
   Rabī'ah outlived the Prophet).
+- Ch6 (2026-10-22): Kenya in «إفريقيا الوسطى» (AR p.164; the English printed "East Africa" — kept, with the
+  note); Khaythamah's son called «خيثمة» (p.200; the son was Sa'd); «بمجتمع الأسيال من (دومة)» (p.230; Ibn
+  Hishām: رومة, near Madīnah); fn26 «وهذا إسناد متصل» for a chain with an unnamed informant (p.177); Q8:7 cited as
+  «[الأنفال : ١]» (p.179, scan-verified).

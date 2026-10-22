@@ -43,6 +43,9 @@ How we got here (details in the commits):
   `review-wip/names.md` in that commit, the old `REVIEW-FLAGS.md` log likewise.
 - 2026-09-29 the review's remaining suggestions applied to both files after the user's go-through
   (the decision list and what was dropped are in that commit's message).
+- 2026-10-22 ch6 re-read against the Arabic (the weakest chapter of the first draft): ~300 HUN
+  fixes, the English-edition errors mirrored in ENG and the errata, all 100 ch6 footnotes written
+  out in full from the scan.
 
 ## Files
 
