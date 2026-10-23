@@ -6,9 +6,10 @@ ed., 368 pp; printed page = PDF page + 1). The Arabic is the sole source of trut
 policy, 2026-07-16): every item below has been **corrected in both `-ENG-full.md` and the
 Hungarian translation**, except §9, where the Arabic itself errs.
 
-Found in four passes: the chunk-aligned HUN↔Arabic verification (2026-07-17), the name and
+Found in these passes: the chunk-aligned HUN↔Arabic verification (2026-07-17), the name and
 ḥadīth-grade sweep (2026-07-18), the user's read-through (2026-07-20 →) and a complete
-HUN↔Arabic re-read (2026-09-24/25), whose suggestions were applied on 2026-09-29.
+HUN↔Arabic re-read (2026-09-24/25), whose suggestions were applied on 2026-09-29, and the
+chapter re-reads against the scan (ch6 2026-10-22, ch7 2026-10-23).
 Locations: "ENG ~NNNN" = line in `FiqhusSeerah-Muhammad-al-Ghazali-ENG-full.md` when the item
 was found (lines drift — search for the quoted text); "p.N" / "AR p.N" = printed page of the Arabic edition. Names are
 given in the English edition's transliteration.
@@ -235,6 +236,133 @@ Smaller wording errors, by chapter (English edition → per the Arabic):
   the allies" → the epithet **Who defeats the confederates** «هازم الأحزاب» (p.233); "out of faith and
   obedience" → **faith and hope of reward** «احتساب» (p.239); Ḥuyayy's "I have nothing against the order
   of God" → **there is no harm in God's command: a decree written and destined** «كتاب وقدر» (p.243).
+- **Ch7 re-read (2026-10-23), English → Arabic (AR page):** the Muslims' "preparation for 'Umrah in itself"
+  → entering *iḥrām* for 'Umrah **only**, when they wanted to enter Makkah «بالعمرة فحسب ـ وهم يريدون دخول
+  مكة» (p.247); "humble and magnanimous" → **generous and refined** «السمح المهذب», the bedouin "around
+  Madīnah" → **of the desert** «أعراب البوادى», the poor who mustered to exterminate "them" → **him**, the
+  bedouin around "Madīnah" → **Yathrib**, "Shame on the Quraish" → **Woe** «يا ويح», "or I die" → **or this
+  neck of mine is severed — meaning until death** (pp.248–249); their status "among the Arabs being
+  threatened" → their awe **torn from the hearts of all people**; al-Ḥulays turned back "because of what he
+  saw" → **out of reverence**, "my life" → **al-Ḥulays's soul**, "wait… till we decide what we want" →
+  **hush… until we obtain terms that will satisfy you** (p.250); al-Mughīrah's "before we take hold of you" →
+  **before it is no longer yours** «قبل ألا تصل إليك», "so what was to be, was to be done" → **rashness…
+  come what may** (p.251); the forty men sent "to kill any of his companions" → **to get one of his
+  companions for them**, "the Quraish had lost their senses" → their **seething rage** robbed them of it
+  (p.252); Abān "his cousin" → **his relative** «قريبه», "the common people… remains which draw them away"
+  → **the rabble… relics which cut them off** «الرعاع… تقطعهم» (p.253); Abū Bakr's "follow his orders
+  for I swear" → **hold on to his stirrup — his command — for I bear witness** (p.255); "not enter Makkah
+  against our will… we shall make way" → **against us… we shall go out of it for you** (p.255); "their
+  compulsions" → **the truce, the peace and the return**, «اصبر واحتسب» "seek Allāh's help" → **hope for
+  Allāh's reward**, the Companions "wondered" → **asked in protest**, + **as an apostate** (p.256); "their
+  eyes filled with tears" → **their gaze wandered** «زاغت نظراتهم»; "the strength of the unbelievers weakened"
+  → their **alliance came apart** «انفرط عقد الكفار», "opposition and persecution" → **rebellion and
+  defiance**, "the hypocrites, who had been working for their own benefit" → **who worked for it** [the
+  Quraish], "educational" → **cultural**, "uniting tribes" → **winning them over** (p.257); al-Zuhrī's
+  "everyone to whom Islām was explained" → **no one with any sense** «يعقل شيئا», and the two-years sentence
+  is still his (p.258); Abū Baṣīr "sword in hand" → **slung over his shoulder**, "Allāh had relieved you" →
+  **has discharged it for you**, "persecuted or sent back" → **turned from it or toyed with** (p.258);
+  "dissenters" → **rebels** «ثائرا», the army "harassed" → **tightened the noose on** the Quraish, "begging"
+  → **imploring by the ties of kinship**, "despised by enemies and unaided by friends" → **amid the meanness
+  of enemies and cut off from friends**, "We have made these people our in-laws" → **We have become related
+  by marriage to people** (p.259); the women who migrated + **with their faith** «بدينهن», "under
+  persecution… nowhere to go" → **torture and humiliation… unable to find room to move in the land and fend
+  off the plotting** (p.260); "failed to defeat Madīnah" → **storm Yathrib** (p.261); the Ghaṭafān "heard…
+  in danger" → **heard a commotion behind them** (p.261); "high walls" → walls (p.262); "timely advice to
+  prevent the desire for worldly riches… blessings" → **wise advice to cut off the longing for immediate
+  spoils… reward**, "the selfish ways… left in peace" → **the base traits… would have given and found
+  rest** «الخلال الدنيئة… لأراحوا واستراحوا» (p.263); Muhammad ibn Maslamah "enraged" → **avenged** his
+  brother (p.263); al-Ḥubāb "cut at his right arm up to the elbow" → **sent his right hand flying with half
+  his forearm**, "all they could carry" → **what their mounts could carry** (p.264); the Jews "beseeching…
+  to retain half of the cultivable lands… treachery" → **offering to farm the land for half its produce…
+  mischief** «أن يعاملهم بالنصف فى زراعة الأرض… عبثهم» (p.265); "some of the Muslim women", **paternal**
+  grandmother (p.265); "when the Prophet had gained total control" → **had settled down**, the poisoned
+  "leg" → **foreleg**, "threw it aside" → **chewed it and spat it out**, the Jewish woman's "I have reached
+  a certain position among my people" → **You have done to my people what is not hidden from you**
+  «بلغت من قومى» (p.266); Wādī al-Qurā "the defeat of the Jews" → **the Jewish valley taken by force**
+  (p.267); the law applied "by force" → **harshly**, "neglected the directions of the Torah" → **discarded
+  its rulings**, "not secured… unless another nation" → **stayed with no nation longer than** (p.267); "The
+  Children of Israel were mighty kings, then deprived" → **ruled and were mighty by a wise decree, then
+  were stripped of it by a decree likewise** «بقدر حكيم… بقدر كذلك»; "Providence… because of the
+  corruption" → **the supreme decree… change of the corruption**; "storm" → **flood** «الطوفان»; "interest
+  based businesses and immoral character" → **usurious dealings and the morals of harlotry and
+  dissoluteness**; Islām "from the very first day" → **when it came out** (p.268); the returnees "joined
+  the ranks of those who preceded them to the call of jihād" → **joined the processions of jihād alongside
+  those who preceded them in goodness**; Khaybar "promised as compensation… pledged their lives" → **made a
+  reward… pledged unto death** (p.269); "the Children of Israel were defeated" → **torn apart**, "hard and
+  crude people" → **a coarse race** «جنس غليظ», "the twentieth century" → **the last century**, "a cause for
+  great concern among their teachers" → **wears out their teachers**, "their ambushing of the missionaries…
+  this source of worry" → **the assassination of the missionary reciters made Islām back these men with
+  force** (p.270); "enhanced the military might" → **consolidated the military prestige** (p.270); the
+  letters "calling them to Islām" → **to Allāh** (p.271); "emperor of Rome" → **the great one of the
+  Romans** «عظيم الروم», "I hereby call you to accept Islām. If you do" → **I call you with the call of
+  Islām. Submit**, "the sin of your subjects" → **of the peasants — the farmers** «الأريسيين ـ
+  الفلاحين», and the verse is part of the letter (fn43 after it) (p.272); "the nature of Jesus" → **of the
+  Messiah** «المسيح» (pp.272, 274); "decided against it" → **the idea faded — in his imagination**
+  (p.273); al-Ḥārith "a servant of the Roman conquerors… leaders of the East… in their clutches" →
+  **appointed by the conquering Romans… kings of the East in our age, made by the colonialists to be ropes
+  by which the weakened nations are dragged behind their usurpers**, + "and spread it" (p.273); "The
+  Patriarch" (×2) → **al-Muqawqis**; Ḥāṭib's "any prophet who encounters a people, they belong to his
+  nation" → **every prophet who reaches a people — they are his nation**, "your invitation to the Jews" →
+  **to the people of the Torah** (p.274); the letter to Khusraw: "Chief" → **great one**, "I bear witness"
+  → part of the greeting «وشهد», "Allāh's way" → **the call of Allāh** (pp.274–275); "the tricks of faith"
+  (sic) → **the calamities that fate had thrown at him**; the governor's men sent "to arrest the Prophet" →
+  **to ask him to go with them and answer for what he had done**; "long moustaches and smooth chins… Who
+  ordered you here?" → **twirled moustaches and shaven cheeks… Who ordered you to do this?** (p.275); "the
+  laws of Allāh are abolished… the king and his clan entrench" → **he abolishes… he and his inner circle
+  spread so that his nation shrinks before them**; Zoroastrianism "an evil way of life" → **the worst of
+  religions**; "no-one can say" → **by Allāh, no one with any sense** (p.276); "great significance…
+  thought it strange… vigorously denied" → **invites reflection… thought prophethood too much for one of
+  them… heaped denial and ingratitude**; Marx "his ideal would have been exterminated" → **paralysis would
+  have struck him and finished him and his ideas**; "embrace it wholeheartedly" → **keeping all they had**
+  «وافرين» (p.277); "the superstitions of the bedouin in Arabia" → of **a bedouin whose skin and clothes the
+  winds of Najd covered with dust**; "the great and small ailments of their hearts" → **the great and the
+  small** [people] of the ailments of their souls (p.277); "his enlightening Revelation" → **the sign that
+  gives sight** «بالآية المبصرة» (p.278); "assembled in their Council Chamber… the building hid them" →
+  **lined up at the Dār al-Nadwah… the House hid him** (p.279); the envoy "tied his hands" → **bound him
+  tightly**, "the hills of Syria" → **borderlands**, "great awe" → **many fearsome exaggerations**
+  «تهاويل», "decide upon another option" → **give his command, which they would carry out** (pp.280–281);
+  "fewer preparations" → **smaller numbers**, Abū Hurairah's "as we had never seen before" → **as no one
+  could stand against** «ما لا قبل لأحد به», "I was watching Ja'far" → **it is as though I am watching**
+  (p.281); "love of death" → **flight towards death**, "fled from the path of Allāh" → **did you flee in the
+  path of Allāh?** (p.283); Ja'far's widow "afraid for the children" → **is it poverty you fear for them**
+  «العيلة», "the dominant tribes" → **the Christianized tribes** «المتنصرة» (p.284); "mud" → **dust**
+  (p.285); the section title "The Conquest of Makkah" → **The Greatest Conquest** «الفتح الأعظم», the
+  Khuzā'ah "in the sanctuary of the Ka'bah" → **in the Ḥaram** (p.285); Umm Ḥabībah "stopped him" →
+  **folded it away from him** (p.286); "or we'll search you" → **strip off your clothes**, "to the people
+  of Makkah" → **to some idolaters in Makkah** (p.287); Ḥāṭib's enemies "done to the Muslims" → **plotted
+  against the Muslims**, "a great man sometimes makes a slip" → **has moments in which he becomes small**
+  (p.288); Abū Sufyān ibn al-Ḥārith's verse: the one he had driven away at every turn guided him to Allāh
+  (the English left "whom I chased" open to reading it of Allāh) (p.289); the Khuzā'ah "too cowardly" → too
+  **abject** «أذل» (p.290); Hind's "puffed up carcass… disgraceful head of state" — see §4 (p.291); the
+  people fled "to the Ka'bah" → **to the Mosque** (p.291); Khālid "bore down upon them" → **mowed them
+  down** «حصدهم حصدا» (p.292); «لا تثريب عليكم اليوم» "Have no fear this day" → **no reproach on you
+  today** (MME 12:92) (p.294); Fuḍālah's "I was only thinking of" → **Nothing; I was remembering** (p.294);
+  the adhān du'ā' "the intercession… exalted status" → **al-wasīlah… the praised station** «الوسيلة…
+  مقاما محمودا» (p.296); "remained in doubt and jahilīyah… consulting oracles" → **in their idolatry,
+  casting lots with arrows** «يستقسم بالأزلام» (p.297); "repercussions" → **counter-reaction**, "Makkah
+  and Madīnah" → **Yathrib** (p.297); the scout's "all their men, women, cattle and property" → **to a man,
+  with their women, camels and sheep** (p.298); "gratification" → **gloating** «تشف» (p.299); "those
+  masses who thought only of this world" → **this scum** «الغثاء» (p.300); "cleared the way for greed and
+  recklessness to display themselves" → **made ample room for recklessness and greed to win them over**
+  (p.303); "slighted by this deprivation" → **that it meant turning away from them** (p.304); the
+  Hawāzin delegation came "to accept Islām" → **as Muslims** «مسلما» (p.306); "a number of Muslims were
+  hit" → **a few** «نفر», the siege "fifteen days" → **nights** (pp.306–307); "My home is your home" → **my
+  life is your life, my death is your death** (p.308); the hypocrites' hearts "enclosed upon themselves" →
+  **wrapped in their hidden malice** «مطوية على دخلها» (p.309); "Europe and the United States" →
+  **America**; "a clash with the Romans" → **fighting the Banū al-Aṣfar** + "to spread alarm and terrify
+  the believers" (pp.309–310); "the different ideologies should explain themselves in an open environment…
+  free from any constraint or coercion" → **let the creeds speak for themselves, and draw peoples to them
+  or turn them away** (p.310); "news of this mobilization" → **this cunning preparation**, "days of drought
+  and famine" → **scorching heat and drought** «قيظ وقحط» (p.311); "mounts, weapons or provisions" →
+  **and horses** «الخيل» (p.312); "not to pray for them" → **not to perform the funeral prayer over them**
+  (p.320); "to soften the hearts of the leaders of Ṭā'if" → **that the people of Ṭā'if be made docile to
+  the truth** «يسلس قيادهم» (p.321); the deputation came "to demolish the idols" → **al-Lāt** (p.322); "the
+  nude traditions… abolished forever" → **the traditions of nakedness… which filled the place of
+  circumambulation with exposed private parts** (p.323); "chaos, aggression and courage" (sic) → **sedition,
+  aggression and killing** (p.324); "the simplicity of the bedouin" → **of the unlettered** «الأميين»; "from
+  sheer enmity to complacency" → **now fierce, now lukewarm** «شدة وفتورا» (pp.327–328); "a precedent set
+  by Islām in those dark ages" → **a path by which Islām alone lit up the darkness of the early centuries**
+  (p.331).
 
 ## 4. Additions and softenings — removed
 
@@ -265,6 +393,15 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
   cuts clitorises".
 - Epilogue «الصليبية» ×2 — "Christianity" → "the Crusading power".
 - ch6 «أكلت أير أبيك» (AR pp.230, 243) — "Eat your father's...!" → written out in full.
+- ch7 «أمصص بظر اللات» (AR p.251) — "Suck Al-Lāt's nipples" → "Suck the clitoris of al-Lāt!"; Hind's
+  «اقتلوا الحميت الدسم الأحمش ـ أى هذا الزق المنتفخ ـ قبحت من طليعة قوم» (p.291) — "Kill this puffed up
+  carcass! What a disgraceful head of state you are!" → the greasy, fat, spindle-shanked skin, the
+  bloated wineskin, "ugly be you, what a vanguard of a people"; the bedouin «لا يعقلون شيئا» (p.261) —
+  "understood little" → understanding nothing; «الغثاء من العوام» (p.300) — "those masses" → this scum of
+  the common people; the would-be prophets «من مفاليكها» (p.332) — "from their own ranks" → from their own
+  good-for-nothings.
+- ch7 additions removed: the gloss "(the allied clans of the Quraish)" (p.250); "or, **in another
+  report**, that they would not flee" (p.253); Islām's message "from the very first day" (p.268).
 - ch4 «ولا يبالون بأساليب الختل والمكر» — "**Some of them** do not mind using cunning" → "They do not
   shrink from the methods of guile and deceit".
 - ch4 «حصرتهم الخيانات» — "because of the treacherous acts **of some**" → hemmed in "by betrayals".
@@ -312,12 +449,27 @@ Softenings (user decision 2026-09-25: the author is rendered as bluntly as he wr
   والذلول» (p.168); «دارت عليهم كئوس الردى فتجرعوها صاغرين» (p.176); Abū Sufyān's «عملاً قليل المغارم ظاهر
   الأثر» (p.188); the women «يهمن فى الجبل» and the booty of three thousand (p.195); the standard raised «بعد أن
   سقط وصرع حملته» (p.196); the herdsmen's «والله إن لهذه الطير لشأنًا» (p.212); 'Amr's «أجل» (p.229).
+- **Ch7 (2026-10-23):** «وانكمش عدوهم» (p.247); «أمرّ قتال», the Quraysh out «على بكرة أبيها» with their army
+  «استعد للنضال» (p.248); «فاتهموهم وجبهوهم» (p.250); «ويحك» (p.251); Abū Jandal's full name and «يشدون أزره»
+  (p.258); «تكيد من جديد لمحمد وصحبه» (p.261); al-Ḥulays's oath by his own soul (p.250); Suhayl's «وافتياته على
+  شخصه» (p.256); «وكان أثر هذه الدعوة الحارة الخطاب الذى سقناه آنفا» (p.274); «ولو كانت الشم الرواسى ـ هباء
+  منثورا» (p.277); Ibn Rawāḥah's «فإنك قد لقيت فى أيامك هذه ما لقيت» and «انتضى سيفه» (p.282); «وهو نعم المولى
+  ونعم النصير» (p.283); Abū 'Ubaydah «هينا عليه أمر الدنيا» (p.284); Abū Sufyān's journey «يصلح ما أفسده قومه…
+  أن يعيد للعقد المهدر حرمته» «بعد فوات الأوان» (p.286); Ḥakīm ibn Ḥizām among the three (p.290); Makkah
+  «وقد قيد الرعب حركاتها… أواجتمعوا فى المسجد الحرام يرقبون وهم واجمون» (p.291); «وسكنت مكة… وعلت كلمة الله فى
+  جنباتها», the Quraysh «صفوف صفوف… وهم تحته» (p.293); the vanguard «فى عماية من الليل وعماية من أمرها» and
+  «فانكفأ المسلمون مهزومين لا يلوى أحد على أحد» (p.299); the Prophet «انحاز… ذات اليمين» (p.299); the men
+  «يصيحون: لبيك», «وقد ملك زمام الموقف وأعاد الكرة عليهم» (p.300); «وأولو النهمة» (p.302); «إرجافا وترهيبا
+  للمؤمنين» (p.310); the Christians' «رغبتهم الملحة فى القضاء عليه» (p.311); Abū Bakr's
+  criers «لا يحج بعد العام مشرك ولا يطوف بالبيت عريان» (p.324); «أن تخلع رداء
+  الجاهلية» (p.325); «والله» in Ḍimām's tribe (p.327); «ويبسطون عليهم الكرامات» (p.328); the Najrān «أحبار»
+  (p.329); «إلا ما عُلم» (p.330); Shuraḥbīl ibn Wadā'ah's «ماهو؟» exchange (p.331).
 
 ## 6. Dropped footnotes — restored
 
 34 of al-Albānī's and the author's footnotes were missing from the English edition. Each
 chapter was renumbered and checked 1:1 body ↔ list in both files; final counts: ch1 21,
-ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
+ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 131, ch8 24, ch9 18.
 
 - **2026-07-18 (5):** ch1 the "Love Allāh for His bounties" grading — al-Albānī's full ḍaʿīf
   verdict plus al-Ghazali's `*` rebuttal (AR p.20); ch2 the Ka'bah-foundations ḥadīth graded
@@ -342,6 +494,19 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
   narration; fn52 "Abū Isḥāq ibn Yasār" → **my father, Isḥāq ibn Yasār**, and the dropped brother («هو
   وأخيه»); fn96 the Successor 'Ubaydullāh ibn Ka'b given (رضي الله عنه) — removed. fn15's marker moved to
   «فعل على مع خصمه(٢)».
+- **Ch7, all 131 footnotes checked against the scan (2026-10-23):** three footnotes the English had dropped
+  restored — the author's two word glosses on p.293 («أله: حربة»; «المؤتمة: الأسطوانة. وأبو يزيد: سهيل بن عمرو»,
+  which the English had folded into the verse as "[Suhayl ibn 'Amr] stood like a woman left alone with her
+  orphans") and the book reference on p.324 («كتابنا تأملات فى الدين والحياة», folded into the text) —
+  so fns 73–120 rose by 2 and fns 121–128 by 3 (ch7 now 131). About 75 written out in full (volume/page
+  references, gradings, al-Albānī's arguments: fn67, fn69, fn78, fn80, fn97, fn104–111, fn125…); errors
+  fixed: fn19's marker moved from the Abū Baṣīr army to Mūsā ibn 'Uqbah's Abū al-'Āṣ story («فقال
+  المسلمون: نعم(١)», p.259); fn32 "as you will see in the next footnote" → **as we shall show** (it is
+  fn34); fn42's Ibn Isḥāq quote "except Jābir ibn 'Abdullāh" → **no one was absent from it except Jābir**;
+  fn64 "Ibn Hishām" → **Ibn Isḥāq**; fn69 (رضي الله عنه) on the Successor 'Abdullāh ibn Abī Bakr — removed;
+  fn85 (now 87) not graded "sound" in the Arabic; fn98 (now 100) **very** weak, al-Wāqidī **accused of
+  lying**; fn99 (now 101) + «رواه ابن لهيعة عن أبى الأسود عن عروة، وهو مع إرساله ضعيف»; fn124/fn126 (now
+  127/129) "the ḥadīth of al-Bayhaqī" → **of 'Abd Yasū'**.
 - **Misanchored markers** moved to the Arabic anchor: ch4 fn14 → Aḥmad's spider-web report;
   ch5 fn1; ch6 fn19 («شاهت الوجوه»), fn43 («نحرى دون نحرك»), fn59 («لأدينَّهما») (numbers as before
   the 2026-09-25 restorations); ch7 fns 56/57 (one slot too early).
@@ -374,8 +539,15 @@ ch2 27, ch3 35, ch4 25, ch5 23, ch6 100, ch7 128, ch8 24, ch9 18.
 | ch7, p.247 | "Qasira" | **al-Qaṣwā'** (the she-camel) |
 | ch7 fn48 | Abū Ḥatmah | **Abū Khaythamah** |
 | ch7, p.290 | Sālim | **Sulaym** (tribe) |
-| ch7, p.312 | 'Aṭiyah | **'Ulayyah ibn Yazīd** |
+| ch7, p.312 | 'Aṭiyah | **'Ulbah ibn Yazīd** «علبة» (the 2026-09 fix read 'Ulayyah; see §9) |
 | ch7 fn101 | authority Ibn Ḥajar | **al-'Uqaylī** (p.314) |
+| ch7, p.250 + fn1 | Budayl ibn **Waraqah**, **Badil** | **Budayl ibn Warqā'** «بديل بن ورقاء» |
+| ch7 fn1 | **Muswar** ibn Makhramah | **Miswar** |
+| ch7, p.255 | Suhayl ibn **'Āmir** | **'Amr** |
+| ch7 fn21 | Ṣalāh ibn Kaysāh; Ibrahim ibn Isma'īl ibn **Majma** | **Ṣāliḥ ibn Kaysān**; ibn **Mujammi'** «مجمّع» (also fn42's Mujammi' ibn Jāriyah) |
+| ch7 fn46, fn48, fn51 | **Sa'd** ibn Musayyib; **Zayd** ibn Abū Ḥabīb; Yazīd ibn Abī **Khubayb** | **Sa'īd** ibn al-Musayyib; **Yazīd ibn Abī Ḥabīb** |
+| ch7 fn85 (now 87) | Suhayl Ibn Al-**Hawzaliyah** | **Sahl ibn al-Ḥanẓaliyyah** «سهل بن الحنظلية» |
+| ch7, p.299 | **Kildah** ibn al-Junayd | **Kaladah** «كلدة» (see §9) |
 | ch1 | **Quraza** ibn Ka'b (×2) | **Qaraẓah** ibn Ka'b «قرظة بن كعب» |
 | ch3 | Banu al **Naḍr** | Banū al **Naḍīr** «بنو النضير» |
 | ch1 | "**Ibn** Ḥibbān" | **Abū** Ḥibbān, as the Arabic prints it (see §9) |
@@ -419,8 +591,9 @@ form is kept, with the note.
 
 - **Sa'd ibn 'Ubādah, "chief of the Aws"** (AR p.292, «زعيم الأوس») — historically chief of the
   **Khazraj**.
-- **Thābit ibn Aqrad / Arqam** — the Arabic prints both («أرقم» p.281, «أقرد» p.282). ENG
-  mirrors both with a note at "Aqrad"; HUN uses the historically correct **Arqam**, with a note.
+- **Thābit ibn Arqam / Aqrad** — the Arabic prints both («أرقم» p.281, «أقرد» p.282); the Companion is
+  **Thābit ibn Aqram** «ثابت بن أقرم» (Ibn Hishām, al-Iṣābah). Both files keep each printed form with a note
+  (corrected 2026-10-23: the earlier note had called "Arqam" the attested form).
 - **Banū 'Abd al-Muṭṭalib** (Ḥilf al-Fuḍūl clan list, AR p.58) — genealogically incoherent;
   the correct **Banū al-Muṭṭalib** is kept.
 - **Ibrāhīm's mother "Maryam"** (AR p.347) — misprint of «مريم» for the Coptic **Māriyah**
@@ -441,3 +614,5 @@ form is kept, with the note.
   note); Khaythamah's son called «خيثمة» (p.200; the son was Sa'd); «بمجتمع الأسيال من (دومة)» (p.230; Ibn
   Hishām: رومة, near Madīnah); fn26 «وهذا إسناد متصل» for a chain with an unnamed informant (p.177); Q8:7 cited as
   «[الأنفال : ١]» (p.179, scan-verified).
+- Ch7 (2026-10-23): «كلدة بن الجنيد» (p.299; Ibn Hishām: Kaladah ibn al-Ḥanbal); «علبة بن يزيد» (p.312; the
+  sources: 'Ulbah ibn Zayd al-Ḥārithī; the footnote prints «علية»).

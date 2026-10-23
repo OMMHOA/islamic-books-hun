@@ -46,6 +46,9 @@ How we got here (details in the commits):
 - 2026-10-22 ch6 re-read against the Arabic (the weakest chapter of the first draft): ~300 HUN
   fixes, the English-edition errors mirrored in ENG and the errata, all 100 ch6 footnotes written
   out in full from the scan.
+- 2026-10-23 ch7 re-read against the scan, page by page: ~270 HUN body fixes, the English-edition
+  errors mirrored in ENG and the errata, all ch7 footnotes checked (3 dropped ones restored, so
+  ch7 now has 131; ~75 written out in full).
 
 ## Files
 
@@ -62,7 +65,7 @@ How we got here (details in the commits):
 | `tools/` | `fntool.py check HUN\|ENG N` (footnotes 1..N aligned body↔list) and `shift`; `fnins.py` (insert a footnote with renumbering); `apply.py` (idempotent exact-match edit engine for spec files); `arpage.py N` (Arabic footnotes of a printed page with their anchors) |
 
 Footnote counts (both files, 1:1 body↔list): ch1 21, ch2 27, ch3 35, ch4 25, ch5 23, ch6 100,
-ch7 128, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
+ch7 131, ch8 24, ch9 18. Run `tools/fntool.py check` after any footnote edit.
 
 ## Book 2: The Muslim Home (`muslim-home/`)
 
