@@ -3348,7 +3348,7 @@ A beszélgetés hasonló mederben folyt, mint Ibn Meszlemával, és Kaab végül
 
 Azután egy holdfényes éjszakán elindultak erődjéhez, hogy megkössék az egyezséget. Felesége, aki hallotta a kiáltást, így szólt: „Olyan hangot hallok, amelyből mintha vér csöpögne.”
 
-Kaab azt felelte: „Ha az ifjút párviadalra hívják, válaszol.”
+Kaab azt felelte: „Ha az ifjút akár egy lándzsadöfésre hívnák is, akkor is válaszolna.”
 
 Teljes díszben ereszkedett le, illatszer áradt belőle. A férfiak séta közben hamar beszélgetésbe elegyedtek vele.
 
